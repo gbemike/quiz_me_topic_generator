@@ -1,0 +1,326 @@
+[
+  {
+    "question": "Which international financial institution was closely involved in the SAP's design?",
+    "options": {
+      "A": "World Bank",
+      "B": "IMF",
+      "C": "UNESCO",
+      "D": "African Development Bank"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "One of the notable policies of SAP was the devaluation of which currency?",
+    "options": {
+      "A": "Dollar",
+      "B": "Pound",
+      "C": "Naira",
+      "D": "CFA Franc"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "The SAP promoted privatization in Nigeria. What does privatization mean?",
+    "options": {
+      "A": "Government ownership of businesses",
+      "B": "Selling government assets to private entities",
+      "C": "Establishing state-owned enterprises",
+      "D": "Restricting foreign investments"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "Which of the following was a stated goal of the SAP?",
+    "options": {
+      "A": "Economic isolation",
+      "B": "Import substitution",
+      "C": "Balance of payments stability",
+      "D": "Increasing tariffs"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "What was one consequence of removing subsidies under the SAP?",
+    "options": {
+      "A": "Lower prices for consumers",
+      "B": "Increased cost of living",
+      "C": "Higher foreign exchange reserves",
+      "D": "Greater economic equality"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "Which of these was a major criticism of the SAP?",
+    "options": {
+      "A": "It decreased agricultural output",
+      "B": "It strengthened public sector jobs",
+      "C": "It led to economic diversification",
+      "D": "It increased foreign investments"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "What was a common reaction of labor unions to the SAP policies?",
+    "options": {
+      "A": "Supportive",
+      "B": "Indifferent",
+      "C": "Opposition and strikes",
+      "D": "Collaboration with the government"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "One of the major international criticisms of SAP was its impact on which social service?",
+    "options": {
+      "A": "Healthcare",
+      "B": "Transport",
+      "C": "Housing",
+      "D": "Telecommunications"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "In response to SAP, many Nigerians engaged in which coping strategy?",
+    "options": {
+      "A": "Increasing formal employment",
+      "B": "Starting informal businesses",
+      "C": "Investing in the stock market",
+      "D": "Buying foreign currencies"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "The SAP's impact on living standards in Nigeria can best be described as:",
+    "options": {
+      "A": "Improved for all",
+      "B": "Deteriorated for many",
+      "C": "Stagnant overall",
+      "D": "Boosted in urban areas"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "The SAP encouraged the removal of price controls on which commodities?",
+    "options": {
+      "A": "Food items",
+      "B": "Oil products",
+      "C": "Technology",
+      "D": "Luxury goods"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "The SAP encouraged the establishment of which type of economy to attract investment?",
+    "options": {
+      "A": "Subsidized economy",
+      "B": "Market-driven economy",
+      "C": "Centrally planned economy",
+      "D": "Barter economy"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "What was one of the primary goals of the SAP related to public sector management?",
+    "options": {
+      "A": "Increase government employment",
+      "B": "Reduce government payroll",
+      "C": "Expand public sector services",
+      "D": "Nationalize all industries"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "Which policy was part of the SAP to stabilize the economy?",
+    "options": {
+      "A": "Floating exchange rate",
+      "B": "Fixed exchange rate",
+      "C": "Barter system",
+      "D": "Currency peg"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "Under SAP, the government aimed to privatize which sector?",
+    "options": {
+      "A": "Telecommunications",
+      "B": "Education",
+      "C": "Defense",
+      "D": "Public health"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "Who was the Minister of Finance during the introduction of SAP?",
+    "options": {
+      "A": "Adebayo Adedeji",
+      "B": "Okonjo-Iweala",
+      "C": "Adamu Ciroma",
+      "D": "Pius Anyim"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "The term 'structural adjustment' primarily refers to changes in what aspect of the economy?",
+    "options": {
+      "A": "Fiscal policies",
+      "B": "Economic structure",
+      "C": "Monetary policies",
+      "D": "Foreign trade"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "Which demographic was heavily impacted by the SAP's economic reforms?",
+    "options": {
+      "A": "Senior citizens",
+      "B": "Youth",
+      "C": "Rural farmers",
+      "D": "Urban professionals"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "Which policy under SAP aimed to enhance the efficiency of state-owned enterprises?",
+    "options": {
+      "A": "Nationalization",
+      "B": "Privatization",
+      "C": "Subsidization",
+      "D": "Regulation"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "One major health consequence of SAP was an increase in:",
+    "options": {
+      "A": "Healthcare access",
+      "B": "Disease prevalence",
+      "C": "Health insurance coverage",
+      "D": "Medical staff salaries"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "Under SAP, the government aimed to enhance which aspect of agriculture?",
+    "options": {
+      "A": "Subsistence farming",
+      "B": "Commercial farming",
+      "C": "Organic farming",
+      "D": "Traditional farming"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "Which of these was a structural change promoted by SAP to boost economic growth?",
+    "options": {
+      "A": "Import substitution",
+      "B": "Export promotion",
+      "C": "Trade barriers",
+      "D": "Non-oil revenue"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "One of the main effects of SAP on wages was:",
+    "options": {
+      "A": "Increased minimum wage",
+      "B": "Stagnation of wages",
+      "C": "More benefits",
+      "D": "Higher job security"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "Which sector was expected to absorb the labor displaced by privatization under SAP?",
+    "options": {
+      "A": "Service sector",
+      "B": "Agricultural sector",
+      "C": "Industrial sector",
+      "D": "Tourism sector"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "The term 'economic reform' in the context of SAP mainly refers to changes in:",
+    "options": {
+      "A": "Monetary policy",
+      "B": "Trade policies",
+      "C": "Fiscal policy",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "The SAP had a significant impact on women's access to which resource?",
+    "options": {
+      "A": "Education",
+      "B": "Healthcare",
+      "C": "Employment",
+      "D": "Land ownership"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  },
+  {
+    "question": "Which of the following best describes the public sector's role after the SAP?",
+    "options": {
+      "A": "Expanded role",
+      "B": "Reduced role",
+      "C": "Unchanged role",
+      "D": "Privatized role"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Structural Adjustment Program (SAP) under Babangida"
+  }
+]

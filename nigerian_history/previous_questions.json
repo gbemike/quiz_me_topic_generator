@@ -1,0 +1,5126 @@
+[
+  {
+    "question": "The largest organ in the human body is the _______.",
+    "options": {
+      "A": "Heart",
+      "B": "Liver",
+      "C": "Skin",
+      "D": "Lungs"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "In which year did Nigeria gain independence from British colonial rule?",
+    "options": {
+      "A": "1960",
+      "B": "1965",
+      "C": "1970",
+      "D": "1980"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Fill in the blank: The _______ is known as the 'Giant of Africa'.",
+    "options": {
+      "A": "Democratic Republic of Congo",
+      "B": "Nigeria",
+      "C": "South Africa",
+      "D": "Egypt"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which Nigerian musician is famous for the hit song 'Fall' released in 2017?",
+    "options": {
+      "A": "Wizkid",
+      "B": "Burna Boy",
+      "C": "Davido",
+      "D": "Olamide"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "Who is regarded as the father of modern Nigerian literature?",
+    "options": {
+      "A": "Chinua Achebe",
+      "B": "Wole Soyinka",
+      "C": "Ben Okri",
+      "D": "Flora Nwapa"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "The _______ is considered the smallest bone in the human body.",
+    "options": {
+      "A": "Stapes",
+      "B": "Femur",
+      "C": "Humerus",
+      "D": "Tibia"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "Who was the first president of Nigeria after independence?",
+    "options": {
+      "A": "Nnamdi Azikiwe",
+      "B": "Umaru Musa Yar'Adua",
+      "C": "Olusegun Obasanjo",
+      "D": "Muhammadu Buhari"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a popular Nigerian dish made from fermented locust beans.",
+    "options": {
+      "A": "Efo Riro",
+      "B": "Ogbono",
+      "C": "Iyan",
+      "D": "Dawadawa"
+    },
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which Nigerian actor is known for his role in the film 'The Wedding Party'?",
+    "options": {
+      "A": "Jim Iyke",
+      "B": "Banky W",
+      "C": "Adesua Etomi",
+      "D": "Desmond Elliot"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "The largest artery in the human body is the _______.",
+    "options": {
+      "A": "Aorta",
+      "B": "Pulmonary Artery",
+      "C": "Coronary Artery",
+      "D": "Femoral Artery"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "In what year was the Nigerian Civil War (Biafran War) fought?",
+    "options": {
+      "A": "1967",
+      "B": "1970",
+      "C": "1965",
+      "D": "1975"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which city is known as the entertainment capital of Nigeria?",
+    "options": {
+      "A": "Lagos",
+      "B": "Abuja",
+      "C": "Port Harcourt",
+      "D": "Kano"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "Fill in the blank: The _______ is responsible for pumping blood throughout the human body.",
+    "options": {
+      "A": "Liver",
+      "B": "Heart",
+      "C": "Lung",
+      "D": "Kidney"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "Who authored the novel 'Things Fall Apart'?",
+    "options": {
+      "A": "Chinua Achebe",
+      "B": "Wole Soyinka",
+      "C": "Flora Nwapa",
+      "D": "Ben Okri"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which Nigerian singer is known for the hit song 'Ada Ada'?",
+    "options": {
+      "A": "Davido",
+      "B": "2Baba",
+      "C": "Flavour",
+      "D": "Wizkid"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "Identify the organ that filters blood and produces urine in the human body: _______.",
+    "options": {
+      "A": "Liver",
+      "B": "Kidney",
+      "C": "Spleen",
+      "D": "Bladder"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "What year did Nigeria become a Republic?",
+    "options": {
+      "A": "1963",
+      "B": "1979",
+      "C": "1989",
+      "D": "1993"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which Nigerian movie won the Africa Movie Academy Award for Best Film in 2016?",
+    "options": {
+      "A": "The Wedding Party",
+      "B": "Lionheart",
+      "C": "October 1",
+      "D": "The Figurine"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "The _______ is the largest part of the human brain.",
+    "options": {
+      "A": "Cerebellum",
+      "B": "Cerebrum",
+      "C": "Brainstem",
+      "D": "Thalamus"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "Who led Nigeria during the military regime from 1984 to 1985?",
+    "options": {
+      "A": "Sani Abacha",
+      "B": "Muhammadu Buhari",
+      "C": "Olusegun Obasanjo",
+      "D": "Ibrahim Babangida"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a traditional music genre originating from Lagos, Nigeria.",
+    "options": {
+      "A": "Afrobeats",
+      "B": "Highlife",
+      "C": "Fuji",
+      "D": "Juju"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "What is the name of the process by which the human body maintains a stable internal environment?",
+    "options": {
+      "A": "Homeostasis",
+      "B": "Metabolism",
+      "C": "Respiration",
+      "D": "Digestion"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "Which Nigerian state is known as the 'Treasure Base of the Nation'?",
+    "options": {
+      "A": "Lagos",
+      "B": "Rivers",
+      "C": "Enugu",
+      "D": "Kano"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which actress played the lead role in the movie 'Half of a Yellow Sun'?",
+    "options": {
+      "A": "Genevieve Nnaji",
+      "B": "Omotola Jalade Ekeinde",
+      "C": "Chioma Chukwuka",
+      "D": "Thandie Newton"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the main organ responsible for gas exchange in the human body.",
+    "options": {
+      "A": "Heart",
+      "B": "Liver",
+      "C": "Lung",
+      "D": "Kidney"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "What was the name of the movement that sought to end colonial rule in Nigeria?",
+    "options": {
+      "A": "National Democratic Party",
+      "B": "National Council of Nigeria and the Cameroon",
+      "C": "Action Group",
+      "D": "People's Democratic Party"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which Nigerian musician is known as the 'African Giant'?",
+    "options": {
+      "A": "Burna Boy",
+      "B": "Olamide",
+      "C": "Patoranking",
+      "D": "Rema"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "The human body has how many ribs? _______.",
+    "options": {
+      "A": "12",
+      "B": "24",
+      "C": "18",
+      "D": "36"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "Who was the first female governor in Nigeria?",
+    "options": {
+      "A": "Ngozi Okonjo-Iweala",
+      "B": "Virginia Etiaba",
+      "C": "Bola Shagaya",
+      "D": "Sarah Jibril"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which Nigerian film was the first to be nominated for an Oscar?",
+    "options": {
+      "A": "The Figurine",
+      "B": "Half of a Yellow Sun",
+      "C": "Lionheart",
+      "D": "The Wedding Party"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the basic structural unit of the human body.",
+    "options": {
+      "A": "Tissue",
+      "B": "Organ",
+      "C": "Cell",
+      "D": "System"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "In what year did Nigeria achieve its first military coup?",
+    "options": {
+      "A": "1966",
+      "B": "1975",
+      "C": "1983",
+      "D": "1990"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which actress is known for her role in the Nigerian movie 'Lionheart'?",
+    "options": {
+      "A": "Genevieve Nnaji",
+      "B": "Omotola Jalade Ekeinde",
+      "C": "Funke Akindele",
+      "D": "Tonto Dikeh"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "The human skeleton is made up of how many bones? _______.",
+    "options": {
+      "A": "206",
+      "B": "150",
+      "C": "102",
+      "D": "300"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "What is the capital city of Nigeria?",
+    "options": {
+      "A": "Abuja",
+      "B": "Lagos",
+      "C": "Port Harcourt",
+      "D": "Kano"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Who is known as the 'King of Afrobeat'?",
+    "options": {
+      "A": "Fela Kuti",
+      "B": "Burna Boy",
+      "C": "Wizkid",
+      "D": "Davido"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the largest part of the human nervous system.",
+    "options": {
+      "A": "Central nervous system",
+      "B": "Peripheral nervous system",
+      "C": "Somatic nervous system",
+      "D": "Autonomic nervous system"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "Which Nigerian leader declared a state of emergency in 1993 following the annulment of the June 12 elections?",
+    "options": {
+      "A": "Sani Abacha",
+      "B": "Ibrahim Babangida",
+      "C": "Olusegun Obasanjo",
+      "D": "Muhammadu Buhari"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Who is the Nigerian singer known for the song 'Ojuelegba'?",
+    "options": {
+      "A": "Wizkid",
+      "B": "Davido",
+      "C": "2Baba",
+      "D": "Olamide"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "The human body consists of how many major organ systems? _______.",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "8",
+      "D": "15"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "What was Nigeria's official currency before the Naira?",
+    "options": {
+      "A": "Pound Sterling",
+      "B": "Dollar",
+      "C": "Shilling",
+      "D": "Franc"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which comedian is known for his character 'Aunty Grace'?",
+    "options": {
+      "A": "Ali Baba",
+      "B": "Basketmouth",
+      "C": "Bovi",
+      "D": "Seyi Law"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "Fill in the blank: The _______ is essential for digestion and is produced by the liver.",
+    "options": {
+      "A": "Insulin",
+      "B": "Glycogen",
+      "C": "Bile",
+      "D": "Chyme"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "What was the major cause of the Nigerian Civil War?",
+    "options": {
+      "A": "Resource control",
+      "B": "Ethnic tensions",
+      "C": "Religious differences",
+      "D": "Colonial legacy"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which Nigerian artist released the hit song 'Joro' in 2019?",
+    "options": {
+      "A": "Wizkid",
+      "B": "Davido",
+      "C": "Burna Boy",
+      "D": "Olamide"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "The _______ is a vital organ that regulates metabolism in the human body.",
+    "options": {
+      "A": "Heart",
+      "B": "Pancreas",
+      "C": "Liver",
+      "D": "Kidney"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "Which event led to the creation of the Nigerian state in 1914?",
+    "options": {
+      "A": "Amalgamation of Nigeria",
+      "B": "Independence",
+      "C": "Civil War",
+      "D": "Constitutional Reform"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Who is the first Nigerian to win a Grammy Award?",
+    "options": {
+      "A": "Fela Kuti",
+      "B": "Sade Adu",
+      "C": "Burna Boy",
+      "D": "2Baba"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the part of the brain that controls balance and coordination.",
+    "options": {
+      "A": "Cerebellum",
+      "B": "Cerebrum",
+      "C": "Brainstem",
+      "D": "Thalamus"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "What document proclaimed Nigeria's independence?",
+    "options": {
+      "A": "The 1979 Constitution",
+      "B": "The 1963 Constitution",
+      "C": "The Independence Act",
+      "D": "The 1946 Constitution"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which movie featuring Genevieve Nnaji was released on Netflix in 2018?",
+    "options": {
+      "A": "The Wedding Party",
+      "B": "Lionheart",
+      "C": "Half of a Yellow Sun",
+      "D": "Fifty"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "The staple food made from cassava tubers, popular in many Nigerian homes, is called _______.",
+    "options": {
+      "A": "Pounded Yam",
+      "B": "Jollof Rice",
+      "C": "Eba",
+      "D": "Moi Moi"
+    },
+    "answer": "C",
+    "difficulty": "Easy",
+    "topic": "Nigerian Cuisine"
+  },
+  {
+    "question": "Fill in the blank: The _______ River is the longest river in Nigeria.",
+    "options": {
+      "A": "Benue",
+      "B": "Niger",
+      "C": "Osun",
+      "D": "Cross"
+    },
+    "answer": "B",
+    "difficulty": "Easy",
+    "topic": "Geography"
+  },
+  {
+    "question": "Known for her role in 'Jenifa's Diary', this actress is a household name in Nigeria.",
+    "options": {
+      "A": "Funke Akindele",
+      "B": "Genevieve Nnaji",
+      "C": "Omotola Jalade",
+      "D": "Rita Dominic"
+    },
+    "answer": "A",
+    "difficulty": "Medium",
+    "topic": "Nollywood"
+  },
+  {
+    "question": "Which Nigerian festival, celebrated annually, is known for its colorful masquerades?",
+    "options": {
+      "A": "Durbar Festival",
+      "B": "Eyo Festival",
+      "C": "Argungu Fishing Festival",
+      "D": "Igbo New Yam Festival"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Culture"
+  },
+  {
+    "question": "Who wrote the play 'Death and the King's Horseman'?",
+    "options": {
+      "A": "Chinua Achebe",
+      "B": "Wole Soyinka",
+      "C": "Cyprian Ekwensi",
+      "D": "Ben Okri"
+    },
+    "answer": "B",
+    "difficulty": "Hard",
+    "topic": "Literature"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a traditional Yoruba talking drum.",
+    "options": {
+      "A": "Djembe",
+      "B": "Dundun",
+      "C": "Kpanlogo",
+      "D": "Bata"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Music"
+  },
+  {
+    "question": "Which ancient city was known as a center of trade and scholarship in pre-colonial Nigeria?",
+    "options": {
+      "A": "Kano",
+      "B": "Ile-Ife",
+      "C": "Benin City",
+      "D": "Timbuktu"
+    },
+    "answer": "C",
+    "difficulty": "Hard",
+    "topic": "History"
+  },
+  {
+    "question": "The first Nigerian film to feature sound was released in 1936. Name this film.",
+    "options": {
+      "A": "Kongi's Harvest",
+      "B": "Ajani Ogun",
+      "C": "Palaver",
+      "D": "Fincho"
+    },
+    "answer": "C",
+    "difficulty": "Hard",
+    "topic": "Nollywood"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a Nigerian folktale character known for his wisdom and cunning.",
+    "options": {
+      "A": "Tortoise",
+      "B": "Lion",
+      "C": "Elephant",
+      "D": "Rabbit"
+    },
+    "answer": "A",
+    "difficulty": "Easy",
+    "topic": "Culture"
+  },
+  {
+    "question": "Which Nigerian state is recognized for its unique circular architecture, seen in the Kano City Walls?",
+    "options": {
+      "A": "Kano",
+      "B": "Kaduna",
+      "C": "Katsina",
+      "D": "Kebbi"
+    },
+    "answer": "A",
+    "difficulty": "Medium",
+    "topic": "History"
+  },
+  {
+    "question": "Identify the Nigerian musician known for the album 'Superstar', released in 2011.",
+    "options": {
+      "A": "Wizkid",
+      "B": "Burna Boy",
+      "C": "Davido",
+      "D": "Tiwa Savage"
+    },
+    "answer": "A",
+    "difficulty": "Easy",
+    "topic": "Music"
+  },
+  {
+    "question": "Which kingdom was famous for its bronze sculptures and artworks dating back to the 13th century?",
+    "options": {
+      "A": "Benin",
+      "B": "Oyo",
+      "C": "Nri",
+      "D": "Sokoto"
+    },
+    "answer": "A",
+    "difficulty": "Hard",
+    "topic": "Art"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the main ingredient in the Nigerian soup 'Banga'.",
+    "options": {
+      "A": "Palm nut",
+      "B": "Groundnut",
+      "C": "Egusi",
+      "D": "Okra"
+    },
+    "answer": "A",
+    "difficulty": "Medium",
+    "topic": "Nigerian Cuisine"
+  },
+  {
+    "question": "Which Nigerian city is known as the 'Coal City' due to its rich deposits?",
+    "options": {
+      "A": "Lagos",
+      "B": "Enugu",
+      "C": "Port Harcourt",
+      "D": "Abuja"
+    },
+    "answer": "B",
+    "difficulty": "Easy",
+    "topic": "Geography"
+  },
+  {
+    "question": "The 2018 film 'King of Boys' was directed by which Nigerian filmmaker?",
+    "options": {
+      "A": "Kunle Afolayan",
+      "B": "Kemi Adetiba",
+      "C": "Tunde Kelani",
+      "D": "Izu Ojukwu"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Nollywood"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the largest ethnic group in Nigeria.",
+    "options": {
+      "A": "Igbo",
+      "B": "Hausa",
+      "C": "Yoruba",
+      "D": "Fulani"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Culture"
+  },
+  {
+    "question": "Which Nigerian author won the Booker Prize for the novel 'The Famished Road'?",
+    "options": {
+      "A": "Chinua Achebe",
+      "B": "Wole Soyinka",
+      "C": "Ben Okri",
+      "D": "Sefi Atta"
+    },
+    "answer": "C",
+    "difficulty": "Hard",
+    "topic": "Literature"
+  },
+  {
+    "question": "This Nigerian state is known for the Argungu Fishing Festival.",
+    "options": {
+      "A": "Kano",
+      "B": "Kebbi",
+      "C": "Kaduna",
+      "D": "Borno"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Culture"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the smallest ethnic minority in Nigeria.",
+    "options": {
+      "A": "Igbira",
+      "B": "Ijaw",
+      "C": "Ogoni",
+      "D": "Shuwa Arab"
+    },
+    "answer": "D",
+    "difficulty": "Hard",
+    "topic": "Culture"
+  },
+  {
+    "question": "Which Nigerian musician was known as 'Abami Eda'?",
+    "options": {
+      "A": "Fela Kuti",
+      "B": "King Sunny Ade",
+      "C": "Lagbaja",
+      "D": "Osita Osadebe"
+    },
+    "answer": "A",
+    "difficulty": "Medium",
+    "topic": "Music"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a Nigerian festival that marks the end of the harvest season.",
+    "options": {
+      "A": "Eyo Festival",
+      "B": "New Yam Festival",
+      "C": "Durbar",
+      "D": "Sango Festival"
+    },
+    "answer": "B",
+    "difficulty": "Easy",
+    "topic": "Culture"
+  },
+  {
+    "question": "Which Nigerian traditional ruler is referred to as the 'Ooni'?",
+    "options": {
+      "A": "Benin",
+      "B": "Yoruba",
+      "C": "Igbo",
+      "D": "Hausa"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Culture"
+  },
+  {
+    "question": "In what year was the Nigerian movie industry, Nollywood, officially recognized?",
+    "options": {
+      "A": "1990",
+      "B": "1992",
+      "C": "1995",
+      "D": "1999"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Nollywood"
+  },
+  {
+    "question": "The phrase 'Naija no dey carry last' is associated with which aspect of Nigerian culture?",
+    "options": {
+      "A": "Sports",
+      "B": "Music",
+      "C": "Resilience",
+      "D": "Fashion"
+    },
+    "answer": "C",
+    "difficulty": "Easy",
+    "topic": "Culture"
+  },
+  {
+    "question": "Fill in the blank: The _______ region of Nigeria is known for its savanna vegetation.",
+    "options": {
+      "A": "Northern",
+      "B": "Southern",
+      "C": "Eastern",
+      "D": "Western"
+    },
+    "answer": "A",
+    "difficulty": "Easy",
+    "topic": "Geography"
+  },
+  {
+    "question": "Which Nigerian artist is credited with popularizing Afrobeats internationally?",
+    "options": {
+      "A": "Burna Boy",
+      "B": "Tiwa Savage",
+      "C": "Wizkid",
+      "D": "Davido"
+    },
+    "answer": "C",
+    "difficulty": "Medium",
+    "topic": "Music"
+  },
+  {
+    "question": "The traditional Igbo musical instrument 'Ogene' is primarily made of which material?",
+    "options": {
+      "A": "Wood",
+      "B": "Metal",
+      "C": "Clay",
+      "D": "Bamboo"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Music"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a popular Nigerian soup made with okra and palm oil.",
+    "options": {
+      "A": "Egusi",
+      "B": "Ogbono",
+      "C": "Ewedu",
+      "D": "Okra"
+    },
+    "answer": "D",
+    "difficulty": "Easy",
+    "topic": "Nigerian Cuisine"
+  },
+  {
+    "question": "Which ancient Nigerian city was famous for its terracotta sculptures?",
+    "options": {
+      "A": "Ile-Ife",
+      "B": "Kano",
+      "C": "Calabar",
+      "D": "Sokoto"
+    },
+    "answer": "A",
+    "difficulty": "Hard",
+    "topic": "Art"
+  },
+  {
+    "question": "Fill in the blank: The _______ language is widely spoken in Benue State.",
+    "options": {
+      "A": "Hausa",
+      "B": "Igbo",
+      "C": "Tiv",
+      "D": "Yoruba"
+    },
+    "answer": "C",
+    "difficulty": "Medium",
+    "topic": "Culture"
+  },
+  {
+    "question": "Which Nigerian author wrote 'Half of a Yellow Sun'?",
+    "options": {
+      "A": "Chimamanda Ngozi Adichie",
+      "B": "Buchi Emecheta",
+      "C": "Chinua Achebe",
+      "D": "Ben Okri"
+    },
+    "answer": "A",
+    "difficulty": "Easy",
+    "topic": "Literature"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the Nigerian currency symbol.",
+    "options": {
+      "A": "$",
+      "B": "\u00a3",
+      "C": "\u20a6",
+      "D": "\u20ac"
+    },
+    "answer": "C",
+    "difficulty": "Easy",
+    "topic": "Economy"
+  },
+  {
+    "question": "Which Nigerian musician is known for his advocacy through music, especially against corruption?",
+    "options": {
+      "A": "Burna Boy",
+      "B": "Fela Kuti",
+      "C": "2Baba",
+      "D": "Wizkid"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Music"
+  },
+  {
+    "question": "The Nok civilization is known for its early use of which metal?",
+    "options": {
+      "A": "Iron",
+      "B": "Bronze",
+      "C": "Gold",
+      "D": "Copper"
+    },
+    "answer": "A",
+    "difficulty": "Hard",
+    "topic": "History"
+  },
+  {
+    "question": "Fill in the blank: The Nigerian National Petroleum Corporation was established in _______.",
+    "options": {
+      "A": "1963",
+      "B": "1977",
+      "C": "1985",
+      "D": "1990"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Economy"
+  },
+  {
+    "question": "Which Nigerian state is known for being the largest producer of crude oil?",
+    "options": {
+      "A": "Lagos",
+      "B": "Rivers",
+      "C": "Delta",
+      "D": "Bayelsa"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Economy"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the traditional cloth worn by the Yoruba people.",
+    "options": {
+      "A": "Kente",
+      "B": "Aso Oke",
+      "C": "Ankara",
+      "D": "George"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Culture"
+  },
+  {
+    "question": "Which Nigerian monarch is associated with the title 'Oba'?",
+    "options": {
+      "A": "Hausa",
+      "B": "Igbo",
+      "C": "Yoruba",
+      "D": "Fulani"
+    },
+    "answer": "C",
+    "difficulty": "Easy",
+    "topic": "Culture"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a traditional Igbo festival held in honor of the yam.",
+    "options": {
+      "A": "New Yam Festival",
+      "B": "Durbar",
+      "C": "Eyo",
+      "D": "Osun-Osogbo"
+    },
+    "answer": "A",
+    "difficulty": "Easy",
+    "topic": "Culture"
+  },
+  {
+    "question": "Which Nigerian artist was known for the song 'Lady'?",
+    "options": {
+      "A": "Fela Kuti",
+      "B": "King Sunny Ade",
+      "C": "Wizkid",
+      "D": "Davido"
+    },
+    "answer": "A",
+    "difficulty": "Medium",
+    "topic": "Music"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a major river that forms part of Nigeria's border with Cameroon.",
+    "options": {
+      "A": "Benue River",
+      "B": "Cross River",
+      "C": "Niger River",
+      "D": "Gongola River"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Geography"
+  },
+  {
+    "question": "Which Nigerian dance style originated from the Igbo people and involves vigorous hip movement?",
+    "options": {
+      "A": "Bata",
+      "B": "Atilogwu",
+      "C": "Salsa",
+      "D": "Azonto"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Culture"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a Nigerian dish made with fermented cassava.",
+    "options": {
+      "A": "Amala",
+      "B": "Fufu",
+      "C": "Eba",
+      "D": "Afang"
+    },
+    "answer": "B",
+    "difficulty": "Easy",
+    "topic": "Nigerian Cuisine"
+  },
+  {
+    "question": "Which Nigerian musician was known for the song 'Oliver Twist'?",
+    "options": {
+      "A": "D'banj",
+      "B": "2Baba",
+      "C": "P-Square",
+      "D": "Wizkid"
+    },
+    "answer": "A",
+    "difficulty": "Easy",
+    "topic": "Music"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a Nigerian state known for its leather works and tanneries.",
+    "options": {
+      "A": "Kano",
+      "B": "Kaduna",
+      "C": "Katsina",
+      "D": "Sokoto"
+    },
+    "answer": "A",
+    "difficulty": "Medium",
+    "topic": "Economy"
+  },
+  {
+    "question": "Which Nigerian writer's work includes the novel 'Purple Hibiscus'?",
+    "options": {
+      "A": "Buchi Emecheta",
+      "B": "Chimamanda Ngozi Adichie",
+      "C": "Wole Soyinka",
+      "D": "Chinua Achebe"
+    },
+    "answer": "B",
+    "difficulty": "Easy",
+    "topic": "Literature"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a Nigerian music genre that blends jazz, highlife, and funk rhythms.",
+    "options": {
+      "A": "Afrobeat",
+      "B": "Highlife",
+      "C": "Juju",
+      "D": "Fuji"
+    },
+    "answer": "A",
+    "difficulty": "Medium",
+    "topic": "Music"
+  },
+  {
+    "question": "Which Nigerian state is known for its large deposits of limestone?",
+    "options": {
+      "A": "Benue",
+      "B": "Ebonyi",
+      "C": "Ogun",
+      "D": "Kogi"
+    },
+    "answer": "D",
+    "difficulty": "Medium",
+    "topic": "Geography"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the traditional headwear of the Hausa people.",
+    "options": {
+      "A": "Turban",
+      "B": "Gele",
+      "C": "Fez",
+      "D": "Igala"
+    },
+    "answer": "A",
+    "difficulty": "Easy",
+    "topic": "Culture"
+  },
+  {
+    "question": "Which Nigerian historical artifact was famously repatriated from the British Museum in 2021?",
+    "options": {
+      "A": "Benin Bronzes",
+      "B": "Ife Head",
+      "C": "Nok Terracottas",
+      "D": "Igbo Ukwu Jewels"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During which festival do the Yoruba people traditionally celebrate the arrival of new yams?",
+    "options": {
+      "A": "Osun-Osogbo Festival",
+      "B": "Eyo Festival",
+      "C": "New Yam Festival",
+      "D": "Argungu Festival"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In the context of Nigerian history, what was the significance of the Aba Women's Riot of 1929?",
+    "options": {
+      "A": "It led to women's suffrage",
+      "B": "It was the first anti-colonial revolt led by women",
+      "C": "It established the first women's political party",
+      "D": "It resulted in the formation of the Aba State"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the primary export of Nigeria's economy before the oil boom of the 1970s?",
+    "options": {
+      "A": "Cocoa",
+      "B": "Palm oil",
+      "C": "Groundnuts",
+      "D": "Rubber"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Identify the Nigerian city that served as the capital of the Northern Region during the colonial era.",
+    "options": {
+      "A": "Kano",
+      "B": "Zaria",
+      "C": "Kaduna",
+      "D": "Sokoto"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian state is renowned for the Durbar festival, a colorful equestrian parade held during Eid celebrations?",
+    "options": {
+      "A": "Kano",
+      "B": "Kaduna",
+      "C": "Sokoto",
+      "D": "Bauchi"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The _______ were the first European explorers to arrive in Nigeria during the 15th century.",
+    "options": {
+      "A": "Dutch",
+      "B": "Portuguese",
+      "C": "British",
+      "D": "Spanish"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian leader delivered the famous 'Africa has come of age' speech at the United Nations?",
+    "options": {
+      "A": "Nnamdi Azikiwe",
+      "B": "Olusegun Obasanjo",
+      "C": "Yakubu Gowon",
+      "D": "Murtala Mohammed"
+    },
+    "answer": "D",
+    "difficulty": "expert",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In Nigerian history, what was the significance of the Berlin Conference of 1884-85?",
+    "options": {
+      "A": "It ended the transatlantic slave trade",
+      "B": "It divided African territories among European powers",
+      "C": "It led to Nigeria's independence",
+      "D": "It established the African Union"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian city was historically known as the center of the trans-Saharan trade routes?",
+    "options": {
+      "A": "Ibadan",
+      "B": "Lagos",
+      "C": "Sokoto",
+      "D": "Kano"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The Nigerian region known for the Nok culture, famous for its terracotta sculptures, is _______.",
+    "options": {
+      "A": "Jos Plateau",
+      "B": "Benin",
+      "C": "Ife",
+      "D": "Nsukka"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian kingdom was known for its sophisticated bronze casting techniques during the 14th century?",
+    "options": {
+      "A": "Oyo",
+      "B": "Benin",
+      "C": "Nri",
+      "D": "Ijebu"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In Nigerian history, who was the prominent nationalist leader known for his role in the creation of the NCNC?",
+    "options": {
+      "A": "Ahmadu Bello",
+      "B": "Nnamdi Azikiwe",
+      "C": "Obafemi Awolowo",
+      "D": "Anthony Enahoro"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the primary purpose of the amalgamation of the Northern and Southern Protectorates in 1914?",
+    "options": {
+      "A": "To unify the military forces",
+      "B": "To streamline administrative costs",
+      "C": "To promote indigenous industries",
+      "D": "To establish a common language"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which historical event in Nigeria led to the introduction of the Indirect Rule system by the British?",
+    "options": {
+      "A": "Aba Women's Riot",
+      "B": "Hut Tax Uprising",
+      "C": "Ekumeku Movement",
+      "D": "Anglo-Aro War"
+    },
+    "answer": "D",
+    "difficulty": "expert",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The Nigerian independence movement was significantly influenced by which global event?",
+    "options": {
+      "A": "World War I",
+      "B": "The Great Depression",
+      "C": "World War II",
+      "D": "The Cold War"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The _______ was a trade route that connected Nigerian kingdoms to North Africa and the Mediterranean.",
+    "options": {
+      "A": "Silk Road",
+      "B": "Trans-Saharan",
+      "C": "Amber Road",
+      "D": "Spice Route"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian leader was instrumental in the formation of the Organization of African Unity in 1963?",
+    "options": {
+      "A": "Tafawa Balewa",
+      "B": "Ahmadu Bello",
+      "C": "Nnamdi Azikiwe",
+      "D": "Obafemi Awolowo"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the main focus of the Nigerian political party, AG, during the First Republic?",
+    "options": {
+      "A": "National unity",
+      "B": "Regional autonomy",
+      "C": "Socialism",
+      "D": "Colonial cooperation"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In the context of Nigerian history, what role did the city of Calabar play during the slave trade era?",
+    "options": {
+      "A": "It was a major slave trading port",
+      "B": "It served as a refuge for runaway slaves",
+      "C": "It was the site of abolitionist movements",
+      "D": "It hosted the first anti-slavery conference"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In 1966, who became Nigeria's first military head of state following a coup d'\u00e9tat?",
+    "options": {
+      "A": "Aguiyi-Ironsi",
+      "B": "Yakubu Gowon",
+      "C": "Olusegun Obasanjo",
+      "D": "Murtala Mohammed"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The Nigerian city of Ibadan is home to which historic university, founded in 1948?",
+    "options": {
+      "A": "University of Lagos",
+      "B": "University of Nigeria",
+      "C": "University of Ibadan",
+      "D": "Ahmadu Bello University"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Who was the first Nigerian woman to become a Senior Advocate of Nigeria (SAN)?",
+    "options": {
+      "A": "Funmilayo Ransome-Kuti",
+      "B": "Folake Solanke",
+      "C": "Mary Odili",
+      "D": "Ngozi Okonjo-Iweala"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the significance of the 1967 Aburi Accord for Nigeria?",
+    "options": {
+      "A": "It led to the creation of more states",
+      "B": "It was an attempt to prevent civil war",
+      "C": "It marked Nigeria's independence",
+      "D": "It established Nigeria's first constitution"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian leader was known for his role in the Aburi Accord negotiations in 1967?",
+    "options": {
+      "A": "Nnamdi Azikiwe",
+      "B": "Yakubu Gowon",
+      "C": "Odumegwu Ojukwu",
+      "D": "Ahmadu Bello"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the Nigerian region historically known for being the center of the Trans-Saharan trade routes.",
+    "options": {
+      "A": "Hausa",
+      "B": "Yoruba",
+      "C": "Igbo",
+      "D": "Ijaw"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In what year did the first Nigerian Republic collapse, leading to military rule?",
+    "options": {
+      "A": "1963",
+      "B": "1966",
+      "C": "1970",
+      "D": "1975"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian city is historically known for its ancient wall built to defend against invaders?",
+    "options": {
+      "A": "Benin City",
+      "B": "Ibadan",
+      "C": "Kano",
+      "D": "Lagos"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Who was the Nigerian Prime Minister at the time of independence in 1960?",
+    "options": {
+      "A": "Nnamdi Azikiwe",
+      "B": "Abubakar Tafawa Balewa",
+      "C": "Ahmadu Bello",
+      "D": "Olusegun Obasanjo"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which ethnic group in Nigeria is known for their historic city-state system before colonial rule?",
+    "options": {
+      "A": "Tiv",
+      "B": "Yoruba",
+      "C": "Fulani",
+      "D": "Igbira"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian state was created in 1976 and is known for the Obudu Mountain Resort?",
+    "options": {
+      "A": "Cross River",
+      "B": "Rivers",
+      "C": "Kaduna",
+      "D": "Ebonyi"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In Nigerian history, which event led to the rise of the Second Republic in 1979?",
+    "options": {
+      "A": "The end of the Nigerian Civil War",
+      "B": "The assassination of Murtala Mohammed",
+      "C": "The 1978 Constitution",
+      "D": "The oil boom of the 1970s"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the main focus of the Nigerian political party, NPC, during the First Republic?",
+    "options": {
+      "A": "National unity",
+      "B": "Regional autonomy",
+      "C": "Economic reform",
+      "D": "Cultural revival"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which major international event in 1977 showcased Nigeria's cultural heritage on a global stage?",
+    "options": {
+      "A": "FESTAC '77",
+      "B": "Expo '70",
+      "C": "World Cup '78",
+      "D": "Olympics '76"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In 1984, Nigeria expelled over 700,000 migrants from which neighboring country under the 'Ghana Must Go' policy?",
+    "options": {
+      "A": "Togo",
+      "B": "Benin",
+      "C": "Cameroon",
+      "D": "Ghana"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Who led the Nigerian delegation to the 1957 Constitutional Conference in London?",
+    "options": {
+      "A": "Obafemi Awolowo",
+      "B": "Nnamdi Azikiwe",
+      "C": "Ahmadu Bello",
+      "D": "Tafawa Balewa"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian leader was overthrown in the 1983 military coup?",
+    "options": {
+      "A": "Shehu Shagari",
+      "B": "Yakubu Gowon",
+      "C": "Murtala Mohammed",
+      "D": "Olusegun Obasanjo"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian state is known for its historic Benin Moat, reputed to be the world's largest earthwork?",
+    "options": {
+      "A": "Ogun",
+      "B": "Edo",
+      "C": "Anambra",
+      "D": "Kogi"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What is the name of the 1929 event, regarded as a significant protest against British colonial taxes in Nigeria?",
+    "options": {
+      "A": "Aba Women's Riot",
+      "B": "Egba Uprising",
+      "C": "Salt March",
+      "D": "Lagos Protest"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian monarch famously resisted British colonial efforts in the late 19th century?",
+    "options": {
+      "A": "Queen Amina of Zazzau",
+      "B": "King Jaja of Opobo",
+      "C": "Oba Ovonramwen of Benin",
+      "D": "Emir of Kano"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In Nigerian history, what was the major outcome of the amalgamation of 1914?",
+    "options": {
+      "A": "Creation of new states",
+      "B": "Formation of a unified Nigeria",
+      "C": "Independence from Britain",
+      "D": "Introduction of federalism"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The 1978 Land Use Act in Nigeria primarily affected what aspect of society?",
+    "options": {
+      "A": "Healthcare",
+      "B": "Education",
+      "C": "Land ownership",
+      "D": "Taxation"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian city is known for its historic role in the palm oil trade in the 19th century?",
+    "options": {
+      "A": "Calabar",
+      "B": "Kano",
+      "C": "Ibadan",
+      "D": "Jos"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The _______ Agreement of 1975 aimed to regulate oil production and pricing in Nigeria.",
+    "options": {
+      "A": "OPEC",
+      "B": "Abuja",
+      "C": "Lagos",
+      "D": "Yamoussoukro"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian state is celebrated for its annual Argungu Fishing Festival?",
+    "options": {
+      "A": "Kebbi",
+      "B": "Sokoto",
+      "C": "Kano",
+      "D": "Zamfara"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Who was Nigeria's first Minister of Finance after independence?",
+    "options": {
+      "A": "Festus Okotie-Eboh",
+      "B": "Chukwuma Azikiwe",
+      "C": "Abubakar Tafawa Balewa",
+      "D": "Obafemi Awolowo"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the primary aim of the 1970s Operation Feed the Nation program in Nigeria?",
+    "options": {
+      "A": "Increase oil production",
+      "B": "Enhance agricultural output",
+      "C": "Develop infrastructure",
+      "D": "Promote education"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In which year was the Nigerian National Petroleum Corporation (NNPC) established?",
+    "options": {
+      "A": "1971",
+      "B": "1977",
+      "C": "1980",
+      "D": "1985"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian state is renowned for the Olumo Rock, a historical tourist attraction?",
+    "options": {
+      "A": "Ogun",
+      "B": "Ekiti",
+      "C": "Ondo",
+      "D": "Osun"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Who played a pivotal role in negotiating Nigeria's debt relief with the Paris Club in 2005?",
+    "options": {
+      "A": "Ngozi Okonjo-Iweala",
+      "B": "Chinua Achebe",
+      "C": "Ibrahim Babangida",
+      "D": "Wole Soyinka"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian historical figure is associated with the founding of the Sokoto Caliphate?",
+    "options": {
+      "A": "Usman dan Fodio",
+      "B": "Ahmadu Bello",
+      "C": "Hassan Katsina",
+      "D": "Nnamdi Azikiwe"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What is the significance of the 1953 Kano Riot in Nigerian history?",
+    "options": {
+      "A": "It led to independence",
+      "B": "It highlighted regional tensions",
+      "C": "It was a result of a failed coup",
+      "D": "It marked economic reforms"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian state is known for its historic Nok Terracotta sculptures?",
+    "options": {
+      "A": "Kaduna",
+      "B": "Kogi",
+      "C": "Niger",
+      "D": "Plateau"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the primary cause behind the 1966 coup in Nigeria?",
+    "options": {
+      "A": "Economic collapse",
+      "B": "Ethnic divisions",
+      "C": "Foreign intervention",
+      "D": "Religious tensions"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which historical event marked the beginning of British colonial rule in Nigeria?",
+    "options": {
+      "A": "Signing of the Treaty of Lagos",
+      "B": "Annexation of Lagos",
+      "C": "Amalgamation of 1914",
+      "D": "Berlin Conference"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian state is renowned for the annual New Yam Festival?",
+    "options": {
+      "A": "Enugu",
+      "B": "Benue",
+      "C": "Anambra",
+      "D": "Delta"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Who was the first Nigerian to head the Organization of African Unity?",
+    "options": {
+      "A": "Olusegun Obasanjo",
+      "B": "Yakubu Gowon",
+      "C": "Nnamdi Azikiwe",
+      "D": "Ahmadu Bello"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In Nigerian history, which kingdom was led by King Jaja who resisted British control?",
+    "options": {
+      "A": "Benin",
+      "B": "Ibibio",
+      "C": "Opobo",
+      "D": "Oyo"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian state is known for its annual Osun-Osogbo festival?",
+    "options": {
+      "A": "Osun",
+      "B": "Lagos",
+      "C": "Ekiti",
+      "D": "Ondo"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the main focus of the Nigerian political party, NPC, during the First Republic?",
+    "options": {
+      "A": "National unity",
+      "B": "Regional autonomy",
+      "C": "Economic reform",
+      "D": "Cultural revival"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian state is traditionally known for producing the largest quantity of leather goods?",
+    "options": {
+      "A": "Kano",
+      "B": "Kaduna",
+      "C": "Lagos",
+      "D": "Sokoto"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Who was the famous Nigerian nationalist known for his role in the creation of the NCNC?",
+    "options": {
+      "A": "Nnamdi Azikiwe",
+      "B": "Obafemi Awolowo",
+      "C": "Ahmadu Bello",
+      "D": "Alvan Ikoku"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian monarch was deported to Calabar following British annexation?",
+    "options": {
+      "A": "Oba Ovonramwen",
+      "B": "Emir of Kano",
+      "C": "King Jaja",
+      "D": "Queen Amina"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian leader declared a state of emergency in 1962 in the Western Region?",
+    "options": {
+      "A": "Nnamdi Azikiwe",
+      "B": "Tafawa Balewa",
+      "C": "Yakubu Gowon",
+      "D": "Olusegun Obasanjo"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In what year did Nigeria become a member of the United Nations?",
+    "options": {
+      "A": "1956",
+      "B": "1960",
+      "C": "1963",
+      "D": "1970"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian city served as the capital of the Northern Region during the colonial era?",
+    "options": {
+      "A": "Kaduna",
+      "B": "Kano",
+      "C": "Zaria",
+      "D": "Sokoto"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In which Nigerian town did the famous Aba Women's Riot of 1929 take place?",
+    "options": {
+      "A": "Aba",
+      "B": "Onitsha",
+      "C": "Calabar",
+      "D": "Enugu"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian river is known for being the deepest in West Africa?",
+    "options": {
+      "A": "Niger",
+      "B": "Cross",
+      "C": "Benue",
+      "D": "Gongola"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Who was the traditional ruler famously known as the 'Lion of Africa'?",
+    "options": {
+      "A": "Oba Ewuare",
+      "B": "King Jaja of Opobo",
+      "C": "Oba Ovonramwen",
+      "D": "Emir of Kano"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the Nigerian region that was the heart of ancient trade routes, often referred to as the crossroads of the Sahel.",
+    "options": {
+      "A": "Hausa",
+      "B": "Yoruba",
+      "C": "Igbo",
+      "D": "Ijaw"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which colonial policy led to the establishment of the Indirect Rule system in Nigeria?",
+    "options": {
+      "A": "Lugard's Amalgamation",
+      "B": "Berlin Conference",
+      "C": "East India Company Charter",
+      "D": "Crown Colony System"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian region is historically known for its terracotta sculptures, often linked to the Nok culture?",
+    "options": {
+      "A": "Jos Plateau",
+      "B": "Benin",
+      "C": "Ife",
+      "D": "Nsukka"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In the context of Nigerian history, what was the significance of the Berlin Conference of 1884-85?",
+    "options": {
+      "A": "It ended the transatlantic slave trade",
+      "B": "It divided African territories among European powers",
+      "C": "It led to Nigeria's independence",
+      "D": "It established the African Union"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was Nigeria's primary export commodity before the discovery of oil?",
+    "options": {
+      "A": "Cocoa",
+      "B": "Palm oil",
+      "C": "Cotton",
+      "D": "Groundnuts"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian leader is credited with establishing the National Youth Service Corps (NYSC)?",
+    "options": {
+      "A": "Yakubu Gowon",
+      "B": "Olusegun Obasanjo",
+      "C": "Murtala Mohammed",
+      "D": "Sani Abacha"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the primary goal of the Nigerian Indigenization Decree of 1972?",
+    "options": {
+      "A": "To promote foreign investment",
+      "B": "To nationalize key industries",
+      "C": "To increase local employment",
+      "D": "To boost agricultural production"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Who was the first Nigerian to win a Nobel Prize, and in which field?",
+    "options": {
+      "A": "Wole Soyinka, Literature",
+      "B": "Chinua Achebe, Peace",
+      "C": "Ngozi Okonjo-Iweala, Economics",
+      "D": "Chimamanda Ngozi Adichie, Literature"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Who was the prominent Nigerian nationalist leader assassinated in 1976?",
+    "options": {
+      "A": "Ahmadu Bello",
+      "B": "Murtala Mohammed",
+      "C": "Tafawa Balewa",
+      "D": "Nnamdi Azikiwe"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the main issue addressed by the Nigerian Land Use Act of 1978?",
+    "options": {
+      "A": "Environmental conservation",
+      "B": "Land ownership and management",
+      "C": "Urban development",
+      "D": "Mineral resource extraction"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian city is known as the birthplace of the country's oil industry?",
+    "options": {
+      "A": "Warri",
+      "B": "Port Harcourt",
+      "C": "Lagos",
+      "D": "Abuja"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the main objective of the Nigerian Operation Feed the Nation (OFN) program initiated in 1976?",
+    "options": {
+      "A": "To promote health and nutrition",
+      "B": "To increase agricultural productivity",
+      "C": "To boost industrial output",
+      "D": "To enhance educational standards"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Who was the Nigerian leader during the implementation of the Structural Adjustment Program (SAP) in the 1980s?",
+    "options": {
+      "A": "Olusegun Obasanjo",
+      "B": "Ibrahim Babangida",
+      "C": "Sani Abacha",
+      "D": "Goodluck Jonathan"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian state is known for its historic walls, said to be one of the longest ancient earthworks in the world?",
+    "options": {
+      "A": "Kano",
+      "B": "Borno",
+      "C": "Kaduna",
+      "D": "Benue"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the primary cause of the Nigerian Civil War that lasted from 1967 to 1970?",
+    "options": {
+      "A": "Religious conflict",
+      "B": "Ethnic tensions",
+      "C": "Economic disparity",
+      "D": "Foreign intervention"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian tribe is renowned for its traditional practice of divination using kola nuts, known as Ibo Olodu?",
+    "options": {
+      "A": "Yoruba",
+      "B": "Igbo",
+      "C": "Hausa",
+      "D": "Fulani"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The British colonial infrastructure project that connected Nigeria's major cities by rail was inaugurated in which year?",
+    "options": {
+      "A": "1912",
+      "B": "1930",
+      "C": "1898",
+      "D": "1924"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In Nigerian history, the abolitionist movement in the 19th century was significantly propelled by which former slave's autobiography?",
+    "options": {
+      "A": "Samuel Ajayi Crowther",
+      "B": "Thomas Peters",
+      "C": "Olaudah Equiano",
+      "D": "Paul Cuffe"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The Nigerian Boy Scout Association was established in 1915 under the leadership of which colonial figure?",
+    "options": {
+      "A": "Frederick Lugard",
+      "B": "Hugh Clifford",
+      "C": "Henry McCullum",
+      "D": "Burt E. Thompson"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The 1977 event celebrated as FESTAC was known for showcasing Nigeria's _______ heritage.",
+    "options": {
+      "A": "Colonial",
+      "B": "Agricultural",
+      "C": "Cultural",
+      "D": "Technological"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The phrase 'Nigeria, God bless you' became a political slogan in which epoch of the Nigerian timeline?",
+    "options": {
+      "A": "During the First Republic",
+      "B": "Under military rule",
+      "C": "In the Fourth Republic",
+      "D": "During the Civil War"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the major economic activity in the Nigerian region of Calabar throughout the 18th century?",
+    "options": {
+      "A": "Palm oil production",
+      "B": "Textile manufacturing",
+      "C": "Slave trade",
+      "D": "Gold mining"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian constitutional reform resulted in the division of the country into 12 states in 1967?",
+    "options": {
+      "A": "Independence Constitution",
+      "B": "Aburi Accord",
+      "C": "1979 Constitution",
+      "D": "Lagos Treaty"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The first public library in Nigeria was established in Lagos in which decade?",
+    "options": {
+      "A": "1940s",
+      "B": "1920s",
+      "C": "1930s",
+      "D": "1950s"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the lasting impact of the Aba Women\u2019s War of 1929 on Nigerian colonial policy?",
+    "options": {
+      "A": "Universal education",
+      "B": "Abolition of female taxation",
+      "C": "Militarization of the police",
+      "D": "Withdrawal of British troops"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The _______ Regulation of 1901 significantly reorganized Nigeria\u2019s tax system during the colonial era.",
+    "options": {
+      "A": "Indirect Rule",
+      "B": "Hut Tax",
+      "C": "Assimilation",
+      "D": "Direct Rule"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The Anglo-Spanish Treaty of 1763 impacted Nigeria indirectly by influencing colonial competitive activities in which specific regard?",
+    "options": {
+      "A": "Cultural influence",
+      "B": "Economic patterns",
+      "C": "Resource ownership",
+      "D": "Slavery and trade routes"
+    },
+    "answer": "D",
+    "difficulty": "expert",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian university, established in 1962, is known for its technological and engineering programs?",
+    "options": {
+      "A": "University of Lagos",
+      "B": "Ahmadu Bello University",
+      "C": "University of Nigeria, Nsukka",
+      "D": "Obafemi Awolowo University"
+    },
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In the Nigerian Kingdom of Ife, which tool was most famously used for enhancing the growth of local agriculture during the pre-colonial period?",
+    "options": {
+      "A": "Hoes",
+      "B": "Oxen-driven plow",
+      "C": "Irrigation systems",
+      "D": "Djembe drums"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What Nigerian policy of the 1970s focused on rapid industrialization through the development of local content?",
+    "options": {
+      "A": "Green Revolution",
+      "B": "Indigenization Decree",
+      "C": "Economic Recovery Plan",
+      "D": "Vision 2020"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During the Biafra War, which country's supply of weapons significantly impacted the secessionist's war efforts?",
+    "options": {
+      "A": "United States",
+      "B": "France",
+      "C": "Soviet Union",
+      "D": "United Kingdom"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The 16th century saw the establishment of European trading posts in the Nigerian territories along the _______ Coast.",
+    "options": {
+      "A": "Gold",
+      "B": "Ivory",
+      "C": "Pepper",
+      "D": "Grain"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which notorious decree was enacted in 1984 leading to the detention of journalists without trial in Nigeria?",
+    "options": {
+      "A": "Decree 1",
+      "B": "Decree 2",
+      "C": "Decree 4",
+      "D": "Decree 75"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In Nigerian folklore, which mythical creature is famously known for leading lost travelers astray in forested regions?",
+    "options": {
+      "A": "Tortoise",
+      "B": "Forest Spirit",
+      "C": "Bush Baby",
+      "D": "Water Mermaid"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Under which Nigerian ruler's administration was the currency changed from Pound to Naira?",
+    "options": {
+      "A": "Yakubu Gowon",
+      "B": "Obasanjo",
+      "C": "Sani Abacha",
+      "D": "Murtala Mohammed"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian architectural feature was inspired by traditional Arabic styles introduced into Northern Nigeria?",
+    "options": {
+      "A": "Tin roofing",
+      "B": "Mud-brick mosques",
+      "C": "Bamboo huts",
+      "D": "Yurt structures"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The Nigerian Middle Belt during the pre-colonial era was primarily known for which unique economic activity?",
+    "options": {
+      "A": "Pottery",
+      "B": "Iron smelting",
+      "C": "Wood sculpting",
+      "D": "Fishing"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the unintended consequence of the Land Use Act passed in 1978 in Nigeria?",
+    "options": {
+      "A": "Rapid urbanization",
+      "B": "Increased foreign ownership",
+      "C": "Land scarcity for agriculture",
+      "D": "Community fragmentation"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which landmark decision in Nigerian Supreme Court history is known for upholding the independence of electoral bodies?",
+    "options": {
+      "A": "Abolaji vs State",
+      "B": "Udo Udoma's Case",
+      "C": "Ademola's Precedent",
+      "D": "INEC vs PDP"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In Nigerian education history, which university was the first to adopt a student union system in the post-colonial era?",
+    "options": {
+      "A": "University of Ibadan",
+      "B": "University of Lagos",
+      "C": "Ahmadu Bello University",
+      "D": "University of Nigeria, Nsukka"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The introduction of horses to the Nigerian savannah by Arab traders primarily changed which aspect of local culture?",
+    "options": {
+      "A": "Weaponry",
+      "B": "Agricultural techniques",
+      "C": "Transportation",
+      "D": "Religious practices"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: During the Nigerian Jihad wars led by Usman dan Fodio, the capital of the Sokoto Caliphate was established at _______.",
+    "options": {
+      "A": "Abuja",
+      "B": "Kano",
+      "C": "Sokoto",
+      "D": "Kaduna"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Who was the first African writer published by a European publishing house, ushering in modern Nigerian literature?",
+    "options": {
+      "A": "Wole Soyinka",
+      "B": "Chinua Achebe",
+      "C": "Flora Nwapa",
+      "D": "Amos Tutuola"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The Nigerian transport revolution in the late 20th century was marked by the introduction of which innovation?",
+    "options": {
+      "A": "Rail transport",
+      "B": "Motorized tricycles",
+      "C": "Hydrogen buses",
+      "D": "Intercity airplanes"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian state is notable for its inland grain reserves that were pivotal during famines in the 1930s?",
+    "options": {
+      "A": "Borno",
+      "B": "Gombe",
+      "C": "Kano",
+      "D": "Taraba"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the prominent architectural feature of the Nok culture in Nigeria's ancient past?",
+    "options": {
+      "A": "Stone palaces",
+      "B": "Mud pyramids",
+      "C": "Terracotta edifices",
+      "D": "Leaf huts"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In 1903, which event marked the final annexation of Northern Nigeria by British forces?",
+    "options": {
+      "A": "Capture of Kano",
+      "B": "Occupation of Zaria",
+      "C": "Battle of Aro",
+      "D": "Defeat of the Caliphate"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian entrepreneur is credited with establishing the first African-owned bank, founded in 1945?",
+    "options": {
+      "A": "Aliko Dangote",
+      "B": "Harry Akande",
+      "C": "Nnamdi Azikiwe",
+      "D": "Emeka Ike"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The post-colonial Nigerian construction boom was spearheaded by the _______ Corporation initiated in the 1960s.",
+    "options": {
+      "A": "Development",
+      "B": "Infrastructure",
+      "C": "Housing",
+      "D": "Conservation"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The Nigerian historical figure known for founding a dynasty that expanded to modern-day Ghana and Togo belonged to which ethnic group?",
+    "options": {
+      "A": "Yoruba",
+      "B": "Igbo",
+      "C": "Hausa",
+      "D": "Edo"
+    },
+    "answer": "D",
+    "difficulty": "expert",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The infamous British siege and subsequent assimilation tactics were used against which Nigerian kingdom in the late 19th century?",
+    "options": {
+      "A": "Opobo",
+      "B": "Kano",
+      "C": "Benin",
+      "D": "Oyo"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which initiative helped stabilize a new educational system in Nigeria under British guidance in the early 20th century?",
+    "options": {
+      "A": "McPherson Act",
+      "B": "Ashby Commission",
+      "C": "Fajana Reforms",
+      "D": "Majekodunmi Scheme"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The traditional masquerade ceremony of the Yoruba known as Egungun is rooted in which cultural practice?",
+    "options": {
+      "A": "Ancestral veneration",
+      "B": "Harvest celebration",
+      "C": "War commemoration",
+      "D": "Trade ritual"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which climactic battle in 1826 ensured the dominance of the Fulani in northern Nigeria?",
+    "options": {
+      "A": "Battle of Ilorin",
+      "B": "Battle of Katagum",
+      "C": "Battle of Bida",
+      "D": "Battle of Tondi"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the transformative agricultural innovation first implemented in Nigerian Hausa states during the 14th century?",
+    "options": {
+      "A": "Chinampa farming",
+      "B": "Slash-and-burn",
+      "C": "Irrigated terraces",
+      "D": "Crop rotation"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In pre-colonial Nigeria, the title \"Afonja\" was associated with a leader from which historic city?",
+    "options": {
+      "A": "Kano",
+      "B": "Ibadan",
+      "C": "Ilorin",
+      "D": "Benin"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The traditional Nigerian architecture characterized by intricately carved wooden pillars was most prevalent in which area?",
+    "options": {
+      "A": "Niger Delta",
+      "B": "Plateau State",
+      "C": "Middle Belt",
+      "D": "Yorubaland"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The 19th-century British explorer _______ significantly mapped Nigerian landscapes during his expeditions.",
+    "options": {
+      "A": "Mungo Park",
+      "B": "John Speke",
+      "C": "Richard Lander",
+      "D": "David Livingstone"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In which geographical area of Nigeria was the famous Sokoto Caliphate founded in the 19th century?",
+    "options": {
+      "A": "Northeast",
+      "B": "Central",
+      "C": "Northwest",
+      "D": "Southwest"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During the late 15th century, which group established the first contact with native Nigerians at the port of Lagos?",
+    "options": {
+      "A": "Portuguese explorers",
+      "B": "Spanish missionaries",
+      "C": "Italian traders",
+      "D": "Arab merchants"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The spread of Islam in Nigeria was significantly accelerated by which empire during the 11th century?",
+    "options": {
+      "A": "Songhai Empire",
+      "B": "Mali Empire",
+      "C": "Ghana Empire",
+      "D": "Kanem-Bornu Empire"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During the first decade of Nigeria's independence, which economic policy was predominant?",
+    "options": {
+      "A": "Import substitution industrialization",
+      "B": "Export-oriented industrialization",
+      "C": "Agricultural subsidies",
+      "D": "Technological innovation"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian city is historically renowned for its dye pits, an ancient method of indigo cloth dyeing?",
+    "options": {
+      "A": "Lagos",
+      "B": "Ibadan",
+      "C": "Kano",
+      "D": "Sokoto"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What symbolic event in 1930 marked an awakening of Nigerian women in the political sphere?",
+    "options": {
+      "A": "The Women's March on Lagos",
+      "B": "The Niger Women's Congress",
+      "C": "The Lagos Fashion Protest",
+      "D": "The Enugu Women's Strike"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The historical city of _______ was pivotal for the Hausa trading empire.",
+    "options": {
+      "A": "Ibadan",
+      "B": "Lagos",
+      "C": "Bauchi",
+      "D": "Kano"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which early 20th-century policy significantly impacted Nigeria's indigenous educational systems?",
+    "options": {
+      "A": "The Lugardian Reforms",
+      "B": "The Phelps-Stokes Fund",
+      "C": "The Clifford Constitution",
+      "D": "Indirect Rule Initiative"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During which period did Nigeria experience its first post-independence oil boom?",
+    "options": {
+      "A": "1960s",
+      "B": "1970s",
+      "C": "1980s",
+      "D": "1990s"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The ancient kingdom of _______ was famous for its intricate brass and bronze art.",
+    "options": {
+      "A": "Benin",
+      "B": "Oyo",
+      "C": "Ife",
+      "D": "Nri"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which declaration by the Nigerian government in the 1960s sought to unify diverse cultural identities?",
+    "options": {
+      "A": "The Unification Declaration",
+      "B": "The National Identity Decree",
+      "C": "The Cultural Unity Initiative",
+      "D": "The Africanization Policy"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the key agenda of the Nigerian Indigenous Mercantile Association during colonial Nigeria?",
+    "options": {
+      "A": "Exportation of palm oil",
+      "B": "Local technological innovation",
+      "C": "Promotion of indigenous businesses",
+      "D": "Anti-colonial protests"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The historical Oba of _______ was known to resist colonial rule effectively.",
+    "options": {
+      "A": "Benin",
+      "B": "Ibadan",
+      "C": "Ife",
+      "D": "Lagos"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During the Nigerian Second Republic, which policy was adopted to boost agricultural production?",
+    "options": {
+      "A": "Operation Feed the Nation",
+      "B": "Green Revolution",
+      "C": "Back to Agriculture",
+      "D": "Agricultural Reformation Plan"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian geographic feature was critical to the Trans-Saharan trade routes?",
+    "options": {
+      "A": "The Niger River",
+      "B": "The Jos Plateau",
+      "C": "The Mandara Mountains",
+      "D": "The Chad Basin"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the historical significance of Nigeria's Fulani Jihad in the early 19th century?",
+    "options": {
+      "A": "Establishment of the Sokoto Caliphate",
+      "B": "Overthrow of British colonial rule",
+      "C": "Introduction of Western education",
+      "D": "Rise of indigenous leadership"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During Nigeria's creation in the colonial era, which ethnic group was known for its centralized political structure?",
+    "options": {
+      "A": "Yoruba",
+      "B": "Igbo",
+      "C": "Hausa",
+      "D": "Fulani"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The _______ policy during Nigeria\u2019s colonial period aimed at labor consolidation.",
+    "options": {
+      "A": "Land Utilization",
+      "B": "Labor Exchange",
+      "C": "Forced Labor",
+      "D": "Unified Workforce"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What pivotal role did the Nigerian Student Union play in the 1950s in Nigeria?",
+    "options": {
+      "A": "Promoting overseas education",
+      "B": "Advocating for colonial reforms",
+      "C": "Introducing new educational curricula",
+      "D": "Fostering East-West partnerships"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In which Nigerian region was the revolutionary Ahmadu Bello known for modernizing educational systems?",
+    "options": {
+      "A": "North-central",
+      "B": "Southwest",
+      "C": "Northeast",
+      "D": "Northwest"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which 1960s Nigerian military leader initiated the famous 3R policy aimed at national reconciliation post-civil war?",
+    "options": {
+      "A": "Murtala Mohammed",
+      "B": "Yakubu Gowon",
+      "C": "Olusegun Obasanjo",
+      "D": "Aguiyi-Ironsi"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which ethnic group in Nigeria was known for its long-distance trade and commerce in pre-colonial times?",
+    "options": {
+      "A": "Hausa",
+      "B": "Igbo",
+      "C": "Yoruba",
+      "D": "Ijaw"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The _______ Uprising in Nigeria was a reaction to colonial taxation policies.",
+    "options": {
+      "A": "Aba Women's",
+      "B": "Opobo",
+      "C": "Enugu",
+      "D": "Ibadan"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During which administration was the Nigerian emigration policy shifted towards economic diversification?",
+    "options": {
+      "A": "Obasanjo",
+      "B": "Goodluck Jonathan",
+      "C": "Muhammadu Buhari",
+      "D": "Yakubu Gowon"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian tribe is indigenous to the Niger Delta and known for its early city-state formations?",
+    "options": {
+      "A": "Hausa",
+      "B": "Yoruba",
+      "C": "Ijaw",
+      "D": "Igbo"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which foreign cultural influence in the 19th century significantly impacted Nigerian religious practices?",
+    "options": {
+      "A": "Portuguese Catholicism",
+      "B": "Islam from the Middle East",
+      "C": "British Anglicanism",
+      "D": "American Pentecostalism"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What significant religious event during colonial times marked the increasing acceptance of Christianity in Nigeria?",
+    "options": {
+      "A": "First Missionary Arrival",
+      "B": "The Lagos Revival",
+      "C": "The Calabar Crusade",
+      "D": "Mass Baptism Movement"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which pre-colonial Nigerian society was renowned for its high level of urbanization and stone architecture?",
+    "options": {
+      "A": "Ife",
+      "B": "Benin",
+      "C": "Kanem-Bornu",
+      "D": "Nri"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The 1920s saw Nigeria's first _______ bank, initiated by African expatriates to support local businesses.",
+    "options": {
+      "A": "Commercial",
+      "B": "Mortgage",
+      "C": "Community",
+      "D": "Savings"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian empire was reputed for maintaining a large cavalry and engaging in vast trading activities?",
+    "options": {
+      "A": "Oyo",
+      "B": "Kanem-Bornu",
+      "C": "Benin",
+      "D": "Sokoto Caliphate"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During which historical Nigerian conflict was electronic media first used extensively to sway public opinion?",
+    "options": {
+      "A": "Nigerian Civil War",
+      "B": "Niger Delta Conflict",
+      "C": "Jos Crisis",
+      "D": "Agbekoya Revolt"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The _______ policy of the 1980s in Nigeria focused on urban redevelopment and slum clearance.",
+    "options": {
+      "A": "Vision 2010",
+      "B": "Master Plan 2000",
+      "C": "Urban Renewal",
+      "D": "City Revival"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian state's coastline was historically significant for the transatlantic slave trade?",
+    "options": {
+      "A": "Ondo",
+      "B": "Lagos",
+      "C": "Cross River",
+      "D": "Rivers"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which traditional Nigerian festival celebrates the harvest of yams and the renewal of the earth?",
+    "options": {
+      "A": "Eyo Festival",
+      "B": "Argungu Festival",
+      "C": "New Yam Festival",
+      "D": "Osun-Osogbo Festival"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In pre-colonial Nigeria, which empire was known for its centralized system of administration and extensive road network?",
+    "options": {
+      "A": "Igbo Confederacy",
+      "B": "Benin Kingdom",
+      "C": "Hausa City-States",
+      "D": "Sokoto Caliphate"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the primary focus of Nigeria's 1972 Indigenization Decree?",
+    "options": {
+      "A": "Promoting educational reform",
+      "B": "Nationalizing foreign assets",
+      "C": "Boosting agricultural output",
+      "D": "Expanding health services"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: Nigeria's first _______ was successfully launched in 2003, marking a milestone in technological advancement.",
+    "options": {
+      "A": "Space Program",
+      "B": "Communication Satellite",
+      "C": "Scientific Research Center",
+      "D": "Renewable Energy Initiative"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian leader advocated for the 'Africa has come of age' stance in the international arena?",
+    "options": {
+      "A": "Tafawa Balewa",
+      "B": "Nnamdi Azikiwe",
+      "C": "Murtala Mohammed",
+      "D": "Olusegun Obasanjo"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During the Nigerian oil boom, which policy was adopted to manage the influx of foreign investment and resources?",
+    "options": {
+      "A": "Resource Control Act",
+      "B": "Industry Regulation Strategy",
+      "C": "1979 Economic Blueprint",
+      "D": "National Development Plan"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What major transportation development was initiated in Nigeria during the 1980s military rule?",
+    "options": {
+      "A": "Lagos Canal Project",
+      "B": "National Highway Network",
+      "C": "Trans-Nigerian Railway",
+      "D": "Interstate Ferry System"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The Nigerian ancient city of _______ is famed for its traditional bronze casting techniques.",
+    "options": {
+      "A": "Kano",
+      "B": "Lagos",
+      "C": "Ife",
+      "D": "Benin"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In which decade did Nigeria nationalize industries under the government's Indigenization Decree?",
+    "options": {
+      "A": "1930s",
+      "B": "1950s",
+      "C": "1970s",
+      "D": "1990s"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During Nigeria's historical formation, which southern region was known for its distinct cultural autonomy?",
+    "options": {
+      "A": "Western Region",
+      "B": "Midwest Region",
+      "C": "Eastern Region",
+      "D": "Southern Cameroon"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian leader was instrumental in promoting the 'Operation Feed the Nation' agricultural policy?",
+    "options": {
+      "A": "Goodluck Jonathan",
+      "B": "Olusegun Obasanjo",
+      "C": "Mohammadu Buhari",
+      "D": "Sani Abacha"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian state is attributed with the origin of the 'Atilogwu' dance, a symbol of cultural heritage?",
+    "options": {
+      "A": "Anambra",
+      "B": "Cross River",
+      "C": "Oyo",
+      "D": "Kano"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What catalyst ignited the Sokoto Caliphate's expansion during the Fulani Jihads?",
+    "options": {
+      "A": "Signed pacts with British colonists",
+      "B": "Community agriculture improvements",
+      "C": "Trade agreements with southern regions",
+      "D": "Social and religious reforms"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The late 19th-century British annexation of Nigeria began with the famous coastal treaties known as the _______.",
+    "options": {
+      "A": "Lagos Accords",
+      "B": "Niger Basin Agreements",
+      "C": "Oil River Treaties",
+      "D": "Calabar Conventions"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During which conflict was the Nigerian Biafran War primarily influenced by regional oil interests?",
+    "options": {
+      "A": "Nigeria-Cameroon Dispute",
+      "B": "Ogoni Crisis",
+      "C": "Unification Conflict",
+      "D": "Niger Delta Strife"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian state was historically significant for being the site of Oloibiri, where oil was first discovered?",
+    "options": {
+      "A": "Rivers",
+      "B": "Bayelsa",
+      "C": "Lagos",
+      "D": "Delta"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During the 1970s, which initiative marked Nigeria's efforts at national reconstruction and development?",
+    "options": {
+      "A": "Economic Empowerment",
+      "B": "Green Belt Movement",
+      "C": "Second National Development Plan",
+      "D": "Vision 1990"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The famed ancient _______ Sculptures from Nigeria are recognized globally for their artistic mastery.",
+    "options": {
+      "A": "Benin Bronzes",
+      "B": "Oyo Busts",
+      "C": "Yoruba Figurines",
+      "D": "Nok Statues"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What reformative step was challenged by the Lagos Mass Transit Scheme of the 1990s to address urban congestion?",
+    "options": {
+      "A": "Fuel subsidy removal",
+      "B": "Railway expansion",
+      "C": "Traffic management",
+      "D": "Public transport privatization"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In Nigerian history, which river served as a major trade route for the ancient trans-Saharan trade?",
+    "options": {
+      "A": "Niger River",
+      "B": "Benue River",
+      "C": "Osun River",
+      "D": "Cross River"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During which historic Nigerian festival do participants usually wear vibrant masquerade costumes to celebrate the ancestral spirits?",
+    "options": {
+      "A": "Durbar Festival",
+      "B": "Egungun Festival",
+      "C": "Osun-Osogbo Festival",
+      "D": "New Yam Festival"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian state's precolonial city was renowned for its advanced earthwork fortifications?",
+    "options": {
+      "A": "Edo",
+      "B": "Kaduna",
+      "C": "Sokoto",
+      "D": "Rivers"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In which Nigerian region did the British implement the policy of Indirect Rule due to its complex social structures during colonial times?",
+    "options": {
+      "A": "Northern Region",
+      "B": "Western Region",
+      "C": "Eastern Region",
+      "D": "Middle Belt"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The Nigerian city of Onitsha is historically known for which landmark event between British traders and local authorities?",
+    "options": {
+      "A": "Treaty of Onitsha",
+      "B": "Onitsha Massacre",
+      "C": "Onitsha Peace Accord",
+      "D": "Onitsha Market Dispute"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which precolonial Nigerian empire was known for its sophisticated administrative system and military organization?",
+    "options": {
+      "A": "Benin Empire",
+      "B": "Oyo Empire",
+      "C": "Kanem-Bornu Empire",
+      "D": "Ife Kingdom"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The _____ revolt of 1901-1907 was a significant anti-colonial resistance in Southeastern Nigeria.",
+    "options": {
+      "A": "Ekumeku",
+      "B": "Amalgamation",
+      "C": "Benin",
+      "D": "Jukun"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In which Nigerian state was the historic amalgamation office that unified the Northern and Southern Protectorates in 1914 situated?",
+    "options": {
+      "A": "Lagos",
+      "B": "Ogun",
+      "C": "Niger",
+      "D": "Enugu"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian colonial policy was primarily driven by the need to protect British economic interests and prevent French encroachment?",
+    "options": {
+      "A": "Indirect Rule",
+      "B": "River Niger Expedition",
+      "C": "Lugard Reforms",
+      "D": "Southern Trade Act"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Who was the influential Nigerian merchant queen known for her resistance against British colonial impositions in the 1800s?",
+    "options": {
+      "A": "Amina of Zazzau",
+      "B": "Queen Iden",
+      "C": "Madam Tinubu",
+      "D": "Moremi Ajasoro"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In the context of Nigerian history, what was the main significance of the 1861 Treaty of Lagos?",
+    "options": {
+      "A": "Establishment of a British colony",
+      "B": "End of the slave trade",
+      "C": "Creation of Lagos as a free port",
+      "D": "Beginning of palm oil trade"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian river is famous for forming part of the boundary line between two major West African countries?",
+    "options": {
+      "A": "Niger River",
+      "B": "Benue River",
+      "C": "Cross River",
+      "D": "Kwa River"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The 19th-century Sokoto Jihad was primarily led by the revered scholar, Usman dan _____",
+    "options": {
+      "A": "Sani",
+      "B": "Rasheed",
+      "C": "Fodio",
+      "D": "Waziri"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian ancient city was known for its role in pre-colonial trade, linking the Sub-Saharan regions with North Africa?",
+    "options": {
+      "A": "Zungeru",
+      "B": "Yola",
+      "C": "Kano",
+      "D": "Ibadan"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In Nigerian history, the Aro Confederacy was famously involved in controlling trade routes of which specific commodity?",
+    "options": {
+      "A": "Palm oil",
+      "B": "Ivory",
+      "C": "Slave trade",
+      "D": "Gold"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Who was the warrior queen renowned for expanding her kingdom and defending it against neighboring territories in ancient Nigeria?",
+    "options": {
+      "A": "Queen Amina",
+      "B": "Queen Moremi",
+      "C": "Emotan",
+      "D": "Queen Idia"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the impact of the Lagos Treaty of Cession of 1861 on the political status of the city?",
+    "options": {
+      "A": "Lagos became a British colony",
+      "B": "Lagos was granted independence",
+      "C": "Lagos merged with Benin Empire",
+      "D": "Lagos formed an alliance with the Ashanti"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian ancient kingdom was known for its terracotta sculptures, representing a significant art culture?",
+    "options": {
+      "A": "Benin",
+      "B": "Nri",
+      "C": "Ife",
+      "D": "Arochukwu"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The Yoruba state known for housing the sacred Ife, believed to be the cradle of humanity, is called _____.",
+    "options": {
+      "A": "Oyo",
+      "B": "Ogun",
+      "C": "Osun",
+      "D": "Ondo"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During the colonial period, the railway line connecting Lagos to the northern region of Nigeria was primarily established for what purpose?",
+    "options": {
+      "A": "Military movements",
+      "B": "Agricultural trade",
+      "C": "Cross-cultural exchange",
+      "D": "Tourism enhancement"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The _______ of 1967 heralded a major political and social reorganization across Nigerian territories.",
+    "options": {
+      "A": "Aburi Accord",
+      "B": "Lagos Consensus",
+      "C": "Kaduna Protocol",
+      "D": "Ibadan Declaration"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian royal figure gained legendary status for utilizing both charm and strategy to prevent war with the Nupe?",
+    "options": {
+      "A": "Ooni of Ife",
+      "B": "Emir of Kano",
+      "C": "Oba of Benin",
+      "D": "Queen Moremi"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What historic Nigerian transmutation saw the shift from barter trade to cowries as a form of currency?",
+    "options": {
+      "A": "Ancient Benin Economy",
+      "B": "Nri Trade Rite",
+      "C": "Ife Monetary Revolution",
+      "D": "Old Calabar Trade System"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which ethnic group in pre-colonial Nigeria was known for their iron smelting skills, important for agriculture and warfare?",
+    "options": {
+      "A": "Tiv",
+      "B": "Yoruba",
+      "C": "Igala",
+      "D": "Nupe"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In the history of Nigerian empires, who was the ruler celebrated for his administrative reforms and promotion of trade alliances?",
+    "options": {
+      "A": "Alaafin Sango",
+      "B": "Oba Esigie",
+      "C": "Emir Mohammed Rumfa",
+      "D": "Ewuare the Great"
+    },
+    "answer": "D",
+    "difficulty": "expert",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The ancient trade city of _____ functioned as a key juncture in the movement of goods between the Sahel and the Gulf of Guinea.",
+    "options": {
+      "A": "Sokoto",
+      "B": "Cotonou",
+      "C": "Ogbomoso",
+      "D": "Gwagwalada"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian state is historically recognized for having the first primary school in the northern region?",
+    "options": {
+      "A": "Kaduna",
+      "B": "Kano",
+      "C": "Katsina",
+      "D": "Niger"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In which geopolitical era did the Nigerian city of Lagos emerge as the kernel of political discourse post-colonial independence?",
+    "options": {
+      "A": "First Republic",
+      "B": "Civil Rule",
+      "C": "Military Rule",
+      "D": "Fourth Republic"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which historical Nigerian location is famed for hosting the first colonial British administrative center?",
+    "options": {
+      "A": "Calabar",
+      "B": "Lokoja",
+      "C": "Jos",
+      "D": "Port Harcourt"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Name the Nigerian ancient site acclaimed for its esteemed bronze works and statues that reflect the rich artistry of its people.",
+    "options": {
+      "A": "Nsukka",
+      "B": "Ife",
+      "C": "Lafia",
+      "D": "Zungeru"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What significant event did the 1929 Aba Women\u2019s Riot highlight in Nigerian history?",
+    "options": {
+      "A": "The struggle for independence",
+      "B": "Resistance to colonial taxation",
+      "C": "Demand for educational reforms",
+      "D": "Protests for women's suffrage"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which region in Nigeria was predominantly impacted by the Fulani Jihad, paving the way for the establishment of the Sokoto Caliphate?",
+    "options": {
+      "A": "Southern Nigeria",
+      "B": "Eastern Nigeria",
+      "C": "Northern Nigeria",
+      "D": "Western Nigeria"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During which historical event did the British integrate diverse Nigerian territories to enhance administrative efficiency in the 20th century?",
+    "options": {
+      "A": "The Lagos Conference",
+      "B": "Amalgamation of 1914",
+      "C": "Niger Delta Diplomacy",
+      "D": "Oyo Reformation"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The Nigerian precolonial region known for the extrication and smelting of metals was located around which present-day state?",
+    "options": {
+      "A": "Ondo",
+      "B": "Anambra",
+      "C": "Plateau",
+      "D": "Bayelsa"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The 1950s brought educational reforms in Nigeria led by which political movement aimed at enhancing local governance?",
+    "options": {
+      "A": "Action Group",
+      "B": "NCNC",
+      "C": "Northern People\u2019s Congress",
+      "D": "United Middle Belt Congress"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Under the reign of which Nigerian traditional ruler did the city of Kano become a dominant commercial hub?",
+    "options": {
+      "A": "Emir of Zazzau",
+      "B": "Mai of Bornu",
+      "C": "Sarkin Kano",
+      "D": "King of Ife"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The ancient city of ______ saw extensive copper trade with North African empires centuries ago.",
+    "options": {
+      "A": "Ibadan",
+      "B": "Zaria",
+      "C": "Calabar",
+      "D": "Opobo"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian monarch is credited with instituting reforms that expanded the boundaries of the Benin Kingdom?",
+    "options": {
+      "A": "Oba Ewuare",
+      "B": "Oba Ovonramwen",
+      "C": "Oba Adolo",
+      "D": "Oba Esigie"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The administrative framework of the Sokoto Caliphate was notably influenced by which Islamic scholarly text?",
+    "options": {
+      "A": "Qanun al-Tibb",
+      "B": "The Green Book",
+      "C": "Risalat al-Huqoq",
+      "D": "Futuh al-Habash"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What marked the emergence of the Nigerian film industry, famously known as Nollywood, in the late 20th century?",
+    "options": {
+      "A": "The Palaver Premiere",
+      "B": "Living in Bondage Release",
+      "C": "First Afrobian Film Fest",
+      "D": "Home Video Revolution"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which ancient Nigerian city is characterized by its resilience against colonial conquests through intricate battle strategies?",
+    "options": {
+      "A": "Oyo",
+      "B": "Benin",
+      "C": "Lafia",
+      "D": "Enugu"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During the mid-20th century, which Nigerian city served as a critical launching point for the anti-colonial nationalist movements?",
+    "options": {
+      "A": "Ibadan",
+      "B": "Enugu",
+      "C": "Abuja",
+      "D": "Jos"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The _____ Sultanate was established following a series of military conquests led by a famed Fulani leader.",
+    "options": {
+      "A": "Ogoni",
+      "B": "Sokoto",
+      "C": "Ife",
+      "D": "Nri"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian historical artifact was retrieved after a significant legal battle over looted cultural properties?",
+    "options": {
+      "A": "The Ife Head",
+      "B": "The Benin Plaque",
+      "C": "The Nok Figure",
+      "D": "The Igbo-Ukwu Bronze"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The economic transformation of Lagos into an African metropolitan powerhouse post-independence was driven by which sector?",
+    "options": {
+      "A": "Information technology",
+      "B": "Oil and Gas",
+      "C": "Textile manufacturing",
+      "D": "Agricultural exports"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The Nigerian leader known for promoting non-alignment and pan-Africanism during the Cold War era was ______.",
+    "options": {
+      "A": "Aguiyi-Ironsi",
+      "B": "Yakubu Gowon",
+      "C": "Nnamdi Azikiwe",
+      "D": "Shehu Shagari"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian river was regarded as sacred, fostering various cultural festivities among indigenous communities along its course?",
+    "options": {
+      "A": "Sokoto River",
+      "B": "Imo River",
+      "C": "Benue River",
+      "D": "Osun River"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: During the Nigerian civil governance, the landmark _______ Constitution laid the groundwork for republican democracy.",
+    "options": {
+      "A": "1963",
+      "B": "1950",
+      "C": "1978",
+      "D": "1989"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian festival is celebrated by dressing in exquisite white attire and parading in traditional boats?",
+    "options": {
+      "A": "Osun-Osogbo Festival",
+      "B": "Argungu Festival",
+      "C": "Eyo Festival",
+      "D": "Durbar Festival"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The _______ invasion in 1230 led to significant cultural exchanges with the medieval empires of Nigeria.",
+    "options": {
+      "A": "Portuguese",
+      "B": "Mali",
+      "C": "Benin",
+      "D": "Ethiopian"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The foundation of which Nigerian city is linked to the legendary hero Oduduwa?",
+    "options": {
+      "A": "Kano",
+      "B": "Ife",
+      "C": "Calabar",
+      "D": "Kaduna"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Who is credited with organizing the first pan-African congress in Lagos in 1972 that spurred pan-African sentiments?",
+    "options": {
+      "A": "Herbert Macaulay",
+      "B": "Nnamdi Azikiwe",
+      "C": "Chinua Achebe",
+      "D": "Murtala Mohammed"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During the 16th century, which Nigerian kingdom was renowned for its diplomatic envoy to Portugal?",
+    "options": {
+      "A": "Benin",
+      "B": "Oyo",
+      "C": "Ijebu",
+      "D": "Nri"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What historic Nigerian architectural achievement is considered the oldest of its kind in West Africa?",
+    "options": {
+      "A": "The Kano City Walls",
+      "B": "Ogbunike Caves",
+      "C": "Zuma Rock",
+      "D": "Olumo Rock"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The traditional Igbo society celebrated the first harvest of the yam in a ceremony known as the _______ Festival.",
+    "options": {
+      "A": "Argungu",
+      "B": "New Yam",
+      "C": "Eyo",
+      "D": "Durbar"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian leader was responsible for the establishment of the Nigerian National Youth Council in 1964?",
+    "options": {
+      "A": "Obafemi Awolowo",
+      "B": "Nnamdi Azikiwe",
+      "C": "Yakubu Gowon",
+      "D": "Olusegun Obasanjo"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the historical significance of the Treaty of Badagry signed in 1851 between the British and the Yoruba?",
+    "options": {
+      "A": "Establishment of trade relations",
+      "B": "Cessation of hostilities",
+      "C": "End of the slave trade",
+      "D": "Opening of missionary work"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which innovative agricultural project introduced by the British in 1940 significantly altered the Nigerian agricultural landscape?",
+    "options": {
+      "A": "The Groundnut Pyramid Project",
+      "B": "Palm Kernel Initiative",
+      "C": "Cocoa Export Reform",
+      "D": "Rice Planting Scheme"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The _______ dynasty, known for its matrilineal succession, played a pivotal role in medieval Nigerian politics.",
+    "options": {
+      "A": "Oyo",
+      "B": "Benin",
+      "C": "Ife",
+      "D": "Nupe"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Who was the pioneering explorer that first mapped the course of the River Niger in Nigeria?",
+    "options": {
+      "A": "David Livingstone",
+      "B": "Mungo Park",
+      "C": "Richard Lander",
+      "D": "John Speke"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In Nigerian history, the first monarch to introduce Western education in the north was the ruler of which state?",
+    "options": {
+      "A": "Sokoto",
+      "B": "Kano",
+      "C": "Zaria",
+      "D": "Borno"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What notable policy under colonial rule dictated the roadmap for Nigerian political autonomy during the decolonization phase?",
+    "options": {
+      "A": "Lugard Plan",
+      "B": "Richards Constitution",
+      "C": "Clifford Agreement",
+      "D": "Lyttleton Constitution"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian trade commodity experienced a boom during the 19th century, greatly influencing the regional economy?",
+    "options": {
+      "A": "Oil",
+      "B": "Coal",
+      "C": "Cocoa",
+      "D": "Rubber"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: Nigeria's _______ Basin is significant for containing some of Africa's largest inland water areas.",
+    "options": {
+      "A": "Benue",
+      "B": "Chad",
+      "C": "Niger",
+      "D": "Gongola"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which distinguished Nigerian monarch is remembered for defending his kingdom against British colonization in 1897?",
+    "options": {
+      "A": "King Kosoko",
+      "B": "Oba of Lagos",
+      "C": "Oba Ovonramwen",
+      "D": "Sultan of Sokoto"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The Nigerian conference held in Ibadan in 1950 was significant for what major constitutional development?",
+    "options": {
+      "A": "Formation of a parliamentary system",
+      "B": "Introduction of universal suffrage",
+      "C": "Creation of regional governments",
+      "D": "Declaration of independence"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian state is home to the traditional festival known for its symbolic fishing competition?",
+    "options": {
+      "A": "Kaduna",
+      "B": "Kebbi",
+      "C": "Adamawa",
+      "D": "Cross River"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The 1966 _______ uprising saw significant political changes that shaped modern Nigeria's governance.",
+    "options": {
+      "A": "Ibadan",
+      "B": "Kano",
+      "C": "Niger",
+      "D": "Zaria"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What role did the Nigerian city of Zungeru play in the colonial administration of the early 20th century?",
+    "options": {
+      "A": "First capital of Northern Nigeria",
+      "B": "Major trade hub for cocoa",
+      "C": "Center for missionary activities",
+      "D": "Primary site for colonial resistance"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which historical event represented the first attempt by Nigerians to establish a farmers' cooperative society?",
+    "options": {
+      "A": "The 1946 Benin Conference",
+      "B": "Palm Produce Farmers Union Assembly",
+      "C": "Groundnut Farmers Rally",
+      "D": "Agricultural Development Pact"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In Nigerian folklore, the trickster figure Anansi is most commonly associated with which region\u2019s culture?",
+    "options": {
+      "A": "Igbo",
+      "B": "Yoruba",
+      "C": "Hausa",
+      "D": "Niger Delta"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which diplomatic policy maneuver by Nigeria in the 70s significantly enhanced its ties with the non-aligned movement?",
+    "options": {
+      "A": "Second National Development Plan",
+      "B": "Third Republic Commission",
+      "C": "Lagos Accord",
+      "D": "Addis Ababa Initiative"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the primary focus of the Nigerian NEPA in the post-colonial era?",
+    "options": {
+      "A": "Promoting economic development",
+      "B": "Advance education",
+      "C": "Electric power regulation",
+      "D": "Facilitate political dialogue"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The integration of modern relay techniques was first observed in Nigeria's transport infrastructure in the _______.",
+    "options": {
+      "A": "1920s",
+      "B": "1950s",
+      "C": "1970s",
+      "D": "1990s"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian state's early adoption of Western education set the precedent for modern educational reforms?",
+    "options": {
+      "A": "Enugu",
+      "B": "Anambra",
+      "C": "Ogun",
+      "D": "Kaduna"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What historical Nigerian region was famous for supplying the elite troops known as 'Kano Horsemen' during the Middle Ages?",
+    "options": {
+      "A": "Igboland",
+      "B": "Bornu",
+      "C": "Ijebu",
+      "D": "Zamfara"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian city, known for its Islamic civilization, thrived as a hub for education and commerce in the 19th century?",
+    "options": {
+      "A": "Ibadan",
+      "B": "Kano",
+      "C": "Calabar",
+      "D": "Enugu"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In the early history of Nigeria, which royal dynasty is revered for its role in uniting diverse kingdoms under a common banner?",
+    "options": {
+      "A": "Ijebu",
+      "B": "Nri",
+      "C": "Caliphate",
+      "D": "If\u1eb9"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The renowned _______ ridge in Nigeria is famed for its ancient geological formations.",
+    "options": {
+      "A": "Mambilla",
+      "B": "Obudu",
+      "C": "Oke Ogun",
+      "D": "Mambila"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which influential Nigerian leader was pivotal in restructuring Nigeria's public service system during the 1980s?",
+    "options": {
+      "A": "Shehu Shagari",
+      "B": "Ibrahim Babangida",
+      "C": "Olusegun Obasanjo",
+      "D": "Goodluck Jonathan"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian site is recognized as a UNESCO World Heritage site for its cultural importance and architectural heritage?",
+    "options": {
+      "A": "Benin City",
+      "B": "Sukur Cultural Landscape",
+      "C": "Yankari Game Reserve",
+      "D": "Ogbunike Caves"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What theme characterised Lady Lugard's famous travelling speeches that promoted Nigeria's integration into British culture?",
+    "options": {
+      "A": "Unity",
+      "B": "Trade",
+      "C": "Education",
+      "D": "Religion"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which royal political strategy solidified Ife's status as the spiritual heart of the Yoruba people?",
+    "options": {
+      "A": "Matrimonial alliances",
+      "B": "Trade agreements",
+      "C": "Military campaigns",
+      "D": "Religious rituals"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: As part of Nigeria's Independence celebrations, _______ was declared the Federal Capital Territory in 1976.",
+    "options": {
+      "A": "Lagos",
+      "B": "Calabar",
+      "C": "Port Harcourt",
+      "D": "Abuja"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian trade route, cutting across the savanna, was pivotal during the medieval trans-Saharan trade?",
+    "options": {
+      "A": "Idanre Pass",
+      "B": "Great Western Road",
+      "C": "Zaria Gateway",
+      "D": "Kano Corridor"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the economic focus of Nigeria's Vision 2010 policy framework introduced in the late 1990s?",
+    "options": {
+      "A": "Sustainable agriculture",
+      "B": "Innovative technology",
+      "C": "Educational reforms",
+      "D": "Economic diversification"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian ruler's reign was marked by the establishment of judicial courts for resolving disputes?",
+    "options": {
+      "A": "Oba Ozolua",
+      "B": "Oba Eweka",
+      "C": "Oba Ovonramwen",
+      "D": "Oba Esigie"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which notable Nigerian city was transformed by colonial economic activities, notably in tin mining, during the 1900s?",
+    "options": {
+      "A": "Lagos",
+      "B": "Jos",
+      "C": "Calabar",
+      "D": "Kano"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which festival, significant in Nigerian cultural identity, involves vibrant parades and the welcoming of ancestral spirits?",
+    "options": {
+      "A": "Osun-Osogbo",
+      "B": "Argungu",
+      "C": "Egungun",
+      "D": "Eyo"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The _______ Agreement in Nigerian history led to the peaceful resolution of border disputes in the early 20th century.",
+    "options": {
+      "A": " Lokoja",
+      "B": "Akure",
+      "C": "Ife",
+      "D": "Abuja"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian tradition celebrates the transition of young men into adulthood through symbolic dances?",
+    "options": {
+      "A": "Atilogwu",
+      "B": "Eyo",
+      "C": "Igede",
+      "D": "Bini"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian state saw the historic Sipik-Sipik war that transformed its political landscape in the 19th century?",
+    "options": {
+      "A": "Borno",
+      "B": "Kano",
+      "C": "Ondo",
+      "D": "Edo"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What role did the introduction of mechanized farming play in the agricultural landscape of Nigeria in the 1960s?",
+    "options": {
+      "A": "Labor migration to urban areas",
+      "B": "Increased crop diversity",
+      "C": "Reduction in food imports",
+      "D": "Industrial overproduction"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian military operation in the late 1960s was aimed at reintegrating secessionist territories?",
+    "options": {
+      "A": "Operation Kawashi",
+      "B": "Operation UniFlight",
+      "C": "Operation Tiger Claw",
+      "D": "Operation Unity"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The climatic _______ of the early 20th century profoundly influenced agricultural practices in Northern Nigeria.",
+    "options": {
+      "A": "cooling",
+      "B": "warming",
+      "C": "drying",
+      "D": "flooding"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The mysterious Nok culture influenced which southern Nigerian art form?",
+    "options": {
+      "A": "Benin bronze casting",
+      "B": "Igbo-Ukwu metalwork",
+      "C": "Yoruba terracotta",
+      "D": "Nsibidi script art"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In which year was the Nigerian flag designed, symbolizing peace with its green and white stripes?",
+    "options": {
+      "A": "1959",
+      "B": "1960",
+      "C": "1963",
+      "D": "1971"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During the early 20th century, which river was central to British colonial transport strategies in Nigeria?",
+    "options": {
+      "A": "Benue River",
+      "B": "Niger River",
+      "C": "Cross River",
+      "D": "Gongola River"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Identify the treaty that formalized the British annexation of Epe in the 19th century.",
+    "options": {
+      "A": "Epe Accord",
+      "B": "Treaty of Lagos",
+      "C": "Ife Settlement",
+      "D": "Benin Pact"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The fusion of Yoruba drumming and Brazilian rhythms gave rise to which musical genre?",
+    "options": {
+      "A": "Afrobeat",
+      "B": "Juju",
+      "C": "Samba",
+      "D": "Highlife"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In ancient Nigeria, the term 'Obong' was primarily associated with rulers of which ethnic group?",
+    "options": {
+      "A": "Igbo",
+      "B": "Yoruba",
+      "C": "Efik",
+      "D": "Nupe"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which ancient Nigerian city was a member of the trans-Saharan trade network, linking it to distant territories like Egypt?",
+    "options": {
+      "A": "Zaria",
+      "B": "Kano",
+      "C": "Oyo",
+      "D": "Ife"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The Nigerian traditional system known as 'Aro' was pivotal in what type of community governance?",
+    "options": {
+      "A": "Democratic councils",
+      "B": "Kinship networks",
+      "C": "Trade alliances",
+      "D": "Religious hierarchies"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian leader's vision pushed for the industrialization of Nigeria post-independence?",
+    "options": {
+      "A": "Ahmadu Bello",
+      "B": "Obafemi Awolowo",
+      "C": "Nnamdi Azikiwe",
+      "D": "Yakubu Gowon"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In the Nigerian context, the early post-colonial era witnessed which significant event reshaping the political landscape?",
+    "options": {
+      "A": "Aba Riot",
+      "B": "Biafran War",
+      "C": "First Republic Collapse",
+      "D": "Niger Delta Crisis"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The title 'Oba' is historically associated with which region in Nigeria?",
+    "options": {
+      "A": "South-eastern",
+      "B": "Northern",
+      "C": "Western",
+      "D": "Central"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The renowned Nok culture thrived in the _______ of Nigeria, known for its terracotta art.",
+    "options": {
+      "A": "Southwest",
+      "B": "Northwest",
+      "C": "Central Plateau",
+      "D": "Eastern Escarpment"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which kingdom, during Nigeria's pre-colonial era, was famed for its copper Alloys?",
+    "options": {
+      "A": "Kanem-Bornu",
+      "B": "Benin",
+      "C": "Oyo",
+      "D": "Calabar"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The introduction of the cacao plant into Nigeria can be traced back to which period?",
+    "options": {
+      "A": "18th century",
+      "B": "19th century",
+      "C": "17th century",
+      "D": "20th century"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the cultural impact of the Iberian Peninsula's contact with Nigeria via Portuguese traders?",
+    "options": {
+      "A": "Introduction of gunpowder",
+      "B": "Spread of Christianity",
+      "C": "Introduction of maize",
+      "D": "Development of naval technology"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In which Nigerian ancient state did the Nok people engage in early iron smelting?",
+    "options": {
+      "A": "Oyo",
+      "B": "Benue",
+      "C": "Taraba",
+      "D": "Plateau"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian historical figure was significant in promoting women's rights in the early 20th century?",
+    "options": {
+      "A": "Flora Nwapa",
+      "B": "Ransome-Kuti",
+      "C": "No \u0161Details",
+      "D": "Amina of Zaria"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What historical Nigerian document outlined plans for Nigeria's independence in 1960?",
+    "options": {
+      "A": "Olusegun's Blueprint",
+      "B": "Richards Constitution",
+      "C": "Lagos Proclamation",
+      "D": "Colonial Charter"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which notable summit led to the establishment of Nigeria's second republic?",
+    "options": {
+      "A": "Lagos Commune",
+      "B": "Enugu Gathering",
+      "C": "Kaduna Convention",
+      "D": "Ibadan Conclave"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The title 'Mai' was held by rulers in which prominent Nigerian state?",
+    "options": {
+      "A": "Benue",
+      "B": "Sokoto",
+      "C": "Borno",
+      "D": "Ibadan"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In Nigerian folklore, what animal is often depicted as a wise trickster and appears in tales across West Africa?",
+    "options": {
+      "A": "Tortoise",
+      "B": "Dog",
+      "C": "Lion",
+      "D": "Frog"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During Nigeria's early post-independence era, which project symbolized a push towards industrial self-reliance?",
+    "options": {
+      "A": "Green Revolution",
+      "B": "Operation Feed the Nation",
+      "C": "Iron and Steel Complex",
+      "D": "Power Reforms"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The ancient kingdom of _______ was renowned for its elaborate bronze sculptures showcasing riverside deities.",
+    "options": {
+      "A": "Benin",
+      "B": "Nri",
+      "C": "Ife",
+      "D": "Sokoto"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which Nigerian city's establishment was significantly impacted by the Kano horse-based social structure?",
+    "options": {
+      "A": "Ilorin",
+      "B": "Lagos",
+      "C": "Zaria",
+      "D": "Sokoto"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In the 14th century, which intricated system was developed in Tsibiri by the Hausa people to ensure water supply?",
+    "options": {
+      "A": "Wells",
+      "B": "Canals",
+      "C": "Dams",
+      "D": "Aqueducts"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Under colonial British rule, how were the Northern and Southern Protectorates administratively united in Nigeria?",
+    "options": {
+      "A": "The Treaty of Amalgamation",
+      "B": "The Nigerian Charter",
+      "C": "The Colonial Act",
+      "D": "The Amalgamation Order"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What unique feature distinguished the socio-political structure of the Ife kingdom in ancient Nigeria?",
+    "options": {
+      "A": "Caste system",
+      "B": "Clan councils",
+      "C": "Matrilineal succession",
+      "D": "Merchant guilds"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which scholar's translation of Arabic texts greatly influenced the spread of Islamic education in Nigeria?",
+    "options": {
+      "A": "Ibn Battuta",
+      "B": "Usman dan Fodio",
+      "C": "Alhajji Tijani",
+      "D": "Al Bakri"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The history of Nigeria includes diviners known as what, who use ancient texts for spiritual insights?",
+    "options": {
+      "A": "Basaki",
+      "B": "Awo",
+      "C": "Nze",
+      "D": "Babalawo"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the primary purpose of designating Abuja the capital of Nigeria in 1976?",
+    "options": {
+      "A": "Economics",
+      "B": "Cultural balance",
+      "C": "Political neutrality",
+      "D": "Trade expansion"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The Niger Company, prior to formal colonial administration, played what role in Nigeria's economic history?",
+    "options": {
+      "A": "Formalized trade routes",
+      "B": "Established colonial law",
+      "C": "Built infrastructures",
+      "D": "Controlled trade monopolies"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which resource, highly prized during the Nok age, offered cultural insights through artifacts?",
+    "options": {
+      "A": "Gold",
+      "B": "Iron",
+      "C": "Copper",
+      "D": "Tin"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "How did the introduction of cassava by the Portuguese revolutionize the Nigerian diet?",
+    "options": {
+      "A": "Improved health",
+      "B": "Diversified cuisines",
+      "C": "Increased yield",
+      "D": "Perfected flavors"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In pre-colonial Nigeria, the Suruke art form is best identified with which cultural expression?",
+    "options": {
+      "A": "Water painting",
+      "B": "Dance",
+      "C": "Woodwork",
+      "D": "Textile dyeing"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which renowned publication emerged during Nigeria's colonial period as a voice for independence?",
+    "options": {
+      "A": "Daily Herald",
+      "B": "Nigerian Morning Post",
+      "C": "The Iwe Irohin",
+      "D": "African Telegraph"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which ancient Nigerian archaeological site is known for its meticulously carved stone buildings?",
+    "options": {
+      "A": "Kano",
+      "B": "Benin City",
+      "C": "Timbuktu",
+      "D": "Sukur"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In the post-independence era, which Nigerian city emerged as a center for high finance and commerce?",
+    "options": {
+      "A": "Onitsha",
+      "B": "Kano",
+      "C": "Abuja",
+      "D": "Lagos"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "After 1960, how did UAC impact Nigeria's consumer goods market?",
+    "options": {
+      "A": "Monopolizing",
+      "B": "Refining practices",
+      "C": "Local partnerships",
+      "D": "Advanced innovations"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In the pre-colonial era, what unique role did the monarchs from Benin Kingdom play in regional trade?",
+    "options": {
+      "A": "Cattle farmers",
+      "B": "Ocean navigators",
+      "C": "Diplomatic envoys",
+      "D": "Leather manufacturers"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Fill in the blank: The _______ Conference of 1950 marked a major political shift in Nigeria's move towards independence.",
+    "options": {
+      "A": "Olusegun",
+      "B": "Council",
+      "C": "Lagos",
+      "D": "Ibadan"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "During the historic era, which ethnic group in Nigeria was recognized for their advanced knowledge in metal recasting?",
+    "options": {
+      "A": "Yoruba",
+      "B": "Nupe",
+      "C": "Hausa",
+      "D": "Bini"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which colonial-era infrastructure project connected Nigeria's hinterland to the coastline?",
+    "options": {
+      "A": "Lagos Wharf Development",
+      "B": "Niger Bridge",
+      "C": "Enugu Airport",
+      "D": "Railway Network"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "The Nigerian kingdom of Borno was often involved in conflicts over what critical natural asset?",
+    "options": {
+      "A": "Timber",
+      "B": "Salt",
+      "C": "Gold",
+      "D": "Oil"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Name the historical Nigerian ruler known for constructing a network of canals in Oyo.",
+    "options": {
+      "A": "Basorun Gaa",
+      "B": "Alaafin Abiodun",
+      "C": "Oba Aro",
+      "D": "Alaafin Kori"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What significant influence did the introduction of horses have on military strategies in Hausa city-states?",
+    "options": {
+      "A": "Rapid expansion",
+      "B": "Hierarchical structures",
+      "C": "Naval dominance",
+      "D": "Operational refinements"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What notable legal change did the National Mining Act in Nigeria introduce during the 1940s?",
+    "options": {
+      "A": "Restricted land use",
+      "B": "Royal Mining Rights",
+      "C": "Localized ownership",
+      "D": "Mineral extraction permits"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "How did the Nigerian proverb 'Water no get enemy' come to symbolize post-war reconciliation?",
+    "options": {
+      "A": "Rivers are uniting",
+      "B": "Water is essential",
+      "C": "Neutral symbolism",
+      "D": "Represents peace"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which form of cultural expression served as a method of historical record-keeping in Yoruba tradition?",
+    "options": {
+      "A": "Cave paintings",
+      "B": "Oral poetry",
+      "C": "Carved pillars",
+      "D": "Dance-storytelling"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What role did the advent of new weaving technologies play in altering Nigerian textile traditions?",
+    "options": {
+      "A": "Diversified patterns",
+      "B": "Global monopoly",
+      "C": "Mass production",
+      "D": "Ancient revival"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "Which region was central to the Sokoto Caliphate's administration during the height of its power?",
+    "options": {
+      "A": "Eastern",
+      "B": "Central",
+      "C": "Western",
+      "D": "Northern"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What gap did General Yakubu Gowon's creation of 12 states in Nigeria aim to close in the mid-20th century?",
+    "options": {
+      "A": "Trading inconsistencies",
+      "B": "Ethnic diversity",
+      "C": "Resource allocation",
+      "D": "Educational disparities"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "What was the purpose of the Nigerian National Conference held in 2014?",
+    "options": {
+      "A": "To draft a new constitution",
+      "B": "To address ethnic conflict",
+      "C": "To discuss resource control",
+      "D": "To promote national unity"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "topic_generator > nigerian_history"
+  },
+  {
+    "question": "Who was the leader of the National Democratic Coalition (NADECO) during the 1990s?",
+    "options": {
+      "A": "Olusegun Obasanjo",
+      "B": "Abiola Abiola",
+      "C": "Ayo Opadokun",
+      "D": "Bola Ahmed Tinubu"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "topic_generator > nigerian_history"
+  }
+]

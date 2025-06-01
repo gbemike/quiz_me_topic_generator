@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Who led the opposition against British colonial rule in the early 20th century?",
+    "options": {
+      "A": "Herbert Macaulay",
+      "B": "Nnamdi Azikiwe",
+      "C": "Obafemi Awolowo",
+      "D": "Ahmadu Bello"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > british_conquest"
+  },
+  {
+    "question": "In what year was the Native Authority Ordinance introduced?",
+    "options": {
+      "A": "1931",
+      "B": "1926",
+      "C": "1948",
+      "D": "1942"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > british_conquest"
+  },
+  {
+    "question": "What was the primary purpose of the 1922 Clifford Constitution?",
+    "options": {
+      "A": "To promote local governance",
+      "B": "To establish a legislative council",
+      "C": "To end British rule",
+      "D": "To reform land ownership"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > british_conquest"
+  },
+  {
+    "question": "Who were the main actors in the Lagos Aborigines Rights Protection Society formed in 1897?",
+    "options": {
+      "A": "Educated elites",
+      "B": "Farmers",
+      "C": "Businessmen",
+      "D": "Missionaries"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > british_conquest"
+  },
+  {
+    "question": "The British forced the Oyo Empire to sign a treaty in which year?",
+    "options": {
+      "A": "1893",
+      "B": "1897",
+      "C": "1900",
+      "D": "1905"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > british_conquest"
+  },
+  {
+    "question": "What was a major outcome of the 1944 Education Ordinance in Nigeria?",
+    "options": {
+      "A": "Establishment of more schools",
+      "B": "Promotion of vocational training",
+      "C": "Increased access to education for women",
+      "D": "Introduction of standardized examination"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > british_conquest"
+  },
+  {
+    "question": "In 1954, which of the following regions was given more autonomy under the Lyttleton Constitution?",
+    "options": {
+      "A": "Northern Region",
+      "B": "Western Region",
+      "C": "Eastern Region",
+      "D": "All regions"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > british_conquest"
+  },
+  {
+    "question": "What major infrastructure was built by the British to improve transport in Nigeria?",
+    "options": {
+      "A": "Railways",
+      "B": "Airports",
+      "C": "Highways",
+      "D": "Ports"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > british_conquest"
+  },
+  {
+    "question": "The principle of 'Divide and Rule' was effectively used by the British to:",
+    "options": {
+      "A": "Promote unity",
+      "B": "Weaken resistance",
+      "C": "Encourage trade",
+      "D": "Support education"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > british_conquest"
+  },
+  {
+    "question": "Who led the protest against the British imposition of the 1948 British Education Ordinance?",
+    "options": {
+      "A": "Nnamdi Azikiwe",
+      "B": "Obafemi Awolowo",
+      "C": "Funmilayo Ransome-Kuti",
+      "D": "Samuel Akintola"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "colonial_era_1861_1960 > british_conquest"
+  }
+]

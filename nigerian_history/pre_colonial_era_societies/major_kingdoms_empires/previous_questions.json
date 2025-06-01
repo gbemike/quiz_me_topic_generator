@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Which kingdom is recognized for its unique political system involving a council of chiefs?",
+    "options": {
+      "A": "Sokoto Caliphate",
+      "B": "Benin Kingdom",
+      "C": "Oyo Empire",
+      "D": "Ijaw Kingdom"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "pre_colonial_era_societies > major_kingdoms_empires"
+  },
+  {
+    "question": "What significant event is associated with the reign of Sango in the Oyo Empire?",
+    "options": {
+      "A": "Founding of the Empire",
+      "B": "Creation of the Yoruba pantheon",
+      "C": "The introduction of horse riding",
+      "D": "Establishment of the city of Oyo"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "pre_colonial_era_societies > major_kingdoms_empires"
+  },
+  {
+    "question": "Which empire was established in the 11th century and was known for its wealth from the gold trade?",
+    "options": {
+      "A": "Songhai Empire",
+      "B": "Mali Empire",
+      "C": "Oyo Empire",
+      "D": "Kanem-Bornu"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "pre_colonial_era_societies > major_kingdoms_empires"
+  },
+  {
+    "question": "The city of Jenne was an important center for which empire?",
+    "options": {
+      "A": "Sokoto Caliphate",
+      "B": "Mali Empire",
+      "C": "Benin Empire",
+      "D": "Oyo Empire"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "pre_colonial_era_societies > major_kingdoms_empires"
+  },
+  {
+    "question": "Which empire\u2019s economy was heavily based on palm oil production?",
+    "options": {
+      "A": "Benin Empire",
+      "B": "Oyo Empire",
+      "C": "Kanem-Bornu",
+      "D": "Sokoto Caliphate"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "pre_colonial_era_societies > major_kingdoms_empires"
+  },
+  {
+    "question": "Which of these empires was primarily matrilineal in its succession practices?",
+    "options": {
+      "A": "Benin Empire",
+      "B": "Oyo Empire",
+      "C": "Sokoto Caliphate",
+      "D": "Igala Kingdom"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "pre_colonial_era_societies > major_kingdoms_empires"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What phrase describes the phenomenon where oil wealth did not translate into economic prosperity for the locals?",
+    "options": {
+      "A": "Resource Curse",
+      "B": "Economic Boom",
+      "C": "Wealth Distribution",
+      "D": "Poverty Trap"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The discovery of oil in Oloibiri (1956)"
+  },
+  {
+    "question": "In the 1960s, Nigeria became one of the top oil producers in which continent?",
+    "options": {
+      "A": "Africa",
+      "B": "Asia",
+      "C": "Europe",
+      "D": "South America"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The discovery of oil in Oloibiri (1956)"
+  },
+  {
+    "question": "Which movement arose in response to the negative impacts of oil exploration in the Niger Delta?",
+    "options": {
+      "A": "MEND",
+      "B": "Niger Delta Avengers",
+      "C": "IYC",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The discovery of oil in Oloibiri (1956)"
+  },
+  {
+    "question": "What is the term for a community's right to benefit from the resources located on their land?",
+    "options": {
+      "A": "Resource entitlement",
+      "B": "Indigenous rights",
+      "C": "Benefit sharing",
+      "D": "Community ownership"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "economic_and_social_history > The discovery of oil in Oloibiri (1956)"
+  }
+]

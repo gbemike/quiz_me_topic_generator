@@ -1,0 +1,36 @@
+[
+  {
+    "question": "True or False: Afrobeats is primarily a male-dominated genre.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The rise of Nigeria\u2019s entertainment industry (Nollywood, Afrobeats)"
+  },
+  {
+    "question": "Which actor founded the 'Wellness with Genny' initiative to promote health awareness?",
+    "options": {
+      "A": "Chiwetel Ejiofor",
+      "B": "Genevieve Nnaji",
+      "C": "Richard Mofe-Damijo",
+      "D": "Desmond Elliot"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The rise of Nigeria\u2019s entertainment industry (Nollywood, Afrobeats)"
+  },
+  {
+    "question": "Which actor is also a politician and starred in the movie 'The Last Letter'?",
+    "options": {
+      "A": "Jim Iyke",
+      "B": "Desmond Elliot",
+      "C": "Ramsey Nouah",
+      "D": "RMD"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The rise of Nigeria\u2019s entertainment industry (Nollywood, Afrobeats)"
+  }
+]

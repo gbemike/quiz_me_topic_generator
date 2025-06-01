@@ -1,0 +1,14 @@
+[
+  {
+    "question": "The Lagos-Ibadan Expressway is significant for what reason?",
+    "options": {
+      "A": "Tourism development",
+      "B": "Trade facilitation",
+      "C": "Agricultural transport",
+      "D": "Cultural exchange"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history > economic_and_social_history"
+  }
+]

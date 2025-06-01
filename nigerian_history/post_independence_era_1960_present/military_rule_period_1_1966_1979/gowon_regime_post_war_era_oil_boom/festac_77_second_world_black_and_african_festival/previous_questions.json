@@ -1,0 +1,26 @@
+[
+  {
+    "question": "The term 'Black and African Festival' aims to celebrate the influence of which group?",
+    "options": {
+      "A": "Indigenous peoples",
+      "B": "African diaspora",
+      "C": "European settlers",
+      "D": "Middle Eastern communities"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "gowon_regime_post_war_era_oil_boom > festac_77_second_world_black_and_african_festival"
+  },
+  {
+    "question": "What was the role of the Federal Ministry of Information during FESTAC '77?",
+    "options": {
+      "A": "Sponsorship",
+      "B": "Public relations",
+      "C": "Event organization",
+      "D": "Security management"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "gowon_regime_post_war_era_oil_boom > festac_77_second_world_black_and_african_festival"
+  }
+]

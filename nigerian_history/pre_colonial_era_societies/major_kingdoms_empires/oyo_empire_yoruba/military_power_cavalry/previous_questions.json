@@ -1,0 +1,74 @@
+[
+  {
+    "question": "The leadership of the cavalry was typically held by a rank known as?",
+    "options": {
+      "A": "Oba",
+      "B": "Balogun",
+      "C": "Alake",
+      "D": "Are Ona Kakanfo"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "oyo_empire_yoruba > military_power_cavalry"
+  },
+  {
+    "question": "What was the main challenge faced by the Oyo cavalry during the rainy season?",
+    "options": {
+      "A": "Mud and slippage",
+      "B": "Food shortages",
+      "C": "Enemy ambushes",
+      "D": "Lack of soldiers"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "oyo_empire_yoruba > military_power_cavalry"
+  },
+  {
+    "question": "What was one common practice for maintaining the cavalry horses' health?",
+    "options": {
+      "A": "Regular bathing",
+      "B": "Diet control",
+      "C": "Training drills",
+      "D": "Racing"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "oyo_empire_yoruba > military_power_cavalry"
+  },
+  {
+    "question": "Which cultural value was emphasized in the training of Oyo cavalry soldiers?",
+    "options": {
+      "A": "Bravery",
+      "B": "Loyalty",
+      "C": "Wisdom",
+      "D": "Cunning"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "oyo_empire_yoruba > military_power_cavalry"
+  },
+  {
+    "question": "What practice helped the Oyo cavalry scout for enemy movements?",
+    "options": {
+      "A": "Drones",
+      "B": "Horseback patrols",
+      "C": "Spy networks",
+      "D": "Rituals"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "oyo_empire_yoruba > military_power_cavalry"
+  },
+  {
+    "question": "The cavalry's effectiveness was enhanced by their use of which type of formation?",
+    "options": {
+      "A": "Circle",
+      "B": "Line",
+      "C": "Square",
+      "D": "Diagonal"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "oyo_empire_yoruba > military_power_cavalry"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Which Hausa ruler established a renowned school of Islamic learning in Katsina in the 16th century?",
+    "options": {
+      "A": "Muhammad Rumfa",
+      "B": "Mohammed Bawa",
+      "C": "Usman dan Fodio",
+      "D": "Sarkin Katsina"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "major_kingdoms_empires > hausa_states_kano_katsina_zazzau"
+  },
+  {
+    "question": "Zazzau was historically known for its involvement in what trade?",
+    "options": {
+      "A": "Human trafficking",
+      "B": "Gold trade",
+      "C": "Slave trade",
+      "D": "Cotton trade"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "major_kingdoms_empires > hausa_states_kano_katsina_zazzau"
+  },
+  {
+    "question": "What important role did the Gwari people play in the history of the Hausa states?",
+    "options": {
+      "A": "Trade partners",
+      "B": "Military allies",
+      "C": "Cultural exchange",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "major_kingdoms_empires > hausa_states_kano_katsina_zazzau"
+  },
+  {
+    "question": "Kano's dialect of Hausa is often referred to as what?",
+    "options": {
+      "A": "Rugaji",
+      "B": "Kano Hausa",
+      "C": "Zazzau Hausa",
+      "D": "Katsina Hausa"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "major_kingdoms_empires > hausa_states_kano_katsina_zazzau"
+  }
+]

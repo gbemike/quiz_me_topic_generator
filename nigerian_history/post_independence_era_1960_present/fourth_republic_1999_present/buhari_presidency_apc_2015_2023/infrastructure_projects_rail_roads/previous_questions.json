@@ -1,0 +1,278 @@
+[
+  {
+    "question": "Which city serves as a terminus for the revived Port Harcourt-Makurdi railway line?",
+    "options": {
+      "A": "Enugu",
+      "B": "Makurdi",
+      "C": "Port Harcourt",
+      "D": "Calabar"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "In 2021, which railway line was launched to connect Kano to Kaduna?",
+    "options": {
+      "A": "Kano-Niger Rail",
+      "B": "Kano-Kaduna Line",
+      "C": "Kano-Abuja Rail",
+      "D": "Kano-Port Harcourt Line"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "What is the maximum speed of the Abuja-Kaduna train service?",
+    "options": {
+      "A": "80 km/h",
+      "B": "100 km/h",
+      "C": "120 km/h",
+      "D": "150 km/h"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "Which railway station serves as the main hub for the Abuja Light Rail?",
+    "options": {
+      "A": "Gwagwalada",
+      "B": "Central Station",
+      "C": "Jabi Lake",
+      "D": "Nyanya"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "The Abuja-Kaduna railway connects to which major airport?",
+    "options": {
+      "A": "Nnamdi Azikiwe International Airport",
+      "B": "Murtala Muhammed International Airport",
+      "C": "Port Harcourt International Airport",
+      "D": "Akanu Ibiam International Airport"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "In 2022, which railway corridor was primarily focused on for freight transport?",
+    "options": {
+      "A": "Lagos-Kano",
+      "B": "Port Harcourt-Makurdi",
+      "C": "Itakpe-Warri",
+      "D": "Kano-Kaduna"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "In 2019, which railway project was completed to aid transportation in the southeastern region?",
+    "options": {
+      "A": "Port Harcourt-Aba",
+      "B": "Ajaokuta-Warri",
+      "C": "Enugu-Port Harcourt",
+      "D": "Itakpe-Ajaokuta"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "What is the total projected distance of the Nigerian Railway Modernization Project?",
+    "options": {
+      "A": "500 km",
+      "B": "600 km",
+      "C": "700 km",
+      "D": "800 km"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "Which railway line was prioritized during the Buhari administration for completion in the South-East region?",
+    "options": {
+      "A": "Lagos-Ibadan",
+      "B": "Port Harcourt-Makurdi",
+      "C": "Itakpe-Ajaokuta",
+      "D": "Kano-Kaduna"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "Which of the following is a major benefit of the Abuja-Kaduna railway service?",
+    "options": {
+      "A": "Reduction in traffic congestion",
+      "B": "Increased air travel",
+      "C": "Boost in maritime transport",
+      "D": "Decline in road safety"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "What innovative feature was introduced to the Abuja Light Rail system during its launch?",
+    "options": {
+      "A": "Electric trains",
+      "B": "Solar panel stations",
+      "C": "Real-time tracking system",
+      "D": "High-speed trains"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "What was the estimated budget for the Lagos-Ibadan railway project?",
+    "options": {
+      "A": "$1.2 billion",
+      "B": "$1.5 billion",
+      "C": "$2 billion",
+      "D": "$700 million"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "What year did the first commercial train service on the Abuja-Kaduna railway officially begin?",
+    "options": {
+      "A": "2016",
+      "B": "2017",
+      "C": "2018",
+      "D": "2019"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "Which government agency is primarily responsible for railway development in Nigeria?",
+    "options": {
+      "A": "Nigerian Railway Corporation",
+      "B": "Federal Ministry of Works",
+      "C": "Nigerian Ports Authority",
+      "D": "Federal Road Safety Corps"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "What type of locomotives were introduced in the Lagos-Ibadan railway modernization?",
+    "options": {
+      "A": "Diesel-electric",
+      "B": "Steam",
+      "C": "Electric",
+      "D": "Hydrogen-powered"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "Which railway line serves as a key route for the transportation of agricultural products from the north?",
+    "options": {
+      "A": "Kano-Kaduna",
+      "B": "Calabar-Port Harcourt",
+      "C": "Itakpe-Ajaokuta",
+      "D": "Lagos-Ibadan"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "In what year did the Buhari administration launch the Abuja Light Rail project?",
+    "options": {
+      "A": "2014",
+      "B": "2015",
+      "C": "2016",
+      "D": "2017"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "Which international company partnered with Nigeria for the Lagos-Ibadan railway project?",
+    "options": {
+      "A": "China Civil Engineering Construction Corporation",
+      "B": "Boeing",
+      "C": "Siemens",
+      "D": "Alstom"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "Which city is the starting point of the Lagos-Ibadan railway line?",
+    "options": {
+      "A": "Ibadan",
+      "B": "Lagos",
+      "C": "Abeokuta",
+      "D": "Port Harcourt"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "What is a notable feature of the newly constructed railway stations in Nigeria?",
+    "options": {
+      "A": "Air-conditioned waiting areas",
+      "B": "Free internet access",
+      "C": "Shopping malls",
+      "D": "Children's playgrounds"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "What technology was introduced in the Abuja-Kaduna line to improve safety?",
+    "options": {
+      "A": "GPS tracking",
+      "B": "Automated braking systems",
+      "C": "Signalling systems",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "How many major railway lines were targeted for completion under Buhari's administration?",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "8",
+      "D": "12"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  },
+  {
+    "question": "Which railway line was completed to facilitate the movement of goods from the North to the South?",
+    "options": {
+      "A": "Kano-Maiduguri",
+      "B": "Jebba-Kabba",
+      "C": "Itakpe-Warri",
+      "D": "Kano-Kaduna"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > infrastructure_projects_rail_roads"
+  }
+]

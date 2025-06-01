@@ -1,0 +1,110 @@
+[
+  {
+    "question": "What is a major challenge faced by traders in Onitsha Market?",
+    "options": {
+      "A": "High tariffs",
+      "B": "Flooding",
+      "C": "Transport delays",
+      "D": "Competition from Lagos"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > trade_routes_and_markets_onitsha_market"
+  },
+  {
+    "question": "Which demographic predominantly sells goods in Onitsha Market?",
+    "options": {
+      "A": "Young men",
+      "B": "Elderly women",
+      "C": "Single mothers",
+      "D": "Teenagers"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > trade_routes_and_markets_onitsha_market"
+  },
+  {
+    "question": "Which age group makes up a significant portion of the labor force in Onitsha's trade?",
+    "options": {
+      "A": "Children",
+      "B": "Young adults",
+      "C": "Middle-aged",
+      "D": "Seniors"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > trade_routes_and_markets_onitsha_market"
+  },
+  {
+    "question": "What is a consequence of market congestion in Onitsha?",
+    "options": {
+      "A": "Increased prices",
+      "B": "Reduced sales",
+      "C": "Accidents",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "igbo_societies > trade_routes_and_markets_onitsha_market"
+  },
+  {
+    "question": "What role do cooperatives play in Onitsha's trade environment?",
+    "options": {
+      "A": "Providing loans",
+      "B": "Collective bargaining",
+      "C": "Training members",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "igbo_societies > trade_routes_and_markets_onitsha_market"
+  },
+  {
+    "question": "What is often the first step for a new trader in Onitsha Market?",
+    "options": {
+      "A": "Renting a stall",
+      "B": "Finding a supplier",
+      "C": "Joining a union",
+      "D": "Advertising products"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "igbo_societies > trade_routes_and_markets_onitsha_market"
+  },
+  {
+    "question": "Which of the following is a popular form of payment amongst traders in Onitsha Market?",
+    "options": {
+      "A": "Cash",
+      "B": "Barter",
+      "C": "Mobile money",
+      "D": "Cryptocurrency"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "igbo_societies > trade_routes_and_markets_onitsha_market"
+  },
+  {
+    "question": "What major change has occurred in Onitsha Market due to urbanization?",
+    "options": {
+      "A": "Decreased population",
+      "B": "Increased technology use",
+      "C": "Reduced variety of goods",
+      "D": "Less daily traffic"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > trade_routes_and_markets_onitsha_market"
+  },
+  {
+    "question": "Which organization is responsible for maintaining order in Onitsha Market?",
+    "options": {
+      "A": "Community council",
+      "B": "Market association",
+      "C": "Local police",
+      "D": "Federal government"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > trade_routes_and_markets_onitsha_market"
+  }
+]

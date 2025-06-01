@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Sani Abacha's rule was marked by which of the following actions regarding press freedom?",
+    "options": {
+      "A": "Enhanced freedom",
+      "B": "Increased censorship",
+      "C": "International partnerships",
+      "D": "Open reporting initiatives"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "military_rule_period_2_1983_1999 > abacha_regime_1993_1998"
+  },
+  {
+    "question": "What was the main focus of the National Drug Law Enforcement Agency (NDLEA) established during Abacha's rule?",
+    "options": {
+      "A": "Tax collection",
+      "B": "Public health",
+      "C": "Drug trafficking prevention",
+      "D": "Political imprisonment"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "military_rule_period_2_1983_1999 > abacha_regime_1993_1998"
+  },
+  {
+    "question": "During Abacha's rule, Nigeria became the world\u2019s leading producer of which illicit drug?",
+    "options": {
+      "A": "Cocaine",
+      "B": "Heroin",
+      "C": "Cannabis",
+      "D": "Opium"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "military_rule_period_2_1983_1999 > abacha_regime_1993_1998"
+  },
+  {
+    "question": "What did Abacha do to the Nigerian currency in 1994?",
+    "options": {
+      "A": "Revalued it",
+      "B": "Devalued it",
+      "C": "Fixed it",
+      "D": "Banned it"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "military_rule_period_2_1983_1999 > abacha_regime_1993_1998"
+  },
+  {
+    "question": "Which television network was popular during Abacha\u2019s regime for broadcasting state propaganda?",
+    "options": {
+      "A": "NTA",
+      "B": "TV Continental",
+      "C": "Channels TV",
+      "D": "AIT"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "military_rule_period_2_1983_1999 > abacha_regime_1993_1998"
+  },
+  {
+    "question": "What strategy did Abacha employ to curb dissent among journalists?",
+    "options": {
+      "A": "Grants",
+      "B": "Censorship and harassment",
+      "C": "Collaboration",
+      "D": "Sponsorship"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "military_rule_period_2_1983_1999 > abacha_regime_1993_1998"
+  },
+  {
+    "question": "Who was the civilian leader that was supposed to take office after the annulled 1993 elections?",
+    "options": {
+      "A": "Bola Ahmed Tinubu",
+      "B": "Moshood Abiola",
+      "C": "Abdulsalami Abubakar",
+      "D": "Olusegun Obasanjo"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "military_rule_period_2_1983_1999 > abacha_regime_1993_1998"
+  }
+]

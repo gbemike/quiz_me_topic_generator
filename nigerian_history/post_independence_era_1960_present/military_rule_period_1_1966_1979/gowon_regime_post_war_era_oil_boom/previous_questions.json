@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Which major natural disaster occurred in Nigeria during Gowon\u2019s regime, causing significant droughts?",
+    "options": {
+      "A": "Floods",
+      "B": "Earthquake",
+      "C": "Desertification",
+      "D": "Volcanic eruption"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "military_rule_period_1_1966_1979 > gowon_regime_post_war_era_oil_boom"
+  },
+  {
+    "question": "Which foreign country heavily invested in Nigeria's oil industry during the Gowon regime?",
+    "options": {
+      "A": "China",
+      "B": "United States",
+      "C": "Britain",
+      "D": "France"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "military_rule_period_1_1966_1979 > gowon_regime_post_war_era_oil_boom"
+  }
+]

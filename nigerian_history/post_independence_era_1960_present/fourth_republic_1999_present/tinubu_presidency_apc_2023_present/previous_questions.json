@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What is the primary color associated with the All Progressives Congress?",
+    "options": {
+      "A": "Red",
+      "B": "Blue",
+      "C": "Green",
+      "D": "Yellow"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "fourth_republic_1999_present > tinubu_presidency_apc_2023_present"
+  },
+  {
+    "question": "Bola Tinubu is often referred to by which nickname?",
+    "options": {
+      "A": "Jagaban",
+      "B": "Oluomo",
+      "C": "Asiwaju",
+      "D": "Baba"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "fourth_republic_1999_present > tinubu_presidency_apc_2023_present"
+  },
+  {
+    "question": "What action did Tinubu take towards digital payment systems?",
+    "options": {
+      "A": "Regulation",
+      "B": "Imposition of taxes",
+      "C": "Promotion",
+      "D": "Ban"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "fourth_republic_1999_present > tinubu_presidency_apc_2023_present"
+  },
+  {
+    "question": "Which demographic did Tinubu's policies aim to empower significantly in 2023?",
+    "options": {
+      "A": "Women",
+      "B": "Children",
+      "C": "The elderly",
+      "D": "Youth"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "fourth_republic_1999_present > tinubu_presidency_apc_2023_present"
+  }
+]

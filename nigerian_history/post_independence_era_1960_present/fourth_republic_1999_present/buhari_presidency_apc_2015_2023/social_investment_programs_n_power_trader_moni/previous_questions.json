@@ -1,0 +1,530 @@
+[
+  {
+    "question": "Which demographic was primarily targeted by the Trader Moni initiative?",
+    "options": {
+      "A": "Civil servants",
+      "B": "Small business owners",
+      "C": "Students",
+      "D": "Farmers"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "In what year was the N-Power program launched?",
+    "options": {
+      "A": "2015",
+      "B": "2016",
+      "C": "2017",
+      "D": "2018"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "What type of financial assistance does Trader Moni provide?",
+    "options": {
+      "A": "Grants",
+      "B": "Loans",
+      "C": "Subsidies",
+      "D": "Investments"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "N-Power beneficiaries are engaged in which of the following sectors?",
+    "options": {
+      "A": "Health",
+      "B": "Agriculture",
+      "C": "Education",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "How long is the initial duration for beneficiaries in the N-Power program?",
+    "options": {
+      "A": "6 months",
+      "B": "12 months",
+      "C": "24 months",
+      "D": "36 months"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "Which organization is responsible for implementing the N-Power program?",
+    "options": {
+      "A": "Federal Ministry of Youth and Sports",
+      "B": "Nigerian National Petroleum Corporation",
+      "C": "National Social Investment Office",
+      "D": "Bank of Industry"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "In which Nigerian state was Trader Moni first launched?",
+    "options": {
+      "A": "Lagos",
+      "B": "Kano",
+      "C": "Abuja",
+      "D": "Enugu"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "What is the maximum amount a person can receive through the Trader Moni scheme?",
+    "options": {
+      "A": "N10,000",
+      "B": "N20,000",
+      "C": "N50,000",
+      "D": "N100,000"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "Which of the following is NOT a requirement for N-Power eligibility?",
+    "options": {
+      "A": "Being a Nigerian citizen",
+      "B": "Having a university degree",
+      "C": "Being between 18 and 35 years old",
+      "D": "Having a bank account"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "What significant impact has N-Power had on Nigeria's employment rate?",
+    "options": {
+      "A": "Increased job security",
+      "B": "Reduced unemployment among youth",
+      "C": "High-profile job placements",
+      "D": "Job creation for retirees"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "What was a critical challenge faced by the Trader Moni scheme?",
+    "options": {
+      "A": "Lack of funding",
+      "B": "Fraud and mismanagement",
+      "C": "Public awareness",
+      "D": "Political opposition"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "Which of the following beneficiaries receives a monthly stipend under N-Power?",
+    "options": {
+      "A": "Health workers",
+      "B": "Teachers",
+      "C": "Agricultural workers",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "The N-Power program aims to equip beneficiaries with which of the following skills?",
+    "options": {
+      "A": "Digital skills",
+      "B": "Soft skills",
+      "C": "Technical skills",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "Which of the following is a notable feature of the Trader Moni loan repayment plan?",
+    "options": {
+      "A": "Immediate repayment",
+      "B": "Flexible repayment terms",
+      "C": "High-interest rates",
+      "D": "No repayment required"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "What is the primary funding source for the N-Power program?",
+    "options": {
+      "A": "International loans",
+      "B": "Federal Government budget",
+      "C": "NGO contributions",
+      "D": "Private sector funding"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "In 2018, how many Nigerians were estimated to benefit from the N-Power program?",
+    "options": {
+      "A": "500,000",
+      "B": "1 million",
+      "C": "2 million",
+      "D": "3 million"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "What is the primary objective of the N-Power Teach program specifically?",
+    "options": {
+      "A": "To improve agricultural practices",
+      "B": "To enhance teaching quality in schools",
+      "C": "To support healthcare delivery",
+      "D": "To promote digital literacy"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "Which international organization supported the N-Power program in the area of skills training?",
+    "options": {
+      "A": "World Bank",
+      "B": "UNICEF",
+      "C": "WHO",
+      "D": "ILO"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "N-Power beneficiaries were encouraged to form what type of groups for better resource management?",
+    "options": {
+      "A": "Cooperatives",
+      "B": "Unions",
+      "C": "Associations",
+      "D": "Clubs"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "What innovative technology platform was created for N-Power applications?",
+    "options": {
+      "A": "Mobile App",
+      "B": "Online Portal",
+      "C": "SMS Service",
+      "D": "Call Centre"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "Which of the following statements about Trader Moni is false?",
+    "options": {
+      "A": "It provides loans to traders",
+      "B": "It is available nationwide",
+      "C": "It requires collateral",
+      "D": "It promotes entrepreneurship"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "What was a major outcome of the N-Power program highlighted in government reports?",
+    "options": {
+      "A": "Increase in school enrollment",
+      "B": "Higher literacy rates",
+      "C": "Rise in entrepreneurship",
+      "D": "Decrease in poverty levels"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "Which N-Power component focuses specifically on agricultural development?",
+    "options": {
+      "A": "N-Power Health",
+      "B": "N-Power Build",
+      "C": "N-Power Agro",
+      "D": "N-Power Teach"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "What is the duration for repayment of Trader Moni loans?",
+    "options": {
+      "A": "1 month",
+      "B": "3 months",
+      "C": "6 months",
+      "D": "12 months"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "Which federal agency partnered with the N-Power program to provide skills training?",
+    "options": {
+      "A": "National Youth Service Corps",
+      "B": "National Centre for Women Development",
+      "C": "National Directorate of Employment",
+      "D": "Small and Medium Enterprises Development Agency"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "What was one of the criticisms of the Trader Moni initiative?",
+    "options": {
+      "A": "Limited reach",
+      "B": "High-interest rates",
+      "C": "Complicated application process",
+      "D": "Lack of transparency"
+    },
+    "answer": "D",
+    "difficulty": "expert",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "Under N-Power, beneficiaries are expected to assist local communities in what way?",
+    "options": {
+      "A": "Providing free services",
+      "B": "Teaching skills",
+      "C": "Conducting health campaigns",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "expert",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "Which of the following groups has NOT historically been a focus of N-Power programs?",
+    "options": {
+      "A": "Women",
+      "B": "Youth",
+      "C": "Children",
+      "D": "Elderly"
+    },
+    "answer": "D",
+    "difficulty": "expert",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "What is the primary method of application for the N-Power program?",
+    "options": {
+      "A": "Paper application",
+      "B": "Online application",
+      "C": "Phone application",
+      "D": "In-person application"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "In 2021, the government expanded the N-Power program to include a new component focused on what?",
+    "options": {
+      "A": "Environmental sustainability",
+      "B": "Digital skills acquisition",
+      "C": "Health services",
+      "D": "Tourism development"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "What is the age limit for applicants to the N-Power program?",
+    "options": {
+      "A": "15-30 years",
+      "B": "18-35 years",
+      "C": "20-40 years",
+      "D": "22-45 years"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "Which of the following was a key outcome of the N-Power program reported by beneficiaries?",
+    "options": {
+      "A": "Increased income",
+      "B": "Job offers",
+      "C": "Personal development",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "During the Buhari presidency, the N-Power program primarily targeted which age group?",
+    "options": {
+      "A": "15-25 years",
+      "B": "18-35 years",
+      "C": "30-45 years",
+      "D": "35-50 years"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "Which aspect of the economy did Trader Moni aim to boost specifically?",
+    "options": {
+      "A": "Agriculture",
+      "B": "Technology",
+      "C": "Trade and commerce",
+      "D": "Real estate"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "What type of assistance does the N-Power Teach component provide?",
+    "options": {
+      "A": "Financial loans",
+      "B": "Teaching and educational support",
+      "C": "Healthcare services",
+      "D": "Infrastructure development"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "What is the primary benefit for beneficiaries participating in the N-Power program?",
+    "options": {
+      "A": "Employment guarantees",
+      "B": "Monthly stipends",
+      "C": "Permanent job placements",
+      "D": "Scholarships"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "Trader Moni offers loans to which category of individuals?",
+    "options": {
+      "A": "Students",
+      "B": "Civil servants",
+      "C": "Small traders",
+      "D": "Corporate executives"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "Which of the following components of N-Power focuses on health?",
+    "options": {
+      "A": "N-Power Teach",
+      "B": "N-Power Agro",
+      "C": "N-Power Health",
+      "D": "N-Power Build"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "What is a notable feature of the N-Power program regarding community service?",
+    "options": {
+      "A": "Beneficiaries must volunteer abroad",
+      "B": "Beneficiaries are expected to serve their local communities",
+      "C": "Beneficiaries must relocate to urban areas",
+      "D": "Beneficiaries are exempt from community service"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "Which of the following skills is emphasized in the N-Power Build component?",
+    "options": {
+      "A": "Teaching methods",
+      "B": "Construction and trade skills",
+      "C": "Financial management",
+      "D": "Digital marketing"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "What is the maximum loan amount offered to a beneficiary through Trader Moni?",
+    "options": {
+      "A": "\u20a610,000",
+      "B": "\u20a650,000",
+      "C": "\u20a6100,000",
+      "D": "\u20a6200,000"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "Under Trader Moni, what is a critical requirement for loan applicants?",
+    "options": {
+      "A": "Must own a business",
+      "B": "Must be a trader or vendor",
+      "C": "Must have a university degree",
+      "D": "Must be employed by a company"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "What is the main purpose of the N-Power Health program?",
+    "options": {
+      "A": "To train doctors",
+      "B": "To improve healthcare delivery",
+      "C": "To provide financial assistance to hospitals",
+      "D": "To fund medical research"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  },
+  {
+    "question": "Which of the following is a requirement for applying to Trader Moni?",
+    "options": {
+      "A": "Must have a business registration",
+      "B": "Must be literate",
+      "C": "Must be at least 25 years old",
+      "D": "Must be a member of a cooperative"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > social_investment_programs_n_power_trader_moni"
+  }
+]

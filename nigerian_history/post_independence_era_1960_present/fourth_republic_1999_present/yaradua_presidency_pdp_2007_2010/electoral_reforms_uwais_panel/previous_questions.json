@@ -1,0 +1,350 @@
+[
+  {
+    "question": "What year was the Uwais Panel on electoral reforms established?",
+    "options": {
+      "A": "2007",
+      "B": "2008",
+      "C": "2009",
+      "D": "2010"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "Who was the chairman of the Uwais Panel?",
+    "options": {
+      "A": "Adamu Waziri",
+      "B": "Ibrahim Uwais",
+      "C": "Aminu Kano",
+      "D": "Olusegun Obasanjo"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "What was one main goal of the Uwais Panel?",
+    "options": {
+      "A": "Increase government salaries",
+      "B": "Reform the electoral process",
+      "C": "Change the constitution",
+      "D": "Establish new political parties"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "The Uwais Panel presented its report in which month?",
+    "options": {
+      "A": "April",
+      "B": "June",
+      "C": "December",
+      "D": "October"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "What major issue did the Uwais Panel address regarding elections?",
+    "options": {
+      "A": "Voter turnout",
+      "B": "Electoral violence",
+      "C": "Corruption",
+      "D": "Electoral logistics"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "Which body was suggested to replace the Independent National Electoral Commission (INEC) by the Uwais Panel?",
+    "options": {
+      "A": "National Electoral Body",
+      "B": "Electoral Management Commission",
+      "C": "Independent Electoral Authority",
+      "D": "Election Supervisory Board"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "What was a significant recommendation made by the Uwais Panel?",
+    "options": {
+      "A": "Direct election of governors",
+      "B": "Use of electronic voting",
+      "C": "Increase election spending limits",
+      "D": "Establish state electoral offices"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "The Uwais Panel report emphasized the need for what among political parties?",
+    "options": {
+      "A": "Greater funding",
+      "B": "Internal democracy",
+      "C": "Coalition building",
+      "D": "Membership drives"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "Before the Uwais Panel, which panel previously recommended electoral reforms in Nigeria?",
+    "options": {
+      "A": "Oputa Panel",
+      "B": "Justice Eyo Panel",
+      "C": "Umaru Panel",
+      "D": "Magu Panel"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "What was one of the criticisms faced by the Uwais Panel?",
+    "options": {
+      "A": "Lack of transparency",
+      "B": "Too many recommendations",
+      "C": "Bias towards PDP",
+      "D": "Ignoring technology"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "Which electoral malpractice was specifically mentioned in the Uwais Panel report?",
+    "options": {
+      "A": "Vote buying",
+      "B": "Ballot stuffing",
+      "C": "Snatching of ballot boxes",
+      "D": "Rigging via misinformation"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "In what context did the Uwais Panel suggest enhancing civic education?",
+    "options": {
+      "A": "To increase party membership",
+      "B": "To reduce electoral violence",
+      "C": "To inform voters about their rights",
+      "D": "To promote political rallies"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "How many members were on the Uwais Panel?",
+    "options": {
+      "A": "5",
+      "B": "12",
+      "C": "15",
+      "D": "10"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "The Uwais Panel's report was submitted to which Nigerian president?",
+    "options": {
+      "A": "Goodluck Jonathan",
+      "B": "Umaru Musa Yar'Adua",
+      "C": "Olusegun Obasanjo",
+      "D": "Muhammadu Buhari"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "Which of the following was NOT a recommendation of the Uwais Panel?",
+    "options": {
+      "A": "Create state electoral commissions",
+      "B": "Implement biometric voting",
+      "C": "Extend election terms to six years",
+      "D": "Increase funding for electoral processes"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "In the Uwais Panel report, what term refers to individuals who monitor elections?",
+    "options": {
+      "A": "Election observers",
+      "B": "Electoral agents",
+      "C": "Voting stewards",
+      "D": "Political monitors"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "What was one of the proposed methods to enhance integrity in elections according to the Uwais Panel?",
+    "options": {
+      "A": "Public funding of campaigns",
+      "B": "Anonymous voting",
+      "C": "Electronic voter registration",
+      "D": "Increased penalties for electoral offenses"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "What aspect of voting did the Uwais Panel emphasize for improvement?",
+    "options": {
+      "A": "Voter education",
+      "B": "Polling station accessibility",
+      "C": "Voting technology",
+      "D": "Ballot design"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "Which sector did the Uwais Panel recommend to collaborate with INEC for better electoral processes?",
+    "options": {
+      "A": "Judiciary",
+      "B": "Civil society organizations",
+      "C": "Media",
+      "D": "Private sector"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "The Uwais Panel's recommendations aimed primarily at tackling which issue?",
+    "options": {
+      "A": "Electoral fraud",
+      "B": "Political apathy",
+      "C": "Voter privacy",
+      "D": "Election logistics"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "The Uwais Panel was formed in response to which event?",
+    "options": {
+      "A": "2007 general elections",
+      "B": "2009 political crisis",
+      "C": "2010 constitutional review",
+      "D": "Election violence"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "Which international observer group monitored the implementation of Uwais Panel recommendations?",
+    "options": {
+      "A": "ECOWAS",
+      "B": "African Union",
+      "C": "UNDP",
+      "D": "NDI"
+    },
+    "answer": "D",
+    "difficulty": "expert",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "What was a significant outcome of the Uwais Panel's recommendations?",
+    "options": {
+      "A": "Constitutional amendments",
+      "B": "Creation of new political parties",
+      "C": "Electoral Act revisions",
+      "D": "Increased political rallies"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "One of the challenges the Uwais Panel noted was the influence of which group on elections?",
+    "options": {
+      "A": "Traditional rulers",
+      "B": "Religious leaders",
+      "C": "Political elites",
+      "D": "Foreign governments"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "The Uwais Panel suggested the establishment of what to ensure election transparency?",
+    "options": {
+      "A": "Election tribunals",
+      "B": "Election monitoring committees",
+      "C": "Voter education programs",
+      "D": "Independent audits"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "What was the public reaction to the Uwais Panel's recommendations?",
+    "options": {
+      "A": "Overwhelming approval",
+      "B": "Mixed reactions",
+      "C": "Complete rejection",
+      "D": "Indifference"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "The Uwais Panel's report was initially received by which legislative body?",
+    "options": {
+      "A": "House of Representatives",
+      "B": "Senate",
+      "C": "National Assembly",
+      "D": "State Assemblies"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "What kind of elections did the Uwais Panel recommend should be prioritized for reform?",
+    "options": {
+      "A": "Local government elections",
+      "B": "National elections",
+      "C": "State elections",
+      "D": "Party primaries"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  },
+  {
+    "question": "The Uwais Panel recommended measures for improving what aspect of the electoral process?",
+    "options": {
+      "A": "Campaign finance",
+      "B": "Candidate selection",
+      "C": "Polling station security",
+      "D": "Election timelines"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "yaradua_presidency_pdp_2007_2010 > electoral_reforms_uwais_panel"
+  }
+]

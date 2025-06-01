@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What was the key feature of Babangida's political transition program?",
+    "options": {
+      "A": "Multi-party system",
+      "B": "Single-party system",
+      "C": "Complete military rule",
+      "D": "Political isolation"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "military_rule_period_2_1983_1999 > babangida_regime_1985_1993"
+  },
+  {
+    "question": "Which major corruption scandal was associated with the Babangida regime?",
+    "options": {
+      "A": "Abacha loot",
+      "B": "Pension Fund scandal",
+      "C": "Oil sector fraud",
+      "D": "NITEL scandal"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "military_rule_period_2_1983_1999 > babangida_regime_1985_1993"
+  },
+  {
+    "question": "What was the purpose of the MAMSER program initiated by Babangida?",
+    "options": {
+      "A": "Military support",
+      "B": "Social mobilization",
+      "C": "Economic recovery",
+      "D": "Political education"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "military_rule_period_2_1983_1999 > babangida_regime_1985_1993"
+  },
+  {
+    "question": "What was a major consequence of the annulled June 12 elections?",
+    "options": {
+      "A": "Increased military power",
+      "B": "Civil unrest",
+      "C": "Economic boom",
+      "D": "Political stability"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "military_rule_period_2_1983_1999 > babangida_regime_1985_1993"
+  },
+  {
+    "question": "Which international organization imposed sanctions on Nigeria during Babangida's rule?",
+    "options": {
+      "A": "African Union",
+      "B": "United Nations",
+      "C": "ECOWAS",
+      "D": "NATO"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "military_rule_period_2_1983_1999 > babangida_regime_1985_1993"
+  },
+  {
+    "question": "What personal interest did Babangida pursue while in office?",
+    "options": {
+      "A": "Agriculture",
+      "B": "Football",
+      "C": "Petroleum exploration",
+      "D": "Art promotion"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "military_rule_period_2_1983_1999 > babangida_regime_1985_1993"
+  }
+]

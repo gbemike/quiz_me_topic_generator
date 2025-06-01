@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Post-war reconciliation efforts focused significantly on which aspect?",
+    "options": {
+      "A": "Cultural integration",
+      "B": "Economic recovery",
+      "C": "Political restructuring",
+      "D": "Military disbandment"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_civil_war_1967_1970 > impact_on_national_unity_and_identity"
+  },
+  {
+    "question": "What major famine occurred as a result of the Civil War?",
+    "options": {
+      "A": "Boko Haram famine",
+      "B": "Biafran famine",
+      "C": "Economic famine",
+      "D": "Nigerian famine"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_civil_war_1967_1970 > impact_on_national_unity_and_identity"
+  },
+  {
+    "question": "What demographic shift occurred as a result of the war?",
+    "options": {
+      "A": "Urbanization of Biafrans",
+      "B": "Rural depopulation",
+      "C": "Increased immigration from neighboring countries",
+      "D": "Population stabilization"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_civil_war_1967_1970 > impact_on_national_unity_and_identity"
+  },
+  {
+    "question": "What did the end of the civil war lead to in terms of military governance?",
+    "options": {
+      "A": "Immediate democracy",
+      "B": "Continuation of military rule",
+      "C": "Disbandment of the military",
+      "D": "Political instability"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_civil_war_1967_1970 > impact_on_national_unity_and_identity"
+  }
+]

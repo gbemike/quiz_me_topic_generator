@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What was one of the key strengths of the British navy that contributed to their success in Lagos?",
+    "options": {
+      "A": "Speed of ships",
+      "B": "Use of steam power",
+      "C": "Superior numbers",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > The British conquest of Lagos (1851 & 1861)"
+  },
+  {
+    "question": "Who succeeded Oba Akitoye after his removal by the British?",
+    "options": {
+      "A": "Oba Ologun Kutere",
+      "B": "Oba Akintoye II",
+      "C": "Oba Dosunmu",
+      "D": "Oba Adedoyin"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > The British conquest of Lagos (1851 & 1861)"
+  },
+  {
+    "question": "The British viewed Lagos as a strategic point for controlling trade routes to which area?",
+    "options": {
+      "A": "The interior of Africa",
+      "B": "The Caribbean",
+      "C": "North America",
+      "D": "Europe"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > The British conquest of Lagos (1851 & 1861)"
+  },
+  {
+    "question": "What did the British promise in exchange for local cooperation during their conquest?",
+    "options": {
+      "A": "Autonomy",
+      "B": "Economic benefits",
+      "C": "Peace treaties",
+      "D": "Cultural exchange"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > The British conquest of Lagos (1851 & 1861)"
+  },
+  {
+    "question": "What were the traditional leaders of Lagos called?",
+    "options": {
+      "A": "Olowo",
+      "B": "Oba",
+      "C": "Baba",
+      "D": "Sultan"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "colonial_era_1861_1960 > The British conquest of Lagos (1851 & 1861)"
+  },
+  {
+    "question": "Which treaty was signed to resolve conflicts post-1861 conquest?",
+    "options": {
+      "A": "Treaty of Lagos",
+      "B": "Treaty of Peace",
+      "C": "Concession Treaty",
+      "D": "Arrangement Treaty"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > The British conquest of Lagos (1851 & 1861)"
+  }
+]

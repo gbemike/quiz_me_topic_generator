@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Under which Mai did Kanem-Bornu reach its peak of expansion?",
+    "options": {
+      "A": "Mai Dunama",
+      "B": "Mai Idris Alooma",
+      "C": "Mai Ali",
+      "D": "Mai Baga"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "pre_colonial_era_societies > kanem_bornu_empire"
+  },
+  {
+    "question": "What was a key feature of the Kanem-Bornu military?",
+    "options": {
+      "A": "Use of elephants",
+      "B": "Cavalry units",
+      "C": "Naval fleet",
+      "D": "Spear-wielding infantry"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "pre_colonial_era_societies > kanem_bornu_empire"
+  },
+  {
+    "question": "The term 'Mai' in the Kanem-Bornu Empire referred to:",
+    "options": {
+      "A": "A title for warriors",
+      "B": "The king or ruler",
+      "C": "A type of trade goods",
+      "D": "A religious leader"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "pre_colonial_era_societies > kanem_bornu_empire"
+  },
+  {
+    "question": "Which significant battle occurred during the reign of Mai Idris Alooma?",
+    "options": {
+      "A": "Battle of Ngala",
+      "B": "Battle of Lake Chad",
+      "C": "Battle of Borno",
+      "D": "Battle of Gajiganna"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "pre_colonial_era_societies > kanem_bornu_empire"
+  },
+  {
+    "question": "Under Mai Idris Alooma, Kanem-Bornu expanded its territory primarily through what means?",
+    "options": {
+      "A": "Diplomacy",
+      "B": "Trade alliances",
+      "C": "Military conquests",
+      "D": "Marriage alliances"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "pre_colonial_era_societies > kanem_bornu_empire"
+  }
+]

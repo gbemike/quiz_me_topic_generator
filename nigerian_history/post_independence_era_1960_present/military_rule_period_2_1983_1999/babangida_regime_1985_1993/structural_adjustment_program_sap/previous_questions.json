@@ -1,0 +1,122 @@
+[
+  {
+    "question": "True or False: The Structural Adjustment Program was widely popular among the Nigerian populace during its implementation.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Partially true",
+      "D": "Not applicable"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "babangida_regime_1985_1993 > structural_adjustment_program_sap"
+  },
+  {
+    "question": "The Structural Adjustment Program encouraged the reduction of tariffs on which type of products?",
+    "options": {
+      "A": "Local goods",
+      "B": "Imported goods",
+      "C": "Luxury items",
+      "D": "Agricultural products"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "babangida_regime_1985_1993 > structural_adjustment_program_sap"
+  },
+  {
+    "question": "Which of the following best describes the policy of the Structural Adjustment Program regarding government subsidy on basic goods?",
+    "options": {
+      "A": "Increase subsidies",
+      "B": "Maintain status quo",
+      "C": "Gradual removal of subsidies",
+      "D": "Immediate elimination of subsidies"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "babangida_regime_1985_1993 > structural_adjustment_program_sap"
+  },
+  {
+    "question": "The Structural Adjustment Program encouraged the importation of which type of service sectors?",
+    "options": {
+      "A": "Financial services",
+      "B": "Agricultural services",
+      "C": "Information technology services",
+      "D": "Tourism services"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "babangida_regime_1985_1993 > structural_adjustment_program_sap"
+  },
+  {
+    "question": "Which economic indicator worsened during the implementation of the Structural Adjustment Program?",
+    "options": {
+      "A": "GDP growth",
+      "B": "Inflation rates",
+      "C": "Employment rates",
+      "D": "Investment levels"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "babangida_regime_1985_1993 > structural_adjustment_program_sap"
+  },
+  {
+    "question": "What economic policy did the Structural Adjustment Program enforce on state-owned enterprises?",
+    "options": {
+      "A": "Nationalization",
+      "B": "Privatization",
+      "C": "Expansion",
+      "D": "Protectionism"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "babangida_regime_1985_1993 > structural_adjustment_program_sap"
+  },
+  {
+    "question": "The Structural Adjustment Program led to a focus on which type of agriculture?",
+    "options": {
+      "A": "Subsistence farming",
+      "B": "Commercial agriculture",
+      "C": "Traditional farming",
+      "D": "Organic farming"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "babangida_regime_1985_1993 > structural_adjustment_program_sap"
+  },
+  {
+    "question": "Which of the following protests occurred as a response to the Structural Adjustment Program?",
+    "options": {
+      "A": "June 12 protests",
+      "B": "Occupy Nigeria",
+      "C": "SAP Strikes",
+      "D": "End SARS"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "babangida_regime_1985_1993 > structural_adjustment_program_sap"
+  },
+  {
+    "question": "Under the Structural Adjustment Program, which of the following was encouraged to improve trade?",
+    "options": {
+      "A": "Tariff increases",
+      "B": "Export diversification",
+      "C": "Import substitution",
+      "D": "Government subsidies"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "babangida_regime_1985_1993 > structural_adjustment_program_sap"
+  },
+  {
+    "question": "What was one of the main reasons for the widespread protests against the Structural Adjustment Program?",
+    "options": {
+      "A": "Increased civil rights",
+      "B": "High unemployment rates",
+      "C": "Inflation control",
+      "D": "Tax reductions"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "babangida_regime_1985_1993 > structural_adjustment_program_sap"
+  }
+]

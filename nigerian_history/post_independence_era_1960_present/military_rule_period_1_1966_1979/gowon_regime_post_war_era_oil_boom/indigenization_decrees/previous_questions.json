@@ -1,0 +1,110 @@
+[
+  {
+    "question": "The indigenization policy aimed primarily to reduce foreign ownership in which sector?",
+    "options": {
+      "A": "Agriculture",
+      "B": "Oil",
+      "C": "Mining",
+      "D": "Telecommunications"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "gowon_regime_post_war_era_oil_boom > indigenization_decrees"
+  },
+  {
+    "question": "The 1972 Indigenization Decree primarily affected businesses with a certain value. What was the threshold value for businesses to be affected?",
+    "options": {
+      "A": "\u20a620,000",
+      "B": "\u20a610,000",
+      "C": "\u20a650,000",
+      "D": "\u20a6100,000"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "gowon_regime_post_war_era_oil_boom > indigenization_decrees"
+  },
+  {
+    "question": "What was the estimated percentage of equity that foreign companies had to divest in 1972 under the Indigenization Decree?",
+    "options": {
+      "A": "40%",
+      "B": "60%",
+      "C": "51%",
+      "D": "30%"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "gowon_regime_post_war_era_oil_boom > indigenization_decrees"
+  },
+  {
+    "question": "Under the indigenization policies, Nigerian citizens were encouraged to own what percentage of shares in businesses?",
+    "options": {
+      "A": "30%",
+      "B": "51%",
+      "C": "49%",
+      "D": "100%"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "gowon_regime_post_war_era_oil_boom > indigenization_decrees"
+  },
+  {
+    "question": "What was the name of the government agency created to oversee the indigenization process?",
+    "options": {
+      "A": "Nigerian National Petroleum Corporation",
+      "B": "Bank of Industry",
+      "C": "Nigerian Enterprises Promotion Board",
+      "D": "Economic Planning Commission"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "gowon_regime_post_war_era_oil_boom > indigenization_decrees"
+  },
+  {
+    "question": "Which major international oil company was significantly affected by the indigenization decree?",
+    "options": {
+      "A": "Shell",
+      "B": "ExxonMobil",
+      "C": "Chevron",
+      "D": "Total"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "gowon_regime_post_war_era_oil_boom > indigenization_decrees"
+  },
+  {
+    "question": "What was a significant social issue that arose as a result of the indigenization policy?",
+    "options": {
+      "A": "Housing crisis",
+      "B": "Education disparity",
+      "C": "Youth unemployment",
+      "D": "Health care access"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "gowon_regime_post_war_era_oil_boom > indigenization_decrees"
+  },
+  {
+    "question": "Which committee was established in 1971 to evaluate the impact of the indigenization policy?",
+    "options": {
+      "A": "The Udoji Committee",
+      "B": "The Jibowu Committee",
+      "C": "The Okigbo Committee",
+      "D": "The Adebayo Committee"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "gowon_regime_post_war_era_oil_boom > indigenization_decrees"
+  },
+  {
+    "question": "The oil boom era is often remembered for skyrocketing revenue due to which key product?",
+    "options": {
+      "A": "Cocoa",
+      "B": "Palm oil",
+      "C": "Crude oil",
+      "D": "Cotton"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "gowon_regime_post_war_era_oil_boom > indigenization_decrees"
+  }
+]

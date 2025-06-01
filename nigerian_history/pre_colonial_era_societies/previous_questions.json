@@ -1,0 +1,26 @@
+[
+  {
+    "question": "The Ekoi people are known for their artistic expression in what medium?",
+    "options": {
+      "A": "Wood carving",
+      "B": "Textiles",
+      "C": "Metalwork",
+      "D": "Beadwork"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history > pre_colonial_era_societies"
+  },
+  {
+    "question": "Which ethnic group is recognized for their complex system of town planning and urban development during the pre-colonial era?",
+    "options": {
+      "A": "Hausa",
+      "B": "Ibibio",
+      "C": "Yoruba",
+      "D": "Igbo"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history > pre_colonial_era_societies"
+  }
+]

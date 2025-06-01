@@ -1,0 +1,5 @@
+31/05/2025
+
+- add 3 more main folder themes
+- find out ways to evenly generate topics
+- study and read code revisons (ask gemmina for tips for better understanding)

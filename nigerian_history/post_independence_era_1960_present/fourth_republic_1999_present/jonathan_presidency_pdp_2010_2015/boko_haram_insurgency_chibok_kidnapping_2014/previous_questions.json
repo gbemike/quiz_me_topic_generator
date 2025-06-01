@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which notable Nigerian musician released a song to raise awareness about the Chibok girls?",
+    "options": {
+      "A": "2Baba",
+      "B": "Wizkid",
+      "C": "Davido",
+      "D": "P-Square"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "jonathan_presidency_pdp_2010_2015 > boko_haram_insurgency_chibok_kidnapping_2014"
+  },
+  {
+    "question": "In which city did a protest march occur demanding action after the kidnapping?",
+    "options": {
+      "A": "Abuja",
+      "B": "Lagos",
+      "C": "Port Harcourt",
+      "D": "Kano"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "jonathan_presidency_pdp_2010_2015 > boko_haram_insurgency_chibok_kidnapping_2014"
+  },
+  {
+    "question": "What was a common method used by Boko Haram to recruit new members?",
+    "options": {
+      "A": "Bribery",
+      "B": "Forced conscription",
+      "C": "Ideological indoctrination",
+      "D": "Educational programs"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "jonathan_presidency_pdp_2010_2015 > boko_haram_insurgency_chibok_kidnapping_2014"
+  }
+]

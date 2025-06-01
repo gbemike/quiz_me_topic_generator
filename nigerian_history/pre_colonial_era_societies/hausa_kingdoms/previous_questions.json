@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the significance of the term 'Hausa Bakwai'?",
+    "options": {
+      "A": "Seven major Hausa cities",
+      "B": "A farming technique",
+      "C": "A musical genre",
+      "D": "A religious festival"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "pre_colonial_era_societies > hausa_kingdoms"
+  },
+  {
+    "question": "The term 'Sarkin' in Hausa refers to what?",
+    "options": {
+      "A": "Chief",
+      "B": "Warrior",
+      "C": "Trader",
+      "D": "Priest"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "pre_colonial_era_societies > hausa_kingdoms"
+  },
+  {
+    "question": "What social class in the Hausa Kingdoms was primarily made up of traders and merchants?",
+    "options": {
+      "A": "Aristocracy",
+      "B": "Commoners",
+      "C": "Boys",
+      "D": "Guildsmen"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "pre_colonial_era_societies > hausa_kingdoms"
+  },
+  {
+    "question": "In Hausa cosmology, what was considered the protector spirit?",
+    "options": {
+      "A": "Mami Wata",
+      "B": "Sango",
+      "C": "Samanja",
+      "D": "Kuka"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "pre_colonial_era_societies > hausa_kingdoms"
+  },
+  {
+    "question": "How did the Hausa Kingdoms primarily resolve conflicts?",
+    "options": {
+      "A": "War",
+      "B": "Diplomacy",
+      "C": "Negotiation",
+      "D": "Mediation"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "pre_colonial_era_societies > hausa_kingdoms"
+  }
+]

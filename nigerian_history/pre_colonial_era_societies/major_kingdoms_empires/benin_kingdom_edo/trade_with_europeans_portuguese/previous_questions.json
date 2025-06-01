@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What term describes the exchange of goods and services in the trade network between Benin and Portugal?",
+    "options": {
+      "A": "Barter system",
+      "B": "Monetary exchange",
+      "C": "Gift economy",
+      "D": "Trade alliance"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "benin_kingdom_edo > trade_with_europeans_portuguese"
+  },
+  {
+    "question": "The introduction of what type of military technology significantly changed the power dynamics in the Benin Kingdom during trade with Portugal?",
+    "options": {
+      "A": "Archery",
+      "B": "Cavalry",
+      "C": "Firearms",
+      "D": "Siege weapons"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > trade_with_europeans_portuguese"
+  },
+  {
+    "question": "In the context of Benin and Portuguese trade, what does the term 'diaspora' refer to?",
+    "options": {
+      "A": "Migration of traders",
+      "B": "Spread of culture",
+      "C": "Slave trade consequences",
+      "D": "Economic relations"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > trade_with_europeans_portuguese"
+  }
+]

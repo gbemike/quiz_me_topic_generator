@@ -1,0 +1,314 @@
+[
+  {
+    "question": "In the intricate political maneuvers following the July 1966 counter-coup in Nigeria, what unique role did the city of Ikeja play in the ascension of Yakubu Gowon?",
+    "options": {
+      "A": "It was the location of a decisive military meeting.",
+      "B": "It served as the temporary capital of Nigeria.",
+      "C": "It hosted the first peace talks between factions.",
+      "D": "It was Gowon's birthplace, influencing regional support."
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "What was one major consequence of the July 1966 counter-coup?",
+    "options": {
+      "A": "Increased stability",
+      "B": "Heightened ethnic tensions",
+      "C": "Economic growth",
+      "D": "End of military rule"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "In which city did the July 1966 counter-coup primarily take place?",
+    "options": {
+      "A": "Lagos",
+      "B": "Kaduna",
+      "C": "Enugu",
+      "D": "Abuja"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "Fill in the blank: Yakubu Gowon was born in __________ Nigeria.",
+    "options": {
+      "A": "Northern",
+      "B": "Western",
+      "C": "Eastern",
+      "D": "Southern"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "What was Yakubu Gowon's primary profession before becoming a military ruler?",
+    "options": {
+      "A": "Engineer",
+      "B": "Teacher",
+      "C": "Army officer",
+      "D": "Politician"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "Which nickname was given to the July 1966 coup?",
+    "options": {
+      "A": "The Bloodless Coup",
+      "B": "The Counter-Revolution",
+      "C": "The Midnight Coup",
+      "D": "The Silent Coup"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "What was Gowon\u2019s stance on secession during his leadership?",
+    "options": {
+      "A": "Support of secession",
+      "B": "Neutrality",
+      "C": "Opposition to secession",
+      "D": "Indifference"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "What was one of Gowon\u2019s strategies to unify Nigeria post-coup?",
+    "options": {
+      "A": "Regionalism",
+      "B": "Indigenous policies",
+      "C": "State creation",
+      "D": "Autocracy"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "Which of the following was NOT a consequence of the July 1966 counter-coup?",
+    "options": {
+      "A": "Political instability",
+      "B": "Military rule established",
+      "C": "Democracy restored",
+      "D": "Ethnic division escalated"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "What role did propaganda play during the Biafran War?",
+    "options": {
+      "A": "Unifying the country",
+      "B": "Demonizing the enemy",
+      "C": "Encouraging diplomacy",
+      "D": "Promoting peace"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "What was Gowon\u2019s educational background before joining the military?",
+    "options": {
+      "A": "Law degree",
+      "B": "Medical degree",
+      "C": "Bachelor of Arts",
+      "D": "Engineering degree"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "The term 'Gowon\u2019s Regime' is often associated with what type of governance?",
+    "options": {
+      "A": "Democratic",
+      "B": "Dictatorial",
+      "C": "Military rule",
+      "D": "Federalism"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "What was a significant challenge faced by Gowon after the civil war?",
+    "options": {
+      "A": "Peacekeeping",
+      "B": "Economic recovery",
+      "C": "Military expansion",
+      "D": "Land reform"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "What was the public perception of Gowon\u2019s leadership style?",
+    "options": {
+      "A": "Authoritarian",
+      "B": "Benevolent",
+      "C": "Indifferent",
+      "D": "Charismatic"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "Which notable figure opposed Gowon's policies during the Civil War?",
+    "options": {
+      "A": "Wole Soyinka",
+      "B": "Obafemi Awolowo",
+      "C": "Nnamdi Azikiwe",
+      "D": "Chukwuemeka Ojukwu"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "Which strategy did Gowon use to promote national unity post-war?",
+    "options": {
+      "A": "Regional autonomy",
+      "B": "Federal integration",
+      "C": "Economic sanctions",
+      "D": "International isolation"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "In the aftermath of the July 1966 coup, which state was created to address ethnic divisions?",
+    "options": {
+      "A": "Benue-Plateau",
+      "B": "Rivers",
+      "C": "Cross River",
+      "D": "Akwa Ibom"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "What was the global response to the humanitarian crisis in Biafra?",
+    "options": {
+      "A": "Indifference",
+      "B": "Humanitarian aid",
+      "C": "Military intervention",
+      "D": "Economic sanctions"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "What was Gowon\u2019s role in promoting post-war reconciliation?",
+    "options": {
+      "A": "Constitution drafting",
+      "B": "Nation-wide tours",
+      "C": "Diplomatic negotiations",
+      "D": "Public speeches"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "How did Gowon's government address the issue of refugee camps during the war?",
+    "options": {
+      "A": "Closed them",
+      "B": "Improved conditions",
+      "C": "Ignored them",
+      "D": "Sold them off"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "Fill in the blank: After the July 1966 coup, the government promised a return to __________.",
+    "options": {
+      "A": "Federalism",
+      "B": "Democracy",
+      "C": "Monarchy",
+      "D": "Autocracy"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "Gowon was a member of which military branch before leading the coup?",
+    "options": {
+      "A": "Navy",
+      "B": "Air Force",
+      "C": "Army",
+      "D": "Police"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "Which military exercise was conducted under Gowon to prepare for possible conflicts?",
+    "options": {
+      "A": "Operation Python",
+      "B": "Operation Firehouse",
+      "C": "Operation Nigeria",
+      "D": "Operation Payback"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "Gowon\u2019s administration faced criticism for what aspect of resource management?",
+    "options": {
+      "A": "Fair distribution",
+      "B": "Over-exploitation",
+      "C": "Neglect of infrastructure",
+      "D": "Under-investment in agriculture"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "Gowon\u2019s regime lasted until which year?",
+    "options": {
+      "A": "1970",
+      "B": "1975",
+      "C": "1972",
+      "D": "1969"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  },
+  {
+    "question": "What role did the British government play during the July 1966 coup?",
+    "options": {
+      "A": "Supported the coup",
+      "B": "Opposed the coup",
+      "C": "Remained neutral",
+      "D": "Provided military assistance"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "civil_war > The July 1966 counter-coup and rise of Yakubu Gowon"
+  }
+]

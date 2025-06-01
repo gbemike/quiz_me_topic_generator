@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Which battle was known for the high casualties on both sides, often referred to as 'the bloodbath'?",
+    "options": {
+      "A": "Battle of Owerri",
+      "B": "Battle of Abagana",
+      "C": "Battle of Enugu",
+      "D": "Battle of Umuahia"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_civil_war_1967_1970 > key_events_and_battles"
+  },
+  {
+    "question": "Which major town was the site of fierce fighting in 1968, known as the 'Battle of the Meat Pie'?",
+    "options": {
+      "A": "Onitsha",
+      "B": "Port Harcourt",
+      "C": "Owerri",
+      "D": "Umuahia"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_civil_war_1967_1970 > key_events_and_battles"
+  },
+  {
+    "question": "What was the primary form of warfare used by the Nigerian federal troops?",
+    "options": {
+      "A": "Guerrilla tactics",
+      "B": "Conventional warfare",
+      "C": "Asymmetric warfare",
+      "D": "Chemical warfare"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_civil_war_1967_1970 > key_events_and_battles"
+  },
+  {
+    "question": "Which key event occurred in July 1967 that escalated the conflict?",
+    "options": {
+      "A": "The fall of Enugu",
+      "B": "The Biafran declaration of independence",
+      "C": "The first major battle",
+      "D": "The military coup"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "nigerian_civil_war_1967_1970 > key_events_and_battles"
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "question": "Fill in the blank: The northern region of Nigeria was predominantly _______.",
+    "options": {
+      "A": "Christian",
+      "B": "Muslim",
+      "C": "Pagan",
+      "D": "Atheist"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "amalgamation_of_1914 > administrative_structure_north_south_divide"
+  },
+  {
+    "question": "Which body was responsible for the administration of the northern region prior to amalgamation?",
+    "options": {
+      "A": "Nigerian Council",
+      "B": "Northern Nigeria Government",
+      "C": "Colonial Office",
+      "D": "Native Authority"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "amalgamation_of_1914 > administrative_structure_north_south_divide"
+  },
+  {
+    "question": "Which English law was applied to the entire Nigeria post-amalgamation?",
+    "options": {
+      "A": "Common Law",
+      "B": "Sharia Law",
+      "C": "Customary Law",
+      "D": "Civil Law"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "amalgamation_of_1914 > administrative_structure_north_south_divide"
+  },
+  {
+    "question": "Fill in the blank: The south was predominantly _______ in terms of religion.",
+    "options": {
+      "A": "Muslim",
+      "B": "Christian",
+      "C": "Traditionalist",
+      "D": "Buddhist"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "amalgamation_of_1914 > administrative_structure_north_south_divide"
+  },
+  {
+    "question": "The educational structure in the north was largely influenced by which of the following?",
+    "options": {
+      "A": "Islamic schools",
+      "B": "Western education",
+      "C": "Missionary schools",
+      "D": "Indigenous education"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "amalgamation_of_1914 > administrative_structure_north_south_divide"
+  },
+  {
+    "question": "Post-amalgamation, which region had the highest population density?",
+    "options": {
+      "A": "Northern Region",
+      "B": "Western Region",
+      "C": "Eastern Region",
+      "D": "Southern Region"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "amalgamation_of_1914 > administrative_structure_north_south_divide"
+  },
+  {
+    "question": "What was the official language used in administration after the amalgamation?",
+    "options": {
+      "A": "Hausa",
+      "B": "Igbo",
+      "C": "English",
+      "D": "Yoruba"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "amalgamation_of_1914 > administrative_structure_north_south_divide"
+  },
+  {
+    "question": "What was the primary method of governance used in the southern region before amalgamation?",
+    "options": {
+      "A": "Indirect rule",
+      "B": "Direct rule",
+      "C": "Community governance",
+      "D": "Self-governance"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "amalgamation_of_1914 > administrative_structure_north_south_divide"
+  },
+  {
+    "question": "What was the effect of the amalgamation on local governance structures?",
+    "options": {
+      "A": "Elimination of local leaders",
+      "B": "Strengthening of local governance",
+      "C": "Introduction of colonial officials",
+      "D": "Establishment of local councils"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "amalgamation_of_1914 > administrative_structure_north_south_divide"
+  },
+  {
+    "question": "Fill in the blank: The south was encouraged to adopt _______ practices, which contrasted with the north's traditional systems. ",
+    "options": {
+      "A": "Western education",
+      "B": "Islamic law",
+      "C": "Agricultural methods",
+      "D": "Cultural festivals"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "amalgamation_of_1914 > administrative_structure_north_south_divide"
+  },
+  {
+    "question": "What was a key cultural difference between the North and South after the Amalgamation?",
+    "options": {
+      "A": "Language",
+      "B": "Clothing",
+      "C": "Religious practices",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "amalgamation_of_1914 > administrative_structure_north_south_divide"
+  },
+  {
+    "question": "Which major factor contributed to the unequal development of the North and South post-amalgamation?",
+    "options": {
+      "A": "Colonial neglect",
+      "B": "Natural resources",
+      "C": "Population density",
+      "D": "Cultural practices"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "amalgamation_of_1914 > administrative_structure_north_south_divide"
+  },
+  {
+    "question": "Which religion had a significant influence on the northern region prior to amalgamation?",
+    "options": {
+      "A": "Christianity",
+      "B": "Islam",
+      "C": "Paganism",
+      "D": "Hinduism"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "amalgamation_of_1914 > administrative_structure_north_south_divide"
+  },
+  {
+    "question": "The southern region was largely influenced by trade with which of the following?",
+    "options": {
+      "A": "The British",
+      "B": "The French",
+      "C": "The Americans",
+      "D": "The Germans"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "amalgamation_of_1914 > administrative_structure_north_south_divide"
+  },
+  {
+    "question": "What form of economic activity was more prevalent in the Northern region post-amalgamation?",
+    "options": {
+      "A": "Industrial manufacturing",
+      "B": "Agriculture",
+      "C": "Tourism",
+      "D": "Oil exploration"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "amalgamation_of_1914 > administrative_structure_north_south_divide"
+  },
+  {
+    "question": "The southern region's economy was primarily driven by which major resource?",
+    "options": {
+      "A": "Oil",
+      "B": "Cocoa",
+      "C": "Cotton",
+      "D": "Groundnuts"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "amalgamation_of_1914 > administrative_structure_north_south_divide"
+  },
+  {
+    "question": "Which of the following best describes the demographic challenge in the North post-amalgamation?",
+    "options": {
+      "A": "Overpopulation",
+      "B": "High literacy rates",
+      "C": "Migration of youth",
+      "D": "Religious diversity"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "amalgamation_of_1914 > administrative_structure_north_south_divide"
+  }
+]

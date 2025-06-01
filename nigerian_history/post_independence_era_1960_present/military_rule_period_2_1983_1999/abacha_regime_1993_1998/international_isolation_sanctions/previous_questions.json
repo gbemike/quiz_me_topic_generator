@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What was the effect of sanctions on Nigeria's healthcare system during the Abacha regime?",
+    "options": {
+      "A": "Improved healthcare access",
+      "B": "Deterioration of healthcare services",
+      "C": "Increase in foreign aid",
+      "D": "Expansion of infrastructure"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "abacha_regime_1993_1998 > international_isolation_sanctions"
+  },
+  {
+    "question": "What was one consequence of the international isolation of Nigeria during Abacha's rule?",
+    "options": {
+      "A": "Increased foreign investment",
+      "B": "Rise in global partnerships",
+      "C": "Economic recession",
+      "D": "Boost in international tourism"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "abacha_regime_1993_1998 > international_isolation_sanctions"
+  }
+]

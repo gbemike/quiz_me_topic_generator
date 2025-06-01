@@ -1,0 +1,362 @@
+[
+  {
+    "question": "What year did tin mining begin in Jos Plateau?",
+    "options": {
+      "A": "1902",
+      "B": "1915",
+      "C": "1920",
+      "D": "1935"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "Which company was the first to exploit tin resources in the Jos Plateau?",
+    "options": {
+      "A": "Nigerian Tin Mining Company",
+      "B": "Jos Tin Mines Ltd",
+      "C": "British Tin Corporation",
+      "D": "Tin Mining Company of Nigeria"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "Fill in the blank: The Jos Plateau is known for its rich deposits of ______.",
+    "options": {
+      "A": "coal",
+      "B": "tin",
+      "C": "gold",
+      "D": "salt"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "What was the primary impact of tin mining on the economy of Jos Plateau in the early 20th century?",
+    "options": {
+      "A": "Increased agricultural production",
+      "B": "Urbanization and infrastructure development",
+      "C": "Reduction in foreign investment",
+      "D": "Decline in employment opportunities"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "Who was the colonial governor that facilitated the development of tin mining in Jos?",
+    "options": {
+      "A": "Sir Frederick Lugard",
+      "B": "Sir John Macpherson",
+      "C": "Sir Gordon Grant",
+      "D": "Sir James Robertson"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "In the context of tin mining, what does 'tin smelting' refer to?",
+    "options": {
+      "A": "Mining tin ores",
+      "B": "Refining tin into usable metal",
+      "C": "Transporting tin to market",
+      "D": "Storing tin for later use"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "What socio-economic challenge arose from the tin mining industry in Jos Plateau?",
+    "options": {
+      "A": "High unemployment",
+      "B": "Environmental degradation",
+      "C": "Cultural diversity",
+      "D": "Increased literacy rates"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "Tin mining in Jos Plateau significantly contributed to which aspect of Nigerian society?",
+    "options": {
+      "A": "Political stability",
+      "B": "Technological advancement",
+      "C": "Economic development",
+      "D": "Cultural heritage"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "What was a major consequence of the decline of tin mining in Jos after the 1970s?",
+    "options": {
+      "A": "Population growth",
+      "B": "Economic recession",
+      "C": "Increase in tourism",
+      "D": "Urban expansion"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "Which international market primarily influenced the price of tin in Nigeria?",
+    "options": {
+      "A": "Asian markets",
+      "B": "European markets",
+      "C": "American markets",
+      "D": "African markets"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "What was the purpose of the Nigerian Tin Mining Corporation established in 1971?",
+    "options": {
+      "A": "To regulate tin prices",
+      "B": "To manage tin mines",
+      "C": "To promote tin exports",
+      "D": "To develop mining technology"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "Which mining technique became popular in the Jos Plateau during the tin boom?",
+    "options": {
+      "A": "Hydraulic mining",
+      "B": "Cave mining",
+      "C": "Strip mining",
+      "D": "Block caving"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "What is the name of the local market in Jos where tin traders historically sold their goods?",
+    "options": {
+      "A": "Bassa Market",
+      "B": "Jos Main Market",
+      "C": "Tin City Market",
+      "D": "Rukuba Market"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "Which of the following socio-political events impacted tin mining in Jos Plateau during the Nigerian Civil War?",
+    "options": {
+      "A": "Increased production",
+      "B": "Disruption of mining operations",
+      "C": "Technological improvements",
+      "D": "Expansion of mining areas"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "The term 'tin market collapse' in Nigeria refers to which period?",
+    "options": {
+      "A": "1980s",
+      "B": "1990s",
+      "C": "1970s",
+      "D": "2000s"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "Which environmental issue is associated with tin mining in Jos Plateau?",
+    "options": {
+      "A": "Desertification",
+      "B": "Deforestation",
+      "C": "Soil erosion",
+      "D": "Water contamination"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "How did tin mining affect the demographic structure of Jos?",
+    "options": {
+      "A": "Increased youth migration",
+      "B": "Population decline",
+      "C": "Cultural homogeneity",
+      "D": "Stagnation of growth"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "Which international organization classified Nigeria as a major tin exporter in the 1960s?",
+    "options": {
+      "A": "World Bank",
+      "B": "International Monetary Fund",
+      "C": "United Nations",
+      "D": "World Trade Organization"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "What is a significant cultural aspect of the Jos Plateau influenced by tin mining?",
+    "options": {
+      "A": "Culinary diversity",
+      "B": "Art and craft development",
+      "C": "Literary promotion",
+      "D": "Music evolution"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "What was one major impact of tin mining on the local communities in Jos Plateau?",
+    "options": {
+      "A": "Cultural integration",
+      "B": "Economic inequality",
+      "C": "Reduced poverty",
+      "D": "Increased education"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "Which policy change in the 1980s affected tin mining operations in Nigeria?",
+    "options": {
+      "A": "Privatization of state-owned enterprises",
+      "B": "Increase in tariffs",
+      "C": "Devaluation of currency",
+      "D": "Introduction of foreign investment laws"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "The primary geological formation associated with tin deposits in Jos Plateau is known as __________.",
+    "options": {
+      "A": "Granite",
+      "B": "Basalt",
+      "C": "Sedimentary",
+      "D": "Metamorphic"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "Which mining policy is considered ineffective in regulating artisanal mining in Jos Plateau?",
+    "options": {
+      "A": "Community mining laws",
+      "B": "National mining acts",
+      "C": "Environmental protection regulations",
+      "D": "Exportation laws"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "Jos Plateau's tin reserves are primarily located in which type of terrain?",
+    "options": {
+      "A": "Flat plains",
+      "B": "Mountainous regions",
+      "C": "Swamps",
+      "D": "Deserts"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "Which major global event in the 1970s caused fluctuations in the tin market that affected Nigeria's economy?",
+    "options": {
+      "A": "Oil crisis",
+      "B": "World War II",
+      "C": "Cold War",
+      "D": "Great Depression"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "The Jos Plateau is predominantly known for its production of which specific form of tin?",
+    "options": {
+      "A": "Tin oxide",
+      "B": "Tin ingots",
+      "C": "Tin concentrate",
+      "D": "Tin alloys"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "Which demographic change is linked to the migration of workers to Jos for tin mining?",
+    "options": {
+      "A": "Increased birth rates",
+      "B": "Urban migration",
+      "C": "Suburbanization",
+      "D": "Rural depopulation"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "What was a common health issue faced by miners in the Jos Plateau?",
+    "options": {
+      "A": "Malaria",
+      "B": "Silicosis",
+      "C": "Tuberculosis",
+      "D": "HIV/AIDS"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "Jos Plateau is often referred to as the center of which mining activity in Nigeria?",
+    "options": {
+      "A": "Coal mining",
+      "B": "Tin mining",
+      "C": "Gold mining",
+      "D": "Diamond mining"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  },
+  {
+    "question": "What did the Jos tin miners primarily use to transport tin ore?",
+    "options": {
+      "A": "Railways",
+      "B": "Trucks",
+      "C": "Bicycles",
+      "D": "Animals"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > tin_mining_jos_plateau"
+  }
+]

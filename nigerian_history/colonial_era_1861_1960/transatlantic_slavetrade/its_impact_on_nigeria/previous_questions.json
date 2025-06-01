@@ -1,0 +1,218 @@
+[
+  {
+    "question": "Which Nigerian ethnic group was notably affected by the transatlantic slave trade, suffering significant losses of population?",
+    "options": {
+      "A": "Yoruba",
+      "B": "Hausa",
+      "C": "Igbo",
+      "D": "Fulani"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "transatlantic_slavetrade > its_impact_on_nigeria"
+  },
+  {
+    "question": "The establishment of which type of markets in Nigeria was a direct consequence of the slave trade?",
+    "options": {
+      "A": "Agricultural markets",
+      "B": "Slave markets",
+      "C": "Textile markets",
+      "D": "Tourism markets"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "transatlantic_slavetrade > its_impact_on_nigeria"
+  },
+  {
+    "question": "The Oyo Empire was a major player in the slave trade due to its control over what?",
+    "options": {
+      "A": "Trade routes",
+      "B": "Mining resources",
+      "C": "Textile production",
+      "D": "Agricultural exports"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "transatlantic_slavetrade > its_impact_on_nigeria"
+  },
+  {
+    "question": "One impact of the transatlantic slave trade was the weakening of which local political structures in Nigeria?",
+    "options": {
+      "A": "Monarchies",
+      "B": "Democracies",
+      "C": "Theocracies",
+      "D": "Socialist states"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "transatlantic_slavetrade > its_impact_on_nigeria"
+  },
+  {
+    "question": "The Yoruba term for the remnants of enslaved people who resisted capture is?",
+    "options": {
+      "A": "Aroko",
+      "B": "Omo Eko",
+      "C": "Ajao",
+      "D": "Runaway"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "transatlantic_slavetrade > its_impact_on_nigeria"
+  },
+  {
+    "question": "Which form of resistance did many enslaved Nigerians practice during the transatlantic slave trade?",
+    "options": {
+      "A": "Armed rebellion",
+      "B": "Cultural preservation",
+      "C": "Economic sabotage",
+      "D": "Political negotiation"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "transatlantic_slavetrade > its_impact_on_nigeria"
+  },
+  {
+    "question": "Which notable Nigerian artifact represents the enslavement experience of its people?",
+    "options": {
+      "A": "Benin Bronzes",
+      "B": "Nok Terracotta",
+      "C": "If\u1eb9 Head",
+      "D": "Aso Oke"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "transatlantic_slavetrade > its_impact_on_nigeria"
+  },
+  {
+    "question": "The practice of capturing and selling one's neighbors into slavery was termed what?",
+    "options": {
+      "A": "Raiding",
+      "B": "Bartering",
+      "C": "Enslavement",
+      "D": "Collaboration"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "transatlantic_slavetrade > its_impact_on_nigeria"
+  },
+  {
+    "question": "Which of the following was a common form of resistance against the slave trade among Nigerian ethnic groups?",
+    "options": {
+      "A": "Collaborating with traders",
+      "B": "Escaping to safer territories",
+      "C": "Increased productivity",
+      "D": "Engaging in diplomacy"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "transatlantic_slavetrade > its_impact_on_nigeria"
+  },
+  {
+    "question": "Which language in Nigeria includes many loanwords from the era of the slave trade?",
+    "options": {
+      "A": "Hausa",
+      "B": "Yoruba",
+      "C": "Igbo",
+      "D": "Pidgin English"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "transatlantic_slavetrade > its_impact_on_nigeria"
+  },
+  {
+    "question": "Which of these was not a method of resistance against the transatlantic slave trade by Nigerian communities?",
+    "options": {
+      "A": "Rebellion",
+      "B": "Collaboration",
+      "C": "Flight",
+      "D": "Cultural preservation"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "transatlantic_slavetrade > its_impact_on_nigeria"
+  },
+  {
+    "question": "The legacy of the transatlantic slave trade is often discussed in relation to which contemporary issue in Nigeria?",
+    "options": {
+      "A": "Unemployment",
+      "B": "Corruption",
+      "C": "Ethnic tensions",
+      "D": "Climate change"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "transatlantic_slavetrade > its_impact_on_nigeria"
+  },
+  {
+    "question": "Which of the following was a means of cultural expression used to cope with the trauma of slavery?",
+    "options": {
+      "A": "Painting",
+      "B": "Music",
+      "C": "Architecture",
+      "D": "Theater"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "transatlantic_slavetrade > its_impact_on_nigeria"
+  },
+  {
+    "question": "Fill in the blank: The ________ were known for their role in the slave trade, capturing slaves from neighboring communities.",
+    "options": {
+      "A": "Niger Delta tribes",
+      "B": "Oyo Empire",
+      "C": "Fulani",
+      "D": "Benin Kingdom"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "transatlantic_slavetrade > its_impact_on_nigeria"
+  },
+  {
+    "question": "Which African diaspora community in the Americas has roots tracing back to enslaved people from Nigeria?",
+    "options": {
+      "A": "Maroon",
+      "B": "Zanj",
+      "C": "Sankofa",
+      "D": "Nigerians in Brazil"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "transatlantic_slavetrade > its_impact_on_nigeria"
+  },
+  {
+    "question": "The end of the transatlantic slave trade coincided with which global movement?",
+    "options": {
+      "A": "Colonialism",
+      "B": "Industrial Revolution",
+      "C": "Abolitionism",
+      "D": "Decolonization"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "transatlantic_slavetrade > its_impact_on_nigeria"
+  },
+  {
+    "question": "Which of the following was a form of social organization that suffered due to the slave trade?",
+    "options": {
+      "A": "Marriages",
+      "B": "Extended families",
+      "C": "Political alliances",
+      "D": "Community tribes"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "transatlantic_slavetrade > its_impact_on_nigeria"
+  },
+  {
+    "question": "What term describes the offspring of enslaved Nigerians born in the Americas?",
+    "options": {
+      "A": "Creole",
+      "B": "Expatriate",
+      "C": "Indigenous",
+      "D": "Diasporic"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "transatlantic_slavetrade > its_impact_on_nigeria"
+  }
+]

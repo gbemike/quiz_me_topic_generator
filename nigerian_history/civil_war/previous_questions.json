@@ -1,0 +1,338 @@
+[
+  {
+    "question": "During the Nigerian Civil War, which creative method did Biafrans use to manufacture their own weapons despite limited resources?",
+    "options": {
+      "A": "Recycling old vehicles",
+      "B": "Using local herbs",
+      "C": "Re-purposing agricultural tools",
+      "D": "Converting household appliances"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "What year did the Nigerian Civil War start?",
+    "options": {
+      "A": "1967",
+      "B": "1970",
+      "C": "1965",
+      "D": "1969"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "Who was the leader of the Biafran side during the Nigerian Civil War?",
+    "options": {
+      "A": "Chukwuemeka Odumegwu Ojukwu",
+      "B": "Yakubu Gowon",
+      "C": "Nnamdi Azikiwe",
+      "D": "Obafemi Awolowo"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "Which event is often cited as the trigger for the Nigerian Civil War?",
+    "options": {
+      "A": "The coup of 1966",
+      "B": "The Biafran Declaration",
+      "C": "The Lagos Peace Talks",
+      "D": "The assassination of Azikiwe"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "What was the primary cause of the Nigerian Civil War?",
+    "options": {
+      "A": "Ethnic tensions",
+      "B": "Religious differences",
+      "C": "Economic disparities",
+      "D": "Colonial legacies"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "In what year did the Nigerian Civil War officially end?",
+    "options": {
+      "A": "1970",
+      "B": "1975",
+      "C": "1969",
+      "D": "1968"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "What was the name of the operation launched by Nigeria to recapture Biafran territories?",
+    "options": {
+      "A": "Operation Python",
+      "B": "Operation OAU",
+      "C": "Operation Biafra",
+      "D": "Operation Niger"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "Which international figure famously advocated for the Biafran cause and brought global attention to the humanitarian crisis?",
+    "options": {
+      "A": "John Lennon",
+      "B": "Bob Geldof",
+      "C": "Henry Kissinger",
+      "D": "Abba Eban"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "Which international organization intervened during the Nigerian Civil War to provide humanitarian aid?",
+    "options": {
+      "A": "World Health Organization",
+      "B": "Red Cross",
+      "C": "United Nations",
+      "D": "African Union"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "In terms of casualties, what is estimated to be the number of people who died as a result of the Nigerian Civil War?",
+    "options": {
+      "A": "500,000",
+      "B": "1 million",
+      "C": "2 million",
+      "D": "3 million"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "Which humanitarian crisis was a direct result of the Nigerian Civil War?",
+    "options": {
+      "A": "Housing refugee crisis",
+      "B": "Mass starvation",
+      "C": "Health epidemic",
+      "D": "Economic downturn"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "What military tactic did the Biafran army employ that was different from conventional warfare?",
+    "options": {
+      "A": "Trench warfare",
+      "B": "Asymmetric warfare",
+      "C": "Chemical warfare",
+      "D": "Cavalry charges"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "What role did women play during the Nigerian Civil War?",
+    "options": {
+      "A": "Combat soldiers",
+      "B": "Humanitarian workers",
+      "C": "Political leaders",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "What was the main source of food shortages during the Nigerian Civil War?",
+    "options": {
+      "A": "Destruction of farms",
+      "B": "Blockade by Nigerian forces",
+      "C": "Lack of imports",
+      "D": "Drought"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "What was the fundamental sentiment among the Igbo people after the Civil War?",
+    "options": {
+      "A": "Forgiveness",
+      "B": "Resentment",
+      "C": "Nationalism",
+      "D": "Indifference"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "Which of the following was a significant humanitarian organization active in Nigeria during the Civil War?",
+    "options": {
+      "A": "Doctors Without Borders",
+      "B": "International Red Cross",
+      "C": "Oxfam",
+      "D": "UNICEF"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "What was the long-term economic impact of the Nigerian Civil War on the southeastern region?",
+    "options": {
+      "A": "Rapid recovery",
+      "B": "Stagnation and poverty",
+      "C": "Industrial boom",
+      "D": "Economic stability"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "Which form of media was heavily censored during the Nigerian Civil War?",
+    "options": {
+      "A": "Television",
+      "B": "Newspapers",
+      "C": "Radio",
+      "D": "Magazines"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "What was the major health issue that plagued the Biafran population during the war?",
+    "options": {
+      "A": "Malaria",
+      "B": "Ebola",
+      "C": "Starvation-related diseases",
+      "D": "HIV/AIDS"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "In the context of the Civil War, what does the term 'starvation' refer to primarily?",
+    "options": {
+      "A": "Military strategy",
+      "B": "Humanitarian crisis",
+      "C": "Economic sanctions",
+      "D": "Political propaganda"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "What was the name of the relief organization that played a significant role in providing aid during the Civil War?",
+    "options": {
+      "A": "Red Cross",
+      "B": "Doctors Without Borders",
+      "C": "Oxfam",
+      "D": "UNICEF"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "Which natural resource was a significant factor in the fight for control during the Civil War?",
+    "options": {
+      "A": "Oil",
+      "B": "Gold",
+      "C": "Diamond",
+      "D": "Coal"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "Which prominent artist created works depicting the effects of the Civil War?",
+    "options": {
+      "A": "Bola Ige",
+      "B": "Julius Nyerere",
+      "C": "Ben Enwonwu",
+      "D": "Chike Obi"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "Which of the following was a major technological advancement introduced during the Civil War?",
+    "options": {
+      "A": "Radio broadcasting",
+      "B": "Television",
+      "C": "Internet",
+      "D": "Satellite communication"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "What was one significant social effect on children as a result of the Civil War?",
+    "options": {
+      "A": "Increased education opportunities",
+      "B": "Displacement and trauma",
+      "C": "Improved health care",
+      "D": "Greater wealth distribution"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "Which treaty or agreement aimed to foster peace post-civil war was signed in 1970?",
+    "options": {
+      "A": "Aburi Accord",
+      "B": "Peace Treaty of Biafra",
+      "C": "Reconciliation Accord",
+      "D": "Nigerian Unity Agreement"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "Which strategy was used by both sides during the Civil War involving the capture of key cities?",
+    "options": {
+      "A": "Guerrilla warfare",
+      "B": "Siege warfare",
+      "C": "Trench warfare",
+      "D": "Naval blockade"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history > civil_war"
+  },
+  {
+    "question": "What was the impact of the Civil War on educational institutions in the Southeast?",
+    "options": {
+      "A": "Expansion of universities",
+      "B": "Closure of schools",
+      "C": "Increase in literacy rates",
+      "D": "Introduction of new curricula"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history > civil_war"
+  }
+]

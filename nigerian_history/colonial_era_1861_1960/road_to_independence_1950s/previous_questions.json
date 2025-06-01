@@ -1,0 +1,98 @@
+[
+  {
+    "question": "Which organization was founded in 1945 to unite African nations against colonialism?",
+    "options": {
+      "A": "OAU",
+      "B": "PAN-African Congress",
+      "C": "NCNC",
+      "D": "African National Congress"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > road_to_independence_1950s"
+  },
+  {
+    "question": "Which Nigerian landmark was declared a national monument in 1959?",
+    "options": {
+      "A": "Aso Rock",
+      "B": "Zuma Rock",
+      "C": "The Olumo Rock",
+      "D": "The Slave Port of Badagry"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > road_to_independence_1950s"
+  },
+  {
+    "question": "Which prominent Nigerian leader was known for his 'Little or Nothing' speech at the 1954 constitutional conference?",
+    "options": {
+      "A": "Nnamdi Azikiwe",
+      "B": "Obafemi Awolowo",
+      "C": "Ahmadu Bello",
+      "D": "Wole Soyinka"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > road_to_independence_1950s"
+  },
+  {
+    "question": "Which prominent figure was known for advocating the education of women during the colonial period?",
+    "options": {
+      "A": "Maria Okwor",
+      "B": "Funmilayo Ransome-Kuti",
+      "C": "Margaret Ekpo",
+      "D": "Ngozi Okonjo-Iweala"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > road_to_independence_1950s"
+  },
+  {
+    "question": "Who famously wrote the book 'My Life and Nigeria' chronicling the political landscape of Nigeria in the 1950s?",
+    "options": {
+      "A": "Nnamdi Azikiwe",
+      "B": "Obafemi Awolowo",
+      "C": "Chinua Achebe",
+      "D": "Julius Nyerere"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > road_to_independence_1950s"
+  },
+  {
+    "question": "The term 'Wazobia' symbolizes what aspect of Nigerian culture?",
+    "options": {
+      "A": "Unity",
+      "B": "Conflict",
+      "C": "Colonialism",
+      "D": "Economy"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > road_to_independence_1950s"
+  },
+  {
+    "question": "What was the primary role of the 'twelve wise men' appointed in 1946 in Nigeria?",
+    "options": {
+      "A": "Drafting a new constitution",
+      "B": "Advising the British Parliament",
+      "C": "Overseeing regional elections",
+      "D": "Promoting education reforms"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > road_to_independence_1950s"
+  },
+  {
+    "question": "Who was known for the statement 'We are not asking for independence, we are demanding it'?",
+    "options": {
+      "A": "Awolowo",
+      "B": "Azikiwe",
+      "C": "Enahoro",
+      "D": "Bello"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > road_to_independence_1950s"
+  }
+]

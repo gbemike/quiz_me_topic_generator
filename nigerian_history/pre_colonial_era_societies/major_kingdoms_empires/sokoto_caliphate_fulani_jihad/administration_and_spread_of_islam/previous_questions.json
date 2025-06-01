@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Usman dan Fodio wrote extensively about what subjects?",
+    "options": {
+      "A": "Economics and Politics",
+      "B": "Islamic theology and law",
+      "C": "Science and Agriculture",
+      "D": "Art and Literature"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "sokoto_caliphate_fulani_jihad > administration_and_spread_of_islam"
+  },
+  {
+    "question": "Who was the first female scholar to emerge from the Sokoto Caliphate?",
+    "options": {
+      "A": "Amina dan Usman",
+      "B": "Bint Zubair",
+      "C": "Fatima bint Usman",
+      "D": "Hajia Aisha"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "sokoto_caliphate_fulani_jihad > administration_and_spread_of_islam"
+  },
+  {
+    "question": "Usman dan Fodio\u2019s teachings emphasized the importance of what aspect of Islam?",
+    "options": {
+      "A": "Charity",
+      "B": "Jihad",
+      "C": "Knowledge",
+      "D": "Pilgrimage"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "sokoto_caliphate_fulani_jihad > administration_and_spread_of_islam"
+  },
+  {
+    "question": "What agricultural innovation was promoted by the Sokoto Caliphate to enhance food production?",
+    "options": {
+      "A": "Irrigation systems",
+      "B": "Crop rotation",
+      "C": "Organic farming",
+      "D": "Use of fertilizers"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "sokoto_caliphate_fulani_jihad > administration_and_spread_of_islam"
+  }
+]

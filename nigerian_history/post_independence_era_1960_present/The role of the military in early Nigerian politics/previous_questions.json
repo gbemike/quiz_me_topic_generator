@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What was one of the main reasons for the military's return to power in 1983?",
+    "options": {
+      "A": "Foreign policy failures",
+      "B": "Political corruption",
+      "C": "Economic downturn",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "post_independence_era_1960_present > The role of the military in early Nigerian politics"
+  },
+  {
+    "question": "Which military ruler's government was accused of fostering drug trafficking and human rights abuses?",
+    "options": {
+      "A": "General Abacha",
+      "B": "General Babangida",
+      "C": "General Gowon",
+      "D": "General Buhari"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "post_independence_era_1960_present > The role of the military in early Nigerian politics"
+  },
+  {
+    "question": "Who was the chief of staff during the military regime of General Gowon?",
+    "options": {
+      "A": "General Murtala Mohammed",
+      "B": "General Ibrahim Babangida",
+      "C": "General Olusegun Obasanjo",
+      "D": "General Sani Abacha"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "post_independence_era_1960_present > The role of the military in early Nigerian politics"
+  },
+  {
+    "question": "Which ethnic group predominantly comprised the military leadership during the first decade post-independence?",
+    "options": {
+      "A": "Yoruba",
+      "B": "Hausa-Fulani",
+      "C": "Igbo",
+      "D": "Ijaw"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "post_independence_era_1960_present > The role of the military in early Nigerian politics"
+  }
+]

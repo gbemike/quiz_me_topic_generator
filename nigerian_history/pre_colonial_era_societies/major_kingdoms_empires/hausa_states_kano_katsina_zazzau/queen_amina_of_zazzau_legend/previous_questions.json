@@ -1,0 +1,98 @@
+[
+  {
+    "question": "Queen Amina's story has been passed down through what medium?",
+    "options": {
+      "A": "Written texts",
+      "B": "Oral tradition",
+      "C": "Paintings",
+      "D": "Sculptures"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "hausa_states_kano_katsina_zazzau > queen_amina_of_zazzau_legend"
+  },
+  {
+    "question": "Queen Amina is often depicted wearing which traditional attire?",
+    "options": {
+      "A": "Buba",
+      "B": "Kaftan",
+      "C": "Turbans",
+      "D": "Aso Oke"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "hausa_states_kano_katsina_zazzau > queen_amina_of_zazzau_legend"
+  },
+  {
+    "question": "Amina\u2019s legend has been featured in which form of modern cultural expression?",
+    "options": {
+      "A": "Film",
+      "B": "Literature",
+      "C": "Art",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "hausa_states_kano_katsina_zazzau > queen_amina_of_zazzau_legend"
+  },
+  {
+    "question": "Which significant trade route did Amina's kingdom control?",
+    "options": {
+      "A": "Trans-Saharan",
+      "B": "Trans-Atlantic",
+      "C": "East African",
+      "D": "Silk Road"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "hausa_states_kano_katsina_zazzau > queen_amina_of_zazzau_legend"
+  },
+  {
+    "question": "What object is a symbol of Amina's reign, representing strength?",
+    "options": {
+      "A": "Shield",
+      "B": "Spear",
+      "C": "Crown",
+      "D": "Flag"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "hausa_states_kano_katsina_zazzau > queen_amina_of_zazzau_legend"
+  },
+  {
+    "question": "What was one of Amina's policies regarding women's roles in society?",
+    "options": {
+      "A": "Limiting education",
+      "B": "Encouraging trade",
+      "C": "Banning warfare",
+      "D": "Promoting domestic roles"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "hausa_states_kano_katsina_zazzau > queen_amina_of_zazzau_legend"
+  },
+  {
+    "question": "What event marked the zenith of Amina's power?",
+    "options": {
+      "A": "Her marriage",
+      "B": "The Battle of Zazzau",
+      "C": "Building the Zazzau Fortress",
+      "D": "Conquering Katsina"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "hausa_states_kano_katsina_zazzau > queen_amina_of_zazzau_legend"
+  },
+  {
+    "question": "What geographical feature did Amina utilize for strategic advantage?",
+    "options": {
+      "A": "Mountains",
+      "B": "Rivers",
+      "C": "Deserts",
+      "D": "Forests"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "hausa_states_kano_katsina_zazzau > queen_amina_of_zazzau_legend"
+  }
+]

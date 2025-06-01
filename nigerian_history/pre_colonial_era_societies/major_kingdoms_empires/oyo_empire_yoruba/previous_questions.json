@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What was the role of the \u2018Oyo Mesi\u2019 in the Oyo Empire?",
+    "options": {
+      "A": "Military leaders",
+      "B": "Advisors to the Alafin",
+      "C": "Religious leaders",
+      "D": "Farmers"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "major_kingdoms_empires > oyo_empire_yoruba"
+  },
+  {
+    "question": "What was the name of the famous palace in Oyo-Ile?",
+    "options": {
+      "A": "Aso Rock",
+      "B": "Iya Ijebu",
+      "C": "Gbeja Palace",
+      "D": "Baba Ijesha's Palace"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "major_kingdoms_empires > oyo_empire_yoruba"
+  },
+  {
+    "question": "The Oyo Empire's warriors were known for their distinct attire. What was a common item they wore?",
+    "options": {
+      "A": "Aso Oke",
+      "B": "Buba",
+      "C": "Agbada",
+      "D": "Iro"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "major_kingdoms_empires > oyo_empire_yoruba"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "question": "In which month did the 1983 general elections take place?",
+    "options": {
+      "A": "January",
+      "B": "April",
+      "C": "October",
+      "D": "December"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "second_republic_1979_1983 > 1983_general_elections_controversy"
+  },
+  {
+    "question": "What was a significant consequence of the alleged electoral fraud in the 1983 elections?",
+    "options": {
+      "A": "Increased foreign investment",
+      "B": "Heightened military intervention",
+      "C": "Economic stability",
+      "D": "Strengthened democratic processes"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "second_republic_1979_1983 > 1983_general_elections_controversy"
+  },
+  {
+    "question": "Which Nigerian state had the lowest voter turnout in the 1983 elections?",
+    "options": {
+      "A": "Borno",
+      "B": "Lagos",
+      "C": "Rivers",
+      "D": "Kaduna"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "second_republic_1979_1983 > 1983_general_elections_controversy"
+  },
+  {
+    "question": "Which political party's symbol was a rising sun during the 1983 elections?",
+    "options": {
+      "A": "National Party of Nigeria",
+      "B": "Unity Party of Nigeria",
+      "C": "People's Redemption Party",
+      "D": "Social Democratic Party"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "second_republic_1979_1983 > 1983_general_elections_controversy"
+  },
+  {
+    "question": "What was the immediate effect of the allegations of electoral fraud in the 1983 elections?",
+    "options": {
+      "A": "Increased voter trust",
+      "B": "Military intervention",
+      "C": "International sanctions",
+      "D": "Judicial reforms"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "second_republic_1979_1983 > 1983_general_elections_controversy"
+  },
+  {
+    "question": "What was the perception of the media's role during the 1983 elections?",
+    "options": {
+      "A": "Unbiased reporting",
+      "B": "Government propaganda",
+      "C": "Public education",
+      "D": "Transparency advocates"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "second_republic_1979_1983 > 1983_general_elections_controversy"
+  },
+  {
+    "question": "What was one of the election promises of the National Party of Nigeria during the 1983 campaign?",
+    "options": {
+      "A": "Economic prosperity",
+      "B": "Free education",
+      "C": "Healthcare reform",
+      "D": "Infrastructure development"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "second_republic_1979_1983 > 1983_general_elections_controversy"
+  },
+  {
+    "question": "What was a widely reported issue related to voter registration in the 1983 elections?",
+    "options": {
+      "A": "Inadequate technology",
+      "B": "Corruption",
+      "C": "Disenfranchisement",
+      "D": "Unclear guidelines"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "second_republic_1979_1983 > 1983_general_elections_controversy"
+  },
+  {
+    "question": "What was the electoral outcome for the National Party of Nigeria in the 1983 elections?",
+    "options": {
+      "A": "Major defeat",
+      "B": "Minor victory",
+      "C": "Landslide win",
+      "D": "Stalemate"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "second_republic_1979_1983 > 1983_general_elections_controversy"
+  }
+]

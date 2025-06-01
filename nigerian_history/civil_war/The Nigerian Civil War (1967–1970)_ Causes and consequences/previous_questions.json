@@ -1,0 +1,182 @@
+[
+  {
+    "question": "During the Nigerian Civil War, a secretive radio station played a pivotal role in Biafra's communication efforts. What was the name of this clandestine broadcaster?",
+    "options": {
+      "A": "Radio Biafra",
+      "B": "Voice of Freedom",
+      "C": "Biafran Voice",
+      "D": "Echo of Biafra"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "What was the primary ethnic group that sought independence during the war?",
+    "options": {
+      "A": "Hausa",
+      "B": "Yoruba",
+      "C": "Igbo",
+      "D": "Fulani"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "civil_war > The Nigerian Civil War (1967\u20131970)_ Causes and consequences"
+  },
+  {
+    "question": "Which British politician was known for advocating for Biafran independence?",
+    "options": {
+      "A": "Harold Wilson",
+      "B": "Eden Bevan",
+      "C": "David Owen",
+      "D": "Tony Blair"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "civil_war > The Nigerian Civil War (1967\u20131970)_ Causes and consequences"
+  },
+  {
+    "question": "What significant event happened on 15 January 1966, related to the war?",
+    "options": {
+      "A": "The first coup d'\u00e9tat",
+      "B": "The Biafran Declaration",
+      "C": "The end of colonial rule",
+      "D": "The creation of the Nigerian state"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "civil_war > The Nigerian Civil War (1967\u20131970)_ Causes and consequences"
+  },
+  {
+    "question": "Which animal became a symbol of the Biafran struggle?",
+    "options": {
+      "A": "Lion",
+      "B": "Eagle",
+      "C": "Tiger",
+      "D": "Elephant"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "civil_war > The Nigerian Civil War (1967\u20131970)_ Causes and consequences"
+  },
+  {
+    "question": "The civil war led to significant migration of people. What was this called?",
+    "options": {
+      "A": "Urbanization",
+      "B": "Displacement",
+      "C": "Exile",
+      "D": "Evacuation"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "civil_war > The Nigerian Civil War (1967\u20131970)_ Causes and consequences"
+  },
+  {
+    "question": "The Nigerian Civil War had major implications for which sector?",
+    "options": {
+      "A": "Healthcare",
+      "B": "Agriculture",
+      "C": "Education",
+      "D": "Security"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "civil_war > The Nigerian Civil War (1967\u20131970)_ Causes and consequences"
+  },
+  {
+    "question": "The conflict between which two ethnic groups was exacerbated by the war?",
+    "options": {
+      "A": "Igbo and Hausa",
+      "B": "Igbo and Yoruba",
+      "C": "Hausa and Fulani",
+      "D": "Yoruba and Fulani"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "civil_war > The Nigerian Civil War (1967\u20131970)_ Causes and consequences"
+  },
+  {
+    "question": "What was the main focus of negotiations during the peace talks?",
+    "options": {
+      "A": "Land rights",
+      "B": "Autonomy for Biafra",
+      "C": "Economic policies",
+      "D": "Military disarmament"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "civil_war > The Nigerian Civil War (1967\u20131970)_ Causes and consequences"
+  },
+  {
+    "question": "The Nigerian Civil War had profound effects on which generation of Nigerians?",
+    "options": {
+      "A": "Pre-war generation",
+      "B": "Post-war generation",
+      "C": "War generation",
+      "D": "Present generation"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "civil_war > The Nigerian Civil War (1967\u20131970)_ Causes and consequences"
+  },
+  {
+    "question": "The Nigerian Civil War is often taught in schools as a lesson in what?",
+    "options": {
+      "A": "Diplomacy",
+      "B": "Unity",
+      "C": "Conflict resolution",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "civil_war > The Nigerian Civil War (1967\u20131970)_ Causes and consequences"
+  },
+  {
+    "question": "What was 'Operation Tail-Wind' seen as during the Civil War?",
+    "options": {
+      "A": "Biafran strategy",
+      "B": "Nigerian military operation",
+      "C": "Peace initiative",
+      "D": "Humanitarian aid"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "civil_war > The Nigerian Civil War (1967\u20131970)_ Causes and consequences"
+  },
+  {
+    "question": "The Lagos-based government used which strategy to combat Biafra\u2019s forces effectively?",
+    "options": {
+      "A": "Guerrilla warfare",
+      "B": "Air strikes",
+      "C": "Naval blockade",
+      "D": "Psychological operations"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "civil_war > The Nigerian Civil War (1967\u20131970)_ Causes and consequences"
+  },
+  {
+    "question": "What was the fate of Chukwuemeka Ojukwu after the war ended?",
+    "options": {
+      "A": "He became President of Nigeria",
+      "B": "He fled to Ivory Coast",
+      "C": "He was imprisoned",
+      "D": "He was assassinated"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "civil_war > The Nigerian Civil War (1967\u20131970)_ Causes and consequences"
+  },
+  {
+    "question": "Which cultural group faced significant discrimination post-war due to the civil conflict?",
+    "options": {
+      "A": "Hausa-Fulani",
+      "B": "Igbo",
+      "C": "Yoruba",
+      "D": "Kanuri"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "civil_war > The Nigerian Civil War (1967\u20131970)_ Causes and consequences"
+  }
+]

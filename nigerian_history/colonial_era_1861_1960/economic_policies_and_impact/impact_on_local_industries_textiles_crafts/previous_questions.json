@@ -1,0 +1,326 @@
+[
+  {
+    "question": "What term describes the economic policy encouraging local production to reduce dependence on foreign goods?",
+    "options": {
+      "A": "Import Dependency",
+      "B": "Local Content Policy",
+      "C": "Trade Liberalization",
+      "D": "Export Promotion"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "In terms of local crafts, what does the term 'handloom' refer to?",
+    "options": {
+      "A": "A type of fabric",
+      "B": "A weaving technique",
+      "C": "A dyeing process",
+      "D": "A sewing machine"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "What is a primary challenge faced by local textile industries in Nigeria today?",
+    "options": {
+      "A": "Overproduction",
+      "B": "Inadequate skilled labor",
+      "C": "Excessive regulations",
+      "D": "High demand"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "Which textile craft is predominantly associated with the Hausa community?",
+    "options": {
+      "A": "Tie-dye",
+      "B": "Brocade",
+      "C": "Embroidery",
+      "D": "Leatherwork"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "Which Nigerian government initiative focused on promoting the use of local textiles in schools?",
+    "options": {
+      "A": "Back to School Program",
+      "B": "National Uniform Policy",
+      "C": "Crafts Development Initiative",
+      "D": "Education for All"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "What is the economic term for the shift from manufacturing to imports in Nigeria's textile sector?",
+    "options": {
+      "A": "Deindustrialization",
+      "B": "Industrial Expansion",
+      "C": "Export Growth",
+      "D": "Market Liberalization"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "What role does the National Cotton Association of Nigeria play in the textile industry?",
+    "options": {
+      "A": "Regulating prices",
+      "B": "Promoting local cotton production",
+      "C": "Importing raw materials",
+      "D": "Exporting finished fabrics"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "What has been a significant effect of globalization on Nigeria's local textile industries?",
+    "options": {
+      "A": "Increased local demand",
+      "B": "Boosted traditional craftsmanship",
+      "C": "Increased competition from imports",
+      "D": "Government subsidies"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "What kind of assistance does the Nigerian Export Promotion Council provide to textile exporters?",
+    "options": {
+      "A": "Market research",
+      "B": "Financial loans",
+      "C": "Raw materials",
+      "D": "Design consultancy"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "Which major global trend has negatively impacted the textile crafts sector in Nigeria?",
+    "options": {
+      "A": "Sustainable fashion",
+      "B": "Fast fashion",
+      "C": "Artisanal craftsmanship",
+      "D": "Local sourcing"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "In what year was the Nigerian Textile Policy first introduced?",
+    "options": {
+      "A": "1980",
+      "B": "1991",
+      "C": "2001",
+      "D": "2010"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "Which local craft is often intertwined with the textile industry due to its embellishment of fabrics?",
+    "options": {
+      "A": "Pottery",
+      "B": "Beadwork",
+      "C": "Carpentry",
+      "D": "Leatherworking"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "What is the significance of cotton in Nigeria's textile policy framework?",
+    "options": {
+      "A": "It's a luxury item",
+      "B": "It's the main raw material",
+      "C": "It's imported only",
+      "D": "It's a minor crop"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "What local textile style involves stitching cloth together to create patterns?",
+    "options": {
+      "A": "Batik",
+      "B": "Tie-dye",
+      "C": "Quilting",
+      "D": "Patchwork"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "What term is used for the collective efforts to revitalize Nigeria's textile industry?",
+    "options": {
+      "A": "Manufacturing Revival",
+      "B": "Textile Renaissance",
+      "C": "Craftsmanship Revolution",
+      "D": "Industry Resurgence"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "Which textile marketing strategy emphasizes the uniqueness of local Nigerian patterns?",
+    "options": {
+      "A": "Branding",
+      "B": "Standardization",
+      "C": "Mass production",
+      "D": "Outsourcing"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "What is the primary benefit of promoting local textiles in Nigeria?",
+    "options": {
+      "A": "Increased foreign investment",
+      "B": "Cultural preservation",
+      "C": "Greater imports",
+      "D": "Lower production costs"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "Which organization often collaborates with artisans to promote Nigerian textiles globally?",
+    "options": {
+      "A": "UNESCO",
+      "B": "World Bank",
+      "C": "Nigerian Entrepreneurs Association",
+      "D": "International Trade Centre"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "What economic strategy involves supporting local industries to create jobs?",
+    "options": {
+      "A": "Protectionism",
+      "B": "Laissez-faire",
+      "C": "Privatization",
+      "D": "Deregulation"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "What economic consequence did the closure of many textile mills in Nigeria have on local communities?",
+    "options": {
+      "A": "Increased employment",
+      "B": "Rural-urban migration",
+      "C": "Reduced population",
+      "D": "Higher agricultural output"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "In the context of local craft industries, what does the term 'sustainable sourcing' refer to?",
+    "options": {
+      "A": "Using synthetic materials",
+      "B": "Importing raw materials",
+      "C": "Using local materials responsibly",
+      "D": "Mass-producing textiles"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "What impact did the ban on textile imports in the 2000s have on local industries?",
+    "options": {
+      "A": "Increased exports",
+      "B": "Closure of local mills",
+      "C": "Growth of local production",
+      "D": "Rise in textile prices"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "How has globalization negatively affected Nigeria's textile crafts?",
+    "options": {
+      "A": "Increased demand for local fabrics",
+      "B": "Competition from cheaper imports",
+      "C": "Government support for local industries",
+      "D": "Growth of online sales"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "What aspect of local textiles does 'cultural preservation' emphasize?",
+    "options": {
+      "A": "Technological advancement",
+      "B": "Traditional techniques and designs",
+      "C": "Mass production",
+      "D": "International trends"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "In terms of textile production, 'artisan' refers to whom?",
+    "options": {
+      "A": "A factory worker",
+      "B": "A skilled craftsman",
+      "C": "A sales representative",
+      "D": "A supplier"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "What is a key benefit of local textile production for rural communities?",
+    "options": {
+      "A": "Increased urban migration",
+      "B": "Job creation",
+      "C": "Higher import rates",
+      "D": "Decreased local demand"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  },
+  {
+    "question": "What is the effect of high import tariffs on local textile industries?",
+    "options": {
+      "A": "Increased competition",
+      "B": "Higher production costs",
+      "C": "Strengthened local brands",
+      "D": "Increased consumer choice"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > impact_on_local_industries_textiles_crafts"
+  }
+]

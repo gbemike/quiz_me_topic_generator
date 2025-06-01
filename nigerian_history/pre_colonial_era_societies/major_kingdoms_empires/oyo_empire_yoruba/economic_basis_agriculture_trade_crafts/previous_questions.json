@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What type of pottery was commonly produced in the Oyo Empire?",
+    "options": {
+      "A": "Glazed pottery",
+      "B": "Earthenware",
+      "C": "Stoneware",
+      "D": "Porcelain"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "oyo_empire_yoruba > economic_basis_agriculture_trade_crafts"
+  },
+  {
+    "question": "Which material was most commonly used by Oyo artisans for crafting tools?",
+    "options": {
+      "A": "Wood",
+      "B": "Iron",
+      "C": "Plastic",
+      "D": "Aluminum"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "oyo_empire_yoruba > economic_basis_agriculture_trade_crafts"
+  }
+]

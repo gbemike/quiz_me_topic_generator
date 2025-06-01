@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Which of these countries was NOT involved in the colonization process of Nigeria?",
+    "options": {
+      "A": "Portugal",
+      "B": "Great Britain",
+      "C": "France",
+      "D": "Germany"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > The Amalgamation of Nigeria (1914) by Lord Lugard"
+  },
+  {
+    "question": "The amalgamation was initially expected to improve which aspect of Nigerian society?",
+    "options": {
+      "A": "Cultural identity",
+      "B": "Economic growth",
+      "C": "Political autonomy",
+      "D": "Social justice"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > The Amalgamation of Nigeria (1914) by Lord Lugard"
+  },
+  {
+    "question": "Which territory was formally annexed by the British in 1885, paving the way for amalgamation?",
+    "options": {
+      "A": "Lagos",
+      "B": "Zaria",
+      "C": "Calabar",
+      "D": "Benin City"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "colonial_era_1861_1960 > The Amalgamation of Nigeria (1914) by Lord Lugard"
+  },
+  {
+    "question": "Which major railway was developed to connect the north with the coast after amalgamation?",
+    "options": {
+      "A": "Western Railway",
+      "B": "Eastern Railway",
+      "C": "Northern Railway",
+      "D": "The Lagos-Makurdi Railway"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > The Amalgamation of Nigeria (1914) by Lord Lugard"
+  },
+  {
+    "question": "Which cultural festival gained prominence during the colonial era post-amalgamation?",
+    "options": {
+      "A": "Osun-Osogbo Festival",
+      "B": "Durbar Festival",
+      "C": "Eyo Festival",
+      "D": "Calabar Carnival"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > The Amalgamation of Nigeria (1914) by Lord Lugard"
+  }
+]

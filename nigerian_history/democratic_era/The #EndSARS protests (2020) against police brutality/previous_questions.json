@@ -1,0 +1,554 @@
+[
+  {
+    "question": "What year did the #EndSARS protests begin in Nigeria?",
+    "options": {
+      "A": "2018",
+      "B": "2019",
+      "C": "2020",
+      "D": "2021"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "Which Nigerian police unit was at the center of the #EndSARS protests?",
+    "options": {
+      "A": "Anti-Robbery Squad",
+      "B": "Traffic Division",
+      "C": "Criminal Investigation Department",
+      "D": "Special Tactical Squad"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What does the acronym 'SARS' stand for in the context of Nigerian policing?",
+    "options": {
+      "A": "Special Anti-Robbery Squad",
+      "B": "Serious Anti-Robbery Service",
+      "C": "Special Armed Response Squad",
+      "D": "Security and Rescue Services"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "Which social media platform was primarily used to mobilize the #EndSARS protests?",
+    "options": {
+      "A": "Facebook",
+      "B": "Instagram",
+      "C": "Twitter",
+      "D": "WhatsApp"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What was one of the primary demands of the #EndSARS protesters?",
+    "options": {
+      "A": "Increase police salaries",
+      "B": "End police brutality",
+      "C": "Recruit more officers",
+      "D": "Increase police visibility"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "The phrase '#EndSARS' is often associated with which of the following movements?",
+    "options": {
+      "A": "Youth Empowerment",
+      "B": "Police Reform",
+      "C": "Anti-Corruption",
+      "D": "Health Care Reform"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What was the initial catalyst for the #EndSARS protests in 2020?",
+    "options": {
+      "A": "A viral video of police brutality",
+      "B": "Government policy changes",
+      "C": "Economic hardship",
+      "D": "Youth unemployment"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "Which of the following was a notable outcome of the protests?",
+    "options": {
+      "A": "Immediate police reform",
+      "B": "Government disbanded SARS",
+      "C": "Stable economic growth",
+      "D": "Increase in police funding"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "Which Nigerian celebrity publicly supported the #EndSARS protests?",
+    "options": {
+      "A": "Burna Boy",
+      "B": "Davido",
+      "C": "Tiwa Savage",
+      "D": "Wizkid"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "The Lekki Toll Gate incident on October 20, 2020, was significant for what reason?",
+    "options": {
+      "A": "It was a peaceful protest",
+      "B": "Protesters were attacked by the police",
+      "C": "It saw the largest turnout of protesters",
+      "D": "It marked the end of the protests"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What was the official response from the Nigerian government to the #EndSARS protests?",
+    "options": {
+      "A": "Ignored the protests",
+      "B": "Accepted all demands",
+      "C": "Announced a curfew",
+      "D": "Supported the protesters"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What slogan became synonymous with the protests, expressing solidarity and identity?",
+    "options": {
+      "A": "We Are All SARS",
+      "B": "End Police Brutality",
+      "C": "Justice for All",
+      "D": "Say No to Corruption"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What was a prominent social issue that fueled the #EndSARS protests alongside police brutality?",
+    "options": {
+      "A": "Unemployment",
+      "B": "Education",
+      "C": "Health care",
+      "D": "Housing"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What was the name of the online campaign that first raised awareness about police brutality before #EndSARS?",
+    "options": {
+      "A": "#StopPoliceBrutality",
+      "B": "#NotMyGovernment",
+      "C": "#SayNoToSARS",
+      "D": "#ReformThePolice"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "During the protests, which of the following was a common method of resistance used by protesters?",
+    "options": {
+      "A": "Sit-ins",
+      "B": "Marching",
+      "C": "Online petitions",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "Which of the following was NOT a demand from the #EndSARS protesters?",
+    "options": {
+      "A": "End SARS",
+      "B": "Justice for victims of police brutality",
+      "C": "Better funding for police",
+      "D": "Psychological evaluation for officers"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What was the reaction of many Nigerian youth to the brutality of SARS?",
+    "options": {
+      "A": "Indifference",
+      "B": "Fear",
+      "C": "Anger",
+      "D": "Support"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "Which international organization expressed concern about the violence during the #EndSARS protests?",
+    "options": {
+      "A": "United Nations",
+      "B": "African Union",
+      "C": "World Bank",
+      "D": "International Monetary Fund"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "Who were primarily the protesters during the #EndSARS movement?",
+    "options": {
+      "A": "Elders",
+      "B": "Women",
+      "C": "Young Nigerians",
+      "D": "Politicians"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What action did the Lagos State Government take in response to the protests?",
+    "options": {
+      "A": "Disbanded SARS",
+      "B": "Closed schools",
+      "C": "Imposed a curfew",
+      "D": "Dissolved the police force"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What was a common technique used by protesters to share information during the #EndSARS protests?",
+    "options": {
+      "A": "Flyers",
+      "B": "Street ads",
+      "C": "Social media",
+      "D": "Television"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "Which of the following was a major consequence of the #EndSARS protests?",
+    "options": {
+      "A": "Constitutional amendment",
+      "B": "Increased police funding",
+      "C": "Heightened national security concerns",
+      "D": "Focus on police reform"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "In what manner did some youth express their frustrations during the protests?",
+    "options": {
+      "A": "Building barricades",
+      "B": "Creating art and music",
+      "C": "Organizing football matches",
+      "D": "Volunteering in communities"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What was the primary goal of the #EndSARS protests?",
+    "options": {
+      "A": "Increase police salaries",
+      "B": "End police brutality and reform policing",
+      "C": "Establish new police units",
+      "D": "Promote tourism in Nigeria"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What was a common form of protest used by participants in the #EndSARS movement?",
+    "options": {
+      "A": "Rallies and marches",
+      "B": "Online petitions only",
+      "C": "Letters to the editor",
+      "D": "Community service"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "Which public figure\u2019s statement sparked outrage during the #EndSARS protests for being dismissive?",
+    "options": {
+      "A": "The President",
+      "B": "The Minister of Police Affairs",
+      "C": "The Governor of Lagos",
+      "D": "The Inspector General of Police"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What was one of the issues highlighted by protesters regarding the SARS unit?",
+    "options": {
+      "A": "Efficiency in service",
+      "B": "Corruption and extortion",
+      "C": "Community engagement",
+      "D": "Funding adequacy"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "Which notable figure was mentioned as having their life impacted due to police brutality, becoming a rallying point for protesters?",
+    "options": {
+      "A": "Jim Iyke",
+      "B": "Bola Ahmed Tinubu",
+      "C": "Tina Ezekwe",
+      "D": "Buhari's son"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What was the hashtag used to signify support for the victims of police brutality during the protests?",
+    "options": {
+      "A": "#WeShallOvercome",
+      "B": "#JusticeForTina",
+      "C": "#EndSARS",
+      "D": "#ChangeNigeria"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What phrase did protesters use to call for accountability from the government during the #EndSARS protests?",
+    "options": {
+      "A": "No justice, no peace",
+      "B": "One Nigeria",
+      "C": "Power to the people",
+      "D": "Your time is up"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What was a significant media coverage event during the protests?",
+    "options": {
+      "A": "Press conferences",
+      "B": "Live broadcasts of protests",
+      "C": "Government interviews",
+      "D": "Talk shows discussing police reforms"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What was the reaction of some police officers during the #EndSARS protests?",
+    "options": {
+      "A": "Supportive of the protesters",
+      "B": "Aggressive and violent",
+      "C": "Indifferent",
+      "D": "Resigned from their jobs"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What international action was taken in response to the #EndSARS protests?",
+    "options": {
+      "A": "Sanctions on Nigeria",
+      "B": "Support from foreign governments",
+      "C": "Increased foreign aid",
+      "D": "None of the above"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What did many protesters wear to show unity during the #EndSARS protests?",
+    "options": {
+      "A": "White T-shirts",
+      "B": "Black clothing",
+      "C": "Traditional attire",
+      "D": "Casual jeans"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What was a significant event that occurred on October 20, 2020, during the protests?",
+    "options": {
+      "A": "Police station burnings",
+      "B": "Lekki Toll Gate shooting",
+      "C": "Formation of a youth coalition",
+      "D": "Government announcement"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "Which statement reflects a common sentiment expressed by protesters concerning youth and police interactions?",
+    "options": {
+      "A": "Youth are the future",
+      "B": "Youth should obey police",
+      "C": "Youth are responsible for crime",
+      "D": "Youth need stricter laws"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "Which celebrity's statement during the protests was criticized for being out of touch with the youth?",
+    "options": {
+      "A": "Bola Ahmed Tinubu",
+      "B": "Femi Kuti",
+      "C": "Nigerian Army spokesman",
+      "D": "Lai Mohammed"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "In response to the protests, which law was introduced to regulate police activities?",
+    "options": {
+      "A": "Police Act",
+      "B": "SARS Reform Bill",
+      "C": "Anti-Torture Act",
+      "D": "Criminal Justice Law"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "Which legal document was crucial for seeking justice for victims of police brutality during the protests?",
+    "options": {
+      "A": "Police report",
+      "B": "Court injunction",
+      "C": "Legal petition",
+      "D": "Witness statement"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What was a key message conveyed by the protest slogan \"We are tired\"?",
+    "options": {
+      "A": "Frustration with traffic",
+      "B": "Desire for economic improvement",
+      "C": "Exhaustion from police violence",
+      "D": "Need for better education"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "Which phrase was often chanted at protests calling for justice and accountability?",
+    "options": {
+      "A": "No justice, no peace",
+      "B": "Unity in diversity",
+      "C": "Power to the people",
+      "D": "We shall overcome"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What type of establishments were targeted during the protests in reaction to police violence?",
+    "options": {
+      "A": "Banks",
+      "B": "Police stations",
+      "C": "Schools",
+      "D": "Grocery stores"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "Which prominent media figure was targeted for being critical of the protests?",
+    "options": {
+      "A": "Bola Tinubu",
+      "B": "Lola Wale",
+      "C": "Femi Otedola",
+      "D": "Reno Omokri"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What did protesters use to shield themselves from police water cannons during demonstrations?",
+    "options": {
+      "A": "Umbrellas",
+      "B": "Banners",
+      "C": "Cardboard",
+      "D": "Plastic sheets"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "Which physical location became a symbol of the #EndSARS protests due to its notoriety?",
+    "options": {
+      "A": "Lekki Toll Gate",
+      "B": "Aso Rock",
+      "C": "National Assembly",
+      "D": "Eagle Square"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  },
+  {
+    "question": "What was a distinct feature of the protests in terms of participation?",
+    "options": {
+      "A": "Only men participated",
+      "B": "It attracted a diverse demographic",
+      "C": "It mainly included elderly citizens",
+      "D": "It was a strictly political event"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "democratic_era > The #EndSARS protests (2020) against police brutality"
+  }
+]

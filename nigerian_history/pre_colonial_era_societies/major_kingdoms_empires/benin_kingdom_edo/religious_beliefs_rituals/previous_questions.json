@@ -1,0 +1,146 @@
+[
+  {
+    "question": "Which ritual involves the offering of sacrifices to the spirits of ancestors in Benin?",
+    "options": {
+      "A": "Eyo",
+      "B": "Ekpo",
+      "C": "Ebiri",
+      "D": "Oniwun"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > religious_beliefs_rituals"
+  },
+  {
+    "question": "Which Benin deity is associated with the river and aquatic life?",
+    "options": {
+      "A": "Ogun",
+      "B": "Olokun",
+      "C": "Sango",
+      "D": "Esu"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "benin_kingdom_edo > religious_beliefs_rituals"
+  },
+  {
+    "question": "In Benin, the presence of ____ is considered a sign of divine intervention.",
+    "options": {
+      "A": "Fire",
+      "B": "Thunder",
+      "C": "Rainbows",
+      "D": "Spiders"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > religious_beliefs_rituals"
+  },
+  {
+    "question": "What does the term 'Agogor' refer to in Benin religious context?",
+    "options": {
+      "A": "A sacred drum",
+      "B": "A type of offering",
+      "C": "A spiritual protector",
+      "D": "A ritual dance"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > religious_beliefs_rituals"
+  },
+  {
+    "question": "What is the purpose of the 'Ehor' ritual in Benin?",
+    "options": {
+      "A": "To celebrate childbirth",
+      "B": "To appease the gods",
+      "C": "To honor the king",
+      "D": "To mark the new year"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > religious_beliefs_rituals"
+  },
+  {
+    "question": "Which of the following is NOT a traditional Benin religious belief?",
+    "options": {
+      "A": "Ancestral worship",
+      "B": "Nature spirits",
+      "C": "Christianity",
+      "D": "Deification of ancestors"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "benin_kingdom_edo > religious_beliefs_rituals"
+  },
+  {
+    "question": "The Benin Kingdom believes that each person has a guardian spirit called what?",
+    "options": {
+      "A": "Ori",
+      "B": "Ajala",
+      "C": "Ibeji",
+      "D": "Eleda"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > religious_beliefs_rituals"
+  },
+  {
+    "question": "What is the purpose of 'Ewere' in Benin Kingdom?",
+    "options": {
+      "A": "Initiation of youths",
+      "B": "Purification ritual",
+      "C": "Celebration of harvest",
+      "D": "Royal installation"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > religious_beliefs_rituals"
+  },
+  {
+    "question": "What role does music play in Benin religious rituals?",
+    "options": {
+      "A": "Entertainment only",
+      "B": "Communication with spirits",
+      "C": "A form of punishment",
+      "D": "A distraction"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "benin_kingdom_edo > religious_beliefs_rituals"
+  },
+  {
+    "question": "Which element is NOT commonly used in Benin sacrifices?",
+    "options": {
+      "A": "Animal blood",
+      "B": "Rice",
+      "C": "Palm oil",
+      "D": "Silk"
+    },
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "benin_kingdom_edo > religious_beliefs_rituals"
+  },
+  {
+    "question": "In Benin religious hierarchy, who is the highest spiritual leader?",
+    "options": {
+      "A": "Oba",
+      "B": "Babalawo",
+      "C": "Osa",
+      "D": "Ogun"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > religious_beliefs_rituals"
+  },
+  {
+    "question": "What does 'Ibo' refer to in the context of Benin religious beliefs?",
+    "options": {
+      "A": "A type of offering",
+      "B": "A traditional festival",
+      "C": "A spiritual cleansing",
+      "D": "A sacred ritual"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > religious_beliefs_rituals"
+  }
+]

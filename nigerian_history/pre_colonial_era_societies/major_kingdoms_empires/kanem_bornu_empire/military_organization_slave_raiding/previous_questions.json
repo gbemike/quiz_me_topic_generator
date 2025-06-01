@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Which group was primarily targeted by slave raiders from the Kanem-Bornu Empire?",
+    "options": {
+      "A": "The Hausa",
+      "B": "The Fulani",
+      "C": "The Daza",
+      "D": "The Zaghawa"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "kanem_bornu_empire > military_organization_slave_raiding"
+  },
+  {
+    "question": "In which century did the Kanem-Bornu Empire reach its peak in slave raiding?",
+    "options": {
+      "A": "10th century",
+      "B": "12th century",
+      "C": "15th century",
+      "D": "18th century"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "kanem_bornu_empire > military_organization_slave_raiding"
+  },
+  {
+    "question": "What was the main weapon used by the Kanem-Bornu raiders during slave raids?",
+    "options": {
+      "A": "Spears",
+      "B": "Bows",
+      "C": "Guns",
+      "D": "Swords"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "kanem_bornu_empire > military_organization_slave_raiding"
+  },
+  {
+    "question": "What was the local term used for slaves captured during raids in Kanem-Bornu?",
+    "options": {
+      "A": "Boko",
+      "B": "Sarakawa",
+      "C": "Gwari",
+      "D": "Zamfara"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "kanem_bornu_empire > military_organization_slave_raiding"
+  },
+  {
+    "question": "What type of military unit was primarily responsible for conducting slave raids in the Kanem-Bornu Empire?",
+    "options": {
+      "A": "Cavalry",
+      "B": "Infantry",
+      "C": "Archers",
+      "D": "Naval"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "kanem_bornu_empire > military_organization_slave_raiding"
+  },
+  {
+    "question": "In the Kanem-Bornu military organization, what was the rank of the commander of slave raiding forces?",
+    "options": {
+      "A": "Mai",
+      "B": "Tarhuna",
+      "C": "Gazi",
+      "D": "Sarkin"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "kanem_bornu_empire > military_organization_slave_raiding"
+  },
+  {
+    "question": "Slave raiding in the Kanem-Bornu Empire primarily targeted which type of settlements?",
+    "options": {
+      "A": "Urban centers",
+      "B": "Nomadic camps",
+      "C": "Agricultural villages",
+      "D": "Trading posts"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "kanem_bornu_empire > military_organization_slave_raiding"
+  },
+  {
+    "question": "What was the estimated number of slaves captured by the Kanem-Bornu Empire during its peak?",
+    "options": {
+      "A": "20,000",
+      "B": "50,000",
+      "C": "100,000",
+      "D": "200,000"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "kanem_bornu_empire > military_organization_slave_raiding"
+  },
+  {
+    "question": "What was the term for the system of obtaining slaves through warfare that was prevalent in the Kanem-Bornu Empire?",
+    "options": {
+      "A": "Tributary system",
+      "B": "Raiding system",
+      "C": "Servitude system",
+      "D": "Capture system"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "kanem_bornu_empire > military_organization_slave_raiding"
+  },
+  {
+    "question": "What was the social status of slaves within the Kanem-Bornu military hierarchy?",
+    "options": {
+      "A": "High-ranking officers",
+      "B": "Frontline soldiers",
+      "C": "Servants",
+      "D": "Essential support staff"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "kanem_bornu_empire > military_organization_slave_raiding"
+  }
+]

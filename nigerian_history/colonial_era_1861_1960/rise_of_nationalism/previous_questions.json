@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Which British official's policies contributed to the rise of nationalist sentiments among Nigerians post-World War II?",
+    "options": {
+      "A": "Lord Lugard",
+      "B": "Sir Hugh Clifford",
+      "C": "Sir John Macpherson",
+      "D": "Sir Bernard Bourdillon"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > rise_of_nationalism"
+  },
+  {
+    "question": "What was the primary goal of the Nigerian Women's Union established in the 1940s?",
+    "options": {
+      "A": "To gain suffrage for women",
+      "B": "To promote education for girls",
+      "C": "To advocate for family rights",
+      "D": "To support colonial governance"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > rise_of_nationalism"
+  },
+  {
+    "question": "The 'Hunger March' of 1945 was primarily organized by which group?",
+    "options": {
+      "A": "Labor Union",
+      "B": "National Council of Nigeria and the Cameroons",
+      "C": "Nigerian Youth Movement",
+      "D": "Igbo Union"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > rise_of_nationalism"
+  },
+  {
+    "question": "What role did religion play in the rise of nationalism in Nigeria?",
+    "options": {
+      "A": "It created division",
+      "B": "It unified various groups",
+      "C": "It supported colonial powers",
+      "D": "It had no impact"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > rise_of_nationalism"
+  },
+  {
+    "question": "What was the significance of the 'Welfare Party' formed by educated Nigerians in the 1940s?",
+    "options": {
+      "A": "Promote traditional leadership",
+      "B": "Foster British interests",
+      "C": "Challenge colonial policies",
+      "D": "Support economic development"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > rise_of_nationalism"
+  }
+]

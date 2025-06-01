@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Which animal was widely used for transport in trans-Saharan trade?",
+    "options": {
+      "A": "Horses",
+      "B": "Camels",
+      "C": "Donkeys",
+      "D": "Elephants"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "hausa_states_kano_katsina_zazzau > trans_saharan_trade_islamization"
+  },
+  {
+    "question": "What term describes the traditional songs and poetry that convey the history of the Hausa people?",
+    "options": {
+      "A": "Griot",
+      "B": "Dawuro",
+      "C": "Bard",
+      "D": "Juju"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "hausa_states_kano_katsina_zazzau > trans_saharan_trade_islamization"
+  }
+]

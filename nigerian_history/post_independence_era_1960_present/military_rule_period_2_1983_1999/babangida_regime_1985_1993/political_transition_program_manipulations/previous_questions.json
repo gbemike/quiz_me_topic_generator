@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Which electoral body was responsible for overseeing the 1993 elections that were later annulled?",
+    "options": {
+      "A": "Independent National Electoral Commission",
+      "B": "National Electoral Commission",
+      "C": "Federal Election Commission",
+      "D": "Electoral Management Body"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "babangida_regime_1985_1993 > political_transition_program_manipulations"
+  },
+  {
+    "question": "What was the name of the constitutional review committee set up by Babangida in 1990?",
+    "options": {
+      "A": "Uwais Commission",
+      "B": "Oputa Panel",
+      "C": "Raji Rasheed Commission",
+      "D": "National Constitutional Conference"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "babangida_regime_1985_1993 > political_transition_program_manipulations"
+  },
+  {
+    "question": "The Babangida regime's strategy to control political dissent involved the establishment of what?",
+    "options": {
+      "A": "Political parties",
+      "B": "Media outlets",
+      "C": "Secret police",
+      "D": "Civic organizations"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "babangida_regime_1985_1993 > political_transition_program_manipulations"
+  },
+  {
+    "question": "In what year was the 'Political Party Decree' enacted, leading to the establishment of two political parties?",
+    "options": {
+      "A": "1988",
+      "B": "1989",
+      "C": "1990",
+      "D": "1991"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "babangida_regime_1985_1993 > political_transition_program_manipulations"
+  },
+  {
+    "question": "The Babangida regime\u2019s transition program faced opposition from which group in society?",
+    "options": {
+      "A": "Business leaders",
+      "B": "Political elites",
+      "C": "Civil society organizations",
+      "D": "Foreign diplomats"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "babangida_regime_1985_1993 > political_transition_program_manipulations"
+  },
+  {
+    "question": "Fill in the blank: Babangida's political transition was often criticized for its lack of ________ in the electoral process.",
+    "options": {
+      "A": "Transparency",
+      "B": "Participation",
+      "C": "Legal support",
+      "D": "Media coverage"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "babangida_regime_1985_1993 > political_transition_program_manipulations"
+  }
+]

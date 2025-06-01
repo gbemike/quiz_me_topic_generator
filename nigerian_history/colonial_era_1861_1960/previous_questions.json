@@ -1,0 +1,110 @@
+[
+  {
+    "question": "Which Nigerian city was the administrative capital of the British Southern Nigeria Protectorate before merging with Lagos Colony in 1906?",
+    "options": {
+      "A": "Calabar",
+      "B": "Ibadan",
+      "C": "Kano",
+      "D": "Enugu"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history"
+  },
+  {
+    "question": "In what year was the Lagos railway line completed?",
+    "options": {
+      "A": "1901",
+      "B": "1912",
+      "C": "1896",
+      "D": "1905"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history > colonial_era_1861_1960"
+  },
+  {
+    "question": "Which ethnic group predominantly lived in the Northern region during the colonial era?",
+    "options": {
+      "A": "Hausa",
+      "B": "Yoruba",
+      "C": "Igbo",
+      "D": "Efik"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "nigerian_history > colonial_era_1861_1960"
+  },
+  {
+    "question": "The 'Murderous Year' of 1945 in Nigeria was marked by what?",
+    "options": {
+      "A": "Civil unrest",
+      "B": "World War II impact",
+      "C": "Ethnic violence",
+      "D": "Economic hardship"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history > colonial_era_1861_1960"
+  },
+  {
+    "question": "What was the primary focus of the 1951 Macpherson Constitution?",
+    "options": {
+      "A": "Regional autonomy",
+      "B": "Economic reforms",
+      "C": "Independence plans",
+      "D": "Judicial reforms"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history > colonial_era_1861_1960"
+  },
+  {
+    "question": "The term 'cocoa politics' primarily refers to what in Nigerian history?",
+    "options": {
+      "A": "Oil exploration",
+      "B": "Agricultural policies",
+      "C": "Economic competition",
+      "D": "Trade agreements"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history > colonial_era_1861_1960"
+  },
+  {
+    "question": "Which notable figure opposed the imposition of the British indirect rule in the south?",
+    "options": {
+      "A": "Nnamdi Azikiwe",
+      "B": "Obafemi Awolowo",
+      "C": "Ahmadu Bello",
+      "D": "Saro-Wiwa Ken"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history > colonial_era_1861_1960"
+  },
+  {
+    "question": "What was the violent uprising against British colonial rule in 1929 known as?",
+    "options": {
+      "A": "The Ibo Revolt",
+      "B": "The Aba Women's Riots",
+      "C": "The Lagos Riots",
+      "D": "The Jos Riots"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history > colonial_era_1861_1960"
+  },
+  {
+    "question": "The British colonial government introduced a system that allocated land to individuals rather than communities, known as what?",
+    "options": {
+      "A": "Feudalism",
+      "B": "Individual tenure",
+      "C": "Collective ownership",
+      "D": "Land privatization"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history > colonial_era_1861_1960"
+  }
+]

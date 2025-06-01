@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What type of surgery did President Yar'Adua undergo in Saudi Arabia?",
+    "options": {
+      "A": "Heart surgery",
+      "B": "Kidney transplant",
+      "C": "Appendectomy",
+      "D": "Gallbladder removal"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "yaradua_presidency_pdp_2007_2010 > health_issues_doctrine_of_necessity"
+  },
+  {
+    "question": "Which body of government ultimately decided to implement the Doctrine of Necessity?",
+    "options": {
+      "A": "House of Representatives",
+      "B": "Senate",
+      "C": "Supreme Court",
+      "D": "National Assembly"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "yaradua_presidency_pdp_2007_2010 > health_issues_doctrine_of_necessity"
+  },
+  {
+    "question": "What did the Nigerian constitution require concerning presidential incapacity?",
+    "options": {
+      "A": "Immediate resignation",
+      "B": "Referendum",
+      "C": "Cabinet decision",
+      "D": "Vice President to take over"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "yaradua_presidency_pdp_2007_2010 > health_issues_doctrine_of_necessity"
+  },
+  {
+    "question": "In 2010, which activity did the National Assembly engage in to address the power vacuum?",
+    "options": {
+      "A": "Impeachment",
+      "B": "Electoral reforms",
+      "C": "Doctrine of Necessity",
+      "D": "Constitutional amendment"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "yaradua_presidency_pdp_2007_2010 > health_issues_doctrine_of_necessity"
+  },
+  {
+    "question": "What was the political outcome of the Doctrine of Necessity for Yar'Adua's vice president?",
+    "options": {
+      "A": "Impeachment",
+      "B": "Assumption of duties",
+      "C": "Resignation",
+      "D": "Elected president"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "yaradua_presidency_pdp_2007_2010 > health_issues_doctrine_of_necessity"
+  },
+  {
+    "question": "In the context of Nigerian politics, what does 'acting president' refer to?",
+    "options": {
+      "A": "A temporary title for the Vice President",
+      "B": "A ceremonial role",
+      "C": "A new political party's candidate",
+      "D": "A non-elected position"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "yaradua_presidency_pdp_2007_2010 > health_issues_doctrine_of_necessity"
+  }
+]

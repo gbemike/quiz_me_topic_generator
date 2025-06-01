@@ -1,0 +1,254 @@
+[
+  {
+    "question": "The alleged coup plot involving Diya was uncovered in what year?",
+    "options": {
+      "A": "1995",
+      "B": "1997",
+      "C": "1999",
+      "D": "1996"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "What was Oladipo Diya's position at the time of the alleged coup plot?",
+    "options": {
+      "A": "Vice President",
+      "B": "Chief of General Staff",
+      "C": "Minister of Defence",
+      "D": "Army Chief"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "How did Abacha reportedly respond to the alleged coup plot against him?",
+    "options": {
+      "A": "He fled the country",
+      "B": "He initiated mass arrests",
+      "C": "He called for a national dialogue",
+      "D": "He resigned immediately"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "Which court tried Oladipo Diya and other co-accused for their alleged involvement in the coup plot?",
+    "options": {
+      "A": "Supreme Court",
+      "B": "Military Tribunal",
+      "C": "Federal High Court",
+      "D": "International Court"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "What was the fate of Oladipo Diya following his trial?",
+    "options": {
+      "A": "He was acquitted",
+      "B": "He received life imprisonment",
+      "C": "He was given a death sentence",
+      "D": "He was exiled"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "The coup plot against Abacha was said to involve how many senior military officers?",
+    "options": {
+      "A": "Three",
+      "B": "Five",
+      "C": "Ten",
+      "D": "Eighteen"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "In what city were the alleged coup plotters arrested?",
+    "options": {
+      "A": "Lagos",
+      "B": "Abuja",
+      "C": "Enugu",
+      "D": "Kaduna"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "What was a common perception among Nigerians about Abacha's rule during the coup plot allegations?",
+    "options": {
+      "A": "Democratic",
+      "B": "Transparent",
+      "C": "Brutal",
+      "D": "Progressive"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "Which international body expressed concern over the treatment of Diya and others accused in the coup?",
+    "options": {
+      "A": "United Nations",
+      "B": "African Union",
+      "C": "Commonwealth",
+      "D": "NATO"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "What was the key accusation against Oladipo Diya in the coup plot?",
+    "options": {
+      "A": "Corruption",
+      "B": "Treason",
+      "C": "Desertion",
+      "D": "Fraud"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "Which other prominent figure was implicated in the coup plot alongside Diya?",
+    "options": {
+      "A": "Bola Tinubu",
+      "B": "Abdulsalami Abubakar",
+      "C": "Tunde Ogbeha",
+      "D": "David Mark"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "Which Nigerian state was Oladipo Diya originally from?",
+    "options": {
+      "A": "Ogun",
+      "B": "Lagos",
+      "C": "Oyo",
+      "D": "Rivers"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "What did Oladipo Diya claim about the coup allegations during his trial?",
+    "options": {
+      "A": "They were fabricated",
+      "B": "He admitted guilt",
+      "C": "He was unaware",
+      "D": "He was proud of it"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "How did Diya's alleged coup plot impact his military career?",
+    "options": {
+      "A": "He received a promotion",
+      "B": "He was retired from service",
+      "C": "He started a political career",
+      "D": "He became a military consultant"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "What was the most significant political outcome of the coup plot allegations against Diya?",
+    "options": {
+      "A": "Democratic elections",
+      "B": "Continuance of military rule",
+      "C": "Peaceful transition of power",
+      "D": "Fall of the military government"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "What was Oladipo Diya's role in the military before the coup allegations?",
+    "options": {
+      "A": "Liaison Officer",
+      "B": "Corps Commander",
+      "C": "Brigadier General",
+      "D": "Chief of Naval Staff"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "What narrative was often used by the Abacha regime to justify crackdowns on dissent during the coup plot allegations?",
+    "options": {
+      "A": "Economic necessity",
+      "B": "National security",
+      "C": "Social stability",
+      "D": "Political loyalty"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "What was one of the tactics used by Diya's supporters during the coup plot allegations?",
+    "options": {
+      "A": "Media campaigns",
+      "B": "International lobbying",
+      "C": "Public protests",
+      "D": "Legal challenges"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "What was a key characteristic of the Abacha regime during the alleged coup plots?",
+    "options": {
+      "A": "Bipartisanship",
+      "B": "Oppressive governance",
+      "C": "Economic reforms",
+      "D": "Cultural renaissance"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "Which of the following was NOT a consequence of the coup plot allegations?",
+    "options": {
+      "A": "Increased militarization",
+      "B": "Growth of civil society",
+      "C": "Political repression",
+      "D": "International isolation"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  },
+  {
+    "question": "What term describes the trials of military officers during Abacha's regime for alleged coup involvement?",
+    "options": {
+      "A": "Judicial review",
+      "B": "Military tribunal",
+      "C": "Civic court",
+      "D": "Public inquiry"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "abacha_regime_1993_1998 > alleged_coup_plots_diya_1997"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What was the primary reason for the British government's reluctance to intervene in the conflict?",
+    "options": {
+      "A": "Economic interests",
+      "B": "Political alliances",
+      "C": "Cultural ties",
+      "D": "Geographic distance"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_civil_war_1967_1970 > humanitarian_crisis_international_response"
+  },
+  {
+    "question": "During the war, which humanitarian aspect gained significant global media attention?",
+    "options": {
+      "A": "Refugee camps",
+      "B": "Child starvation",
+      "C": "War casualties",
+      "D": "Peace treaties"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "nigerian_civil_war_1967_1970 > humanitarian_crisis_international_response"
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "question": "Which political party did Goodluck Jonathan represent during the 2015 presidential election?",
+    "options": {
+      "A": "APC",
+      "B": "PDP",
+      "C": "SDP",
+      "D": "AD"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "Who was Goodluck Jonathan's main opponent in the 2015 presidential election?",
+    "options": {
+      "A": "Rochas Okorocha",
+      "B": "Atiku Abubakar",
+      "C": "Muhammadu Buhari",
+      "D": "Kashim Shettima"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "Goodluck Jonathan's presidency was marked by which major security issue in Nigeria?",
+    "options": {
+      "A": "Niger Delta Militancy",
+      "B": "Boko Haram Insurgency",
+      "C": "Fulani Herdsmen Conflict",
+      "D": "Ethnic Clashes"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What was the primary reason for the mass protests against Goodluck Jonathan in 2012?",
+    "options": {
+      "A": "Electoral Fraud",
+      "B": "Fuel Subsidy Removal",
+      "C": "Corruption Scandals",
+      "D": "Security Failures"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "In the aftermath of the 2015 elections, what was significant about Jonathan's concession speech?",
+    "options": {
+      "A": "It was the first time a sitting president conceded defeat.",
+      "B": "He refused to acknowledge the results.",
+      "C": "He called for a re-election.",
+      "D": "He resigned immediately."
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What was the role of the National Conference of 2014 initiated by Jonathan?",
+    "options": {
+      "A": "To draft a new constitution",
+      "B": "To promote national dialogue",
+      "C": "To establish new political parties",
+      "D": "To address security issues"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "Which major Nigerian oil company was involved in controversy during Jonathan's administration regarding oil theft?",
+    "options": {
+      "A": "Chevron",
+      "B": "ExxonMobil",
+      "C": "Shell",
+      "D": "Total"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What was the primary focus of the 'YouWin' program launched during Jonathan's presidency?",
+    "options": {
+      "A": "Youth unemployment",
+      "B": "Agricultural development",
+      "C": "Infrastructure improvement",
+      "D": "International trade"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "Which event in Chibok in 2014 greatly impacted Jonathan's public perception?",
+    "options": {
+      "A": "Military coup",
+      "B": "Kidnapping of schoolgirls",
+      "C": "Political rally",
+      "D": "Economic summit"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What was Goodluck Jonathan's position prior to becoming President?",
+    "options": {
+      "A": "Vice President",
+      "B": "Senator",
+      "C": "Governor",
+      "D": "Minister of Education"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "During Jonathan's presidency, Nigeria's economy was classified as which type?",
+    "options": {
+      "A": "Emerging Market",
+      "B": "Developed Economy",
+      "C": "Underdeveloped Economy",
+      "D": "Transitioning Economy"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What did Jonathan's government declare a state of emergency in 2013?",
+    "options": {
+      "A": "Environmental disaster",
+      "B": "Boko Haram insurgency",
+      "C": "Economic recession",
+      "D": "Electoral violence"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "The 2015 presidential election was notable for being the first time in Nigeria that a ruling party was defeated by the opposition. What was the name of the opposition party?",
+    "options": {
+      "A": "PDP",
+      "B": "APC",
+      "C": "NNPP",
+      "D": "SDP"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What financial scandal involved the disappearance of $20 billion from Nigeria's oil revenues under Jonathan's administration?",
+    "options": {
+      "A": "PTDF Scandal",
+      "B": "OANDO Scandal",
+      "C": "Niger Delta Development Commission Scandal",
+      "D": "Oil Theft Scandal"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "Which two states were considered battlegrounds during the 2015 elections?",
+    "options": {
+      "A": "Lagos and Ogun",
+      "B": "Rivers and Ekiti",
+      "C": "Kogi and Osun",
+      "D": "Kaduna and Kano"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What was the significant economic policy introduced to tackle food insecurity during Jonathan's presidency?",
+    "options": {
+      "A": "Agricultural Transformation Agenda",
+      "B": "Food Security Initiative",
+      "C": "Farmers Empowerment Program",
+      "D": "Green Revolution"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "Goodluck Jonathan faced which major health crisis during his presidency, particularly in 2014?",
+    "options": {
+      "A": "Ebola Virus Outbreak",
+      "B": "HIV/AIDS Epidemic",
+      "C": "Polio Resurgence",
+      "D": "Meningitis Epidemic"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "Which international organization did Jonathan seek to gain support from to combat Boko Haram during his presidency?",
+    "options": {
+      "A": "African Union",
+      "B": "United Nations",
+      "C": "NATO",
+      "D": "ECOWAS"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What major change did Jonathan make to the Nigerian military leadership in response to Boko Haram?",
+    "options": {
+      "A": "Increased budget allocation",
+      "B": "Change in Command Structure",
+      "C": "Recruitment of foreign mercenaries",
+      "D": "Deployment of peacekeeping forces"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What was the impact of the 2015 elections on the leadership of the People's Democratic Party?",
+    "options": {
+      "A": "Strengthening of leadership",
+      "B": "Formation of new alliances",
+      "C": "Loss of majority control",
+      "D": "Increased funding"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "Which Nigerian state was the first to establish a state-level youth policy during Jonathan's presidency?",
+    "options": {
+      "A": "Lagos",
+      "B": "Ogun",
+      "C": "Rivers",
+      "D": "Enugu"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What issue dominated the 2015 presidential campaign that worked against Jonathan's reelection?",
+    "options": {
+      "A": "Corruption and insecurity",
+      "B": "Economic growth",
+      "C": "Foreign relations",
+      "D": "Health policies"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What was the voter turnout percentage in the 2015 presidential election, marking a significant achievement for Nigeria?",
+    "options": {
+      "A": "50%",
+      "B": "60%",
+      "C": "70%",
+      "D": "80%"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "Who was appointed as the Chief of Defence Staff during Jonathan's tenure, facing criticism over military effectiveness against Boko Haram?",
+    "options": {
+      "A": "Alex Badeh",
+      "B": "Ibrahim Babangida",
+      "C": "Theophilus Danjuma",
+      "D": "Abayomi Olonisakin"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "During Jonathan's presidency, which Nigerian institution faced significant scrutiny over the management of oil revenue?",
+    "options": {
+      "A": "Nigeria National Petroleum Corporation (NNPC)",
+      "B": "Central Bank of Nigeria",
+      "C": "Ministry of Finance",
+      "D": "Niger Delta Development Commission"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What was a significant outcome of the 'Bring Back Our Girls' campaign initiated during Jonathan's presidency?",
+    "options": {
+      "A": "Increased funding for military",
+      "B": "International awareness on kidnapping issues",
+      "C": "Overhaul of education policy",
+      "D": "New security laws"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "Which former Nigerian President openly endorsed Buhari over Jonathan in the 2015 election?",
+    "options": {
+      "A": "Olusegun Obasanjo",
+      "B": "Umaru Musa Yar'Adua",
+      "C": "Shehu Shagari",
+      "D": "Goodluck Jonathan himself"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What was the primary criticism directed at Jonathan regarding Nigeria\u2019s healthcare system during his presidency?",
+    "options": {
+      "A": "Insufficient funding",
+      "B": "Lack of healthcare workers",
+      "C": "High disease prevalence",
+      "D": "Poor healthcare infrastructure"
+    },
+    "answer": "D",
+    "difficulty": "expert",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What was the outcome of the Supreme Court ruling regarding the 2015 presidential election?",
+    "options": {
+      "A": "Reaffirmed Buhari's victory",
+      "B": "Called for a rerun",
+      "C": "Invalidated the election results",
+      "D": "No significant outcome"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "In which month was the 2015 presidential election held?",
+    "options": {
+      "A": "January",
+      "B": "February",
+      "C": "March",
+      "D": "April"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "Which television network aired the first-ever Presidential Debate in Nigeria in 2015?",
+    "options": {
+      "A": "NTA",
+      "B": "Channels TV",
+      "C": "Silverbird",
+      "D": "TVC"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "During Jonathan's presidency, which country was Nigeria\u2019s largest trading partner?",
+    "options": {
+      "A": "USA",
+      "B": "China",
+      "C": "India",
+      "D": "South Africa"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "Which law was passed during Jonathan's presidency to improve the electricity supply in Nigeria?",
+    "options": {
+      "A": "Power Sector Reform Act",
+      "B": "Electricity Act",
+      "C": "Energy Bill",
+      "D": "National Electricity Policy"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What was the key feature of the 2015 presidential election in terms of its conduct?",
+    "options": {
+      "A": "Use of technology",
+      "B": "International observers",
+      "C": "Biometric verification",
+      "D": "Paper ballots"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What notable award did Jonathan receive for his efforts to promote peace and democracy?",
+    "options": {
+      "A": "Nobel Peace Prize",
+      "B": "Mo Ibrahim Prize",
+      "C": "UNESCO Award",
+      "D": "African Leadership Award"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What was one of the major criticisms of Jonathan's economic policies during his presidency?",
+    "options": {
+      "A": "Too conservative",
+      "B": "Too aggressive",
+      "C": "Ineffective management",
+      "D": "Lack of innovation"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "In the 2015 elections, which demographic was particularly influential in the voting patterns observed?",
+    "options": {
+      "A": "Youth",
+      "B": "Women",
+      "C": "Elders",
+      "D": "Students"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "Which significant environmental issue was highlighted during Jonathan's presidency?",
+    "options": {
+      "A": "Desertification",
+      "B": "Oil spills",
+      "C": "Deforestation",
+      "D": "Climate change"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What was Jonathan's approach to his political rivals during his tenure?",
+    "options": {
+      "A": "Aggressive confrontation",
+      "B": "Cooperative engagement",
+      "C": "Indifference",
+      "D": "Hostile negotiation"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What significant political event took place before the 2015 elections that influenced public sentiment?",
+    "options": {
+      "A": "National Conference",
+      "B": "Boko Haram attacks",
+      "C": "Ebola outbreak",
+      "D": "Niger Delta negotiations"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What was a major social challenge during Jonathan's presidency that affected youth engagement?",
+    "options": {
+      "A": "Unemployment",
+      "B": "Corruption",
+      "C": "Education quality",
+      "D": "Healthcare access"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  },
+  {
+    "question": "What was the outcome of Jonathan\u2019s presidency in terms of education policy?",
+    "options": {
+      "A": "Increased funding",
+      "B": "Lower enrollment rates",
+      "C": "Introduction of free education",
+      "D": "Higher literacy rates"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > Goodluck Jonathan\u2019s presidency and 2015 election loss"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Fill in the blank: The Nigerian Senate consists of ___ members.",
+    "options": {
+      "A": "100",
+      "B": "109",
+      "C": "120",
+      "D": "150"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "post_independence_era_1960_present > fourth_republic_1999_present"
+  },
+  {
+    "question": "The economic policy known as 'NEEDS' was introduced in which year?",
+    "options": {
+      "A": "1999",
+      "B": "2000",
+      "C": "2001",
+      "D": "2003"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "post_independence_era_1960_present > fourth_republic_1999_present"
+  },
+  {
+    "question": "Which humanitarian crisis drew global attention to Nigeria in 2014 due to the kidnapping of schoolgirls?",
+    "options": {
+      "A": "Rwandan Genocide",
+      "B": "Boko Haram insurgency",
+      "C": "Civil War",
+      "D": "Niger Delta Conflict"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "post_independence_era_1960_present > fourth_republic_1999_present"
+  },
+  {
+    "question": "Who was the first Speaker of the House of Representatives in the Fourth Republic?",
+    "options": {
+      "A": "Ghali Na'abba",
+      "B": "Dimeji Bankole",
+      "C": "Patricia Etteh",
+      "D": "Aminu Tambuwal"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "post_independence_era_1960_present > fourth_republic_1999_present"
+  }
+]

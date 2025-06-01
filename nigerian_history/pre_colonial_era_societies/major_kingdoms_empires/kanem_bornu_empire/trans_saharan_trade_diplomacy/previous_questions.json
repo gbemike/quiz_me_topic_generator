@@ -1,0 +1,50 @@
+[
+  {
+    "question": "The Kanem-Bornu Empire engaged in diplomacy primarily with which regions?",
+    "options": {
+      "A": "Europe and Asia",
+      "B": "North and West Africa",
+      "C": "South America",
+      "D": "East Africa"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "kanem_bornu_empire > trans_saharan_trade_diplomacy"
+  },
+  {
+    "question": "The trans-Saharan trade routes helped spread which major Islamic scholar's teachings?",
+    "options": {
+      "A": "Ibn Battuta",
+      "B": "Al-Ghazali",
+      "C": "Ibn Khaldun",
+      "D": "Ibn Sina"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "kanem_bornu_empire > trans_saharan_trade_diplomacy"
+  },
+  {
+    "question": "The Kanem-Bornu Empire's diplomatic missions often targeted which type of agreements?",
+    "options": {
+      "A": "Trade tariffs",
+      "B": "Economic partnerships",
+      "C": "Military alliances",
+      "D": "Cultural exchanges"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "kanem_bornu_empire > trans_saharan_trade_diplomacy"
+  },
+  {
+    "question": "What was a primary challenge faced by traders in the trans-Saharan routes?",
+    "options": {
+      "A": "Wild animals",
+      "B": "Harsh weather conditions",
+      "C": "Hostile territories",
+      "D": "Lack of water"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "kanem_bornu_empire > trans_saharan_trade_diplomacy"
+  }
+]

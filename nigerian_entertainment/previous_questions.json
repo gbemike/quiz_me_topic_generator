@@ -1,0 +1,1202 @@
+[
+  {
+    "question": "The largest organ in the human body is the _______.",
+    "options": {
+      "A": "Heart",
+      "B": "Liver",
+      "C": "Skin",
+      "D": "Lungs"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "In which year did Nigeria gain independence from British colonial rule?",
+    "options": {
+      "A": "1960",
+      "B": "1965",
+      "C": "1970",
+      "D": "1980"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Fill in the blank: The _______ is known as the 'Giant of Africa'.",
+    "options": {
+      "A": "Democratic Republic of Congo",
+      "B": "Nigeria",
+      "C": "South Africa",
+      "D": "Egypt"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which Nigerian musician is famous for the hit song 'Fall' released in 2017?",
+    "options": {
+      "A": "Wizkid",
+      "B": "Burna Boy",
+      "C": "Davido",
+      "D": "Olamide"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "Who is regarded as the father of modern Nigerian literature?",
+    "options": {
+      "A": "Chinua Achebe",
+      "B": "Wole Soyinka",
+      "C": "Ben Okri",
+      "D": "Flora Nwapa"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "The _______ is considered the smallest bone in the human body.",
+    "options": {
+      "A": "Stapes",
+      "B": "Femur",
+      "C": "Humerus",
+      "D": "Tibia"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "Who was the first president of Nigeria after independence?",
+    "options": {
+      "A": "Nnamdi Azikiwe",
+      "B": "Umaru Musa Yar'Adua",
+      "C": "Olusegun Obasanjo",
+      "D": "Muhammadu Buhari"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a popular Nigerian dish made from fermented locust beans.",
+    "options": {
+      "A": "Efo Riro",
+      "B": "Ogbono",
+      "C": "Iyan",
+      "D": "Dawadawa"
+    },
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which Nigerian actor is known for his role in the film 'The Wedding Party'?",
+    "options": {
+      "A": "Jim Iyke",
+      "B": "Banky W",
+      "C": "Adesua Etomi",
+      "D": "Desmond Elliot"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "The largest artery in the human body is the _______.",
+    "options": {
+      "A": "Aorta",
+      "B": "Pulmonary Artery",
+      "C": "Coronary Artery",
+      "D": "Femoral Artery"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "In what year was the Nigerian Civil War (Biafran War) fought?",
+    "options": {
+      "A": "1967",
+      "B": "1970",
+      "C": "1965",
+      "D": "1975"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which city is known as the entertainment capital of Nigeria?",
+    "options": {
+      "A": "Lagos",
+      "B": "Abuja",
+      "C": "Port Harcourt",
+      "D": "Kano"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "Fill in the blank: The _______ is responsible for pumping blood throughout the human body.",
+    "options": {
+      "A": "Liver",
+      "B": "Heart",
+      "C": "Lung",
+      "D": "Kidney"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "Who authored the novel 'Things Fall Apart'?",
+    "options": {
+      "A": "Chinua Achebe",
+      "B": "Wole Soyinka",
+      "C": "Flora Nwapa",
+      "D": "Ben Okri"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which Nigerian singer is known for the hit song 'Ada Ada'?",
+    "options": {
+      "A": "Davido",
+      "B": "2Baba",
+      "C": "Flavour",
+      "D": "Wizkid"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "Identify the organ that filters blood and produces urine in the human body: _______.",
+    "options": {
+      "A": "Liver",
+      "B": "Kidney",
+      "C": "Spleen",
+      "D": "Bladder"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "What year did Nigeria become a Republic?",
+    "options": {
+      "A": "1963",
+      "B": "1979",
+      "C": "1989",
+      "D": "1993"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which Nigerian movie won the Africa Movie Academy Award for Best Film in 2016?",
+    "options": {
+      "A": "The Wedding Party",
+      "B": "Lionheart",
+      "C": "October 1",
+      "D": "The Figurine"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "The _______ is the largest part of the human brain.",
+    "options": {
+      "A": "Cerebellum",
+      "B": "Cerebrum",
+      "C": "Brainstem",
+      "D": "Thalamus"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "Who led Nigeria during the military regime from 1984 to 1985?",
+    "options": {
+      "A": "Sani Abacha",
+      "B": "Muhammadu Buhari",
+      "C": "Olusegun Obasanjo",
+      "D": "Ibrahim Babangida"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a traditional music genre originating from Lagos, Nigeria.",
+    "options": {
+      "A": "Afrobeats",
+      "B": "Highlife",
+      "C": "Fuji",
+      "D": "Juju"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "What is the name of the process by which the human body maintains a stable internal environment?",
+    "options": {
+      "A": "Homeostasis",
+      "B": "Metabolism",
+      "C": "Respiration",
+      "D": "Digestion"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "Which Nigerian state is known as the 'Treasure Base of the Nation'?",
+    "options": {
+      "A": "Lagos",
+      "B": "Rivers",
+      "C": "Enugu",
+      "D": "Kano"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which actress played the lead role in the movie 'Half of a Yellow Sun'?",
+    "options": {
+      "A": "Genevieve Nnaji",
+      "B": "Omotola Jalade Ekeinde",
+      "C": "Chioma Chukwuka",
+      "D": "Thandie Newton"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the main organ responsible for gas exchange in the human body.",
+    "options": {
+      "A": "Heart",
+      "B": "Liver",
+      "C": "Lung",
+      "D": "Kidney"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "What was the name of the movement that sought to end colonial rule in Nigeria?",
+    "options": {
+      "A": "National Democratic Party",
+      "B": "National Council of Nigeria and the Cameroon",
+      "C": "Action Group",
+      "D": "People's Democratic Party"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which Nigerian musician is known as the 'African Giant'?",
+    "options": {
+      "A": "Burna Boy",
+      "B": "Olamide",
+      "C": "Patoranking",
+      "D": "Rema"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "The human body has how many ribs? _______.",
+    "options": {
+      "A": "12",
+      "B": "24",
+      "C": "18",
+      "D": "36"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "Who was the first female governor in Nigeria?",
+    "options": {
+      "A": "Ngozi Okonjo-Iweala",
+      "B": "Virginia Etiaba",
+      "C": "Bola Shagaya",
+      "D": "Sarah Jibril"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which Nigerian film was the first to be nominated for an Oscar?",
+    "options": {
+      "A": "The Figurine",
+      "B": "Half of a Yellow Sun",
+      "C": "Lionheart",
+      "D": "The Wedding Party"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the basic structural unit of the human body.",
+    "options": {
+      "A": "Tissue",
+      "B": "Organ",
+      "C": "Cell",
+      "D": "System"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "In what year did Nigeria achieve its first military coup?",
+    "options": {
+      "A": "1966",
+      "B": "1975",
+      "C": "1983",
+      "D": "1990"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which actress is known for her role in the Nigerian movie 'Lionheart'?",
+    "options": {
+      "A": "Genevieve Nnaji",
+      "B": "Omotola Jalade Ekeinde",
+      "C": "Funke Akindele",
+      "D": "Tonto Dikeh"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "The human skeleton is made up of how many bones? _______.",
+    "options": {
+      "A": "206",
+      "B": "150",
+      "C": "102",
+      "D": "300"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "What is the capital city of Nigeria?",
+    "options": {
+      "A": "Abuja",
+      "B": "Lagos",
+      "C": "Port Harcourt",
+      "D": "Kano"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Who is known as the 'King of Afrobeat'?",
+    "options": {
+      "A": "Fela Kuti",
+      "B": "Burna Boy",
+      "C": "Wizkid",
+      "D": "Davido"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the largest part of the human nervous system.",
+    "options": {
+      "A": "Central nervous system",
+      "B": "Peripheral nervous system",
+      "C": "Somatic nervous system",
+      "D": "Autonomic nervous system"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "Which Nigerian leader declared a state of emergency in 1993 following the annulment of the June 12 elections?",
+    "options": {
+      "A": "Sani Abacha",
+      "B": "Ibrahim Babangida",
+      "C": "Olusegun Obasanjo",
+      "D": "Muhammadu Buhari"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Who is the Nigerian singer known for the song 'Ojuelegba'?",
+    "options": {
+      "A": "Wizkid",
+      "B": "Davido",
+      "C": "2Baba",
+      "D": "Olamide"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "The human body consists of how many major organ systems? _______.",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "8",
+      "D": "15"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "What was Nigeria's official currency before the Naira?",
+    "options": {
+      "A": "Pound Sterling",
+      "B": "Dollar",
+      "C": "Shilling",
+      "D": "Franc"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which comedian is known for his character 'Aunty Grace'?",
+    "options": {
+      "A": "Ali Baba",
+      "B": "Basketmouth",
+      "C": "Bovi",
+      "D": "Seyi Law"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "Fill in the blank: The _______ is essential for digestion and is produced by the liver.",
+    "options": {
+      "A": "Insulin",
+      "B": "Glycogen",
+      "C": "Bile",
+      "D": "Chyme"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "What was the major cause of the Nigerian Civil War?",
+    "options": {
+      "A": "Resource control",
+      "B": "Ethnic tensions",
+      "C": "Religious differences",
+      "D": "Colonial legacy"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which Nigerian artist released the hit song 'Joro' in 2019?",
+    "options": {
+      "A": "Wizkid",
+      "B": "Davido",
+      "C": "Burna Boy",
+      "D": "Olamide"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "The _______ is a vital organ that regulates metabolism in the human body.",
+    "options": {
+      "A": "Heart",
+      "B": "Pancreas",
+      "C": "Liver",
+      "D": "Kidney"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "Which event led to the creation of the Nigerian state in 1914?",
+    "options": {
+      "A": "Amalgamation of Nigeria",
+      "B": "Independence",
+      "C": "Civil War",
+      "D": "Constitutional Reform"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Who is the first Nigerian to win a Grammy Award?",
+    "options": {
+      "A": "Fela Kuti",
+      "B": "Sade Adu",
+      "C": "Burna Boy",
+      "D": "2Baba"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the part of the brain that controls balance and coordination.",
+    "options": {
+      "A": "Cerebellum",
+      "B": "Cerebrum",
+      "C": "Brainstem",
+      "D": "Thalamus"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "human anatomy"
+  },
+  {
+    "question": "What document proclaimed Nigeria's independence?",
+    "options": {
+      "A": "The 1979 Constitution",
+      "B": "The 1963 Constitution",
+      "C": "The Independence Act",
+      "D": "The 1946 Constitution"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which movie featuring Genevieve Nnaji was released on Netflix in 2018?",
+    "options": {
+      "A": "The Wedding Party",
+      "B": "Lionheart",
+      "C": "Half of a Yellow Sun",
+      "D": "Fifty"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian entertainment"
+  },
+  {
+    "question": "The staple food made from cassava tubers, popular in many Nigerian homes, is called _______.",
+    "options": {
+      "A": "Pounded Yam",
+      "B": "Jollof Rice",
+      "C": "Eba",
+      "D": "Moi Moi"
+    },
+    "answer": "C",
+    "difficulty": "Easy",
+    "topic": "Nigerian Cuisine"
+  },
+  {
+    "question": "Fill in the blank: The _______ River is the longest river in Nigeria.",
+    "options": {
+      "A": "Benue",
+      "B": "Niger",
+      "C": "Osun",
+      "D": "Cross"
+    },
+    "answer": "B",
+    "difficulty": "Easy",
+    "topic": "Geography"
+  },
+  {
+    "question": "Known for her role in 'Jenifa's Diary', this actress is a household name in Nigeria.",
+    "options": {
+      "A": "Funke Akindele",
+      "B": "Genevieve Nnaji",
+      "C": "Omotola Jalade",
+      "D": "Rita Dominic"
+    },
+    "answer": "A",
+    "difficulty": "Medium",
+    "topic": "Nollywood"
+  },
+  {
+    "question": "Which Nigerian festival, celebrated annually, is known for its colorful masquerades?",
+    "options": {
+      "A": "Durbar Festival",
+      "B": "Eyo Festival",
+      "C": "Argungu Fishing Festival",
+      "D": "Igbo New Yam Festival"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Culture"
+  },
+  {
+    "question": "Who wrote the play 'Death and the King's Horseman'?",
+    "options": {
+      "A": "Chinua Achebe",
+      "B": "Wole Soyinka",
+      "C": "Cyprian Ekwensi",
+      "D": "Ben Okri"
+    },
+    "answer": "B",
+    "difficulty": "Hard",
+    "topic": "Literature"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a traditional Yoruba talking drum.",
+    "options": {
+      "A": "Djembe",
+      "B": "Dundun",
+      "C": "Kpanlogo",
+      "D": "Bata"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Music"
+  },
+  {
+    "question": "Which ancient city was known as a center of trade and scholarship in pre-colonial Nigeria?",
+    "options": {
+      "A": "Kano",
+      "B": "Ile-Ife",
+      "C": "Benin City",
+      "D": "Timbuktu"
+    },
+    "answer": "C",
+    "difficulty": "Hard",
+    "topic": "History"
+  },
+  {
+    "question": "The first Nigerian film to feature sound was released in 1936. Name this film.",
+    "options": {
+      "A": "Kongi's Harvest",
+      "B": "Ajani Ogun",
+      "C": "Palaver",
+      "D": "Fincho"
+    },
+    "answer": "C",
+    "difficulty": "Hard",
+    "topic": "Nollywood"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a Nigerian folktale character known for his wisdom and cunning.",
+    "options": {
+      "A": "Tortoise",
+      "B": "Lion",
+      "C": "Elephant",
+      "D": "Rabbit"
+    },
+    "answer": "A",
+    "difficulty": "Easy",
+    "topic": "Culture"
+  },
+  {
+    "question": "Which Nigerian state is recognized for its unique circular architecture, seen in the Kano City Walls?",
+    "options": {
+      "A": "Kano",
+      "B": "Kaduna",
+      "C": "Katsina",
+      "D": "Kebbi"
+    },
+    "answer": "A",
+    "difficulty": "Medium",
+    "topic": "History"
+  },
+  {
+    "question": "Identify the Nigerian musician known for the album 'Superstar', released in 2011.",
+    "options": {
+      "A": "Wizkid",
+      "B": "Burna Boy",
+      "C": "Davido",
+      "D": "Tiwa Savage"
+    },
+    "answer": "A",
+    "difficulty": "Easy",
+    "topic": "Music"
+  },
+  {
+    "question": "Which kingdom was famous for its bronze sculptures and artworks dating back to the 13th century?",
+    "options": {
+      "A": "Benin",
+      "B": "Oyo",
+      "C": "Nri",
+      "D": "Sokoto"
+    },
+    "answer": "A",
+    "difficulty": "Hard",
+    "topic": "Art"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the main ingredient in the Nigerian soup 'Banga'.",
+    "options": {
+      "A": "Palm nut",
+      "B": "Groundnut",
+      "C": "Egusi",
+      "D": "Okra"
+    },
+    "answer": "A",
+    "difficulty": "Medium",
+    "topic": "Nigerian Cuisine"
+  },
+  {
+    "question": "Which Nigerian city is known as the 'Coal City' due to its rich deposits?",
+    "options": {
+      "A": "Lagos",
+      "B": "Enugu",
+      "C": "Port Harcourt",
+      "D": "Abuja"
+    },
+    "answer": "B",
+    "difficulty": "Easy",
+    "topic": "Geography"
+  },
+  {
+    "question": "The 2018 film 'King of Boys' was directed by which Nigerian filmmaker?",
+    "options": {
+      "A": "Kunle Afolayan",
+      "B": "Kemi Adetiba",
+      "C": "Tunde Kelani",
+      "D": "Izu Ojukwu"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Nollywood"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the largest ethnic group in Nigeria.",
+    "options": {
+      "A": "Igbo",
+      "B": "Hausa",
+      "C": "Yoruba",
+      "D": "Fulani"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Culture"
+  },
+  {
+    "question": "Which Nigerian author won the Booker Prize for the novel 'The Famished Road'?",
+    "options": {
+      "A": "Chinua Achebe",
+      "B": "Wole Soyinka",
+      "C": "Ben Okri",
+      "D": "Sefi Atta"
+    },
+    "answer": "C",
+    "difficulty": "Hard",
+    "topic": "Literature"
+  },
+  {
+    "question": "This Nigerian state is known for the Argungu Fishing Festival.",
+    "options": {
+      "A": "Kano",
+      "B": "Kebbi",
+      "C": "Kaduna",
+      "D": "Borno"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Culture"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the smallest ethnic minority in Nigeria.",
+    "options": {
+      "A": "Igbira",
+      "B": "Ijaw",
+      "C": "Ogoni",
+      "D": "Shuwa Arab"
+    },
+    "answer": "D",
+    "difficulty": "Hard",
+    "topic": "Culture"
+  },
+  {
+    "question": "Which Nigerian musician was known as 'Abami Eda'?",
+    "options": {
+      "A": "Fela Kuti",
+      "B": "King Sunny Ade",
+      "C": "Lagbaja",
+      "D": "Osita Osadebe"
+    },
+    "answer": "A",
+    "difficulty": "Medium",
+    "topic": "Music"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a Nigerian festival that marks the end of the harvest season.",
+    "options": {
+      "A": "Eyo Festival",
+      "B": "New Yam Festival",
+      "C": "Durbar",
+      "D": "Sango Festival"
+    },
+    "answer": "B",
+    "difficulty": "Easy",
+    "topic": "Culture"
+  },
+  {
+    "question": "Which Nigerian traditional ruler is referred to as the 'Ooni'?",
+    "options": {
+      "A": "Benin",
+      "B": "Yoruba",
+      "C": "Igbo",
+      "D": "Hausa"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Culture"
+  },
+  {
+    "question": "In what year was the Nigerian movie industry, Nollywood, officially recognized?",
+    "options": {
+      "A": "1990",
+      "B": "1992",
+      "C": "1995",
+      "D": "1999"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Nollywood"
+  },
+  {
+    "question": "The phrase 'Naija no dey carry last' is associated with which aspect of Nigerian culture?",
+    "options": {
+      "A": "Sports",
+      "B": "Music",
+      "C": "Resilience",
+      "D": "Fashion"
+    },
+    "answer": "C",
+    "difficulty": "Easy",
+    "topic": "Culture"
+  },
+  {
+    "question": "Fill in the blank: The _______ region of Nigeria is known for its savanna vegetation.",
+    "options": {
+      "A": "Northern",
+      "B": "Southern",
+      "C": "Eastern",
+      "D": "Western"
+    },
+    "answer": "A",
+    "difficulty": "Easy",
+    "topic": "Geography"
+  },
+  {
+    "question": "Which Nigerian artist is credited with popularizing Afrobeats internationally?",
+    "options": {
+      "A": "Burna Boy",
+      "B": "Tiwa Savage",
+      "C": "Wizkid",
+      "D": "Davido"
+    },
+    "answer": "C",
+    "difficulty": "Medium",
+    "topic": "Music"
+  },
+  {
+    "question": "The traditional Igbo musical instrument 'Ogene' is primarily made of which material?",
+    "options": {
+      "A": "Wood",
+      "B": "Metal",
+      "C": "Clay",
+      "D": "Bamboo"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Music"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a popular Nigerian soup made with okra and palm oil.",
+    "options": {
+      "A": "Egusi",
+      "B": "Ogbono",
+      "C": "Ewedu",
+      "D": "Okra"
+    },
+    "answer": "D",
+    "difficulty": "Easy",
+    "topic": "Nigerian Cuisine"
+  },
+  {
+    "question": "Which ancient Nigerian city was famous for its terracotta sculptures?",
+    "options": {
+      "A": "Ile-Ife",
+      "B": "Kano",
+      "C": "Calabar",
+      "D": "Sokoto"
+    },
+    "answer": "A",
+    "difficulty": "Hard",
+    "topic": "Art"
+  },
+  {
+    "question": "Fill in the blank: The _______ language is widely spoken in Benue State.",
+    "options": {
+      "A": "Hausa",
+      "B": "Igbo",
+      "C": "Tiv",
+      "D": "Yoruba"
+    },
+    "answer": "C",
+    "difficulty": "Medium",
+    "topic": "Culture"
+  },
+  {
+    "question": "Which Nigerian author wrote 'Half of a Yellow Sun'?",
+    "options": {
+      "A": "Chimamanda Ngozi Adichie",
+      "B": "Buchi Emecheta",
+      "C": "Chinua Achebe",
+      "D": "Ben Okri"
+    },
+    "answer": "A",
+    "difficulty": "Easy",
+    "topic": "Literature"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the Nigerian currency symbol.",
+    "options": {
+      "A": "$",
+      "B": "\u00a3",
+      "C": "\u20a6",
+      "D": "\u20ac"
+    },
+    "answer": "C",
+    "difficulty": "Easy",
+    "topic": "Economy"
+  },
+  {
+    "question": "Which Nigerian musician is known for his advocacy through music, especially against corruption?",
+    "options": {
+      "A": "Burna Boy",
+      "B": "Fela Kuti",
+      "C": "2Baba",
+      "D": "Wizkid"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Music"
+  },
+  {
+    "question": "The Nok civilization is known for its early use of which metal?",
+    "options": {
+      "A": "Iron",
+      "B": "Bronze",
+      "C": "Gold",
+      "D": "Copper"
+    },
+    "answer": "A",
+    "difficulty": "Hard",
+    "topic": "History"
+  },
+  {
+    "question": "Fill in the blank: The Nigerian National Petroleum Corporation was established in _______.",
+    "options": {
+      "A": "1963",
+      "B": "1977",
+      "C": "1985",
+      "D": "1990"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Economy"
+  },
+  {
+    "question": "Which Nigerian state is known for being the largest producer of crude oil?",
+    "options": {
+      "A": "Lagos",
+      "B": "Rivers",
+      "C": "Delta",
+      "D": "Bayelsa"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Economy"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the traditional cloth worn by the Yoruba people.",
+    "options": {
+      "A": "Kente",
+      "B": "Aso Oke",
+      "C": "Ankara",
+      "D": "George"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Culture"
+  },
+  {
+    "question": "Which Nigerian monarch is associated with the title 'Oba'?",
+    "options": {
+      "A": "Hausa",
+      "B": "Igbo",
+      "C": "Yoruba",
+      "D": "Fulani"
+    },
+    "answer": "C",
+    "difficulty": "Easy",
+    "topic": "Culture"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a traditional Igbo festival held in honor of the yam.",
+    "options": {
+      "A": "New Yam Festival",
+      "B": "Durbar",
+      "C": "Eyo",
+      "D": "Osun-Osogbo"
+    },
+    "answer": "A",
+    "difficulty": "Easy",
+    "topic": "Culture"
+  },
+  {
+    "question": "Which Nigerian artist was known for the song 'Lady'?",
+    "options": {
+      "A": "Fela Kuti",
+      "B": "King Sunny Ade",
+      "C": "Wizkid",
+      "D": "Davido"
+    },
+    "answer": "A",
+    "difficulty": "Medium",
+    "topic": "Music"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a major river that forms part of Nigeria's border with Cameroon.",
+    "options": {
+      "A": "Benue River",
+      "B": "Cross River",
+      "C": "Niger River",
+      "D": "Gongola River"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Geography"
+  },
+  {
+    "question": "Which Nigerian dance style originated from the Igbo people and involves vigorous hip movement?",
+    "options": {
+      "A": "Bata",
+      "B": "Atilogwu",
+      "C": "Salsa",
+      "D": "Azonto"
+    },
+    "answer": "B",
+    "difficulty": "Medium",
+    "topic": "Culture"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a Nigerian dish made with fermented cassava.",
+    "options": {
+      "A": "Amala",
+      "B": "Fufu",
+      "C": "Eba",
+      "D": "Afang"
+    },
+    "answer": "B",
+    "difficulty": "Easy",
+    "topic": "Nigerian Cuisine"
+  },
+  {
+    "question": "Which Nigerian musician was known for the song 'Oliver Twist'?",
+    "options": {
+      "A": "D'banj",
+      "B": "2Baba",
+      "C": "P-Square",
+      "D": "Wizkid"
+    },
+    "answer": "A",
+    "difficulty": "Easy",
+    "topic": "Music"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a Nigerian state known for its leather works and tanneries.",
+    "options": {
+      "A": "Kano",
+      "B": "Kaduna",
+      "C": "Katsina",
+      "D": "Sokoto"
+    },
+    "answer": "A",
+    "difficulty": "Medium",
+    "topic": "Economy"
+  },
+  {
+    "question": "Which Nigerian writer's work includes the novel 'Purple Hibiscus'?",
+    "options": {
+      "A": "Buchi Emecheta",
+      "B": "Chimamanda Ngozi Adichie",
+      "C": "Wole Soyinka",
+      "D": "Chinua Achebe"
+    },
+    "answer": "B",
+    "difficulty": "Easy",
+    "topic": "Literature"
+  },
+  {
+    "question": "Fill in the blank: The _______ is a Nigerian music genre that blends jazz, highlife, and funk rhythms.",
+    "options": {
+      "A": "Afrobeat",
+      "B": "Highlife",
+      "C": "Juju",
+      "D": "Fuji"
+    },
+    "answer": "A",
+    "difficulty": "Medium",
+    "topic": "Music"
+  },
+  {
+    "question": "Which Nigerian state is known for its large deposits of limestone?",
+    "options": {
+      "A": "Benue",
+      "B": "Ebonyi",
+      "C": "Ogun",
+      "D": "Kogi"
+    },
+    "answer": "D",
+    "difficulty": "Medium",
+    "topic": "Geography"
+  },
+  {
+    "question": "Fill in the blank: The _______ is the traditional headwear of the Hausa people.",
+    "options": {
+      "A": "Turban",
+      "B": "Gele",
+      "C": "Fez",
+      "D": "Igala"
+    },
+    "answer": "A",
+    "difficulty": "Easy",
+    "topic": "Culture"
+  }
+]

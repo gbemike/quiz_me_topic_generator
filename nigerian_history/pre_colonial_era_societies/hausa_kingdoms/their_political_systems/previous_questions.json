@@ -1,0 +1,194 @@
+[
+  {
+    "question": "The political system of the Hausa states is often described as a network of what?",
+    "options": {
+      "A": "Empires",
+      "B": "City-states",
+      "C": "Colonies",
+      "D": "Tribes"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "hausa_kingdoms > their_political_systems"
+  },
+  {
+    "question": "What was the primary method of succession in the Hausa kingdoms?",
+    "options": {
+      "A": "Primogeniture",
+      "B": "Election",
+      "C": "Appointment",
+      "D": "Merit-based"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "hausa_kingdoms > their_political_systems"
+  },
+  {
+    "question": "What role did the 'Sarkin Shanu' play in the Hausa political structure?",
+    "options": {
+      "A": "High priest",
+      "B": "Chief of cattle",
+      "C": "War commander",
+      "D": "Market overseer"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "hausa_kingdoms > their_political_systems"
+  },
+  {
+    "question": "The Hausa political system was significantly influenced by which of the following?",
+    "options": {
+      "A": "British colonialism",
+      "B": "Traditional African religions",
+      "C": "Islamic governance",
+      "D": "European trade"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "hausa_kingdoms > their_political_systems"
+  },
+  {
+    "question": "What was a major consequence of the Hausa political system's decentralization?",
+    "options": {
+      "A": "Increased warfare",
+      "B": "Stability and peace",
+      "C": "Unified governance",
+      "D": "Cultural homogeneity"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "hausa_kingdoms > their_political_systems"
+  },
+  {
+    "question": "The 'Shariah' law was introduced into Hausa kingdoms through what means?",
+    "options": {
+      "A": "Colonization",
+      "B": "Cultural exchange",
+      "C": "Islamic conquests",
+      "D": "Trade relationships"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "hausa_kingdoms > their_political_systems"
+  },
+  {
+    "question": "What administrative body managed trade regulations in the Hausa kingdoms?",
+    "options": {
+      "A": "Trade Guild",
+      "B": "Market Council",
+      "C": "Merchant's Association",
+      "D": "Bazar Committee"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "hausa_kingdoms > their_political_systems"
+  },
+  {
+    "question": "What was the role of 'Danjuma' in the governance of the Hausa states?",
+    "options": {
+      "A": "Advisor to the Emir",
+      "B": "Chief architect",
+      "C": "War strategist",
+      "D": "Agricultural reformer"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "hausa_kingdoms > their_political_systems"
+  },
+  {
+    "question": "What characterized the 'Gidan Makama' in Kano?",
+    "options": {
+      "A": "A military barracks",
+      "B": "A royal palace",
+      "C": "A marketplace",
+      "D": "A religious school"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "hausa_kingdoms > their_political_systems"
+  },
+  {
+    "question": "What was the primary purpose of the 'Hausa' cultural festivals?",
+    "options": {
+      "A": "Religious observance",
+      "B": "Political rallies",
+      "C": "Trade fairs",
+      "D": "Cultural celebration"
+    },
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "hausa_kingdoms > their_political_systems"
+  },
+  {
+    "question": "What role did the 'Kaduna' play in the political framework of Hausa kingdoms?",
+    "options": {
+      "A": "Trade route",
+      "B": "Military fortification",
+      "C": "Religious pilgrimage",
+      "D": "Judicial district"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "hausa_kingdoms > their_political_systems"
+  },
+  {
+    "question": "What is the significance of 'Dawakin Tofa' in the history of the Hausa kingdoms?",
+    "options": {
+      "A": "A military stronghold",
+      "B": "A cultural hub",
+      "C": "An ancient capital",
+      "D": "A fertility site"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "hausa_kingdoms > their_political_systems"
+  },
+  {
+    "question": "Who typically served as the chief advisors to the Sarki in Hausa kingdoms?",
+    "options": {
+      "A": "Merchants",
+      "B": "Elders",
+      "C": "Warriors",
+      "D": "Scholars"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "hausa_kingdoms > their_political_systems"
+  },
+  {
+    "question": "What was the role of the 'Bayan Gida' in the Hausa political system?",
+    "options": {
+      "A": "Military leader",
+      "B": "Household manager",
+      "C": "Trade overseer",
+      "D": "Religious leader"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "hausa_kingdoms > their_political_systems"
+  },
+  {
+    "question": "In the context of the Hausa kingdoms, what does 'Khadir' signify?",
+    "options": {
+      "A": "Capital city",
+      "B": "Religious leader",
+      "C": "Military strategist",
+      "D": "Chief advisor"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "hausa_kingdoms > their_political_systems"
+  },
+  {
+    "question": "What was the role of 'Mai Gidan' within the Hausa political structure?",
+    "options": {
+      "A": "Household chief",
+      "B": "Military commander",
+      "C": "Economic advisor",
+      "D": "Cultural ambassador"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "hausa_kingdoms > their_political_systems"
+  }
+]

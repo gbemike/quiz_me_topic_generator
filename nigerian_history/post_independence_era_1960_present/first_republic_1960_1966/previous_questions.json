@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What was the primary language spoken in government during the First Republic?",
+    "options": {
+      "A": "Pidgin English",
+      "B": "Yoruba",
+      "C": "Hausa",
+      "D": "English"
+    },
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "post_independence_era_1960_present > first_republic_1960_1966"
+  },
+  {
+    "question": "Which of these was a significant social issue during the First Republic?",
+    "options": {
+      "A": "Polygamy",
+      "B": "Child marriage",
+      "C": "Tribalism",
+      "D": "Urban migration"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "post_independence_era_1960_present > first_republic_1960_1966"
+  },
+  {
+    "question": "Who was the notable journalist and activist known for promoting women's rights during the First Republic?",
+    "options": {
+      "A": "Bola Ahmed Tinubu",
+      "B": "Funmilayo Ransome-Kuti",
+      "C": "Ngozi Okonjo-Iweala",
+      "D": "Mary Slessor"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "post_independence_era_1960_present > first_republic_1960_1966"
+  },
+  {
+    "question": "Which ethnic group primarily supported the Action Group party during the First Republic?",
+    "options": {
+      "A": "Hausa-Fulani",
+      "B": "Igbo",
+      "C": "Yoruba",
+      "D": "Ijaw"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "post_independence_era_1960_present > first_republic_1960_1966"
+  }
+]

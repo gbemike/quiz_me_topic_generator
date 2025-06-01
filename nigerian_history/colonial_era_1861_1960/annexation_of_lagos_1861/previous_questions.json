@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What was the native population's primary concern regarding British rule after annexation?",
+    "options": {
+      "A": "Cultural erosion",
+      "B": "Economic decline",
+      "C": "Loss of land",
+      "D": "Political oppression"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > annexation_of_lagos_1861"
+  },
+  {
+    "question": "Which local industry was negatively affected by British control after the annexation?",
+    "options": {
+      "A": "Cotton weaving",
+      "B": "Palm oil production",
+      "C": "Fishery",
+      "D": "Cocoa farming"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > annexation_of_lagos_1861"
+  },
+  {
+    "question": "Which port became the main hub for British trade after the annexation?",
+    "options": {
+      "A": "Port Harcourt",
+      "B": "Apapa Port",
+      "C": "Tin Can Island Port",
+      "D": "Lagos Port"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > annexation_of_lagos_1861"
+  },
+  {
+    "question": "What was the fate of local leaders who opposed British rule post-annexation?",
+    "options": {
+      "A": "Exile",
+      "B": "Integration",
+      "C": "Retirement",
+      "D": "Execution"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > annexation_of_lagos_1861"
+  },
+  {
+    "question": "The annexation of Lagos drew criticism from which international organization?",
+    "options": {
+      "A": "League of Nations",
+      "B": "United Nations",
+      "C": "International Court of Justice",
+      "D": "Commonwealth of Nations"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > annexation_of_lagos_1861"
+  },
+  {
+    "question": "Which natural resource became crucial for British economy post-annexation?",
+    "options": {
+      "A": "Gold",
+      "B": "Palm oil",
+      "C": "Tin",
+      "D": "Cocoa"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > annexation_of_lagos_1861"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "question": "In the context of the Nigerian Civil War, which traditional Igbo artifact was symbolically used during the declaration of Biafra to signify unity and resistance?",
+    "options": {
+      "A": "Ofo stick",
+      "B": "Ikenga figurine",
+      "C": "Uli painting",
+      "D": "Nkisi sculpture"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Which slogan was commonly associated with the Biafran struggle?",
+    "options": {
+      "A": "No retreat, no surrender",
+      "B": "Biafra or death",
+      "C": "Freedom for all",
+      "D": "Unity in diversity"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "civil_war > The Declaration of Biafra (May 30, 1967)"
+  },
+  {
+    "question": "What type of governance was established in Biafra?",
+    "options": {
+      "A": "Monarchy",
+      "B": "Republic",
+      "C": "Military dictatorship",
+      "D": "Theocracy"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "civil_war > The Declaration of Biafra (May 30, 1967)"
+  },
+  {
+    "question": "How did the Nigerian government respond to the Biafran declaration militarily?",
+    "options": {
+      "A": "Sent peacekeepers",
+      "B": "Launched a full-scale invasion",
+      "C": "Established a blockade",
+      "D": "Invited international mediation"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "civil_war > The Declaration of Biafra (May 30, 1967)"
+  },
+  {
+    "question": "What was the estimated death toll from starvation during the Biafran War?",
+    "options": {
+      "A": "500,000",
+      "B": "1 million",
+      "C": "3 million",
+      "D": "5 million"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "civil_war > The Declaration of Biafra (May 30, 1967)"
+  },
+  {
+    "question": "What was the main reason for the blockade imposed by Nigeria on Biafra?",
+    "options": {
+      "A": "To force negotiations",
+      "B": "To prevent arms supply",
+      "C": "To starve the population",
+      "D": "To isolate the region"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "civil_war > The Declaration of Biafra (May 30, 1967)"
+  },
+  {
+    "question": "Which major natural resource was a point of contention in the lead-up to the Biafran declaration?",
+    "options": {
+      "A": "Tin",
+      "B": "Cocoa",
+      "C": "Oil",
+      "D": "Coal"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "civil_war > The Declaration of Biafra (May 30, 1967)"
+  },
+  {
+    "question": "Which Biafran military unit gained notoriety for its effectiveness?",
+    "options": {
+      "A": "Biafran Air Force",
+      "B": "Biafran Marine Corps",
+      "C": "Biafran Commando Unit",
+      "D": "Biafran Ground Forces"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "civil_war > The Declaration of Biafra (May 30, 1967)"
+  },
+  {
+    "question": "How did the international community generally view the Biafran cause during the war?",
+    "options": {
+      "A": "Supportive",
+      "B": "Indifferent",
+      "C": "Opposed",
+      "D": "Divided"
+    },
+    "answer": "D",
+    "difficulty": "expert",
+    "topic": "civil_war > The Declaration of Biafra (May 30, 1967)"
+  },
+  {
+    "question": "What did the Biafran government establish to communicate with the outside world?",
+    "options": {
+      "A": "Embassies",
+      "B": "Media outlets",
+      "C": "Trade missions",
+      "D": "Cultural exchanges"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "civil_war > The Declaration of Biafra (May 30, 1967)"
+  },
+  {
+    "question": "What term describes the urban and rural divide that heightened tensions before the Biafran declaration?",
+    "options": {
+      "A": "Cultural divide",
+      "B": "Economic disparity",
+      "C": "Ethnic segregation",
+      "D": "Geopolitical rift"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "civil_war > The Declaration of Biafra (May 30, 1967)"
+  },
+  {
+    "question": "What did Biafra's educational policy focus on during the war?",
+    "options": {
+      "A": "Technical skills",
+      "B": "Civic education",
+      "C": "Military training",
+      "D": "Religious studies"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "civil_war > The Declaration of Biafra (May 30, 1967)"
+  }
+]

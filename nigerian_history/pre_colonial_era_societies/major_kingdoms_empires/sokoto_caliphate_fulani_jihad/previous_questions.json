@@ -1,0 +1,26 @@
+[
+  {
+    "question": "The Fulani Jihad aimed to purify Islam by eliminating which of the following?",
+    "options": {
+      "A": "Paganism",
+      "B": "Christianity",
+      "C": "Traditional beliefs",
+      "D": "Both A and C"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "major_kingdoms_empires > sokoto_caliphate_fulani_jihad"
+  },
+  {
+    "question": "Which emirate was known for its trade in textiles during the Sokoto Caliphate?",
+    "options": {
+      "A": "Kano Emirate",
+      "B": "Zazzau Emirate",
+      "C": "Gobir Emirate",
+      "D": "Katsina Emirate"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "major_kingdoms_empires > sokoto_caliphate_fulani_jihad"
+  }
+]

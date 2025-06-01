@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the primary source of information about Igbo-Ukwu's historical context?",
+    "options": {
+      "A": "Oral traditions",
+      "B": "Written texts",
+      "C": "Archaeological findings",
+      "D": "Cultural festivals"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "early_cultures > igbo_ukwu_9th_century_bronzes"
+  },
+  {
+    "question": "What kind of burial practice was associated with the use of bronze artifacts in Igbo-Ukwu?",
+    "options": {
+      "A": "Mummification",
+      "B": "Cremation",
+      "C": "Inhumation",
+      "D": "Sky burial"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "early_cultures > igbo_ukwu_9th_century_bronzes"
+  },
+  {
+    "question": "Which term refers to the traditional Igbo beliefs that the bronze artifacts are linked to?",
+    "options": {
+      "A": "Animism",
+      "B": "Totemism",
+      "C": "Ancestor worship",
+      "D": "Polytheism"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "early_cultures > igbo_ukwu_9th_century_bronzes"
+  },
+  {
+    "question": "What type of community governance is suggested by the find of bronzes in Igbo-Ukwu?",
+    "options": {
+      "A": "Democratic",
+      "B": "Monarchical",
+      "C": "Anarchic",
+      "D": "Oligarchic"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "early_cultures > igbo_ukwu_9th_century_bronzes"
+  },
+  {
+    "question": "What major archaeological method was used to study the Igbo-Ukwu site?",
+    "options": {
+      "A": "Radiocarbon dating",
+      "B": "Metal detection",
+      "C": "Excavation",
+      "D": "Remote sensing"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "early_cultures > igbo_ukwu_9th_century_bronzes"
+  }
+]

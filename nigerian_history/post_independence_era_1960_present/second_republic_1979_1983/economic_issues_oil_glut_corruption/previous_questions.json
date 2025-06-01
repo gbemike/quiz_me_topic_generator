@@ -1,0 +1,98 @@
+[
+  {
+    "question": "Which sector was most affected by the oil glut during the Second Republic?",
+    "options": {
+      "A": "Manufacturing",
+      "B": "Agriculture",
+      "C": "Oil and Gas",
+      "D": "Telecommunications"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "second_republic_1979_1983 > economic_issues_oil_glut_corruption"
+  },
+  {
+    "question": "Corruption in the oil sector during the Second Republic often involved which of the following?",
+    "options": {
+      "A": "Proper auditing",
+      "B": "Bribery and kickbacks",
+      "C": "Public accountability",
+      "D": "Regulatory compliance"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "second_republic_1979_1983 > economic_issues_oil_glut_corruption"
+  },
+  {
+    "question": "How did the oil glut affect Nigeria\u2019s ability to pay its foreign debts?",
+    "options": {
+      "A": "Improved payment capacity",
+      "B": "No impact",
+      "C": "Increased payment difficulties",
+      "D": "Debt cancellation"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "second_republic_1979_1983 > economic_issues_oil_glut_corruption"
+  },
+  {
+    "question": "What was one of the major long-term effects of corruption in Nigeria's oil sector?",
+    "options": {
+      "A": "Increased foreign investments",
+      "B": "Development of local industries",
+      "C": "Economic stagnation",
+      "D": "Improved living standards"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "second_republic_1979_1983 > economic_issues_oil_glut_corruption"
+  },
+  {
+    "question": "How did the oil glut contribute to the end of the Second Republic?",
+    "options": {
+      "A": "Strengthened democracy",
+      "B": "Brought economic stability",
+      "C": "Led to discontent and coup",
+      "D": "Enhanced foreign relations"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "second_republic_1979_1983 > economic_issues_oil_glut_corruption"
+  },
+  {
+    "question": "What was the result of the government's inability to manage oil revenues effectively during the Second Republic?",
+    "options": {
+      "A": "Increased stability",
+      "B": "Economic boom",
+      "C": "Widespread poverty",
+      "D": "Technological advancement"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "second_republic_1979_1983 > economic_issues_oil_glut_corruption"
+  },
+  {
+    "question": "Which term best describes the practice of siphoning off oil revenues for personal gain?",
+    "options": {
+      "A": "Fiscal responsibility",
+      "B": "Embezzlement",
+      "C": "Transparency",
+      "D": "Public service"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "second_republic_1979_1983 > economic_issues_oil_glut_corruption"
+  },
+  {
+    "question": "The corruption scandal involving the oil sector was widely covered in which type of media?",
+    "options": {
+      "A": "Radio",
+      "B": "Television",
+      "C": "Newspapers",
+      "D": "Internet"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "second_republic_1979_1983 > economic_issues_oil_glut_corruption"
+  }
+]

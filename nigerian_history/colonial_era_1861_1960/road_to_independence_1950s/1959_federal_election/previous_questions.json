@@ -1,0 +1,314 @@
+[
+  {
+    "question": "Fill in the blank: The 1959 elections resulted in a coalition between the ____ and the NCNC.",
+    "options": {
+      "A": "Action Group",
+      "B": "Northern Peoples Congress",
+      "C": "United Middle Belt Congress",
+      "D": "Social Democratic Party"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "Which region had the highest voter turnout in the 1959 federal elections?",
+    "options": {
+      "A": "Western Region",
+      "B": "Eastern Region",
+      "C": "Northern Region",
+      "D": "Mid-Western Region"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "What was the result of the 1959 elections regarding the Prime Minister position?",
+    "options": {
+      "A": "Nnamdi Azikiwe became Prime Minister",
+      "B": "Abubakar Tafawa Balewa became Prime Minister",
+      "C": "Obafemi Awolowo became Prime Minister",
+      "D": "Ahmadu Bello became Prime Minister"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "During the 1959 elections, which party won the majority of seats in the Federal House of Representatives?",
+    "options": {
+      "A": "Action Group",
+      "B": "National Council of Nigeria and the Cameroons",
+      "C": "Northern Peoples Congress",
+      "D": "All Nigeria Peoples Party"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "Which political party was known for its strong support in the Western Region during the 1959 elections?",
+    "options": {
+      "A": "Northern Peoples Congress",
+      "B": "Action Group",
+      "C": "NCNC",
+      "D": "All Nigeria Peoples Party"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "What role did the British colonial government play in the 1959 elections?",
+    "options": {
+      "A": "Complete control of the process",
+      "B": "Limited oversight",
+      "C": "Support for one party",
+      "D": "No role at all"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "Which party leader was known for his oratory skills during the campaigns of 1959?",
+    "options": {
+      "A": "Nnamdi Azikiwe",
+      "B": "Ahmadu Bello",
+      "C": "Obafemi Awolowo",
+      "D": "Michael Okpara"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "What major socio-economic issue was highlighted during the 1959 elections?",
+    "options": {
+      "A": "Land reforms",
+      "B": "Unemployment",
+      "C": "Education accessibility",
+      "D": "Corruption"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "Which ethnic group largely supported the Northern Peoples Congress in the elections?",
+    "options": {
+      "A": "Yoruba",
+      "B": "Igbo",
+      "C": "Hausa-Fulani",
+      "D": "Ijaw"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "Who was the main rival of Nnamdi Azikiwe in the 1959 elections?",
+    "options": {
+      "A": "Obafemi Awolowo",
+      "B": "Ahmadu Bello",
+      "C": "Abubakar Tafawa Balewa",
+      "D": "Michael Okpara"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "Which party was the principal opponent of the Northern Peoples Congress in the 1959 elections?",
+    "options": {
+      "A": "Action Group",
+      "B": "NCNC",
+      "C": "Social Democratic Party",
+      "D": "National Democratic Party"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "What was one of the electoral reforms introduced before the 1959 elections?",
+    "options": {
+      "A": "Direct voting",
+      "B": "Proportional representation",
+      "C": "Secret ballot",
+      "D": "Electoral college"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "What major political alliance was formed as a result of the 1959 elections?",
+    "options": {
+      "A": "NCNC and Action Group",
+      "B": "Northern Peoples Congress and NCNC",
+      "C": "Action Group and Northern Peoples Congress",
+      "D": "NCNC and United Middle Belt Congress"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "Which aspect of the electoral process was criticized for leading to fraud in the 1959 elections?",
+    "options": {
+      "A": "Voter registration",
+      "B": "Ballot counting",
+      "C": "Campaign financing",
+      "D": "Election monitoring"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "What was the outcome for the Action Group in the 1959 elections?",
+    "options": {
+      "A": "Majority win",
+      "B": "Minority seat hold",
+      "C": "Total loss",
+      "D": "Coalition government"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "Fill in the blank: The Northern Peoples Congress was primarily supported by the ____ people.",
+    "options": {
+      "A": "Yoruba",
+      "B": "Igbo",
+      "C": "Hausa-Fulani",
+      "D": "Ijaw"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "What role did propaganda play in the 1959 elections?",
+    "options": {
+      "A": "Minimal impact",
+      "B": "Dissemination of misinformation",
+      "C": "Mobilization of voters",
+      "D": "Regulatory enforcement"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "Who was the first Minister of Finance after the 1959 elections?",
+    "options": {
+      "A": "Obafemi Awolowo",
+      "B": "Aminu Kano",
+      "C": "Okotie-Eboh",
+      "D": "Nnamdi Azikiwe"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "Which issue did the Northern Peoples Congress campaign primarily focus on during the 1959 elections?",
+    "options": {
+      "A": "National integration",
+      "B": "Economic development",
+      "C": "Regional autonomy",
+      "D": "Education reforms"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "In the context of the 1959 elections, what did the term 'Unity Party' refer to?",
+    "options": {
+      "A": "A political party",
+      "B": "A coalition strategy",
+      "C": "An electoral tactic",
+      "D": "A regional alliance"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "Fill in the blank: The 1959 elections were marked by significant ____ among the political parties.",
+    "options": {
+      "A": "hostility",
+      "B": "cooperation",
+      "C": "apathy",
+      "D": "debate"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "Who was the official Resident Electoral Commissioner during the 1959 elections?",
+    "options": {
+      "A": "Hugh W. B. M. Moore",
+      "B": "J. A. A. Olubunmi",
+      "C": "Oluwasanmi Adeyemi",
+      "D": "G. A. Akinwunmi"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "In the context of the 1959 elections, what does 'the federal structure' refer to?",
+    "options": {
+      "A": "Distribution of powers between local governments",
+      "B": "Separation of church and state",
+      "C": "Division of authority between national and regional governments",
+      "D": "Establishment of political parties"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "What was the dominant sentiment among voters during the 1959 elections regarding independence?",
+    "options": {
+      "A": "Desire for immediate independence",
+      "B": "Preference for continued British rule",
+      "C": "Uncertainty about self-governance",
+      "D": "Indifference to the issue"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "Which political leader famously opposed the idea of a coalition government in 1959?",
+    "options": {
+      "A": "Nnamdi Azikiwe",
+      "B": "Obafemi Awolowo",
+      "C": "Abubakar Tafawa Balewa",
+      "D": "Ahmadu Bello"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  },
+  {
+    "question": "Which region experienced ethnic violence as a consequence of the 1959 elections?",
+    "options": {
+      "A": "Western Region",
+      "B": "Northern Region",
+      "C": "Eastern Region",
+      "D": "Southern Region"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "road_to_independence_1950s > 1959_federal_election"
+  }
+]

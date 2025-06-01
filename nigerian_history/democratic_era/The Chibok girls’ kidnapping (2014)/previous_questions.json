@@ -1,0 +1,146 @@
+[
+  {
+    "question": "What was the global campaign slogan that emerged after the kidnapping?",
+    "options": {
+      "A": "#BringBackOurGirls",
+      "B": "#SaveOurGirls",
+      "C": "#RescueTheGirls",
+      "D": "#FindTheChibokGirls"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "democratic_era > The Chibok girls\u2019 kidnapping (2014)"
+  },
+  {
+    "question": "What type of transportation were the Chibok girls using when they were kidnapped?",
+    "options": {
+      "A": "Buses",
+      "B": "Motorcycles",
+      "C": "Trucks",
+      "D": "Bicycles"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > The Chibok girls\u2019 kidnapping (2014)"
+  },
+  {
+    "question": "What was one of the fears expressed by the families of the abducted girls?",
+    "options": {
+      "A": "Forced conversion to Islam",
+      "B": "Being sold into slavery",
+      "C": "Both A and B",
+      "D": "None of the above"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > The Chibok girls\u2019 kidnapping (2014)"
+  },
+  {
+    "question": "What form of education were the Chibok girls pursuing at the time of their abduction?",
+    "options": {
+      "A": "Tertiary education",
+      "B": "Secondary education",
+      "C": "Vocational training",
+      "D": "Primary education"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "democratic_era > The Chibok girls\u2019 kidnapping (2014)"
+  },
+  {
+    "question": "What was the name of the school the Chibok girls attended?",
+    "options": {
+      "A": "Government Girls Secondary School",
+      "B": "Chibok High School",
+      "C": "Borno State Academy",
+      "D": "Chibok International School"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The Chibok girls\u2019 kidnapping (2014)"
+  },
+  {
+    "question": "What was a significant challenge faced by families of the Chibok girls after the abduction?",
+    "options": {
+      "A": "Lack of financial resources",
+      "B": "Psychological trauma",
+      "C": "Media scrutiny",
+      "D": "Political pressure"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > The Chibok girls\u2019 kidnapping (2014)"
+  },
+  {
+    "question": "What was a common form of support for the Chibok girls' families from the public?",
+    "options": {
+      "A": "Financial donations",
+      "B": "Counseling services",
+      "C": "Public awareness campaigns",
+      "D": "Community gatherings"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > The Chibok girls\u2019 kidnapping (2014)"
+  },
+  {
+    "question": "What type of social media platform was crucial in spreading awareness about the Chibok girls?",
+    "options": {
+      "A": "Facebook",
+      "B": "Twitter",
+      "C": "Instagram",
+      "D": "LinkedIn"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "democratic_era > The Chibok girls\u2019 kidnapping (2014)"
+  },
+  {
+    "question": "What ongoing issue has persisted for the families of the Chibok girls?",
+    "options": {
+      "A": "Continued abductions",
+      "B": "Lack of closure",
+      "C": "Public forgetfulness",
+      "D": "Government neglect"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > The Chibok girls\u2019 kidnapping (2014)"
+  },
+  {
+    "question": "What was the predominant religion of the Chibok girls?",
+    "options": {
+      "A": "Islam",
+      "B": "Christianity",
+      "C": "Traditional African religion",
+      "D": "None of the above"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "democratic_era > The Chibok girls\u2019 kidnapping (2014)"
+  },
+  {
+    "question": "What was a common theme in media portrayals of the Chibok girls' story?",
+    "options": {
+      "A": "Victimhood",
+      "B": "Heroism",
+      "C": "Indifference",
+      "D": "Courage"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The Chibok girls\u2019 kidnapping (2014)"
+  },
+  {
+    "question": "What demographic primarily comprised the group of kidnapped Chibok girls?",
+    "options": {
+      "A": "Primary school students",
+      "B": "Secondary school students",
+      "C": "College students",
+      "D": "Non-students"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "democratic_era > The Chibok girls\u2019 kidnapping (2014)"
+  }
+]

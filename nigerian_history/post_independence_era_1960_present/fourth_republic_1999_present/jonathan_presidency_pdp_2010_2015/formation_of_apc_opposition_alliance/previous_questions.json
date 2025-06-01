@@ -1,0 +1,182 @@
+[
+  {
+    "question": "The APC was formed from a coalition of how many political parties?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "jonathan_presidency_pdp_2010_2015 > formation_of_apc_opposition_alliance"
+  },
+  {
+    "question": "What was the main reason for the formation of the APC?",
+    "options": {
+      "A": "Economic decline",
+      "B": "Corruption allegations",
+      "C": "Political unity against PDP",
+      "D": "Ethnic tensions"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "jonathan_presidency_pdp_2010_2015 > formation_of_apc_opposition_alliance"
+  },
+  {
+    "question": "Which of the following states did not have a notable APC governor during Jonathan's presidency?",
+    "options": {
+      "A": "Lagos",
+      "B": "Kano",
+      "C": "Borno",
+      "D": "Rivers"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "jonathan_presidency_pdp_2010_2015 > formation_of_apc_opposition_alliance"
+  },
+  {
+    "question": "What strategy did the APC employ to challenge the dominance of the PDP in the 2015 elections?",
+    "options": {
+      "A": "Increased media engagement",
+      "B": "Coalition of opposition parties",
+      "C": "Focus on rural voters",
+      "D": "Massive campaign funding"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "jonathan_presidency_pdp_2010_2015 > formation_of_apc_opposition_alliance"
+  },
+  {
+    "question": "Which popular slogan was associated with Jonathan's 2011 campaign?",
+    "options": {
+      "A": "Change",
+      "B": "Continuity",
+      "C": "Progress",
+      "D": "Transformation"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "jonathan_presidency_pdp_2010_2015 > formation_of_apc_opposition_alliance"
+  },
+  {
+    "question": "Which factor contributed to the APC's victory in the 2015 elections?",
+    "options": {
+      "A": "Economic stability",
+      "B": "Strong party organization",
+      "C": "Jonathan's unpopularity",
+      "D": "Foreign intervention"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "jonathan_presidency_pdp_2010_2015 > formation_of_apc_opposition_alliance"
+  },
+  {
+    "question": "In which year did Jonathan declare his intention to run for re-election?",
+    "options": {
+      "A": "2013",
+      "B": "2014",
+      "C": "2015",
+      "D": "2012"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "jonathan_presidency_pdp_2010_2015 > formation_of_apc_opposition_alliance"
+  },
+  {
+    "question": "How did Jonathan's administration address the issue of unemployment?",
+    "options": {
+      "A": "Job Creation Schemes",
+      "B": "Youth Empowerment Programs",
+      "C": "Skills Acquisition Initiatives",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "jonathan_presidency_pdp_2010_2015 > formation_of_apc_opposition_alliance"
+  },
+  {
+    "question": "Which economic program was launched by Jonathan to support small and medium enterprises?",
+    "options": {
+      "A": "SME Development Fund",
+      "B": "Youth Enterprise with Innovation in Nigeria (YouWin)",
+      "C": "National Economic Empowerment and Development Strategy (NEEDS)",
+      "D": "N-Power"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "jonathan_presidency_pdp_2010_2015 > formation_of_apc_opposition_alliance"
+  },
+  {
+    "question": "Which of the following parties did NOT merge into the APC?",
+    "options": {
+      "A": "ACN",
+      "B": "ANPP",
+      "C": "PDP",
+      "D": "CPC"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "jonathan_presidency_pdp_2010_2015 > formation_of_apc_opposition_alliance"
+  },
+  {
+    "question": "Fill in the blank: The APC was formed in opposition to the _______ government led by Jonathan.",
+    "options": {
+      "A": "military",
+      "B": "PDP",
+      "C": "APGA",
+      "D": "CPC"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "jonathan_presidency_pdp_2010_2015 > formation_of_apc_opposition_alliance"
+  },
+  {
+    "question": "Which major city was the APC's political headquarters?",
+    "options": {
+      "A": "Abuja",
+      "B": "Lagos",
+      "C": "Kano",
+      "D": "Port Harcourt"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "jonathan_presidency_pdp_2010_2015 > formation_of_apc_opposition_alliance"
+  },
+  {
+    "question": "Fill in the blank: The APC's formation was seen as a response to the _______ of the PDP.",
+    "options": {
+      "A": "weakness",
+      "B": "strength",
+      "C": "popularity",
+      "D": "unity"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "jonathan_presidency_pdp_2010_2015 > formation_of_apc_opposition_alliance"
+  },
+  {
+    "question": "Who was the APC's vice-presidential candidate in the 2015 elections?",
+    "options": {
+      "A": "Yemi Osinbajo",
+      "B": "Kemi Adeosun",
+      "C": "Bola Ahmed Tinubu",
+      "D": "Rabiu Kwankwaso"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "jonathan_presidency_pdp_2010_2015 > formation_of_apc_opposition_alliance"
+  },
+  {
+    "question": "Which notable public figure endorsed Jonathan during his presidential campaigns?",
+    "options": {
+      "A": "Wole Soyinka",
+      "B": "Bola Ahmed Tinubu",
+      "C": "Oby Ezekwesili",
+      "D": "Femi Kuti"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "jonathan_presidency_pdp_2010_2015 > formation_of_apc_opposition_alliance"
+  }
+]

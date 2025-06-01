@@ -1,0 +1,110 @@
+[
+  {
+    "question": "In the context of the Aburi Accord, what symbolic gesture was made during the meeting to emphasize unity, but ultimately failed to prevent conflict?",
+    "options": {
+      "A": "Exchange of traditional gifts",
+      "B": "Joint signing of a peace tree",
+      "C": "Synchronized traditional dance",
+      "D": "Shared meal of Nigerian delicacies"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "civil_war > The Aburi Accord and its failure"
+  },
+  {
+    "question": "What year was the Aburi Accord signed?",
+    "options": {
+      "A": "1970",
+      "B": "1967",
+      "C": "1968",
+      "D": "1969"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "civil_war > The Aburi Accord and its failure"
+  },
+  {
+    "question": "What was one of the main objectives of the Aburi Accord?",
+    "options": {
+      "A": "To end colonial rule",
+      "B": "To establish a federal system of government",
+      "C": "To create an independent Biafran state",
+      "D": "To promote national unity through economic policies"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "civil_war > The Aburi Accord and its failure"
+  },
+  {
+    "question": "The failure of the Aburi Accord is mainly attributed to which of the following factors?",
+    "options": {
+      "A": "Lack of international support",
+      "B": "Disagreements in the implementation",
+      "C": "Insufficient military backing",
+      "D": "Economic sanctions by other nations"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "civil_war > The Aburi Accord and its failure"
+  },
+  {
+    "question": "Which prominent ethnic group felt marginalized leading to the Biafran War, despite the Aburi Accord?",
+    "options": {
+      "A": "Hausa-Fulani",
+      "B": "Yoruba",
+      "C": "Igbo",
+      "D": "Ijaw"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "civil_war > The Aburi Accord and its failure"
+  },
+  {
+    "question": "What was one of the proposed structures for Nigeria as discussed in the Aburi Accord?",
+    "options": {
+      "A": "Federalism",
+      "B": "Unitary system",
+      "C": "Confederation",
+      "D": "Regionalism"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "civil_war > The Aburi Accord and its failure"
+  },
+  {
+    "question": "What did the Aburi Accord suggest as a way to handle resource allocation among the Nigerian regions?",
+    "options": {
+      "A": "Equal distribution",
+      "B": "Regional control",
+      "C": "Federal control",
+      "D": "Centralized government"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "civil_war > The Aburi Accord and its failure"
+  },
+  {
+    "question": "Ojukwu's decision to pursue Biafra's independence was partly influenced by the failure of which agreement?",
+    "options": {
+      "A": "The Aburi Accord",
+      "B": "The Lagos Accord",
+      "C": "The Kaduna Declaration",
+      "D": "The Enugu Agreement"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "civil_war > The Aburi Accord and its failure"
+  },
+  {
+    "question": "In the context of the Aburi Accord, what was the significance of the term 'unitary'?",
+    "options": {
+      "A": "Centralized government authority",
+      "B": "Equality among states",
+      "C": "Decentralized power",
+      "D": "Regional independence"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "civil_war > The Aburi Accord and its failure"
+  }
+]

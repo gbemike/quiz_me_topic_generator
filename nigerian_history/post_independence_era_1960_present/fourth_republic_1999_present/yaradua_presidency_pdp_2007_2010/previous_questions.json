@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What was the official reason for Umaru Musa Yaradua's trip to Saudi Arabia in 2009?",
+    "options": {
+      "A": "Pilgrimage",
+      "B": "Medical treatment",
+      "C": "Business conference",
+      "D": "Diplomatic meeting"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "fourth_republic_1999_present > yaradua_presidency_pdp_2007_2010"
+  },
+  {
+    "question": "In what year did Umaru Musa Yaradua pass away?",
+    "options": {
+      "A": "2009",
+      "B": "2010",
+      "C": "2011",
+      "D": "2012"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "fourth_republic_1999_present > yaradua_presidency_pdp_2007_2010"
+  },
+  {
+    "question": "What was the primary role of the Federal Executive Council during Yaradua's presidency?",
+    "options": {
+      "A": "Advise the president on issues",
+      "B": "Legislate new laws",
+      "C": "Conduct elections",
+      "D": "Draft the national budget"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "fourth_republic_1999_present > yaradua_presidency_pdp_2007_2010"
+  },
+  {
+    "question": "Which constitutional provision allowed Goodluck Jonathan to succeed Yaradua?",
+    "options": {
+      "A": "Presidential succession",
+      "B": "Impeachment",
+      "C": "Acting presidency",
+      "D": "Vice Presidential succession"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "fourth_republic_1999_present > yaradua_presidency_pdp_2007_2010"
+  },
+  {
+    "question": "What was the controversial report released during Yaradua's administration regarding public finances?",
+    "options": {
+      "A": "The Oronsaye Report",
+      "B": "The Farouk Lawan Report",
+      "C": "The Okonjo-Iweala Report",
+      "D": "The EFCC Report"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "fourth_republic_1999_present > yaradua_presidency_pdp_2007_2010"
+  },
+  {
+    "question": "What notable achievement in telecommunications occurred during Yaradua\u2019s presidency?",
+    "options": {
+      "A": "Increase in mobile subscribers",
+      "B": "Launch of 5G network",
+      "C": "Introduction of broadband services",
+      "D": "State ownership of telecoms"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "fourth_republic_1999_present > yaradua_presidency_pdp_2007_2010"
+  }
+]

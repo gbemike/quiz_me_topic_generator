@@ -1,0 +1,82 @@
+[
+  {
+    "question": "True or False: The 1964 Federal Election was Nigeria's first attempt at a democratic election.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "post_independence_era_1960_present > The 1964 Federal Election crisis"
+  },
+  {
+    "question": "Which event directly led to the postponement of the elections initially scheduled for 1964?",
+    "options": {
+      "A": "Political unrest",
+      "B": "Natural disasters",
+      "C": "Judicial intervention",
+      "D": "Military threats"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "post_independence_era_1960_present > The 1964 Federal Election crisis"
+  },
+  {
+    "question": "The 1964 elections were conducted under the ______ system of voting.",
+    "options": {
+      "A": "First-past-the-post",
+      "B": "Proportional representation",
+      "C": "Mixed system",
+      "D": "Block voting"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "post_independence_era_1960_present > The 1964 Federal Election crisis"
+  },
+  {
+    "question": "True or False: The 1964 crisis paved the way for the eventual Nigerian Civil War.",
+    "options": {
+      "A": "True",
+      "B": "False"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "post_independence_era_1960_present > The 1964 Federal Election crisis"
+  },
+  {
+    "question": "In what year did the Federal Election crisis in Nigeria escalate?",
+    "options": {
+      "A": "1961",
+      "B": "1962",
+      "C": "1963",
+      "D": "1964"
+    },
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "post_independence_era_1960_present > The 1964 Federal Election crisis"
+  },
+  {
+    "question": "The term '________' describes the tension between political groups after the 1964 elections.",
+    "options": {
+      "A": "Balkanization",
+      "B": "Polarization",
+      "C": "Integration",
+      "D": "Assimilation"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "post_independence_era_1960_present > The 1964 Federal Election crisis"
+  },
+  {
+    "question": "What was the public perception of the credibility of the Electoral Commission during the 1964 elections?",
+    "options": {
+      "A": "Highly trusted",
+      "B": "Moderately trusted",
+      "C": "Distrusted",
+      "D": "Indifferent"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "post_independence_era_1960_present > The 1964 Federal Election crisis"
+  }
+]

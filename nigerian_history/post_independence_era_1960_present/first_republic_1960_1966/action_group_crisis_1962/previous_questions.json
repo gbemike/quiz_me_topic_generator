@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Which political party was the main opposition to the Action Group during the crisis?",
+    "options": {
+      "A": "Nigerian National Democratic Party",
+      "B": "National Council of Nigeria and the Cameroons",
+      "C": "Northern Peoples Congress",
+      "D": "United Middle Belt Congress"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "The Action Group crisis involved a split between which two factions?",
+    "options": {
+      "A": "Conservatives and Liberals",
+      "B": "Moderates and Radicals",
+      "C": "Radicals and Progressives",
+      "D": "Leadership and Citizenship"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "In response to the crisis, which commission was established to investigate the situation?",
+    "options": {
+      "A": "Littleton Commission",
+      "B": "Willink Commission",
+      "C": "Lagos Commission",
+      "D": "Abuja Commission"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "What did the Action Group seek to achieve during the crisis?",
+    "options": {
+      "A": "Complete independence from Britain",
+      "B": "Greater regional autonomy",
+      "C": "Economic reforms",
+      "D": "National unity"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "Which political event is associated with the Action Group's loss of control in the Western Region?",
+    "options": {
+      "A": "The 1963 Census",
+      "B": "The 1963 Election",
+      "C": "The 1964 Elections",
+      "D": "The 1965 Coup"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "During which major political event did the Action Group attempt to assert its dominance in the West?",
+    "options": {
+      "A": "The 1960 Independence Day",
+      "B": "The 1962 Regional Elections",
+      "C": "The 1963 Census",
+      "D": "The 1964 Federal Elections"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "The crisis led to increased support for which political ideology among the youth?",
+    "options": {
+      "A": "Conservatism",
+      "B": "Nationalism",
+      "C": "Radicalism",
+      "D": "Libertarianism"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "The leadership struggle in the Action Group led to a split that formed which new party?",
+    "options": {
+      "A": "National Democratic Party",
+      "B": "Progressive Peoples Alliance",
+      "C": "Social Democratic Party",
+      "D": "Democratic Party of Nigeria"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "The rivalry between the Action Group and the NPC was exacerbated by tensions over what issue?",
+    "options": {
+      "A": "Resource allocation",
+      "B": "Cultural differences",
+      "C": "Security policies",
+      "D": "Foreign relations"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962},{"
+  },
+  {
+    "question": "What significant event marked the beginning of the Action Group crisis in 1962?",
+    "options": {
+      "A": "The Imo River Crisis",
+      "B": "The Dismissal of Samuel Akintola",
+      "C": "The Action Group Conference",
+      "D": "The Western House of Assembly Election"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "In the Action Group crisis, which faction was led by Samuel Akintola?",
+    "options": {
+      "A": "The Reform Group",
+      "B": "The Radical Group",
+      "C": "The Progressive Group",
+      "D": "The Conservative Group"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "Who was the Governor of the Western Region during the Action Group crisis?",
+    "options": {
+      "A": "Adeyemo Alakija",
+      "B": "D. O. Fagunwa",
+      "C": "Samuel Akintola",
+      "D": "Obafemi Awolowo"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "Which state was most affected by the Action Group crisis?",
+    "options": {
+      "A": "Lagos State",
+      "B": "Western Region",
+      "C": "Northern Region",
+      "D": "Eastern Region"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "What was a major consequence of the Action Group's internal strife on national politics?",
+    "options": {
+      "A": "Increased political violence",
+      "B": "Stronger regional governments",
+      "C": "Greater unity among parties",
+      "D": "Formation of new political alliances"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "The Action Group aimed to promote what specific regional interest?",
+    "options": {
+      "A": "Northern interests",
+      "B": "Western interests",
+      "C": "Eastern interests",
+      "D": "Southern interests"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "What event in 1962 significantly weakened the Action Group's political standing?",
+    "options": {
+      "A": "Election loss",
+      "B": "Leadership crisis",
+      "C": "Secession attempt",
+      "D": "Political assassination"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "What was a common accusation against Samuel Akintola during the crisis?",
+    "options": {
+      "A": "Corruption",
+      "B": "Lack of leadership",
+      "C": "Incompetence",
+      "D": "Disloyalty to Awolowo"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "What was a major theme in the propaganda used by both factions during the Action Group crisis?",
+    "options": {
+      "A": "Unity",
+      "B": "Ethnic superiority",
+      "C": "Corruption",
+      "D": "Political maturity"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "What was a significant demographic shift that occurred as a result of the Action Group crisis?",
+    "options": {
+      "A": "Urban migration",
+      "B": "Rural depopulation",
+      "C": "Youth radicalization",
+      "D": "Female empowerment"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "Which factor is credited with increasing tensions between the Action Group and the Northern People's Congress?",
+    "options": {
+      "A": "Economic competition",
+      "B": "Ethnic conflicts",
+      "C": "Power struggles",
+      "D": "Religious differences"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "In the context of the Action Group crisis, what does AG stand for?",
+    "options": {
+      "A": "Action Group",
+      "B": "Alliance for Governance",
+      "C": "Allied Groups",
+      "D": "Agricultural Guild"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962"
+  },
+  {
+    "question": "What was the political implication of the Action Group crisis for the Yoruba people?",
+    "options": {
+      "A": "Increased unity",
+      "B": "Greater autonomy",
+      "C": "Political fragmentation",
+      "D": "Loss of regional identity"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "first_republic_1960_1966 > action_group_crisis_1962},{"
+  }
+]

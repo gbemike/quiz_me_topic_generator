@@ -1,0 +1,254 @@
+[
+  {
+    "question": "In the context of Indirect Rule, what role did traditional rulers play?",
+    "options": {
+      "A": "Tax collectors",
+      "B": "Judicial officers",
+      "C": "Local administrators",
+      "D": "Military leaders"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "What was the main criticism of the Indirect Rule system?",
+    "options": {
+      "A": "It promoted local governance",
+      "B": "It marginalized educated Nigerians",
+      "C": "It strengthened traditional authority",
+      "D": "It was costly to implement"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "Fill in the blank: The Indirect Rule system relied heavily on the __________ of local chiefs to enforce British policy.",
+    "options": {
+      "A": "Opposition",
+      "B": "Cooperation",
+      "C": "Resistance",
+      "D": "Neutrality"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "What was a major consequence of the Indirect Rule policy among the Yoruba people?",
+    "options": {
+      "A": "Increased trade",
+      "B": "Fragmentation of political authority",
+      "C": "Enhanced education opportunities",
+      "D": "Strengthened cultural identity"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "Which system did the British use to maintain control while allowing local customs to persist?",
+    "options": {
+      "A": "Direct Rule",
+      "B": "Indirect Rule",
+      "C": "Dual Mandate",
+      "D": "Colonial Administration"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "How did the British perceive the traditional rulers under Indirect Rule?",
+    "options": {
+      "A": "As rivals",
+      "B": "As instruments of control",
+      "C": "As equals",
+      "D": "As cultural leaders"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "What significant event in 1922 altered the structure of governance established by the Indirect Rule system?",
+    "options": {
+      "A": "The Nigerian Independence Movement",
+      "B": "The introduction of the Richards Constitution",
+      "C": "The formation of the Nigerian National Congress",
+      "D": "The establishment of the first legislative council"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "Which of the following best describes the relationship between British colonial authorities and local chiefs?",
+    "options": {
+      "A": "Partnership",
+      "B": "Conflictual",
+      "C": "Equal",
+      "D": "Subordinate"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "The term 'native authority' refers to which aspect of the Indirect Rule system?",
+    "options": {
+      "A": "British governors",
+      "B": "Local chiefs",
+      "C": "Colonial police",
+      "D": "Missionary groups"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "In what way did Indirect Rule affect women's roles in Nigerian society?",
+    "options": {
+      "A": "Enhanced political power",
+      "B": "Limited participation in governance",
+      "C": "Increased economic opportunities",
+      "D": "Promoted gender equality"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "Which indigenous institution was often used by the British to implement Indirect Rule?",
+    "options": {
+      "A": "The market system",
+      "B": "The council of elders",
+      "C": "The local militia",
+      "D": "The church"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "The 'Warrant Chief' system was a key feature of which colonial practice?",
+    "options": {
+      "A": "Direct Rule",
+      "B": "Assimilation",
+      "C": "Indirect Rule",
+      "D": "Colonial Education"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "What role did the British play in local disputes under the Indirect Rule system?",
+    "options": {
+      "A": "Mediators",
+      "B": "Interferers",
+      "C": "Observers",
+      "D": "Judges"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "Which area was less affected by the Indirect Rule system due to its urban nature?",
+    "options": {
+      "A": "Kano",
+      "B": "Lagos",
+      "C": "Kaduna",
+      "D": "Enugu"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "Which British policy aimed to integrate Western education with traditional governance?",
+    "options": {
+      "A": "Direct Rule",
+      "B": "Indirect Rule",
+      "C": "Assimilation",
+      "D": "Community Development"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "Fill in the blank: Indirect Rule often failed to recognize the __________ complexities of local governance and society.",
+    "options": {
+      "A": "Cultural",
+      "B": "Economic",
+      "C": "Political",
+      "D": "Religious"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "Which of the following concepts is closely associated with the criticism of Indirect Rule?",
+    "options": {
+      "A": "Decentralization",
+      "B": "Cultural imperialism",
+      "C": "Local autonomy",
+      "D": "Self-determination"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "What was one of the outcomes of introducing Warrant Chiefs under the Indirect Rule system?",
+    "options": {
+      "A": "Enhanced local governance",
+      "B": "Increased tribal conflicts",
+      "C": "Strengthened British authority",
+      "D": "Promotion of democracy"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "Under Indirect Rule, local chiefs were often selected based on their __________. ",
+    "options": {
+      "A": "wealth",
+      "B": "loyalty",
+      "C": "education",
+      "D": "popularity"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "The introduction of Warrant Chiefs was meant to __________ traditional power structures.",
+    "options": {
+      "A": "strengthen",
+      "B": "transform",
+      "C": "undermine",
+      "D": "abolish"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  },
+  {
+    "question": "Under Indirect Rule, most traditional leaders were expected to maintain __________ in their communities.",
+    "options": {
+      "A": "peace",
+      "B": "rebellion",
+      "C": "silence",
+      "D": "ignorance"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "colonial_era_1861_1960 > indirect_rule_system"
+  }
+]

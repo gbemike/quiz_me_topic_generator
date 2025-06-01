@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What was the main purpose of the 'Operation Sweep' initiative?",
+    "options": {
+      "A": "Crime reduction",
+      "B": "Road construction",
+      "C": "Health improvement",
+      "D": "Agricultural expansion"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "fourth_republic_1999_present > obasanjo_presidency_pdp_1999_2007"
+  },
+  {
+    "question": "Obasanjo sought to amend the constitution to allow for a third term in what year?",
+    "options": {
+      "A": "2005",
+      "B": "2006",
+      "C": "2004",
+      "D": "2003"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "fourth_republic_1999_present > obasanjo_presidency_pdp_1999_2007"
+  }
+]

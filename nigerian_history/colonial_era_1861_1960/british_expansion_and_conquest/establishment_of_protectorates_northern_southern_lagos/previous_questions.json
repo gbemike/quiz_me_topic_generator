@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What was the name of the 1900 conflict triggered by British attempts to impose indirect rule in Lagos?",
+    "options": {
+      "A": "The Lagos War",
+      "B": "The Aba Women's Riots",
+      "C": "The Eyo Festival Revolt",
+      "D": "The Niger War"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "british_expansion_and_conquest > establishment_of_protectorates_northern_southern_lagos"
+  },
+  {
+    "question": "The British sought to suppress which traditional practice in Lagos during colonization?",
+    "options": {
+      "A": "Drumming",
+      "B": "Cultural festivals",
+      "C": "Polygamy",
+      "D": "Craftsmanship"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "british_expansion_and_conquest > establishment_of_protectorates_northern_southern_lagos"
+  },
+  {
+    "question": "Which British policy aimed to promote Christianity and Western education in Lagos?",
+    "options": {
+      "A": "Civilizing Mission",
+      "B": "Cultural Assimilation",
+      "C": "Humanitarian Intervention",
+      "D": "Social Darwinism"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "british_expansion_and_conquest > establishment_of_protectorates_northern_southern_lagos"
+  },
+  {
+    "question": "What was the most common form of resistance faced by British colonial rule in Lagos?",
+    "options": {
+      "A": "Violent revolts",
+      "B": "Passive resistance",
+      "C": "Political negotiations",
+      "D": "Cultural preservation"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "british_expansion_and_conquest > establishment_of_protectorates_northern_southern_lagos"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "question": "The indirect rule system was primarily designed to manage which aspect of Nigerian society?",
+    "options": {
+      "A": "Economics",
+      "B": "Politics",
+      "C": "Education",
+      "D": "Health care"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > british_expansion_and_conquest"
+  },
+  {
+    "question": "What was a significant environmental consequence of British agricultural policies in Nigeria?",
+    "options": {
+      "A": "Deforestation",
+      "B": "Soil degradation",
+      "C": "Water pollution",
+      "D": "Biodiversity loss"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > british_expansion_and_conquest"
+  },
+  {
+    "question": "What role did the British church mission societies play in Nigeria during the colonial period?",
+    "options": {
+      "A": "Promoting agriculture",
+      "B": "Providing healthcare",
+      "C": "Spreading Christianity",
+      "D": "Training soldiers"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > british_expansion_and_conquest"
+  },
+  {
+    "question": "The 'Sakara' movement during the colonial era was primarily associated with which cultural aspect?",
+    "options": {
+      "A": "Youth leadership",
+      "B": "Religious revivalism",
+      "C": "Political activism",
+      "D": "Cultural preservation"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > british_expansion_and_conquest"
+  },
+  {
+    "question": "Which colonial practice involved the collection of a fee from farmers for the right to till the land?",
+    "options": {
+      "A": "Renting",
+      "B": "Fees for land use",
+      "C": "Taxation",
+      "D": "Land ownership"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > british_expansion_and_conquest"
+  },
+  {
+    "question": "The British established which of the following as a protectorate in 1893?",
+    "options": {
+      "A": "Niger",
+      "B": "Benin",
+      "C": "Zaria",
+      "D": "Lagos"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > british_expansion_and_conquest"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Fill in the blank: The British justified their invasion of the Benin Kingdom by claiming they were promoting __________.",
+    "options": {
+      "A": "Civilization",
+      "B": "Wealth distribution",
+      "C": "Trade equity",
+      "D": "Cultural exchange"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > 1897_british_punitive_expedition"
+  },
+  {
+    "question": "The term 'punitive expedition' implies what kind of military action?",
+    "options": {
+      "A": "Defensive",
+      "B": "Peacekeeping",
+      "C": "Retaliatory",
+      "D": "Exploratory"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "benin_kingdom_edo > 1897_british_punitive_expedition"
+  },
+  {
+    "question": "What was the immediate effect on Benin's economy following the 1897 expedition?",
+    "options": {
+      "A": "Economic boom",
+      "B": "Severe disruption",
+      "C": "Stabilization",
+      "D": "Increased trade"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "benin_kingdom_edo > 1897_british_punitive_expedition"
+  },
+  {
+    "question": "The British punitive expedition was part of a larger trend of __________ in Africa during the late 19th century.",
+    "options": {
+      "A": "Decolonization",
+      "B": "Colonial expansion",
+      "C": "Cultural exchange",
+      "D": "Trade agreements"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "benin_kingdom_edo > 1897_british_punitive_expedition"
+  },
+  {
+    "question": "Which international institution has played a crucial role in the discussion about the restitution of Benin artifacts?",
+    "options": {
+      "A": "United Nations",
+      "B": "World Bank",
+      "C": "International Monetary Fund",
+      "D": "UNESCO"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "benin_kingdom_edo > 1897_british_punitive_expedition"
+  },
+  {
+    "question": "The British punitive expedition led to the establishment of which colony?",
+    "options": {
+      "A": "Gold Coast",
+      "B": "Nigeria",
+      "C": "Ghana",
+      "D": "Sierra Leone"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "benin_kingdom_edo > 1897_british_punitive_expedition"
+  }
+]

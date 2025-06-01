@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Which of the following structures was NOT found in Igbo-Ukwu?",
+    "options": {
+      "A": "Palaces",
+      "B": "Temples",
+      "C": "Burial mounds",
+      "D": "Farming terraces"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "pre_colonial_era_societies > igbo_ukwu_civilization"
+  },
+  {
+    "question": "The Igbo-Ukwu civilization is believed to have engaged in trade with which of the following?",
+    "options": {
+      "A": "Europeans",
+      "B": "Other West African kingdoms",
+      "C": "North African tribes",
+      "D": "Asian merchants"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "pre_colonial_era_societies > igbo_ukwu_civilization"
+  },
+  {
+    "question": "The decline of Igbo-Ukwu's civilization is thought to be related to what factor?",
+    "options": {
+      "A": "Environmental changes",
+      "B": "Invasion by neighboring tribes",
+      "C": "Internal strife",
+      "D": "Colonial encroachment"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "pre_colonial_era_societies > igbo_ukwu_civilization"
+  }
+]

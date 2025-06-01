@@ -1,0 +1,350 @@
+[
+  {
+    "question": "Palm oil is primarily used in which of the following industries?",
+    "options": {
+      "A": "Construction",
+      "B": "Cosmetics",
+      "C": "Textiles",
+      "D": "Telecommunications"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "What percentage of Nigeria's cocoa production is exported?",
+    "options": {
+      "A": "30%",
+      "B": "50%",
+      "C": "70%",
+      "D": "90%"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "In what year did Nigeria experience significant economic impacts from the collapse of cocoa prices?",
+    "options": {
+      "A": "1980",
+      "B": "1990",
+      "C": "2000",
+      "D": "2010"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "Which country is the largest importer of Nigerian palm oil?",
+    "options": {
+      "A": "China",
+      "B": "Germany",
+      "C": "India",
+      "D": "United States"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "What is the traditional method of processing cocoa pods called?",
+    "options": {
+      "A": "Fermentation",
+      "B": "Distillation",
+      "C": "Saturation",
+      "D": "Extraction"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "What major pest poses a threat to palm oil plantations in Nigeria?",
+    "options": {
+      "A": "Cocoa Moth",
+      "B": "African Palm Weevil",
+      "C": "Groundnut Aphid",
+      "D": "Cotton Bollworm"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "In 2019, which international organization reported Nigeria's cocoa production as declining?",
+    "options": {
+      "A": "World Bank",
+      "B": "FAO",
+      "C": "IMF",
+      "D": "UNDP"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "What is the primary challenge facing palm oil farmers in Nigeria today?",
+    "options": {
+      "A": "Land disputes",
+      "B": "Market access",
+      "C": "Climate change",
+      "D": "Labor shortage"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "Which Nigerian government initiative sought to boost the local processing of palm oil?",
+    "options": {
+      "A": "N-Power",
+      "B": "Anchor Borrowers' Programme",
+      "C": "Cocoa Transformation Agenda",
+      "D": "Palm Oil Development Programme"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "What is the key factor that differentiates Nigerian cocoa from other origins in the global market?",
+    "options": {
+      "A": "Color",
+      "B": "Flavor profile",
+      "C": "Size",
+      "D": "Price"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "Which factor significantly contributed to the decline of groundnut production in Nigeria during the late 20th century?",
+    "options": {
+      "A": "Urban migration",
+      "B": "Pest infestation",
+      "C": "Policy changes",
+      "D": "Climate variability"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "Which organization works to improve cocoa farming practices in Nigeria?",
+    "options": {
+      "A": "Cocoa Research Institute of Nigeria",
+      "B": "Nigerian Agricultural Cooperative",
+      "C": "National Palm Oil Association",
+      "D": "Cocoa Exporters Association"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "What percentage of palm oil used in Nigeria is imported?",
+    "options": {
+      "A": "20%",
+      "B": "30%",
+      "C": "50%",
+      "D": "60%"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "Which practice is encouraged among cocoa farmers to enhance sustainability?",
+    "options": {
+      "A": "Monocropping",
+      "B": "Agroforestry",
+      "C": "Chemical fertilizers",
+      "D": "Slash-and-burn farming"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "Which of the following is a method of palm oil extraction used by traditional farmers?",
+    "options": {
+      "A": "Cold pressing",
+      "B": "Saponification",
+      "C": "Steam distillation",
+      "D": "Wet milling"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "What is the most common use of palm kernel oil in Nigeria?",
+    "options": {
+      "A": "Biodiesel",
+      "B": "Soap making",
+      "C": "Cooking",
+      "D": "Lubricant"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "Which government body is responsible for regulating cocoa exports in Nigeria?",
+    "options": {
+      "A": "Nigerian Customs Service",
+      "B": "Federal Ministry of Agriculture",
+      "C": "Nigerian Export Promotion Council",
+      "D": "Cocoa Board of Nigeria"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "Which initiative aims to support smallholder farmers in the palm oil sector in Nigeria?",
+    "options": {
+      "A": "Nigerian Agricultural Insurance Corporation",
+      "B": "Palm Oil Initiative for Nigeria",
+      "C": "Nigeria Growth Enhancement Support Scheme",
+      "D": "National Palm Oil Project"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "What is the main reason for the fluctuation in prices of cocoa on the world market?",
+    "options": {
+      "A": "Global demand",
+      "B": "Political instability",
+      "C": "Currency exchange rates",
+      "D": "Harvest yields"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "Fill in the blank: The main pest affecting cocoa plants is the ________ pod borer.",
+    "options": {
+      "A": "Cocoa",
+      "B": "Palm",
+      "C": "Sugar",
+      "D": "Rice"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "Which part of the cocoa plant is harvested for production?",
+    "options": {
+      "A": "Roots",
+      "B": "Leaves",
+      "C": "Pods",
+      "D": "Branches"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "Cocoa farmers in Nigeria primarily face challenges related to ________.",
+    "options": {
+      "A": "Labor costs",
+      "B": "Access to markets",
+      "C": "Soil fertility",
+      "D": "Crop rotation"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "What is the typical lifespan of a cocoa tree?",
+    "options": {
+      "A": "10 years",
+      "B": "20-30 years",
+      "C": "50 years",
+      "D": "100 years"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "The term 'cash crop' refers to crops grown primarily for what purpose?",
+    "options": {
+      "A": "Food security",
+      "B": "Local consumption",
+      "C": "Export and profit",
+      "D": "Subsistence farming"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "What is the primary by-product of palm oil milling?",
+    "options": {
+      "A": "Palm kernel oil",
+      "B": "Palm wine",
+      "C": "Palm residues",
+      "D": "Palm soap"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "What is a common practice among palm oil producers to enhance yield?",
+    "options": {
+      "A": "Using synthetic fertilizers",
+      "B": "Intercropping with legumes",
+      "C": "Pesticide spraying",
+      "D": "Crop rotation"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "Which is a common disease affecting cocoa plants in Nigeria?",
+    "options": {
+      "A": "Cocoa black pod disease",
+      "B": "Leaf rust",
+      "C": "Root rot",
+      "D": "Powdery mildew"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "What is the key benefit of intercropping in the palm oil sector?",
+    "options": {
+      "A": "Soil improvement",
+      "B": "Increased pest resistance",
+      "C": "Higher yields",
+      "D": "Reduced labor cost"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  },
+  {
+    "question": "Which of the following is a benefit of palm oil production for local communities?",
+    "options": {
+      "A": "Decreased employment",
+      "B": "Increased local income",
+      "C": "Reduced food variety",
+      "D": "Higher import rates"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "economic_policies_and_impact > cash_crop_economy_palm_oil_cocoa_groundnuts"
+  }
+]

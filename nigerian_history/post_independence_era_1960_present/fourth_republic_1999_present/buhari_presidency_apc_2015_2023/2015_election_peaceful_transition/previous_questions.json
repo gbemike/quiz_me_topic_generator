@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What was the role of the National Peace Committee during the 2015 elections?",
+    "options": {
+      "A": "To conduct the elections",
+      "B": "To ensure peaceful conduct",
+      "C": "To verify results",
+      "D": "To monitor media conduct"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > 2015_election_peaceful_transition"
+  },
+  {
+    "question": "Fill in the blank: The 2015 elections marked the first time in Nigeria that an incumbent president was defeated by the opposition in a __________.",
+    "options": {
+      "A": "referendum",
+      "B": "general election",
+      "C": "primary election",
+      "D": "local election"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > 2015_election_peaceful_transition"
+  },
+  {
+    "question": "Which international body monitored the 2015 Nigerian elections?",
+    "options": {
+      "A": "African Union",
+      "B": "United Nations",
+      "C": "ECOWAS",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > 2015_election_peaceful_transition"
+  },
+  {
+    "question": "What was one of the reasons for the peaceful transition after the 2015 elections?",
+    "options": {
+      "A": "Strong military presence",
+      "B": "Political maturity",
+      "C": "Lack of opposition",
+      "D": "International pressure"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > 2015_election_peaceful_transition"
+  },
+  {
+    "question": "Which of the following was a political party in the 2015 elections?",
+    "options": {
+      "A": "Unity Party of Nigeria",
+      "B": "Action Alliance",
+      "C": "Social Democratic Party",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > 2015_election_peaceful_transition"
+  }
+]

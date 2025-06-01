@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Fill in the blank: The First Republic was characterized by a __________ system.",
+    "options": {
+      "A": "Presidential",
+      "B": "Monarchical",
+      "C": "Parliamentary",
+      "D": "Authoritarian"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "first_republic_1960_1966 > parliamentary_system_balewa_pm_azikiwe_president"
+  },
+  {
+    "question": "What was the relationship between Balewa and Azikiwe during the First Republic?",
+    "options": {
+      "A": "Allies",
+      "B": "Rivals",
+      "C": "Family",
+      "D": "No relationship"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > parliamentary_system_balewa_pm_azikiwe_president"
+  },
+  {
+    "question": "What was the main agricultural policy focus during the First Republic?",
+    "options": {
+      "A": "Cash crops",
+      "B": "Subsistence farming",
+      "C": "Industrial agriculture",
+      "D": "Organic farming"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > parliamentary_system_balewa_pm_azikiwe_president"
+  },
+  {
+    "question": "How was the judiciary structured during the First Republic?",
+    "options": {
+      "A": "Centralized",
+      "B": "Regionalized",
+      "C": "Decentralized",
+      "D": "Independent"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > parliamentary_system_balewa_pm_azikiwe_president"
+  },
+  {
+    "question": "Which system replaced the parliamentary system after the First Republic?",
+    "options": {
+      "A": "Presidential system",
+      "B": "Military rule",
+      "C": "Monarchical system",
+      "D": "Confederation"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > parliamentary_system_balewa_pm_azikiwe_president"
+  },
+  {
+    "question": "What major national issue was prominent during Balewa\u2019s administration?",
+    "options": {
+      "A": "Ethnic conflict",
+      "B": "Oil exploration",
+      "C": "Healthcare reform",
+      "D": "Urbanization"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > parliamentary_system_balewa_pm_azikiwe_president"
+  }
+]

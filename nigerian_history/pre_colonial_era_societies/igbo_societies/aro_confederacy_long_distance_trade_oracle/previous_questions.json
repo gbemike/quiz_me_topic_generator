@@ -1,0 +1,230 @@
+[
+  {
+    "question": "Which of the following items was NOT commonly traded by the Aro Confederacy?",
+    "options": {
+      "A": "Yams",
+      "B": "Salt",
+      "C": "Ivory",
+      "D": "Silk"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "igbo_societies > aro_confederacy_long_distance_trade_oracle"
+  },
+  {
+    "question": "Who was the prominent leader associated with the expansion of the Aro trade network?",
+    "options": {
+      "A": "Obi of Onitsha",
+      "B": "Nkwere",
+      "C": "Okwu",
+      "D": "Eze Aro"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "igbo_societies > aro_confederacy_long_distance_trade_oracle"
+  },
+  {
+    "question": "What was a key factor in the success of Aro long-distance trade?",
+    "options": {
+      "A": "Religious beliefs",
+      "B": "Strong military",
+      "C": "Efficient communication",
+      "D": "Geographic location"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "igbo_societies > aro_confederacy_long_distance_trade_oracle"
+  },
+  {
+    "question": "Which natural resource was abundant in Aro territory and significant for trade?",
+    "options": {
+      "A": "Gold",
+      "B": "Cotton",
+      "C": "Palm oil",
+      "D": "Coal"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "igbo_societies > aro_confederacy_long_distance_trade_oracle"
+  },
+  {
+    "question": "What was a common consequence for traders who disobeyed the Aro oracle's guidance?",
+    "options": {
+      "A": "Community support",
+      "B": "Financial loss",
+      "C": "Divine retribution",
+      "D": "Social recognition"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "igbo_societies > aro_confederacy_long_distance_trade_oracle"
+  },
+  {
+    "question": "In trade negotiations, Aro traders often relied on what method to build trust?",
+    "options": {
+      "A": "Contracts",
+      "B": "Gifts",
+      "C": "Promises",
+      "D": "Vows"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > aro_confederacy_long_distance_trade_oracle"
+  },
+  {
+    "question": "What is one unique feature of the Aro Confederacy's trade routes?",
+    "options": {
+      "A": "They avoided rivers",
+      "B": "They were secretive",
+      "C": "They were based on kinship ties",
+      "D": "They changed frequently"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "igbo_societies > aro_confederacy_long_distance_trade_oracle"
+  },
+  {
+    "question": "Which of the following was a primary means of communication among traders in the Aro Confederacy?",
+    "options": {
+      "A": "Pigeon post",
+      "B": "Drumming",
+      "C": "Written letters",
+      "D": "Smoke signals"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > aro_confederacy_long_distance_trade_oracle"
+  },
+  {
+    "question": "What was one of the major exports of the Aro Confederacy in the 19th century?",
+    "options": {
+      "A": "Cocoa",
+      "B": "Rubber",
+      "C": "Palm oil",
+      "D": "Textiles"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "igbo_societies > aro_confederacy_long_distance_trade_oracle"
+  },
+  {
+    "question": "Which traditional practice was integral to the Aro Confederacy's trade rituals?",
+    "options": {
+      "A": "Dancing",
+      "B": "Animal sacrifice",
+      "C": "Offerings",
+      "D": "Cooking feasts"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "igbo_societies > aro_confederacy_long_distance_trade_oracle"
+  },
+  {
+    "question": "What is a common cultural practice of the Aro people related to trade?",
+    "options": {
+      "A": "Worshipping ancestors",
+      "B": "Farming rituals",
+      "C": "Marketplace festivals",
+      "D": "Celebration of harvest"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "igbo_societies > aro_confederacy_long_distance_trade_oracle"
+  },
+  {
+    "question": "Which natural barrier influenced Aro trade routes?",
+    "options": {
+      "A": "Mountains",
+      "B": "Rivers",
+      "C": "Forests",
+      "D": "Deserts"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "igbo_societies > aro_confederacy_long_distance_trade_oracle"
+  },
+  {
+    "question": "What type of currency was often used in Aro trade?",
+    "options": {
+      "A": "Gold coins",
+      "B": "Cowrie shells",
+      "C": "Paper money",
+      "D": "Barter system"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "igbo_societies > aro_confederacy_long_distance_trade_oracle"
+  },
+  {
+    "question": "Which trade partner was essential for palm oil trade with the Aro Confederacy?",
+    "options": {
+      "A": "British merchants",
+      "B": "French traders",
+      "C": "Germans",
+      "D": "Dutch East India Company"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "igbo_societies > aro_confederacy_long_distance_trade_oracle"
+  },
+  {
+    "question": "In the Aro Confederacy, what was the consequence of failing to honor trade agreements?",
+    "options": {
+      "A": "Spiritual penalties",
+      "B": "Community isolation",
+      "C": "Financial losses",
+      "D": "Increased trade opportunities"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "igbo_societies > aro_confederacy_long_distance_trade_oracle"
+  },
+  {
+    "question": "The Aro oracle is primarily consulted for decisions regarding _______. Fill in the blank.",
+    "options": {
+      "A": "Farming",
+      "B": "Family matters",
+      "C": "Trade transactions",
+      "D": "Health issues"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "igbo_societies > aro_confederacy_long_distance_trade_oracle"
+  },
+  {
+    "question": "In the 19th century, the Aro Confederacy was a key player in the trade of which agricultural product?",
+    "options": {
+      "A": "Rice",
+      "B": "Cocoa",
+      "C": "Cassava",
+      "D": "Palm oil"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "igbo_societies > aro_confederacy_long_distance_trade_oracle"
+  },
+  {
+    "question": "Which form of governance is described as decentralized in the context of the Aro Confederacy?",
+    "options": {
+      "A": "Chiefdom",
+      "B": "Monarchy",
+      "C": "Oligarchy",
+      "D": "Democracy"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "igbo_societies > aro_confederacy_long_distance_trade_oracle"
+  },
+  {
+    "question": "What were traders in the Aro Confederacy expected to do before starting their journey?",
+    "options": {
+      "A": "Make sacrifices",
+      "B": "Consult the oracle",
+      "C": "Gather supplies",
+      "D": "Find partners"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "igbo_societies > aro_confederacy_long_distance_trade_oracle"
+  }
+]

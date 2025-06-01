@@ -1,0 +1,50 @@
+[
+  {
+    "question": "When was the 1979 Constitution formally inaugurated?",
+    "options": {
+      "A": "October 1, 1979",
+      "B": "January 15, 1979",
+      "C": "March 29, 1979",
+      "D": "December 31, 1978"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "murtala_obasanjo_regime_1975_1979 > transition_to_civilian_rule_1979_constitution"
+  },
+  {
+    "question": "Under the 1979 Constitution, what was the maximum age for presidential candidates?",
+    "options": {
+      "A": "40 years",
+      "B": "45 years",
+      "C": "50 years",
+      "D": "55 years"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "murtala_obasanjo_regime_1975_1979 > transition_to_civilian_rule_1979_constitution"
+  },
+  {
+    "question": "Which constitutional body was created to facilitate the transition to democracy?",
+    "options": {
+      "A": "National Assembly",
+      "B": "Constitutional Conference",
+      "C": "Electoral Commission",
+      "D": "Judicial Committee"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "murtala_obasanjo_regime_1975_1979 > transition_to_civilian_rule_1979_constitution"
+  },
+  {
+    "question": "Under the 1979 Constitution, how long was the term for elected senators?",
+    "options": {
+      "A": "2 years",
+      "B": "4 years",
+      "C": "6 years",
+      "D": "8 years"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "murtala_obasanjo_regime_1975_1979 > transition_to_civilian_rule_1979_constitution"
+  }
+]

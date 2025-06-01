@@ -1,0 +1,110 @@
+[
+  {
+    "question": "Which app was launched in 2019 to report corruption cases anonymously?",
+    "options": {
+      "A": "Corruption Alert",
+      "B": "Whistleblower App",
+      "C": "Nigeria Alert",
+      "D": "Integrity App"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > economic_recessions_anti_corruption_efforts"
+  },
+  {
+    "question": "What was the primary aim of the whistleblower policy in Nigeria?",
+    "options": {
+      "A": "Tax collection",
+      "B": "Military recruitment",
+      "C": "Corruption reporting",
+      "D": "Public health"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "buhari_presidency_apc_2015_2023 > economic_recessions_anti_corruption_efforts"
+  },
+  {
+    "question": "Which country did Nigeria partner with for an asset recovery program under Buhari?",
+    "options": {
+      "A": "United Kingdom",
+      "B": "United States",
+      "C": "Canada",
+      "D": "Australia"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > economic_recessions_anti_corruption_efforts"
+  },
+  {
+    "question": "What is the full meaning of EFCC?",
+    "options": {
+      "A": "Economic and Financial Crime Commission",
+      "B": "Economic Federal Crime Commission",
+      "C": "Economic and Federal Commission of Corruption",
+      "D": "Economic Fraud and Corruption Commission"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "buhari_presidency_apc_2015_2023 > economic_recessions_anti_corruption_efforts"
+  },
+  {
+    "question": "Which international conference did Nigeria host focusing on anti-corruption in 2019?",
+    "options": {
+      "A": "World Economic Forum",
+      "B": "United Nations Corruption Summit",
+      "C": "International Anti-Corruption Conference",
+      "D": "African Union Summit"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "buhari_presidency_apc_2015_2023 > economic_recessions_anti_corruption_efforts"
+  },
+  {
+    "question": "What was one major initiative aimed at enhancing transparency in government spending?",
+    "options": {
+      "A": "Budget Monitoring Committee",
+      "B": "Open Government Partnership",
+      "C": "Public Expenditure and Financial Accountability",
+      "D": "Transparency International Initiative"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > economic_recessions_anti_corruption_efforts"
+  },
+  {
+    "question": "What strategy was employed to improve Nigeria's credit rating during the Buhari administration?",
+    "options": {
+      "A": "Increase in foreign loans",
+      "B": "Fiscal discipline",
+      "C": "Debt forgiveness",
+      "D": "Capital outflow control"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > economic_recessions_anti_corruption_efforts"
+  },
+  {
+    "question": "Which of these nations did Nigeria receive substantial loans from to support infrastructure development during Buhari's term?",
+    "options": {
+      "A": "China",
+      "B": "United Kingdom",
+      "C": "United States",
+      "D": "India"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "buhari_presidency_apc_2015_2023 > economic_recessions_anti_corruption_efforts"
+  },
+  {
+    "question": "What does the Nigerian government emphasize as the core focus of its anti-corruption strategy?",
+    "options": {
+      "A": "Legislation",
+      "B": "Public awareness",
+      "C": "Institutional reform",
+      "D": "Judicial independence"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > economic_recessions_anti_corruption_efforts"
+  }
+]

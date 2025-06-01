@@ -1,0 +1,218 @@
+[
+  {
+    "question": "Which Nigerian president was in office when the Boko Haram insurgency escalated significantly?",
+    "options": {
+      "A": "Goodluck Jonathan",
+      "B": "Muhammadu Buhari",
+      "C": "Umaru Musa Yar'Adua",
+      "D": "Olusegun Obasanjo"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history > democratic_era"
+  },
+  {
+    "question": "The concept of 'State of Origin' in Nigeria is primarily associated with which demographic aspect?",
+    "options": {
+      "A": "Ethnicity",
+      "B": "Religion",
+      "C": "Language",
+      "D": "Education"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "nigerian_history > democratic_era"
+  },
+  {
+    "question": "Which Nigerian leader was known for the slogan 'I Have No Shoes'?",
+    "options": {
+      "A": "Goodluck Jonathan",
+      "B": "Umaru Musa Yar'Adua",
+      "C": "Olusegun Obasanjo",
+      "D": "Muhammadu Buhari"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history > democratic_era"
+  },
+  {
+    "question": "The Independent National Electoral Commission (INEC) was established to oversee what aspect of Nigerian democracy?",
+    "options": {
+      "A": "Judicial matters",
+      "B": "Election management",
+      "C": "Civil service reforms",
+      "D": "Security operations"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "nigerian_history > democratic_era"
+  },
+  {
+    "question": "Which Nigerian political figure is known for the 'not too young to run' movement?",
+    "options": {
+      "A": "Jibrin Abdulmumin",
+      "B": "Sadiya Umar Farouq",
+      "C": "Jide Damazio",
+      "D": "Omojuwa Japheth"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history > democratic_era"
+  },
+  {
+    "question": "Which significant legislation was passed in 2010 to enhance electoral processes in Nigeria?",
+    "options": {
+      "A": "Electoral Act",
+      "B": "Freedom of Information Act",
+      "C": "Public Procurement Act",
+      "D": "National Health Act"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history > democratic_era"
+  },
+  {
+    "question": "Which crisis in 2011 led to widespread violence in Northern Nigeria?",
+    "options": {
+      "A": "Boko Haram Insurgency",
+      "B": "Fuel Subsidy Protest",
+      "C": "2011 Elections Violence",
+      "D": "Niger Delta Crisis"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history > democratic_era"
+  },
+  {
+    "question": "What term is used to describe the practice of political godfathers in Nigeria during the democratic era?",
+    "options": {
+      "A": "Patronage",
+      "B": "Feudalism",
+      "C": "Clientelism",
+      "D": "Machismo"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history > democratic_era"
+  },
+  {
+    "question": "Which Nigerian city was the birthplace of the 'Get Involved' campaign aimed at increasing youth participation in politics?",
+    "options": {
+      "A": "Abuja",
+      "B": "Lagos",
+      "C": "Ibadan",
+      "D": "Port Harcourt"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history > democratic_era"
+  },
+  {
+    "question": "The term 'zoning' in Nigerian politics refers to what aspect of political representation?",
+    "options": {
+      "A": "Territorial distribution",
+      "B": "Party leadership",
+      "C": "Resource allocation",
+      "D": "Ethnic balancing"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "nigerian_history > democratic_era"
+  },
+  {
+    "question": "Which Nigerian constitutional amendment was aimed at improving the electoral process by preventing double nominations?",
+    "options": {
+      "A": "Fourth Amendment",
+      "B": "Fifth Amendment",
+      "C": "Sixth Amendment",
+      "D": "Seventh Amendment"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nigerian_history > democratic_era"
+  },
+  {
+    "question": "Which Nigerian politician famously declared 'The future is now'?",
+    "options": {
+      "A": "Atiku Abubakar",
+      "B": "Bola Ahmed Tinubu",
+      "C": "Peter Obi",
+      "D": "Nyesom Wike"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nigerian_history > democratic_era"
+  },
+  {
+    "question": "What was the core issue that led to the formation of the Southern Governors' Forum in 2021?",
+    "options": {
+      "A": "Resource control",
+      "B": "Electoral reforms",
+      "C": "Security threats",
+      "D": "Economic development"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history > democratic_era"
+  },
+  {
+    "question": "What was the main focus of the 2005 National Political Reform Conference?",
+    "options": {
+      "A": "Constitutional amendments",
+      "B": "Electoral reforms",
+      "C": "Resource allocation",
+      "D": "Security policies"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history > democratic_era"
+  },
+  {
+    "question": "The 'Not Too Young to Run' bill was aimed at reducing what?",
+    "options": {
+      "A": "Youth representation age",
+      "B": "Political party registration fees",
+      "C": "Voting age",
+      "D": "Election cycle duration"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history > democratic_era"
+  },
+  {
+    "question": "Which key issue did the 2019 general elections in Nigeria focus on?",
+    "options": {
+      "A": "Corruption",
+      "B": "Economic reforms",
+      "C": "Boko Haram insurgency",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history > democratic_era"
+  },
+  {
+    "question": "What was a key feature of the 2019 Nigerian elections?",
+    "options": {
+      "A": "Introduction of electronic voting",
+      "B": "High levels of violence",
+      "C": "Record voter turnout",
+      "D": "No election disputes"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history > democratic_era"
+  },
+  {
+    "question": "What does the abbreviation INEC stand for in Nigeria?",
+    "options": {
+      "A": "Independent National Electoral Commission",
+      "B": "Internal National Election Committee",
+      "C": "Informed National Election Council",
+      "D": "Independent National Election Commission"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "nigerian_history > democratic_era"
+  }
+]

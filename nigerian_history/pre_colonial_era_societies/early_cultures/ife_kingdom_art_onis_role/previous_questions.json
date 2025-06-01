@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Which creature is often depicted in Ife art symbolizing strength and power?",
+    "options": {
+      "A": "Lion",
+      "B": "Elephant",
+      "C": "Eagle",
+      "D": "Snake"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "early_cultures > ife_kingdom_art_onis_role"
+  },
+  {
+    "question": "What does the term 'Ife' translate to in Yoruba?",
+    "options": {
+      "A": "Love",
+      "B": "City",
+      "C": "Place of peace",
+      "D": "Spiritual home"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "early_cultures > ife_kingdom_art_onis_role"
+  }
+]

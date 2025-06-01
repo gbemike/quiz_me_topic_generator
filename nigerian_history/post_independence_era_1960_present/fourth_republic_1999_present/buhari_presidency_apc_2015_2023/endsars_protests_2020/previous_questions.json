@@ -1,0 +1,38 @@
+[
+  {
+    "question": "How did the Nigerian Army describe its involvement in the Lekki shooting?",
+    "options": {
+      "A": "Defensive action",
+      "B": "Peacekeeping mission",
+      "C": "Civil unrest management",
+      "D": "No involvement"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > endsars_protests_2020"
+  },
+  {
+    "question": "What key demand emerged regarding a judicial panel following the protests?",
+    "options": {
+      "A": "To disband the police force",
+      "B": "To investigate police brutality",
+      "C": "To fund the police better",
+      "D": "To create a new police unit"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > endsars_protests_2020"
+  },
+  {
+    "question": "What was a key demand related to police accountability that emerged during the protests?",
+    "options": {
+      "A": "Establish a police fund",
+      "B": "Increase police salaries",
+      "C": "Prosecute officers involved in brutality",
+      "D": "Recruit more officers"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "buhari_presidency_apc_2015_2023 > endsars_protests_2020"
+  }
+]

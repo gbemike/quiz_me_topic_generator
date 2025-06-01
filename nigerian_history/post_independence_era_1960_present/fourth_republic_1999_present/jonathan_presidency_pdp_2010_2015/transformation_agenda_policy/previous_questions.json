@@ -1,0 +1,254 @@
+[
+  {
+    "question": "Which international organization supported the Transformation Agenda through funding and expertise?",
+    "options": {
+      "A": "African Union",
+      "B": "World Bank",
+      "C": "UNICEF",
+      "D": "NATO"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "What infrastructure project was prioritized under the Transformation Agenda?",
+    "options": {
+      "A": "Second Niger Bridge",
+      "B": "Lagos-Ibadan Expressway",
+      "C": "Ajao Estate Flyover",
+      "D": "Niger Delta Rail"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "What role did the National Economic Management Team play in the Transformation Agenda?",
+    "options": {
+      "A": "Policy formulation and implementation",
+      "B": "Budget approval",
+      "C": "Election supervision",
+      "D": "Foreign relations management"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "What was the significance of the national railway project under the Transformation Agenda?",
+    "options": {
+      "A": "Tourism development",
+      "B": "Economic diversification",
+      "C": "Job creation",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "Which of the following was a key feature of the Transformation Agenda concerning public service?",
+    "options": {
+      "A": "Increase in civil service wages",
+      "B": "Merit-based recruitment",
+      "C": "Reduction in the number of agencies",
+      "D": "Decentralization of services"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "What was the approach to youth engagement in the Transformation Agenda?",
+    "options": {
+      "A": "Non-participatory",
+      "B": "Community-driven",
+      "C": "Top-down",
+      "D": "Exclusively political"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "Which legislation was passed to support the Transformation Agenda\u2019s goals?",
+    "options": {
+      "A": "The Local Content Act",
+      "B": "The Public Procurement Act",
+      "C": "The Petroleum Industry Bill",
+      "D": "The National Housing Policy"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "Under the Transformation Agenda, which sector experienced significant reforms regarding public-private partnerships?",
+    "options": {
+      "A": "Healthcare",
+      "B": "Education",
+      "C": "Agriculture",
+      "D": "Transport"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "Which agency was established to oversee the transformation of the power sector?",
+    "options": {
+      "A": "Nigerian Electricity Regulatory Commission",
+      "B": "Power Sector Reform Unit",
+      "C": "National Power Authority",
+      "D": "Electricity Distribution Agency"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "Which initiative was aimed at enhancing the quality of healthcare delivery in Nigeria?",
+    "options": {
+      "A": "Health Sector Reform Plan",
+      "B": "National Health Insurance Scheme",
+      "C": "Health for All Program",
+      "D": "Universal Health Coverage Initiative"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "Which program aimed to address the issue of maternal and child mortality in Nigeria?",
+    "options": {
+      "A": "Safe Motherhood Initiative",
+      "B": "National Health Reform Programme",
+      "C": "Maternal Health Action Plan",
+      "D": "Child Health Care Programme"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "Which year did Nigeria experience an increase in the minimum wage as part of the Transformation Agenda?",
+    "options": {
+      "A": "2010",
+      "B": "2011",
+      "C": "2012",
+      "D": "2014"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "What sector did the National Housing Policy under the Transformation Agenda primarily focus on?",
+    "options": {
+      "A": "Affordable housing",
+      "B": "Luxury apartments",
+      "C": "Commercial real estate",
+      "D": "Rural housing"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "Which of these policies was introduced to enhance the ICT sector?",
+    "options": {
+      "A": "Broadband Connectivity Initiative",
+      "B": "E-Government Policy",
+      "C": "Digital Nigeria Programme",
+      "D": "Tech Start-up Fund"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "Which of the following was NOT part of the Transformation Agenda\u2019s goals for the education sector?",
+    "options": {
+      "A": "Infrastructure development",
+      "B": "Teacher training programs",
+      "C": "Private school expansion",
+      "D": "Curriculum reform"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "Under the Transformation Agenda, which initiative was created to support small and medium enterprises?",
+    "options": {
+      "A": "SME Development Fund",
+      "B": "Youth Enterprise with Innovation in Nigeria",
+      "C": "Small Business Grant Scheme",
+      "D": "Entrepreneurship Development Programme"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "What innovation program was launched to encourage youth participation in technology?",
+    "options": {
+      "A": "Nigerian Innovation Fund",
+      "B": "Youth Tech Challenge",
+      "C": "Tech4Youth",
+      "D": "Digital Nigeria Initiative"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "Which key feature regarding education was emphasized under the Transformation Agenda?",
+    "options": {
+      "A": "Private sector involvement",
+      "B": "Standardized testing",
+      "C": "Free tertiary education",
+      "D": "Expansion of vocational training"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "What significant milestone was achieved in the power sector under the Transformation Agenda?",
+    "options": {
+      "A": "Deregulation of the sector",
+      "B": "Privatization of power distribution companies",
+      "C": "Introduction of renewable energy sources",
+      "D": "Expansion of hydroelectric facilities"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "What approach was taken to enhance public sector accountability under the Transformation Agenda?",
+    "options": {
+      "A": "Increased oversight",
+      "B": "Whistleblower protection laws",
+      "C": "Performance-based evaluations",
+      "D": "Public audits"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  },
+  {
+    "question": "Under the Transformation Agenda, which tax reform aimed to enhance revenue for the government?",
+    "options": {
+      "A": "Value Added Tax increase",
+      "B": "Corporate tax reduction",
+      "C": "Personal income tax reform",
+      "D": "Introduction of luxury tax"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "jonathan_presidency_pdp_2010_2015 > transformation_agenda_policy"
+  }
+]

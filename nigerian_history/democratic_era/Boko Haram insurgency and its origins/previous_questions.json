@@ -1,0 +1,446 @@
+[
+  {
+    "question": "Who was the leader of Boko Haram during its rise to prominence?",
+    "options": {
+      "A": "Abubakar Shekau",
+      "B": "Mohammed Yusuf",
+      "C": "Ali Modu Sheriff",
+      "D": "Aminu Sadiq Ogwuche"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "Boko Haram initially opposed which Western concepts?",
+    "options": {
+      "A": "Education",
+      "B": "Democracy",
+      "C": "Capitalism",
+      "D": "Religion"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "What does 'Boko Haram' roughly translate to in English?",
+    "options": {
+      "A": "Western education is forbidden",
+      "B": "No to democracy",
+      "C": "Islam is peace",
+      "D": "Reject Western influence"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "In which Nigerian state did Boko Haram first gain significant notoriety?",
+    "options": {
+      "A": "Adamawa",
+      "B": "Yobe",
+      "C": "Borno",
+      "D": "Gombe"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "What was the main goal of Boko Haram when it was founded?",
+    "options": {
+      "A": "Establish a theocratic state",
+      "B": "Promote education",
+      "C": "End poverty",
+      "D": "Support democracy"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "Which significant event marked the beginning of violent attacks by Boko Haram in 2009?",
+    "options": {
+      "A": "The burning of schools",
+      "B": "The arrest of Mohammed Yusuf",
+      "C": "The bombing of a market",
+      "D": "The attack on a police station"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "Which group has been most affected by Boko Haram's violence?",
+    "options": {
+      "A": "Farmers",
+      "B": "Teachers",
+      "C": "Schoolchildren",
+      "D": "Doctors"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "What international response was prompted by the Chibok kidnapping?",
+    "options": {
+      "A": "Economic sanctions",
+      "B": "Global protests",
+      "C": "Military intervention",
+      "D": "Diplomatic negotiations"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "What notable tactic does Boko Haram frequently employ in its attacks?",
+    "options": {
+      "A": "Cyber warfare",
+      "B": "Suicide bombings",
+      "C": "Air strikes",
+      "D": "Naval blockades"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "Which neighboring country has been heavily involved in combating Boko Haram?",
+    "options": {
+      "A": "Ghana",
+      "B": "Niger",
+      "C": "Cameroon",
+      "D": "Benin"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "In 2015, which organization was formed to combat the Boko Haram insurgency alongside Nigeria?",
+    "options": {
+      "A": "ECOWAS",
+      "B": "AU",
+      "C": "Multinational Joint Task Force",
+      "D": "NATO"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "What type of governance does Boko Haram advocate for?",
+    "options": {
+      "A": "Democratic governance",
+      "B": "Military dictatorship",
+      "C": "Islamic caliphate",
+      "D": "Socialism"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "Which of the following is a common target of Boko Haram attacks?",
+    "options": {
+      "A": "Bank branches",
+      "B": "Police stations",
+      "C": "Schools",
+      "D": "Airports"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "What has been the impact of Boko Haram on education in northern Nigeria?",
+    "options": {
+      "A": "Increase in schools",
+      "B": "Closure of many schools",
+      "C": "Improved literacy rates",
+      "D": "More foreign investment in schools"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "Who succeeded Mohammed Yusuf as the leader of Boko Haram after his death?",
+    "options": {
+      "A": "Abubakar Shekau",
+      "B": "Ali Modu Sheriff",
+      "C": "Boko Haram Abu Ghaith",
+      "D": "Abdulaziz Dole"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "Which ideology primarily influences Boko Haram's actions?",
+    "options": {
+      "A": "Marxism",
+      "B": "Salafism",
+      "C": "Liberalism",
+      "D": "Socialism"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "Boko Haram has been responsible for the deaths of approximately how many people since its inception?",
+    "options": {
+      "A": "10,000",
+      "B": "20,000",
+      "C": "30,000",
+      "D": "50,000"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "Which Nigerian military operation was launched specifically to target Boko Haram?",
+    "options": {
+      "A": "Operation Lafiya Dole",
+      "B": "Operation Python Dance",
+      "C": "Operation Crocodile Smile",
+      "D": "Operation Restore Order"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "What term is often used to describe the state of constant violence in northeastern Nigeria?",
+    "options": {
+      "A": "Insurgency",
+      "B": "Rebellion",
+      "C": "Civil war",
+      "D": "Occupation"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "In what year did Boko Haram declare a caliphate in parts of northeastern Nigeria?",
+    "options": {
+      "A": "2013",
+      "B": "2014",
+      "C": "2015",
+      "D": "2016"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "What is the estimated number of internally displaced persons due to the Boko Haram conflict?",
+    "options": {
+      "A": "500,000",
+      "B": "1 million",
+      "C": "2 million",
+      "D": "3 million"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "Which organization has been instrumental in rescuing some of the Chibok girls?",
+    "options": {
+      "A": "Red Cross",
+      "B": "UNICEF",
+      "C": "Amnesty International",
+      "D": "Nigerian military"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "What has been one of the major effects of Boko Haram's actions on local economies?",
+    "options": {
+      "A": "Economic growth",
+      "B": "Increased foreign investment",
+      "C": "Destruction of livelihoods",
+      "D": "Boosted agriculture"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "Which group has allied with Boko Haram for various attacks in the region?",
+    "options": {
+      "A": "Al-Qaeda",
+      "B": "ISIS",
+      "C": "MEND",
+      "D": "Niger Delta Avengers"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "What major online campaign aimed to raise awareness about the Chibok kidnappings?",
+    "options": {
+      "A": "#BringBackOurGirls",
+      "B": "#SaveTheChildren",
+      "C": "#StopBokoHaram",
+      "D": "#EndViolence"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "The government of Nigeria has often faced criticism for its handling of which aspect of the Boko Haram crisis?",
+    "options": {
+      "A": "Communication",
+      "B": "Military funding",
+      "C": "Human rights abuses",
+      "D": "Education policy"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "Which Nigerian city was the site of a deadly Boko Haram bombing in 2015?",
+    "options": {
+      "A": "Abuja",
+      "B": "Lagos",
+      "C": "Yola",
+      "D": "Kano"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "What is a common theme in Boko Haram's propaganda?",
+    "options": {
+      "A": "Westernization",
+      "B": "National unity",
+      "C": "Jihad against infidels",
+      "D": "Democracy promotion"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "What type of attacks has Boko Haram been known for in urban areas?",
+    "options": {
+      "A": "Cyber attacks",
+      "B": "Drone strikes",
+      "C": "Market bombings",
+      "D": "Naval assaults"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "In which year did Boko Haram officially change its name to 'Jama'atu Ahlis Sunna Lidda'awati wal-Jihad'?",
+    "options": {
+      "A": "2009",
+      "B": "2010",
+      "C": "2011",
+      "D": "2012"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "What is the term used for the community engagement programs aimed at countering Boko Haram's influence?",
+    "options": {
+      "A": "Counter-radicalization",
+      "B": "Reintegration initiatives",
+      "C": "Community policing",
+      "D": "Development programs"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "Which terrorist group did Boko Haram reportedly collaborate with in the Lake Chad region?",
+    "options": {
+      "A": "Al-Qaeda",
+      "B": "ISIS",
+      "C": "Al-Shabaab",
+      "D": "Ansaru"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "What does the term 'Jama'atu Ahlis Sunna Lidda'awati wal-Jihad' mean in English?",
+    "options": {
+      "A": "Group of people calling for peace",
+      "B": "Group of the followers of the Prophet's teachings",
+      "C": "Group of people promoting education",
+      "D": "Group of the people who call for jihad"
+    },
+    "answer": "D",
+    "difficulty": "expert",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "What is one of the major challenges faced by the Nigerian military in combating Boko Haram?",
+    "options": {
+      "A": "Poor equipment",
+      "B": "High troop morale",
+      "C": "Public support",
+      "D": "Access to international aid"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "What is one of the primary reasons for the international community's concern over Boko Haram?",
+    "options": {
+      "A": "Cultural heritage",
+      "B": "Global terrorism",
+      "C": "Economic policies",
+      "D": "Religious practices"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "What was a common reaction among communities facing Boko Haram attacks?",
+    "options": {
+      "A": "Unity and resilience",
+      "B": "Increased migration",
+      "C": "Political activism",
+      "D": "Community celebrations"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  },
+  {
+    "question": "What role has the media played in shaping the perception of Boko Haram's activities?",
+    "options": {
+      "A": "Promoting positive stories",
+      "B": "Sensationalizing violence",
+      "C": "Ignoring the conflict",
+      "D": "Reporting only government narratives"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Boko Haram insurgency and its origins"
+  }
+]

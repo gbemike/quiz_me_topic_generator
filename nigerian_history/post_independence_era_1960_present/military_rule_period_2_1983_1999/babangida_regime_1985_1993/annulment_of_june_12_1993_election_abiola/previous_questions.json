@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What event is often referred to as the 'June 12 crisis'?",
+    "options": {
+      "A": "The military coup of 1985",
+      "B": "The annulment of the 1993 elections",
+      "C": "The discovery of oil in Nigeria",
+      "D": "The Biafra War"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "babangida_regime_1985_1993 > annulment_of_june_12_1993_election_abiola"
+  },
+  {
+    "question": "What was the outcome for Moshood Abiola after the annulment?",
+    "options": {
+      "A": "He became President",
+      "B": "He went into exile",
+      "C": "He was imprisoned",
+      "D": "He was assassinated"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "babangida_regime_1985_1993 > annulment_of_june_12_1993_election_abiola"
+  },
+  {
+    "question": "In which Nigerian city was Moshood Abiola's house attacked in 1994?",
+    "options": {
+      "A": "Lagos",
+      "B": "Abuja",
+      "C": "Ibadan",
+      "D": "Kano"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "babangida_regime_1985_1993 > annulment_of_june_12_1993_election_abiola"
+  }
+]

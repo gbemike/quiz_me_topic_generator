@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Which of the following was NOT one of the components of the Seven Point Agenda?",
+    "options": {
+      "A": "Power and Energy",
+      "B": "Education",
+      "C": "Agriculture",
+      "D": "Transportation"
+    },
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "yaradua_presidency_pdp_2007_2010 > seven_point_agenda_rule_of_law"
+  },
+  {
+    "question": "What was the primary goal of the power sector reform under Yar'Adua?",
+    "options": {
+      "A": "To privatize everything",
+      "B": "To increase efficiency",
+      "C": "To nationalize assets",
+      "D": "To reduce prices"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "yaradua_presidency_pdp_2007_2010 > seven_point_agenda_rule_of_law"
+  },
+  {
+    "question": "Which economic body was established to oversee the implementation of the Seven Point Agenda?",
+    "options": {
+      "A": "Niger Delta Development Commission",
+      "B": "National Economic Council",
+      "C": "Economic and Financial Crimes Commission",
+      "D": "National Planning Commission"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "yaradua_presidency_pdp_2007_2010 > seven_point_agenda_rule_of_law"
+  },
+  {
+    "question": "Fill in the blank: The __________ was crucial in implementing the Seven Point Agenda.",
+    "options": {
+      "A": "National Assembly",
+      "B": "Judiciary",
+      "C": "Civil Service",
+      "D": "Private Sector"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "yaradua_presidency_pdp_2007_2010 > seven_point_agenda_rule_of_law"
+  },
+  {
+    "question": "Which of the following global indices improved during Yar'Adua's presidency?",
+    "options": {
+      "A": "Corruption Index",
+      "B": "Human Development Index",
+      "C": "Freedom Index",
+      "D": "Economic Growth Index"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "yaradua_presidency_pdp_2007_2010 > seven_point_agenda_rule_of_law"
+  },
+  {
+    "question": "What was the objective behind the Nigerian Local Content Act passed during Yar'Adua's presidency?",
+    "options": {
+      "A": "To regulate foreign investments",
+      "B": "To promote local businesses",
+      "C": "To limit exports",
+      "D": "To control prices"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "yaradua_presidency_pdp_2007_2010 > seven_point_agenda_rule_of_law"
+  }
+]

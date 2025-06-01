@@ -1,0 +1,50 @@
+[
+  {
+    "question": "In what year did the Nigerian government sign a peace deal with MEND?",
+    "options": {
+      "A": "2004",
+      "B": "2005",
+      "C": "2006",
+      "D": "2007"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > niger_delta_conflict_resource_control"
+  },
+  {
+    "question": "Who was the Minister of the Federal Capital Territory (FCT) during Obasanjo's presidency who often addressed Niger Delta issues?",
+    "options": {
+      "A": "Nasir el-Rufai",
+      "B": "Bola Ahmed Tinubu",
+      "C": "Kayode Fayemi",
+      "D": "Jonathan Goodluck"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > niger_delta_conflict_resource_control"
+  },
+  {
+    "question": "Fill in the blank: Many youths in the Niger Delta turned to ______ as a form of protest against government neglect.",
+    "options": {
+      "A": "Violence",
+      "B": "Education",
+      "C": "Politics",
+      "D": "Business"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > niger_delta_conflict_resource_control"
+  },
+  {
+    "question": "What role did the military play in the Niger Delta during Obasanjo's administration?",
+    "options": {
+      "A": "Peacekeeping",
+      "B": "Civilian protection",
+      "C": "Conflict escalation",
+      "D": "Resource management"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > niger_delta_conflict_resource_control"
+  }
+]

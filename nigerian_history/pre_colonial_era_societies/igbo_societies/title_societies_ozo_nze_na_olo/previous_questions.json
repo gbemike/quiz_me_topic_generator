@@ -1,0 +1,362 @@
+[
+  {
+    "question": "Which significant role do members of the Ozo society typically play in their communities?",
+    "options": {
+      "A": "Farmers",
+      "B": "Judges",
+      "C": "Teachers",
+      "D": "Warriors"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "True or False: The Nze title is considered a higher rank than the Ozo title.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Depends on the clan",
+      "D": "Only among the youth"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "What is the primary qualification for an individual to be initiated into the Ozo title?",
+    "options": {
+      "A": "Wealth",
+      "B": "Age",
+      "C": "Family lineage",
+      "D": "Education"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "In the context of the Ozo title, what does 'Ozo na Olo' mean?",
+    "options": {
+      "A": "Wealth and power",
+      "B": "Honor and sacrifice",
+      "C": "Title and honor",
+      "D": "Respect and authority"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "Which of the following rituals is typically involved in the Ozo title initiation?",
+    "options": {
+      "A": "Animal sacrifice",
+      "B": "Dancing",
+      "C": "Feasting",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "As part of the Ozo society, members are expected to uphold __________ in their dealings.",
+    "options": {
+      "A": "Transparency",
+      "B": "Integrity",
+      "C": "Generosity",
+      "D": "Conflict"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "Who is primarily responsible for conferring the Ozo title?",
+    "options": {
+      "A": "The King",
+      "B": "The elders",
+      "C": "The community",
+      "D": "The priest"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "The Ozo title is often associated with which of these qualities?",
+    "options": {
+      "A": "Generosity",
+      "B": "Obedience",
+      "C": "Resilience",
+      "D": "Authority"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "Which item is commonly used as a symbol during the Ozo title ceremonies?",
+    "options": {
+      "A": "Cowrie shells",
+      "B": "Palm fronds",
+      "C": "A staff",
+      "D": "Beads"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "What does being an Ozo titleholder allow one to participate in during community events?",
+    "options": {
+      "A": "Only farming",
+      "B": "Decision-making processes",
+      "C": "Religious practices",
+      "D": "Trade negotiations"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "The Nze title is typically conferred after how many years of being an Ozo?",
+    "options": {
+      "A": "3 years",
+      "B": "5 years",
+      "C": "10 years",
+      "D": "It varies by community"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "Which of these is NOT a reason for someone to aspire to the Ozo title?",
+    "options": {
+      "A": "Social status",
+      "B": "Wealth accumulation",
+      "C": "Cultural duty",
+      "D": "Religious belief"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "The process of becoming an Ozo involves several stages including which of the following?",
+    "options": {
+      "A": "Apprenticeship",
+      "B": "Community service",
+      "C": "Rituals",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "An Ozo titleholder is expected to contribute to the community by __________.",
+    "options": {
+      "A": "Fighting wars",
+      "B": "Providing financial support",
+      "C": "Offering counsel",
+      "D": "All of the above"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "What is an important value instilled in Ozo titleholders?",
+    "options": {
+      "A": "Selfishness",
+      "B": "Leadership by example",
+      "C": "Isolation",
+      "D": "Competition"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "True or False: The Ozo title can be inherited by birthright.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Only in certain clans",
+      "D": "Only for men"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "Which of the following is a common misconception about the Ozo title?",
+    "options": {
+      "A": "It is only for men",
+      "B": "It requires wealth",
+      "C": "It has no spiritual significance",
+      "D": "It is a modern invention"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "What kind of sacrifices are typically made during an Ozo initiation ceremony?",
+    "options": {
+      "A": "Vegetarian offerings",
+      "B": "Animal sacrifices",
+      "C": "No sacrifices are made",
+      "D": "Only monetary donations"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "Which historical event significantly impacted the traditional Ozo title system?",
+    "options": {
+      "A": "Nigerian Civil War",
+      "B": "Colonialism",
+      "C": "Independence",
+      "D": "Urban migration"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "The Ozo society promotes the concept of __________ among its members.",
+    "options": {
+      "A": "Individualism",
+      "B": "Collectivism",
+      "C": "Isolationism",
+      "D": "Materialism"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "Which term refers to the ritual cleansing performed before an Ozo titleholder can participate in community affairs?",
+    "options": {
+      "A": "Ibo",
+      "B": "Nzu",
+      "C": "Ichafu",
+      "D": "Okwu"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "The titleholder's duties include overseeing __________ in the community.",
+    "options": {
+      "A": "Agriculture",
+      "B": "Education",
+      "C": "Justice",
+      "D": "Trade"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "Which of the following is a significant cultural event related to the Ozo title?",
+    "options": {
+      "A": "New Yam Festival",
+      "B": "Easter Celebration",
+      "C": "Christmas",
+      "D": "Labor Day"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "Which of these is typically NOT a duty of an Ozo titleholder?",
+    "options": {
+      "A": "Conflict mediation",
+      "B": "Teaching children",
+      "C": "Hosting ceremonies",
+      "D": "Collecting taxes"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "In which way does the Ozo title promote social cohesion?",
+    "options": {
+      "A": "Through exclusion",
+      "B": "By fostering rivalry",
+      "C": "Encouraging community service",
+      "D": "Limiting participation"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "Which of these might be considered a ceremonial food during an Ozo initiation?",
+    "options": {
+      "A": "Fried rice",
+      "B": "Yam porridge",
+      "C": "Beans",
+      "D": "Pounded yam"
+    },
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "What is a common attribute of an Ozo titleholder's character?",
+    "options": {
+      "A": "Greed",
+      "B": "Humility",
+      "C": "Arrogance",
+      "D": "Indifference"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "During which festival is the Ozo title celebrated?",
+    "options": {
+      "A": "Easter",
+      "B": "New Yam Festival",
+      "C": "Eid al-Fitr",
+      "D": "Christmas"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "The Ozo title is often passed down through __________.",
+    "options": {
+      "A": "Adoption",
+      "B": "Bloodlines",
+      "C": "Marriage",
+      "D": "Friendship"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  },
+  {
+    "question": "True or False: Women can also hold Ozo titles in some Igbo communities.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Only honorary titles",
+      "D": "Only in matriarchal societies"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "igbo_societies > title_societies_ozo_nze_na_olo"
+  }
+]

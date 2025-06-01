@@ -1,0 +1,266 @@
+[
+  {
+    "question": "The EFCC is primarily responsible for fighting which type of crime?",
+    "options": {
+      "A": "Violent crime",
+      "B": "Cybercrime",
+      "C": "Financial crime",
+      "D": "Drug trafficking"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "Fill in the blank: The EFCC's operations were often criticized for being politically ______.",
+    "options": {
+      "A": "biased",
+      "B": "unjust",
+      "C": "neutral",
+      "D": "inactive"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "How many years did Nuhu Ribadu serve as the EFCC chairman?",
+    "options": {
+      "A": "2 years",
+      "B": "4 years",
+      "C": "5 years",
+      "D": "8 years"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "Which anti-corruption strategy involved collaboration with foreign agencies?",
+    "options": {
+      "A": "Whistleblower policy",
+      "B": "FATF compliance",
+      "C": "Mutual legal assistance",
+      "D": "Civil service reforms"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "Which notable case led to the prosecution of a former governor under the EFCC?",
+    "options": {
+      "A": "James Ibori",
+      "B": "Olusegun Obasanjo",
+      "C": "Bola Tinubu",
+      "D": "Rochas Okorocha"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "What unique strategy did the EFCC employ to engage the public?",
+    "options": {
+      "A": "Public lectures",
+      "B": "Social media campaigns",
+      "C": "Whistleblower rewards",
+      "D": "Community outreach programs"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "What is the maximum penalty for those convicted under the EFCC Act?",
+    "options": {
+      "A": "5 years imprisonment",
+      "B": "10 years imprisonment",
+      "C": "15 years imprisonment",
+      "D": "Life imprisonment"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "Under which program did the EFCC initiate forensic accounting?",
+    "options": {
+      "A": "Anti-Corruption Program",
+      "B": "Integrity Program",
+      "C": "Forensic Fraud Initiative",
+      "D": "Financial Crimes Initiative"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "In 2006, how many cases did the EFCC report investigating?",
+    "options": {
+      "A": "200 cases",
+      "B": "500 cases",
+      "C": "1,000 cases",
+      "D": "2,500 cases"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "What was a major criticism of the EFCC's approach to fighting corruption?",
+    "options": {
+      "A": "Too lenient",
+      "B": "Highly politicized",
+      "C": "Lacked transparency",
+      "D": "Focused on petty crimes"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "What public sentiment did the EFCC's operations evoke among Nigerians?",
+    "options": {
+      "A": "Trust and confidence",
+      "B": "Fear and resentment",
+      "C": "Indifference",
+      "D": "Support and pride"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "Which act primarily empowers the EFCC to investigate and prosecute financial crimes?",
+    "options": {
+      "A": "Money Laundering Act",
+      "B": "Corrupt Practices Act",
+      "C": "EFCC Act",
+      "D": "Financial Crimes Act"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "The EFCC operates under the Ministry of ______ .",
+    "options": {
+      "A": "Finance",
+      "B": "Justice",
+      "C": "Internal Affairs",
+      "D": "Foreign Affairs"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "Which of these was a popular slogan associated with the EFCC's campaign against corruption?",
+    "options": {
+      "A": "Say No to Corruption",
+      "B": "Corruption Must End",
+      "C": "Clean Nigeria Now",
+      "D": "Fight the Good Fight"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "In which city is the EFCC's headquarters located?",
+    "options": {
+      "A": "Lagos",
+      "B": "Abuja",
+      "C": "Port Harcourt",
+      "D": "Kaduna"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "Which approach did the EFCC adopt to trace stolen assets?",
+    "options": {
+      "A": "Public donations",
+      "B": "Forensic accounting",
+      "C": "Community contributions",
+      "D": "Crowdfunding"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "Fill in the blank: The EFCC is known for its slogan, 'EFCC: ______ .'",
+    "options": {
+      "A": "Justice for All",
+      "B": "Corruption is Dead",
+      "C": "Fighting Corruption",
+      "D": "Together We Can"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "What was the public's general perception of the EFCC during Obasanjo's presidency?",
+    "options": {
+      "A": "Highly supportive",
+      "B": "Mostly skeptical",
+      "C": "Indifferent",
+      "D": "Overly critical"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "What percentage of recovered funds were often earmarked for the EFCC's operational costs?",
+    "options": {
+      "A": "10%",
+      "B": "20%",
+      "C": "30%",
+      "D": "50%"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "What role did civil society organizations play in relation to the EFCC?",
+    "options": {
+      "A": "Critical watchdog",
+      "B": "Financial sponsors",
+      "C": "Political supporters",
+      "D": "Advisors"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "What was the general effect of EFCC\u2019s work on Nigeria\u2019s corruption perception index during Obasanjo's tenure?",
+    "options": {
+      "A": "Improved",
+      "B": "Worsened",
+      "C": "Unchanged",
+      "D": "Fluctuated"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  },
+  {
+    "question": "What impact did the EFCC have on the Nigerian banking sector?",
+    "options": {
+      "A": "Increased fraud",
+      "B": "Greater accountability",
+      "C": "Decreased investments",
+      "D": "Higher interest rates"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The EFCC and fight against corruption under Obasanjo"
+  }
+]

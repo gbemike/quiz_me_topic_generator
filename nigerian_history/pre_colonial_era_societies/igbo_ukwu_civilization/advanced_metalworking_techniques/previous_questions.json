@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Which tool was primarily used by Igbo Ukwu metalworkers to create detailed designs?",
+    "options": {
+      "A": "Chisel",
+      "B": "Hammer",
+      "C": "Mallet",
+      "D": "File"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "igbo_ukwu_civilization > advanced_metalworking_techniques"
+  },
+  {
+    "question": "Which method of metalworking allowed for greater flexibility in design for Igbo Ukwu artists?",
+    "options": {
+      "A": "Forging",
+      "B": "Casting",
+      "C": "Welding",
+      "D": "Carving"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_ukwu_civilization > advanced_metalworking_techniques"
+  }
+]

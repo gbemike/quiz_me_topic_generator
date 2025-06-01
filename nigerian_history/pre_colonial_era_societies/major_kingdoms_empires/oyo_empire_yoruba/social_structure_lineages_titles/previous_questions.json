@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What aspect of society does 'Iyalode' represent?",
+    "options": {
+      "A": "Political",
+      "B": "Economic",
+      "C": "Religious",
+      "D": "Cultural"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "oyo_empire_yoruba > social_structure_lineages_titles"
+  },
+  {
+    "question": "Fill in the blank: In Yoruba society, the title 'Oloso' is primarily concerned with __________.",
+    "options": {
+      "A": "Farming",
+      "B": "Cattle herding",
+      "C": "Fishing",
+      "D": "Trade"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "oyo_empire_yoruba > social_structure_lineages_titles"
+  },
+  {
+    "question": "The title 'Aare' is often associated with which role?",
+    "options": {
+      "A": "Chief priest",
+      "B": "Military general",
+      "C": "Market overseer",
+      "D": "Elder"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "oyo_empire_yoruba > social_structure_lineages_titles"
+  },
+  {
+    "question": "The title 'Alakoso' primarily relates to which aspect of society?",
+    "options": {
+      "A": "Judiciary",
+      "B": "Politics",
+      "C": "Trade",
+      "D": "Religion"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "oyo_empire_yoruba > social_structure_lineages_titles"
+  },
+  {
+    "question": "The Iyalode is primarily responsible for overseeing what?",
+    "options": {
+      "A": "Spiritual affairs",
+      "B": "Market activities",
+      "C": "Military operations",
+      "D": "Political gatherings"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "oyo_empire_yoruba > social_structure_lineages_titles"
+  },
+  {
+    "question": "Who holds the title 'Jagun'?",
+    "options": {
+      "A": "Ruler",
+      "B": "Warrior",
+      "C": "Elder",
+      "D": "Trader"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "oyo_empire_yoruba > social_structure_lineages_titles"
+  }
+]

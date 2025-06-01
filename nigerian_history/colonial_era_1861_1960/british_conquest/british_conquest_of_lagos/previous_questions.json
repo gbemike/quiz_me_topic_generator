@@ -1,0 +1,134 @@
+[
+  {
+    "question": "After the conquest, Lagos became part of which larger structure in Nigeria?",
+    "options": {
+      "A": "Southern Protectorate",
+      "B": "Northern Protectorate",
+      "C": "Middle Belt",
+      "D": "Western Region"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "british_conquest > british_conquest_of_lagos"
+  },
+  {
+    "question": "The British conquest of Lagos was part of a larger strategy known as?",
+    "options": {
+      "A": "Scramble for Africa",
+      "B": "Pax Britannica",
+      "C": "Colonial Expansion",
+      "D": "Imperialism"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "british_conquest > british_conquest_of_lagos"
+  },
+  {
+    "question": "Which Yoruba festival was disrupted by the British conquest of Lagos?",
+    "options": {
+      "A": "Eyo Festival",
+      "B": "Ogun Festival",
+      "C": "Osun-Osogbo Festival",
+      "D": "Ibo Ire Festival"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "british_conquest > british_conquest_of_lagos"
+  },
+  {
+    "question": "What was a significant consequence of the British conquest for local leadership in Lagos?",
+    "options": {
+      "A": "Empowerment of traditional leaders",
+      "B": "Elimination of local governance",
+      "C": "Increase in local autonomy",
+      "D": "Formation of new political parties"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "british_conquest > british_conquest_of_lagos"
+  },
+  {
+    "question": "Which significant infrastructure project was initiated in Lagos during British rule?",
+    "options": {
+      "A": "Railway construction",
+      "B": "Telecommunication development",
+      "C": "Airport establishment",
+      "D": "Port expansion"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "british_conquest > british_conquest_of_lagos"
+  },
+  {
+    "question": "What was the term used by the British for the local elites who collaborated with them during the conquest?",
+    "options": {
+      "A": "Kabal",
+      "B": "Collabo",
+      "C": "Amalgamated",
+      "D": "Compradors"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "british_conquest > british_conquest_of_lagos"
+  },
+  {
+    "question": "What was one of the cultural impacts of the British conquest on Lagos?",
+    "options": {
+      "A": "Revival of indigenous languages",
+      "B": "Introduction of Western education",
+      "C": "Growth of local religions",
+      "D": "Decline in urbanization"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "british_conquest > british_conquest_of_lagos"
+  },
+  {
+    "question": "Fill in the blank: The British conquest of Lagos was part of a broader trend of _____ in West Africa.",
+    "options": {
+      "A": "Independence movements",
+      "B": "Colonial expansion",
+      "C": "Cultural revival",
+      "D": "Economic integration"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "british_conquest > british_conquest_of_lagos"
+  },
+  {
+    "question": "Which significant British publication discussed the impact of the conquest on Lagos?",
+    "options": {
+      "A": "The Economist",
+      "B": "The Times",
+      "C": "The Guardian",
+      "D": "The West African Review"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "british_conquest > british_conquest_of_lagos"
+  },
+  {
+    "question": "What was a major reason for the local population's resistance against British forces?",
+    "options": {
+      "A": "Religious differences",
+      "B": "Cultural preservation",
+      "C": "Economic exploitation",
+      "D": "Fear of foreign rule"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "british_conquest > british_conquest_of_lagos"
+  },
+  {
+    "question": "After the conquest, many Lagos citizens were forced into what type of labor?",
+    "options": {
+      "A": "Agricultural",
+      "B": "Domestic",
+      "C": "Wage labor",
+      "D": "Artisanal"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "british_conquest > british_conquest_of_lagos"
+  }
+]

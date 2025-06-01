@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Which committee was set up to investigate the increased killing of farmers by herdsmen during Buhari's tenure?",
+    "options": {
+      "A": "Presidential Committee on Farmers-Herders Conflict",
+      "B": "National Security Council",
+      "C": "Economic Recovery Committee",
+      "D": "Agricultural Policy Committee"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "fourth_republic_1999_present > buhari_presidency_apc_2015_2023"
+  },
+  {
+    "question": "In 2020, which pandemic severely affected Nigeria and led to lockdowns?",
+    "options": {
+      "A": "Ebola",
+      "B": "Lassa fever",
+      "C": "COVID-19",
+      "D": "Zika"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "fourth_republic_1999_present > buhari_presidency_apc_2015_2023"
+  },
+  {
+    "question": "What was the name of the social media bill aimed at regulating online speech introduced during Buhari's presidency?",
+    "options": {
+      "A": "Digital Rights Bill",
+      "B": "Hate Speech Bill",
+      "C": "Social Media Regulation Bill",
+      "D": "Cyber Crime Act"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "fourth_republic_1999_present > buhari_presidency_apc_2015_2023"
+  },
+  {
+    "question": "Which year did the Nigerian government ban the Twitter app temporarily?",
+    "options": {
+      "A": "2020",
+      "B": "2021",
+      "C": "2019",
+      "D": "2022"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "fourth_republic_1999_present > buhari_presidency_apc_2015_2023"
+  },
+  {
+    "question": "Which organization did Buhari join in 2019 pledging to combat climate change?",
+    "options": {
+      "A": "Paris Agreement",
+      "B": "UNESCO",
+      "C": "African Union",
+      "D": "ECOWAS"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "fourth_republic_1999_present > buhari_presidency_apc_2015_2023"
+  },
+  {
+    "question": "Which governmental agency was tasked with overseeing the implementation of the National Social Investment Programmes?",
+    "options": {
+      "A": "NASSI",
+      "B": "N-Power",
+      "C": "National Planning Commission",
+      "D": "Office of the Vice President"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "fourth_republic_1999_present > buhari_presidency_apc_2015_2023"
+  }
+]

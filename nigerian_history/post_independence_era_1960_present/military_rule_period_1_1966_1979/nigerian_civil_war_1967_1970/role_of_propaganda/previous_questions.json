@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Which documentary exposed the famine in Biafra to the world?",
+    "options": {
+      "A": "The War in Biafra",
+      "B": "Biafra: A Nation in Crisis",
+      "C": "Biafra: The Untold Story",
+      "D": "Biafra: Human Cost of War"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_civil_war_1967_1970 > role_of_propaganda"
+  },
+  {
+    "question": "Which group was often vilified in Nigerian propaganda materials?",
+    "options": {
+      "A": "Nigerian soldiers",
+      "B": "Biafran forces",
+      "C": "British soldiers",
+      "D": "American journalists"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_civil_war_1967_1970 > role_of_propaganda"
+  },
+  {
+    "question": "What type of imagery was commonly used in Biafran propaganda to evoke sympathy?",
+    "options": {
+      "A": "Military parades",
+      "B": "Famine and suffering",
+      "C": "Cultural festivals",
+      "D": "Victory celebrations"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_civil_war_1967_1970 > role_of_propaganda"
+  },
+  {
+    "question": "What was the impact of propaganda on international perceptions of the civil war?",
+    "options": {
+      "A": "Increased neutrality",
+      "B": "Promoted military intervention",
+      "C": "Affected humanitarian aid",
+      "D": "Strengthened military alliances"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_civil_war_1967_1970 > role_of_propaganda"
+  },
+  {
+    "question": "What role did foreign journalists play in the propaganda of the civil war?",
+    "options": {
+      "A": "Censored information",
+      "B": "Facilitated direct communication",
+      "C": "Reported truthfully on both sides",
+      "D": "Spread Biafran propaganda"
+    },
+    "answer": "D",
+    "difficulty": "expert",
+    "topic": "nigerian_civil_war_1967_1970 > role_of_propaganda"
+  },
+  {
+    "question": "Which aspect of the civil war did both sides exaggerate in their propaganda?",
+    "options": {
+      "A": "Casualties",
+      "B": "Economic impact",
+      "C": "International support",
+      "D": "Humanitarian efforts"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "nigerian_civil_war_1967_1970 > role_of_propaganda"
+  }
+]

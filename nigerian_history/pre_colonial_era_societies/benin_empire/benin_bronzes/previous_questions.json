@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Which European country is most associated with the looting of Benin Bronzes in the late 19th century?",
+    "options": {
+      "A": "France",
+      "B": "Germany",
+      "C": "Britain",
+      "D": "Portugal"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "benin_empire > benin_bronzes"
+  }
+]

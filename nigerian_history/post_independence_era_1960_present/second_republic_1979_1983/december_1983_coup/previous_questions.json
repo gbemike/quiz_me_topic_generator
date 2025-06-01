@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What significant event occurred on December 31, 1983?",
+    "options": {
+      "A": "Civil War ended",
+      "B": "Second Republic was dissolved",
+      "C": "New government was formed",
+      "D": "Constitution was amended"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "second_republic_1979_1983 > december_1983_coup"
+  },
+  {
+    "question": "Which region was most affected by the economic downturn towards the end of the Second Republic?",
+    "options": {
+      "A": "North",
+      "B": "West",
+      "C": "East",
+      "D": "South"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "second_republic_1979_1983 > december_1983_coup"
+  },
+  {
+    "question": "What was one major educational reform introduced during the Second Republic?",
+    "options": {
+      "A": "Free tertiary education",
+      "B": "Universal primary education",
+      "C": "Technical education emphasis",
+      "D": "Adult literacy programs"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "second_republic_1979_1983 > december_1983_coup"
+  }
+]

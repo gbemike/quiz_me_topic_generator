@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Who were the local rulers that collaborated with the British in the Northern region under indirect rule?",
+    "options": {
+      "A": "Obi",
+      "B": "Emir",
+      "C": "Oba",
+      "D": "Chief"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "indirect_rule_system > implementation_in_north_vs_south"
+  },
+  {
+    "question": "What cultural aspect significantly influenced the success of indirect rule in the North?",
+    "options": {
+      "A": "Islamic governance",
+      "B": "Christian missions",
+      "C": "Colonial education",
+      "D": "Trade practices"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "indirect_rule_system > implementation_in_north_vs_south"
+  },
+  {
+    "question": "What was the role of traditional councils under the indirect rule system in Northern Nigeria?",
+    "options": {
+      "A": "Advisory only",
+      "B": "Legislative bodies",
+      "C": "Tax collection units",
+      "D": "Military enforcement teams"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "indirect_rule_system > implementation_in_north_vs_south"
+  },
+  {
+    "question": "Fill in the blank: Indirect rule often relied on a system of appointed __________ to maintain local governance.",
+    "options": {
+      "A": "officers",
+      "B": "advisors",
+      "C": "judges",
+      "D": "emirs"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "indirect_rule_system > implementation_in_north_vs_south"
+  },
+  {
+    "question": "What was a significant effect of indirect rule on the socio-economic status of women in Northern Nigeria?",
+    "options": {
+      "A": "Improved wealth",
+      "B": "Increased education",
+      "C": "Limited participation",
+      "D": "Political empowerment"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "indirect_rule_system > implementation_in_north_vs_south"
+  },
+  {
+    "question": "Who were the indigenous political leaders that the British relied upon for indirect rule in the North?",
+    "options": {
+      "A": "Ministers",
+      "B": "Alfas",
+      "C": "Emirs",
+      "D": "Chiefs"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "indirect_rule_system > implementation_in_north_vs_south"
+  },
+  {
+    "question": "What was a fundamental difference between the implementation of indirect rule in the North and South?",
+    "options": {
+      "A": "Cultural acceptance",
+      "B": "Economic structure",
+      "C": "Religious influence",
+      "D": "Colonial goals"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "indirect_rule_system > implementation_in_north_vs_south"
+  },
+  {
+    "question": "What traditional title did local rulers often hold in the exercise of indirect rule in the North?",
+    "options": {
+      "A": "Obi",
+      "B": "Emir",
+      "C": "Oba",
+      "D": "Chief"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "indirect_rule_system > implementation_in_north_vs_south"
+  },
+  {
+    "question": "How did the British view the educational level of the Southern populace compared to that of the North?",
+    "options": {
+      "A": "Higher in the South",
+      "B": "Equal in both regions",
+      "C": "Lower in the South",
+      "D": "Higher in the North"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "indirect_rule_system > implementation_in_north_vs_south"
+  },
+  {
+    "question": "Which of these best describes the British attitude towards the Southern elites during indirect rule?",
+    "options": {
+      "A": "They were trusted allies",
+      "B": "They were largely sidelined",
+      "C": "They were co-opted as leaders",
+      "D": "They were encouraged to gain power"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "indirect_rule_system > implementation_in_north_vs_south"
+  }
+]

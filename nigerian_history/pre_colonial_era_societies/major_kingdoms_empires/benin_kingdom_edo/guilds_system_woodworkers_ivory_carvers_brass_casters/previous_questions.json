@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Fill in the blank: The guild system in the Benin Kingdom fostered a sense of ______ among craftsmen.",
+    "options": {
+      "A": "competition",
+      "B": "community",
+      "C": "isolation",
+      "D": "conflict"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "benin_kingdom_edo > guilds_system_woodworkers_ivory_carvers_brass_casters"
+  },
+  {
+    "question": "The craftsmanship of which guild is primarily centered around ceremonial and decorative items?",
+    "options": {
+      "A": "Carpenters",
+      "B": "Ivory Carvers",
+      "C": "Weavers",
+      "D": "Masons"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > guilds_system_woodworkers_ivory_carvers_brass_casters"
+  },
+  {
+    "question": "The guilds in the Benin Kingdom were often led by a ______ who ensured the quality of work.",
+    "options": {
+      "A": "Master Craftsman",
+      "B": "King",
+      "C": "Apprentice",
+      "D": "Artisan"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "benin_kingdom_edo > guilds_system_woodworkers_ivory_carvers_brass_casters"
+  },
+  {
+    "question": "The woodworkers' guild was essential for crafting which of the following items?",
+    "options": {
+      "A": "Weapons",
+      "B": "Musical instruments",
+      "C": "Royal thrones",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "benin_kingdom_edo > guilds_system_woodworkers_ivory_carvers_brass_casters"
+  },
+  {
+    "question": "The Oba commissioned many works for which purpose?",
+    "options": {
+      "A": "Personal use",
+      "B": "Cultural representation",
+      "C": "Religious ceremonies",
+      "D": "International diplomacy"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > guilds_system_woodworkers_ivory_carvers_brass_casters"
+  },
+  {
+    "question": "What type of designs did the Benin ivory carvers traditionally avoid?",
+    "options": {
+      "A": "Geometric",
+      "B": "Figurative",
+      "C": "Abstract",
+      "D": "Floral"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "benin_kingdom_edo > guilds_system_woodworkers_ivory_carvers_brass_casters"
+  },
+  {
+    "question": "What was the function of the 'Igue' festival regarding the guilds?",
+    "options": {
+      "A": "To celebrate yearly harvests",
+      "B": "To honor the arts and crafts",
+      "C": "To mark the new year",
+      "D": "To initiate apprentices"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "benin_kingdom_edo > guilds_system_woodworkers_ivory_carvers_brass_casters"
+  },
+  {
+    "question": "What type of wood was predominantly used by woodworkers for sculptures?",
+    "options": {
+      "A": "Mahogany",
+      "B": "Teak",
+      "C": "Pine",
+      "D": "Oak"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > guilds_system_woodworkers_ivory_carvers_brass_casters"
+  },
+  {
+    "question": "Which aspect did the art from the brass casters guild primarily emphasize?",
+    "options": {
+      "A": "Color",
+      "B": "Texture",
+      "C": "Detail",
+      "D": "Size"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > guilds_system_woodworkers_ivory_carvers_brass_casters"
+  },
+  {
+    "question": "In the context of Benin art, what do 'ukpokiti' and 'ukpere' refer to?",
+    "options": {
+      "A": "Tools for carving",
+      "B": "Types of wood",
+      "C": "Styles of artwork",
+      "D": "Ceremonial practices"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "benin_kingdom_edo > guilds_system_woodworkers_ivory_carvers_brass_casters"
+  }
+]

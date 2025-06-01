@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What distinctive feature is commonly found in Nok terracotta heads?",
+    "options": {
+      "A": "Abstract shapes",
+      "B": "Large eyes",
+      "C": "Animal motifs",
+      "D": "Geometric patterns"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "early_cultures > nok_culture_500bc_200ad_terracotta"
+  },
+  {
+    "question": "Nok terracotta sculptures often depict which of the following?",
+    "options": {
+      "A": "Scenes of war",
+      "B": "Everyday life",
+      "C": "Religious figures",
+      "D": "Human and animal figures"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "early_cultures > nok_culture_500bc_200ad_terracotta"
+  },
+  {
+    "question": "Which scientific method has been used to date Nok artifacts?",
+    "options": {
+      "A": "Potassium-argon dating",
+      "B": "Carbon dating",
+      "C": "Dendrochronology",
+      "D": "Uranium-series dating"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "early_cultures > nok_culture_500bc_200ad_terracotta"
+  },
+  {
+    "question": "Nok culture is believed to have been matrilineal, meaning what?",
+    "options": {
+      "A": "Inheritance is through the mother",
+      "B": "Politics is dominated by men",
+      "C": "Art forms are passed through males",
+      "D": "Children take the father\u2019s name"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "early_cultures > nok_culture_500bc_200ad_terracotta"
+  },
+  {
+    "question": "What do the large eyes in Nok sculptures symbolize?",
+    "options": {
+      "A": "Wisdom",
+      "B": "Fear",
+      "C": "Beauty",
+      "D": "Anger"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "early_cultures > nok_culture_500bc_200ad_terracotta"
+  },
+  {
+    "question": "Nok sculptures are typically characterized by their __________ features.",
+    "options": {
+      "A": "Human-like",
+      "B": "Animal-like",
+      "C": "Geometric",
+      "D": "Abstract"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "early_cultures > nok_culture_500bc_200ad_terracotta"
+  }
+]

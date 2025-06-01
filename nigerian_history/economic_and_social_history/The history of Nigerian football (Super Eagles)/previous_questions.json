@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Who famously scored the winning penalty in the final of the 1996 Olympic football tournament?",
+    "options": {
+      "A": "Nwankwo Kanu",
+      "B": "Daniel Amokachi",
+      "C": "Emmanuel Amunike",
+      "D": "Austine Jay-Jay Okocha"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The history of Nigerian football (Super Eagles)"
+  },
+  {
+    "question": "In which city did the Super Eagles hold a historic victory over Brazil in a friendly match?",
+    "options": {
+      "A": "Lagos",
+      "B": "Abuja",
+      "C": "London",
+      "D": "Port Harcourt"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The history of Nigerian football (Super Eagles)"
+  },
+  {
+    "question": "How many goals did Nigeria score in the 1994 World Cup group stage?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The history of Nigerian football (Super Eagles)"
+  }
+]

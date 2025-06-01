@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Which military ruler was in power during the end of apartheid in South Africa?",
+    "options": {
+      "A": "Olusegun Obasanjo",
+      "B": "Sani Abacha",
+      "C": "Ibrahim Babangida",
+      "D": "Mohammed Buhari"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history > post_independence_era_1960_present"
+  },
+  {
+    "question": "In which year did Nigeria sign the African Charter on Human and People's Rights?",
+    "options": {
+      "A": "1986",
+      "B": "1991",
+      "C": "1999",
+      "D": "2001"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history > post_independence_era_1960_present"
+  }
+]

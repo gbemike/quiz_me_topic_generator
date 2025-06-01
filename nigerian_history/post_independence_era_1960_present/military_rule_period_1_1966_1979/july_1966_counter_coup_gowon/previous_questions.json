@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What major conflict ensued as a result of the political instability after the July coup?",
+    "options": {
+      "A": "The Nigerian Civil War",
+      "B": "The Biafra War",
+      "C": "The Yoruba Rebellion",
+      "D": "The Fulani Wars"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "military_rule_period_1_1966_1979 > july_1966_counter_coup_gowon"
+  },
+  {
+    "question": "Yakubu Gowon was known for refusing to take what drastic action against the opposition?",
+    "options": {
+      "A": "Imprisonment",
+      "B": "Execution",
+      "C": "Exile",
+      "D": "Assassination"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "military_rule_period_1_1966_1979 > july_1966_counter_coup_gowon"
+  }
+]

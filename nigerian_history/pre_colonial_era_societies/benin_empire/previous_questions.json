@@ -1,0 +1,26 @@
+[
+  {
+    "question": "The phrase 'Edo' refers to both the _______ and the people of the Benin Empire.",
+    "options": {
+      "A": "Language",
+      "B": "City",
+      "C": "Country",
+      "D": "Culture"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "pre_colonial_era_societies > benin_empire"
+  },
+  {
+    "question": "The traditional Benin greeting involves the phrase '_______', which signifies respect.",
+    "options": {
+      "A": "E kaabo",
+      "B": "Eku ise",
+      "C": "Ose",
+      "D": "E se"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "pre_colonial_era_societies > benin_empire"
+  }
+]

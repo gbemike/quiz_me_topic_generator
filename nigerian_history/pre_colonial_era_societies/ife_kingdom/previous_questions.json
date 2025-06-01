@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Ife's economy was primarily based on what type of agriculture?",
+    "options": {
+      "A": "Subsistence farming",
+      "B": "Commercial farming",
+      "C": "Mixed farming",
+      "D": "Pastoral farming"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "pre_colonial_era_societies > ife_kingdom"
+  },
+  {
+    "question": "What role did women play in the Ife society?",
+    "options": {
+      "A": "Subservient roles",
+      "B": "Economic leaders",
+      "C": "Ritual leaders",
+      "D": "Political advisors"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "pre_colonial_era_societies > ife_kingdom"
+  },
+  {
+    "question": "In Ife culture, the concept of 'Aje' refers to what?",
+    "options": {
+      "A": "Wealth",
+      "B": "Power",
+      "C": "Spirituality",
+      "D": "Wisdom"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "pre_colonial_era_societies > ife_kingdom"
+  },
+  {
+    "question": "Which Ife sculpture is most recognized for its lifelike features?",
+    "options": {
+      "A": "Ife Masks",
+      "B": "Ife Bronze Heads",
+      "C": "Ife Statues",
+      "D": "Ife Reliefs"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "pre_colonial_era_societies > ife_kingdom"
+  }
+]

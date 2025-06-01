@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What was the name of the organization that criticized the privatization process for lacking transparency?",
+    "options": {
+      "A": "Transparency International",
+      "B": "Social Action",
+      "C": "Nigerian Labour Congress",
+      "D": "BPE"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > privatization_program_controversies"
+  },
+  {
+    "question": "Obasanjo's privatization efforts were often linked to which international financial institutions' recommendations?",
+    "options": {
+      "A": "World Bank",
+      "B": "IMF",
+      "C": "WTO",
+      "D": "Both A and B"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > privatization_program_controversies"
+  },
+  {
+    "question": "What was one major outcome of the privatization of NITEL?",
+    "options": {
+      "A": "Increased employment",
+      "B": "Rise in internet connectivity",
+      "C": "Improved customer service",
+      "D": "Financial losses"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > privatization_program_controversies"
+  },
+  {
+    "question": "Which company acquired the majority stake in PHCN during its privatization?",
+    "options": {
+      "A": "Transcorp",
+      "B": "Niger Delta Power Holdings",
+      "C": "Mainstream Energy Solutions",
+      "D": "Aquila Capital"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > privatization_program_controversies"
+  },
+  {
+    "question": "What term describes the selling off of government-owned enterprises to private investors?",
+    "options": {
+      "A": "Nationalization",
+      "B": "Privatization",
+      "C": "Regulation",
+      "D": "Deregulation"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > privatization_program_controversies"
+  },
+  {
+    "question": "The privatization of which utility faced protests from workers' unions due to fears of job losses?",
+    "options": {
+      "A": "Water",
+      "B": "Electricity",
+      "C": "Telecommunications",
+      "D": "Transport"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > privatization_program_controversies"
+  },
+  {
+    "question": "Which major controversy arose during the privatization of the power sector?",
+    "options": {
+      "A": "Political interference",
+      "B": "Corruption allegations",
+      "C": "Poor service delivery",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > privatization_program_controversies"
+  },
+  {
+    "question": "Fill in the blank: The privatization of the energy sector was intended to create a _______ market.",
+    "options": {
+      "A": "monopolistic",
+      "B": "competitive",
+      "C": "regulated",
+      "D": "state-controlled"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > privatization_program_controversies"
+  },
+  {
+    "question": "Which of the following was NOT a consequence of the privatization program?",
+    "options": {
+      "A": "Rise in tariffs",
+      "B": "Improved service delivery",
+      "C": "Job losses",
+      "D": "Increased foreign investment"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > privatization_program_controversies"
+  },
+  {
+    "question": "What was a major criticism of the privatization process regarding the bidding system?",
+    "options": {
+      "A": "Too transparent",
+      "B": "Lack of competition",
+      "C": "Excessive government involvement",
+      "D": "Too many bidders"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > privatization_program_controversies"
+  },
+  {
+    "question": "Which power plant was sold to a private investor as part of the privatization program?",
+    "options": {
+      "A": "Egbin",
+      "B": "Afam",
+      "C": "Kainji",
+      "D": "Olorunsogo"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > privatization_program_controversies"
+  },
+  {
+    "question": "What was the primary reason cited for the privatization of the Nigerian Ports Authority?",
+    "options": {
+      "A": "Increased tariffs",
+      "B": "Efficiency",
+      "C": "Ownership transfer",
+      "D": "Job creation"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > privatization_program_controversies"
+  },
+  {
+    "question": "What was one of the outcomes of privatizing the telecommunications sector?",
+    "options": {
+      "A": "Stable prices",
+      "B": "Increased competition",
+      "C": "Decline in mobile subscriptions",
+      "D": "Reduction in service providers"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > privatization_program_controversies"
+  },
+  {
+    "question": "What was a key factor that complicated the privatization process of NEPA?",
+    "options": {
+      "A": "High debt",
+      "B": "Political instability",
+      "C": "Labor union opposition",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > privatization_program_controversies"
+  },
+  {
+    "question": "Which aspect of the privatization program was aimed at improving the efficiency of public services?",
+    "options": {
+      "A": "Regulation",
+      "B": "Deregulation",
+      "C": "Partial privatization",
+      "D": "Full privatization"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > privatization_program_controversies"
+  }
+]

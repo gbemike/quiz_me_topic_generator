@@ -1,0 +1,530 @@
+[
+  {
+    "question": "Which party did Bola Ahmed Tinubu represent in the 2023 presidential elections?",
+    "options": {
+      "A": "APC",
+      "B": "PDP",
+      "C": "LP",
+      "D": "APGA"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "Who was Tinubu\u2019s major opponent in the 2023 presidential elections?",
+    "options": {
+      "A": "Atiku Abubakar",
+      "B": "Peter Obi",
+      "C": "Rabiu Kwankwaso",
+      "D": "Olujimi Agboola"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "In Tinubu\u2019s presidency, which state was the first to be governed under the \u2018Renewed Hope Agenda\u2019?",
+    "options": {
+      "A": "Lagos",
+      "B": "Kano",
+      "C": "Oyo",
+      "D": "Abuja"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "Fill in the blank: In 2023, Tinubu was elected as the _____ President of Nigeria.",
+    "options": {
+      "A": "16th",
+      "B": "20th",
+      "C": "21st",
+      "D": "14th"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "Which geopolitical zone of Nigeria is Tinubu originally from?",
+    "options": {
+      "A": "North East",
+      "B": "South West",
+      "C": "North West",
+      "D": "South East"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "During his campaign, Tinubu emphasized a commitment to improving which sector primarily?",
+    "options": {
+      "A": "Education",
+      "B": "Health",
+      "C": "Agriculture",
+      "D": "Security"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What significant political coalition did Tinubu help to form before the 2023 elections?",
+    "options": {
+      "A": "The G5",
+      "B": "The Coalition for Nigeria",
+      "C": "The APC",
+      "D": "The PDP"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "Tinubu\u2019s administration succeeded which president?",
+    "options": {
+      "A": "Goodluck Jonathan",
+      "B": "Muhammadu Buhari",
+      "C": "Umaru Musa Yar'Adua",
+      "D": "Olusegun Obasanjo"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What was Tinubu\u2019s primary campaign slogan in the 2023 elections?",
+    "options": {
+      "A": "Hope is Here",
+      "B": "Renewed Hope",
+      "C": "Change Begins Here",
+      "D": "Forward Together"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "Which city hosted the official inauguration of Bola Ahmed Tinubu as President in 2023?",
+    "options": {
+      "A": "Abuja",
+      "B": "Lagos",
+      "C": "Port Harcourt",
+      "D": "Kano"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What was the main economic focus of Tinubu's administration upon taking office in 2023?",
+    "options": {
+      "A": "Diversification",
+      "B": "Monetary Policy",
+      "C": "Debt Reduction",
+      "D": "Tax Reform"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What position did Tinubu hold in the National Assembly before becoming the governor?",
+    "options": {
+      "A": "Senator",
+      "B": "House of Representative Member",
+      "C": "Minister",
+      "D": "None of the above"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "In which year was the APC officially formed?",
+    "options": {
+      "A": "2012",
+      "B": "2013",
+      "C": "2014",
+      "D": "2015"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "Describe the significant technology introduced for voting in the 2023 elections.",
+    "options": {
+      "A": "Electronic Voting Machines",
+      "B": "Online Voting Portal",
+      "C": "Biometric Verification System",
+      "D": "Mobile Voting Units"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "Which party was Tinubu's primary opponent in the 2023 elections?",
+    "options": {
+      "A": "PDP",
+      "B": "SDP",
+      "C": "APGA",
+      "D": "LP"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What was the main goal of the 'Renewed Hope Agenda' introduced by Tinubu?",
+    "options": {
+      "A": "Socio-economic Development",
+      "B": "Political Stability",
+      "C": "Cultural Revival",
+      "D": "Environmental Sustainability"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "Which key demographic did Tinubu\u2019s campaign focus on heavily?",
+    "options": {
+      "A": "Women",
+      "B": "Youth",
+      "C": "Seniors",
+      "D": "Farmers"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What was the key strategy of Tinubu's political party, APC, in the 2023 elections?",
+    "options": {
+      "A": "Grassroots Mobilization",
+      "B": "Mass Media Campaigns",
+      "C": "Digital Outreach",
+      "D": "Door-to-Door Campaigns"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What was a key campaign promise made by Tinubu regarding youth unemployment?",
+    "options": {
+      "A": "Free Education",
+      "B": "Job Creation",
+      "C": "Youth Scholarships",
+      "D": "Tech Bootcamps"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "Tinubu's administration initiated a program to improve which aspect of education?",
+    "options": {
+      "A": "Technical Education",
+      "B": "University Funding",
+      "C": "Primary Education",
+      "D": "Adult Literacy"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What was the dominant issue that influenced voting patterns in the 2023 elections?",
+    "options": {
+      "A": "Corruption",
+      "B": "Security",
+      "C": "Economy",
+      "D": "Education"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What was the political alliance known as that supported Tinubu's candidacy?",
+    "options": {
+      "A": "United APC",
+      "B": "Alliance for Change",
+      "C": "Coalition for Nigeria",
+      "D": "Nigerian Unity Forum"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What was a prominent feature of Tinubu's campaign rallies?",
+    "options": {
+      "A": "Cultural Performances",
+      "B": "Celebrity Appearances",
+      "C": "Youth Participation",
+      "D": "Traditional Dances"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What campaign promise did Tinubu make regarding healthcare in Nigeria?",
+    "options": {
+      "A": "Free Healthcare for All",
+      "B": "Improve Medical Infrastructure",
+      "C": "Increase Health Workers' Salaries",
+      "D": "Establish More Hospitals"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What major economic policy did Tinubu propose to tackle youth unemployment?",
+    "options": {
+      "A": "N-Power Scheme Expansion",
+      "B": "Youth Entrepreneurship Fund",
+      "C": "Tech Skills Development Program",
+      "D": "Agricultural Subsidies"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "During his presidency, Tinubu aimed to establish which type of national framework?",
+    "options": {
+      "A": "Federalism",
+      "B": "Decentralization",
+      "C": "Centralized Governance",
+      "D": "Regional Autonomy"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "Which geopolitical zone does Tinubu represent in Nigeria?",
+    "options": {
+      "A": "North Central",
+      "B": "South East",
+      "C": "South West",
+      "D": "North West"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What was the outcome of Tinubu's first major cabinet meeting?",
+    "options": {
+      "A": "Approval of New Policies",
+      "B": "Resignation of Ministers",
+      "C": "Implementation of National Projects",
+      "D": "Postponement of Discussions"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What key social issue did Tinubu address in his inaugural speech?",
+    "options": {
+      "A": "Gender Equality",
+      "B": "Youth Empowerment",
+      "C": "Corruption",
+      "D": "Healthcare Accessibility"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What was the focus of Tinubu's administration in response to climate change?",
+    "options": {
+      "A": "Renewable Energy",
+      "B": "Deforestation Control",
+      "C": "Waste Management",
+      "D": "Water Conservation"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "Which political figure was notably absent from Tinubu's inauguration?",
+    "options": {
+      "A": "Atiku Abubakar",
+      "B": "Buhari",
+      "C": "Peter Obi",
+      "D": "Yakubu Gowon"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What was the first major international trip taken by Tinubu after assuming office?",
+    "options": {
+      "A": "United States",
+      "B": "United Kingdom",
+      "C": "China",
+      "D": "Egypt"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "In 2023, Tinubu's administration focused on revamping which sector to boost national pride?",
+    "options": {
+      "A": "Arts and Culture",
+      "B": "Sports",
+      "C": "Tourism",
+      "D": "Education"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "Which significant regional conflict was a concern during Tinubu's presidency?",
+    "options": {
+      "A": "Boko Haram Insurgency",
+      "B": "MEND Activities",
+      "C": "Fulani Herdsmen Crisis",
+      "D": "Niger Delta Militancy"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What was Tinubu\u2019s stance on subsidy removal in Nigeria's petroleum sector?",
+    "options": {
+      "A": "Supportive",
+      "B": "Opposed",
+      "C": "Neutral",
+      "D": "Ambiguous"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What was a key aspect of Tinubu's policy on national security?",
+    "options": {
+      "A": "Community Policing",
+      "B": "Increased Military Presence",
+      "C": "Surveillance Technology",
+      "D": "Judicial Reform"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "Which group did Tinubu notably engage with to address the concerns of women during his campaign?",
+    "options": {
+      "A": "Women in Politics",
+      "B": "Nigerian Females for Change",
+      "C": "League of Women Voters",
+      "D": "Feminist Coalition"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What was the primary focus of Tinubu's administration in the agricultural sector?",
+    "options": {
+      "A": "Food Security",
+      "B": "Export Enhancement",
+      "C": "Urban Farming",
+      "D": "Agricultural Technology"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "Tinubu's initiative to combat poverty involved partnerships with which sector?",
+    "options": {
+      "A": "Private Sector",
+      "B": "NGOs",
+      "C": "International Organizations",
+      "D": "All of the Above"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What environmental initiative did Tinubu launch addressing climate change?",
+    "options": {
+      "A": "National Reforestation Program",
+      "B": "Pollution Control Initiative",
+      "C": "Climate Action Fund",
+      "D": "Green Nigeria Project"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "Tinubu's administration aimed to strengthen relations with which neighboring country?",
+    "options": {
+      "A": "Ghana",
+      "B": "Benin",
+      "C": "Cameroon",
+      "D": "Togo"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "Which social movement did Tinubu reach out to address youth activism?",
+    "options": {
+      "A": "EndSARS Movement",
+      "B": "Not Too Young To Run",
+      "C": "Nigerian Youth Forum",
+      "D": "Youth Coalition for Change"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "What was the impact of Tinubu's economic policies on inflation rates?",
+    "options": {
+      "A": "Increase",
+      "B": "Decrease",
+      "C": "No Change",
+      "D": "Unpredictable"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  },
+  {
+    "question": "Which foreign leader did Tinubu meet to discuss bilateral relations shortly after taking office?",
+    "options": {
+      "A": "Joe Biden",
+      "B": "Ursula von der Leyen",
+      "C": "Xi Jinping",
+      "D": "Boris Johnson"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > The 2023 elections and Tinubu\u2019s presidency"
+  }
+]

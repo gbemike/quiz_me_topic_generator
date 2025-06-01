@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What was the major currency note introduced by the military regime in 1973?",
+    "options": {
+      "A": "Five Naira",
+      "B": "Ten Naira",
+      "C": "Twenty Naira",
+      "D": "Fifty Naira"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "post_independence_era_1960_present > military_rule_period_1_1966_1979"
+  },
+  {
+    "question": "What was the name of the economic policy focused on industrialization during the military regime?",
+    "options": {
+      "A": "National Development Plan",
+      "B": "Green Revolution",
+      "C": "Operation Feed the Nation",
+      "D": "Import Substitution Policy"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "post_independence_era_1960_present > military_rule_period_1_1966_1979"
+  }
+]

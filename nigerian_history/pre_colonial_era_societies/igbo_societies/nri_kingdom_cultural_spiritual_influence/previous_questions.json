@@ -1,0 +1,230 @@
+[
+  {
+    "question": "What is the primary spiritual belief system of the Nri Kingdom?",
+    "options": {
+      "A": "Christianity",
+      "B": "Ancestral worship",
+      "C": "Islam",
+      "D": "Buddhism"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "igbo_societies > nri_kingdom_cultural_spiritual_influence"
+  },
+  {
+    "question": "What significant agricultural product is closely associated with the Nri Kingdom's culture?",
+    "options": {
+      "A": "Maize",
+      "B": "Cassava",
+      "C": "Yam",
+      "D": "Rice"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "igbo_societies > nri_kingdom_cultural_spiritual_influence"
+  },
+  {
+    "question": "What is the term for the traditional Nri royal masquerades?",
+    "options": {
+      "A": "Egwu",
+      "B": "Ogene",
+      "C": "Nkpokiti",
+      "D": "Ikoro"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "igbo_societies > nri_kingdom_cultural_spiritual_influence"
+  },
+  {
+    "question": "Which deity is revered as the creator of the Nri people?",
+    "options": {
+      "A": "Odinani",
+      "B": "Chukwu",
+      "C": "Amadioha",
+      "D": "Anyanwu"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "igbo_societies > nri_kingdom_cultural_spiritual_influence"
+  },
+  {
+    "question": "What form of governance is most associated with the Nri Kingdom?",
+    "options": {
+      "A": "Monarchy",
+      "B": "Theocracy",
+      "C": "Republic",
+      "D": "Democracy"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "igbo_societies > nri_kingdom_cultural_spiritual_influence"
+  },
+  {
+    "question": "What is the Nri Kingdom's stance on the role of women in society?",
+    "options": {
+      "A": "Subordinate",
+      "B": "Equal partners",
+      "C": "Excluded from leadership",
+      "D": "Only caretakers"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "igbo_societies > nri_kingdom_cultural_spiritual_influence"
+  },
+  {
+    "question": "Which of the following is a cultural practice among the Nri people regarding funerals?",
+    "options": {
+      "A": "Cremation",
+      "B": "Burial with belongings",
+      "C": "No mourning period",
+      "D": "Public display of grief"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > nri_kingdom_cultural_spiritual_influence"
+  },
+  {
+    "question": "In Nri culture, what does the term 'Ozo' represent?",
+    "options": {
+      "A": "A spiritual leader",
+      "B": "A title of nobility",
+      "C": "A farming tool",
+      "D": "A warrior class"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > nri_kingdom_cultural_spiritual_influence"
+  },
+  {
+    "question": "Which of the following is a traditional Nri beverage?",
+    "options": {
+      "A": "Palm wine",
+      "B": "Bitter leaf tea",
+      "C": "Kola nut drink",
+      "D": "Zobo"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "igbo_societies > nri_kingdom_cultural_spiritual_influence"
+  },
+  {
+    "question": "What significance does the 'Kola nut' hold in Nri culture?",
+    "options": {
+      "A": "Symbol of war",
+      "B": "Offering to deities",
+      "C": "Sign of respect and hospitality",
+      "D": "Currency"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "igbo_societies > nri_kingdom_cultural_spiritual_influence"
+  },
+  {
+    "question": "In Nri mythology, who is regarded as the goddess of fertility?",
+    "options": {
+      "A": "Odinani",
+      "B": "Ogbunabali",
+      "C": "Ala",
+      "D": "Ani"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "igbo_societies > nri_kingdom_cultural_spiritual_influence"
+  },
+  {
+    "question": "Which of the following describes the Nri Kingdom's relationship with neighboring communities?",
+    "options": {
+      "A": "Hostile",
+      "B": "Isolationist",
+      "C": "Trade partners",
+      "D": "Subjugated"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "igbo_societies > nri_kingdom_cultural_spiritual_influence"
+  },
+  {
+    "question": "What is the significance of the Nri Kingdom's 'Ugu' plant?",
+    "options": {
+      "A": "Symbol of peace",
+      "B": "Culinary herb",
+      "C": "Medicinal plant",
+      "D": "Cultural icon"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > nri_kingdom_cultural_spiritual_influence"
+  },
+  {
+    "question": "What is the Nri people's traditional view on the afterlife?",
+    "options": {
+      "A": "Reincarnation",
+      "B": "Eternal sleep",
+      "C": "Living in heaven",
+      "D": "Ancestral spirit existence"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "igbo_societies > nri_kingdom_cultural_spiritual_influence"
+  },
+  {
+    "question": "The Nri Kingdom is particularly noted for its resistance to which external influence?",
+    "options": {
+      "A": "Colonialism",
+      "B": "Christianity",
+      "C": "Islam",
+      "D": "Cultural assimilation"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "igbo_societies > nri_kingdom_cultural_spiritual_influence"
+  },
+  {
+    "question": "Which Nri festival is known for showcasing traditional music and dance?",
+    "options": {
+      "A": "New Yam Festival",
+      "B": "Iri ji ohu",
+      "C": "Ugie Nri",
+      "D": "Ekwensu festival"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "igbo_societies > nri_kingdom_cultural_spiritual_influence"
+  },
+  {
+    "question": "In Nri ceremonies, what object is often used as an offering to spirits?",
+    "options": {
+      "A": "Cattle",
+      "B": "Kola nuts",
+      "C": "Yams",
+      "D": "Rice"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > nri_kingdom_cultural_spiritual_influence"
+  },
+  {
+    "question": "Which of the following is considered a taboo in Nri culture?",
+    "options": {
+      "A": "Using left hand for greetings",
+      "B": "Eating yam with hands",
+      "C": "Wearing traditional attire",
+      "D": "Dancing at festivals"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "igbo_societies > nri_kingdom_cultural_spiritual_influence"
+  },
+  {
+    "question": "What is the primary purpose of the Nri's 'Ibo language'?",
+    "options": {
+      "A": "Trade communication",
+      "B": "Cultural preservation",
+      "C": "Religious instruction",
+      "D": "Legal documentation"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > nri_kingdom_cultural_spiritual_influence"
+  }
+]

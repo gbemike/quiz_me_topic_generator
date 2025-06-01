@@ -1,0 +1,362 @@
+[
+  {
+    "question": "What does the term 'Almajiri' refer to in Nigeria?",
+    "options": {
+      "A": "A type of traditional music",
+      "B": "A system of Islamic education",
+      "C": "A cultural festival",
+      "D": "A style of clothing"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "In which region of Nigeria is the Almajiri system most prevalent?",
+    "options": {
+      "A": "Southwest",
+      "B": "Northeast",
+      "C": "Northwest",
+      "D": "Southeast"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "Which of the following is a major challenge faced by Almajiri children?",
+    "options": {
+      "A": "Access to formal education",
+      "B": "Availability of traditional clothing",
+      "C": "Participation in sports",
+      "D": "Access to the Internet"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "Which state launched the 'Almajiri Integration Programme' to reform the system?",
+    "options": {
+      "A": "Kano",
+      "B": "Lagos",
+      "C": "Abuja",
+      "D": "Kogi"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "What is a common socio-economic outcome for Almajiri children?",
+    "options": {
+      "A": "High literacy rates",
+      "B": "Increased poverty rates",
+      "C": "Successful careers",
+      "D": "Better health outcomes"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "The Almajiri system is often criticized for contributing to what form of social issue?",
+    "options": {
+      "A": "Gender inequality",
+      "B": "Child labor",
+      "C": "Rural-urban migration",
+      "D": "Political apathy"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "Almajiri children often rely on what means for sustenance while studying?",
+    "options": {
+      "A": "Charity and alms",
+      "B": "Paid work",
+      "C": "Government support",
+      "D": "Family inheritance"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "What term describes the system of begging for alms within the Almajiri context?",
+    "options": {
+      "A": "Zakat",
+      "B": "Sadaqa",
+      "C": "Hajj",
+      "D": "Fitr"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "What is one proposed solution to help Almajiri children reintegrate into formal education?",
+    "options": {
+      "A": "Creating more madrasas",
+      "B": "Providing vocational training",
+      "C": "Building more mosques",
+      "D": "Increasing teacher salaries"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "The Almajiri system is often linked with which of the following societal challenges?",
+    "options": {
+      "A": "Urban sprawl",
+      "B": "Youth unemployment",
+      "C": "Gender disparity",
+      "D": "Environmental degradation"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "What is a significant reason why some families send their children to Almajiri schools?",
+    "options": {
+      "A": "To escape poverty",
+      "B": "To access better healthcare",
+      "C": "To gain social status",
+      "D": "To learn English"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "Which of the following best describes the living conditions of many Almajiri children?",
+    "options": {
+      "A": "Luxurious",
+      "B": "Adequate",
+      "C": "Poor",
+      "D": "Comfortable"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "What practice often leads to the stigmatization of Almajiri children in society?",
+    "options": {
+      "A": "Their educational pursuits",
+      "B": "Their begging activities",
+      "C": "Their fashion choices",
+      "D": "Their dietary habits"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "Which of the following is a common misconception about Almajiri children?",
+    "options": {
+      "A": "They all come from wealthy families",
+      "B": "They are all orphans",
+      "C": "They do not want to learn",
+      "D": "They are all beggars"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "Which of the following is a major reform suggested by experts for the Almajiri system?",
+    "options": {
+      "A": "Complete abolition of the system",
+      "B": "Integration with formal schools",
+      "C": "Increased funding for mosques",
+      "D": "Expansion of agricultural education"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "What is the primary reason for the increased number of Almajiri children in urban areas?",
+    "options": {
+      "A": "Migration for education",
+      "B": "Urbanization of families",
+      "C": "Increased religious zeal",
+      "D": "Better job opportunities"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "The concept of Almajiranci is closely associated with which of the following?",
+    "options": {
+      "A": "Modern education",
+      "B": "Islamic charity",
+      "C": "Cultural festivals",
+      "D": "Political activism"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "What role does the Nigerian government play in the Almajiri system?",
+    "options": {
+      "A": "Total control",
+      "B": "Minimal involvement",
+      "C": "Financial support",
+      "D": "Complete abolition"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "Almajiri children are often found in which of the following locations?",
+    "options": {
+      "A": "Rural farms",
+      "B": "Urban centers",
+      "C": "Coastal areas",
+      "D": "Mountain regions"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "Which of the following challenges does the Almajiri system exacerbate in Nigeria?",
+    "options": {
+      "A": "Cultural diversity",
+      "B": "Urban poverty",
+      "C": "Political representation",
+      "D": "Technological advancement"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "The Almajiri system primarily serves children from which socio-economic background?",
+    "options": {
+      "A": "Wealthy families",
+      "B": "Middle class",
+      "C": "Working class",
+      "D": "Poor families"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "Which aspect of community life is often affected by the presence of Almajiri children?",
+    "options": {
+      "A": "Social cohesion",
+      "B": "Art and culture",
+      "C": "Family structure",
+      "D": "Economic growth"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "What is a significant health challenge faced by many Almajiri children?",
+    "options": {
+      "A": "Malnutrition",
+      "B": "Obesity",
+      "C": "Diabetes",
+      "D": "Asthma"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "What is the significance of the 'Tsangaya' in the context of the Almajiri system?",
+    "options": {
+      "A": "Type of traditional dance",
+      "B": "Islamic school for Almajiri",
+      "C": "Community gathering place",
+      "D": "Market for food"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "What form of work are many Almajiri children often engaged in to survive?",
+    "options": {
+      "A": "Formal employment",
+      "B": "Household chores",
+      "C": "Street vending",
+      "D": "Agriculture"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "Which of the following is a key factor that sustains the Almajiri system in Nigeria?",
+    "options": {
+      "A": "Community support",
+      "B": "Government funding",
+      "C": "International aid",
+      "D": "Educational reforms"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "What is one of the primary reasons families send their children to Almajiri schools?",
+    "options": {
+      "A": "Access to better nutrition",
+      "B": "Religious indoctrination",
+      "C": "Free education",
+      "D": "Employment opportunities"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "What is one psychological impact on Almajiri children due to their circumstances?",
+    "options": {
+      "A": "Increased self-confidence",
+      "B": "Feelings of abandonment",
+      "C": "Sense of belonging",
+      "D": "Leadership qualities"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "What is often a challenge for Almajiri children when attempting to access healthcare?",
+    "options": {
+      "A": "Cost of treatment",
+      "B": "Availability of hospitals",
+      "C": "Transportation issues",
+      "D": "Language barriers"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  },
+  {
+    "question": "In the context of the Almajiri system, what does 'Zakat' refer to?",
+    "options": {
+      "A": "Charity given to the poor",
+      "B": "A form of education",
+      "C": "A type of Islamic law",
+      "D": "A religious festival"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "economic_and_social_history > The Almajiri system and its challenges"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Which city was commonly associated with activism against the military regime in the 1990s?",
+    "options": {
+      "A": "Abuja",
+      "B": "Lagos",
+      "C": "Port Harcourt",
+      "D": "Enugu"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "post_independence_era_1960_present > military_rule_period_2_1983_1999"
+  },
+  {
+    "question": "Which term describes the illegal detainment and oppression of political dissidents during military rule in Nigeria?",
+    "options": {
+      "A": "Arbitrary detention",
+      "B": "Martial law",
+      "C": "Civil disobedience",
+      "D": "Electoral fraud"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "post_independence_era_1960_present > military_rule_period_2_1983_1999"
+  },
+  {
+    "question": "Who was the presidential candidate of the Social Democratic Party in the 1993 elections?",
+    "options": {
+      "A": "Abiola Ahmed",
+      "B": "Bola Tinubu",
+      "C": "Olusegun Obasanjo",
+      "D": "Ibrahim Babangida"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "post_independence_era_1960_present > military_rule_period_2_1983_1999"
+  },
+  {
+    "question": "What was the military government's stance on the media during their rule?",
+    "options": {
+      "A": "Promotion of freedom",
+      "B": "Strict censorship",
+      "C": "Encouragement of investigative journalism",
+      "D": "Media independence"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "post_independence_era_1960_present > military_rule_period_2_1983_1999"
+  }
+]

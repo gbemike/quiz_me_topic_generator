@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What was Buhari's military background before becoming head of state?",
+    "options": {
+      "A": "Artillery Officer",
+      "B": "Infantry Officer",
+      "C": "Air Force Pilot",
+      "D": "Navy Captain"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "military_rule_period_2_1983_1999 > buhari_idiagbon_regime_1983_1985"
+  },
+  {
+    "question": "Buhari's regime is often associated with which major international event?",
+    "options": {
+      "A": "Cold War",
+      "B": "Gulf War",
+      "C": "Balkan War",
+      "D": "Vietnam War"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "military_rule_period_2_1983_1999 > buhari_idiagbon_regime_1983_1985"
+  },
+  {
+    "question": "During Buhari's regime, which group was targeted for censorship?",
+    "options": {
+      "A": "Young entrepreneurs",
+      "B": "Opposition parties",
+      "C": "The military",
+      "D": "Journalists"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "military_rule_period_2_1983_1999 > buhari_idiagbon_regime_1983_1985"
+  },
+  {
+    "question": "Which state was Buhari from?",
+    "options": {
+      "A": "Kano",
+      "B": "Katsina",
+      "C": "Kaduna",
+      "D": "Bauchi"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "military_rule_period_2_1983_1999 > buhari_idiagbon_regime_1983_1985"
+  }
+]

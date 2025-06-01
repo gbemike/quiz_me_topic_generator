@@ -1,0 +1,74 @@
+[
+  {
+    "question": "The NPN government was characterized by a coalition with which ethnic group during its tenure?",
+    "options": {
+      "A": "Yoruba",
+      "B": "Igbo",
+      "C": "Hausa-Fulani",
+      "D": "Kanuri"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "second_republic_1979_1983 > shehu_shagari_presidency_npn_government"
+  },
+  {
+    "question": "Which major political figure was an outspoken critic of Shehu Shagari's policies?",
+    "options": {
+      "A": "Obafemi Awolowo",
+      "B": "Nnamdi Azikiwe",
+      "C": "Muhammadu Buhari",
+      "D": "Bola Ahmed Tinubu"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "second_republic_1979_1983 > shehu_shagari_presidency_npn_government"
+  },
+  {
+    "question": "Which key sector was targeted for development through the National Agricultural Land Development Authority (NALDA) under Shagari?",
+    "options": {
+      "A": "Mining",
+      "B": "Fishing",
+      "C": "Agriculture",
+      "D": "Tourism"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "second_republic_1979_1983 > shehu_shagari_presidency_npn_government"
+  },
+  {
+    "question": "What was the main reason for the decline of the National Party of Nigeria's popularity during Shagari's presidency?",
+    "options": {
+      "A": "Economic growth",
+      "B": "Corruption allegations",
+      "C": "Increased public services",
+      "D": "Political stability"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "second_republic_1979_1983 > shehu_shagari_presidency_npn_government"
+  },
+  {
+    "question": "Shehu Shagari was educated at which institution?",
+    "options": {
+      "A": "University of Ibadan",
+      "B": "Ahmadu Bello University",
+      "C": "University of London",
+      "D": "University of Lagos"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "second_republic_1979_1983 > shehu_shagari_presidency_npn_government"
+  },
+  {
+    "question": "What phrase describes the political philosophy promoted by the NPN government?",
+    "options": {
+      "A": "Democratic socialism",
+      "B": "Neoliberalism",
+      "C": "African socialism",
+      "D": "Market socialism"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "second_republic_1979_1983 > shehu_shagari_presidency_npn_government"
+  }
+]

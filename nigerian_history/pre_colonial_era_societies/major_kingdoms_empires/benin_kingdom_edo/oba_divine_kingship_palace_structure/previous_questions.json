@@ -1,0 +1,230 @@
+[
+  {
+    "question": "Which structure in the Oba's palace serves as a court for resolving disputes?",
+    "options": {
+      "A": "Iwebo",
+      "B": "Ogbe",
+      "C": "Igbin",
+      "D": "Eweka"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "benin_kingdom_edo > oba_divine_kingship_palace_structure"
+  },
+  {
+    "question": "The Oba's palace is often guarded by which of the following?",
+    "options": {
+      "A": "Warriors",
+      "B": "Elders",
+      "C": "Healers",
+      "D": "Women"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > oba_divine_kingship_palace_structure"
+  },
+  {
+    "question": "What is the name of the sacred grove behind the Oba's palace?",
+    "options": {
+      "A": "Ologbo",
+      "B": "Uselu",
+      "C": "Ikpoba",
+      "D": "Ogbelaka"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > oba_divine_kingship_palace_structure"
+  },
+  {
+    "question": "Which of the following materials is traditionally used for palace decorations?",
+    "options": {
+      "A": "Glass",
+      "B": "Wood",
+      "C": "Gold",
+      "D": "Plastic"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > oba_divine_kingship_palace_structure"
+  },
+  {
+    "question": "The palace is divided into several sections called __________. Fill in the blank.",
+    "options": {
+      "A": "courtyards",
+      "B": "quarters",
+      "C": "zones",
+      "D": "domains"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "benin_kingdom_edo > oba_divine_kingship_palace_structure"
+  },
+  {
+    "question": "Which of these roles is often appointed to manage the affairs of the palace?",
+    "options": {
+      "A": "Ogbebor",
+      "B": "Ezomo",
+      "C": "Ogiso",
+      "D": "Iyalode"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "benin_kingdom_edo > oba_divine_kingship_palace_structure"
+  },
+  {
+    "question": "What was the role of the 'Esan' in the palace structure?",
+    "options": {
+      "A": "Guards",
+      "B": "Advisors",
+      "C": "Healers",
+      "D": "Artisans"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > oba_divine_kingship_palace_structure"
+  },
+  {
+    "question": "Which event marks the end of a mourning period in the Benin culture?",
+    "options": {
+      "A": "Igue Festival",
+      "B": "Olokun Festival",
+      "C": "Ebegbeyin Festival",
+      "D": "Oba's Coronation"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > oba_divine_kingship_palace_structure"
+  },
+  {
+    "question": "The Oba's palace is surrounded by which type of wall?",
+    "options": {
+      "A": "Mud wall",
+      "B": "Earth wall",
+      "C": "Brick wall",
+      "D": "Stone wall"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "benin_kingdom_edo > oba_divine_kingship_palace_structure"
+  },
+  {
+    "question": "The Oba's palace has a special room for the __________. Fill in the blank.",
+    "options": {
+      "A": "gods",
+      "B": "royalty",
+      "C": "ancestors",
+      "D": "artisans"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "benin_kingdom_edo > oba_divine_kingship_palace_structure"
+  },
+  {
+    "question": "Which of the following best describes the role of the 'Iyase' in the palace?",
+    "options": {
+      "A": "Spiritual leader",
+      "B": "Military commander",
+      "C": "Cultural ambassador",
+      "D": "Economic advisor"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > oba_divine_kingship_palace_structure"
+  },
+  {
+    "question": "What is the traditional significance of the 'Ogbelaka' in the palace?",
+    "options": {
+      "A": "A training ground for warriors",
+      "B": "An area for entertainment",
+      "C": "The Oba\u2019s burial site",
+      "D": "The council chamber"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "benin_kingdom_edo > oba_divine_kingship_palace_structure"
+  },
+  {
+    "question": "How many main entrances does the Oba's palace have?",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "benin_kingdom_edo > oba_divine_kingship_palace_structure"
+  },
+  {
+    "question": "The Oba is often referred to as the 'Lion of __________'. Fill in the blank.",
+    "options": {
+      "A": "Benin",
+      "B": "Edo",
+      "C": "Africa",
+      "D": "Oyo"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "benin_kingdom_edo > oba_divine_kingship_palace_structure"
+  },
+  {
+    "question": "What type of ritual takes place within the walls of the Oba's palace?",
+    "options": {
+      "A": "Marriage ceremonies",
+      "B": "Sacrifices",
+      "C": "Naming ceremonies",
+      "D": "Crowning ceremonies"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > oba_divine_kingship_palace_structure"
+  },
+  {
+    "question": "Which section of the palace is reserved for the royal family?",
+    "options": {
+      "A": "Ovia",
+      "B": "Ogbe",
+      "C": "Ise",
+      "D": "Ikuka"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "benin_kingdom_edo > oba_divine_kingship_palace_structure"
+  },
+  {
+    "question": "What is the purpose of the 'Iwebo' in the Benin palace?",
+    "options": {
+      "A": "Prison",
+      "B": "War room",
+      "C": "Council meeting space",
+      "D": "Storage"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "benin_kingdom_edo > oba_divine_kingship_palace_structure"
+  },
+  {
+    "question": "The Oba's palace is often associated with which form of governance?",
+    "options": {
+      "A": "Democratic",
+      "B": "Monarchical",
+      "C": "Feudal",
+      "D": "Dictatorial"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "benin_kingdom_edo > oba_divine_kingship_palace_structure"
+  },
+  {
+    "question": "What is the royal lineage of the Oba traced back to?",
+    "options": {
+      "A": "Oduduwa",
+      "B": "Ogun",
+      "C": "Eweka I",
+      "D": "Orunmila"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "benin_kingdom_edo > oba_divine_kingship_palace_structure"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "question": "The Action Group was founded in which year?",
+    "options": {
+      "A": "1951",
+      "B": "1954",
+      "C": "1955",
+      "D": "1956"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "colonial_era_1861_1960 > The formation of political parties (NCNC, AG, NPC)"
+  },
+  {
+    "question": "Which prominent figure was a co-founder of the Action Group?",
+    "options": {
+      "A": "Nnamdi Azikiwe",
+      "B": "Obafemi Awolowo",
+      "C": "Ahmadu Bello",
+      "D": "Michael Imoudu"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > The formation of political parties (NCNC, AG, NPC)"
+  },
+  {
+    "question": "What key document did the NCNC present advocating for self-governance?",
+    "options": {
+      "A": "The Nigerian Charter",
+      "B": "The Lagos Resolution",
+      "C": "The Zikist Movement Manifesto",
+      "D": "The 1947 Constitution"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > The formation of political parties (NCNC, AG, NPC)"
+  },
+  {
+    "question": "Which party was known for advocating for the rights of the minorities in Nigeria?",
+    "options": {
+      "A": "Action Group",
+      "B": "National Council of Nigeria and the Cameroons",
+      "C": "Northern People's Congress",
+      "D": "United Middle Belt Congress"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > The formation of political parties (NCNC, AG, NPC)"
+  },
+  {
+    "question": "True or False: The Action Group was formed in 1944.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Not Specified",
+      "D": "Depends on interpretation"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "colonial_era_1861_1960 > The formation of political parties (NCNC, AG, NPC)"
+  },
+  {
+    "question": "Who served as the first president of the NCNC?",
+    "options": {
+      "A": "Nnamdi Azikiwe",
+      "B": "Obafemi Awolowo",
+      "C": "Ahmadu Bello",
+      "D": "Samuel Akintola"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > The formation of political parties (NCNC, AG, NPC)"
+  },
+  {
+    "question": "What challenge did the NCNC face in uniting various ethnic groups in Nigeria?",
+    "options": {
+      "A": "Overlapping leadership",
+      "B": "Lack of funding",
+      "C": "Ethnic rivalry",
+      "D": "Colonial opposition"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > The formation of political parties (NCNC, AG, NPC)"
+  },
+  {
+    "question": "Which political party was recognized for its strong emphasis on education?",
+    "options": {
+      "A": "Action Group",
+      "B": "Northern People's Congress",
+      "C": "National Council of Nigeria and the Cameroons",
+      "D": "United Middle Belt Congress"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > The formation of political parties (NCNC, AG, NPC)"
+  },
+  {
+    "question": "The Action Group was primarily focused on which of the following policies?",
+    "options": {
+      "A": "Military expansion",
+      "B": "Education and self-help",
+      "C": "Industrialization",
+      "D": "Agricultural reform"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > The formation of political parties (NCNC, AG, NPC)"
+  },
+  {
+    "question": "What major event in 1960 marked the culmination of the efforts of these political parties?",
+    "options": {
+      "A": "The first military coup",
+      "B": "Nigeria's independence",
+      "C": "The civil war",
+      "D": "The creation of the republic"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "colonial_era_1861_1960 > The formation of political parties (NCNC, AG, NPC)"
+  },
+  {
+    "question": "Which group was primarily represented by the NCNC?",
+    "options": {
+      "A": "Yoruba",
+      "B": "Igbo",
+      "C": "Hausa",
+      "D": "Fulani"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "colonial_era_1861_1960 > The formation of political parties (NCNC, AG, NPC)"
+  },
+  {
+    "question": "The AG was known for its emphasis on which of the following?",
+    "options": {
+      "A": "Cultural nationalism",
+      "B": "Religious institutions",
+      "C": "Ethnic superiority",
+      "D": "Foreign investment"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > The formation of political parties (NCNC, AG, NPC)"
+  },
+  {
+    "question": "In the context of the NCNC, what does 'Zikism' refer to?",
+    "options": {
+      "A": "A political ideology",
+      "B": "A cultural movement",
+      "C": "An educational reform",
+      "D": "An economic policy"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "colonial_era_1861_1960 > The formation of political parties (NCNC, AG, NPC)"
+  },
+  {
+    "question": "True or False: The NCNC was initially formed to address the grievances of the educated elite in Nigeria.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Depends on interpretation",
+      "D": "Not relevant"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > The formation of political parties (NCNC, AG, NPC)"
+  },
+  {
+    "question": "Which political party was critical of the AG\u2019s approach to federalism and accused it of dominance?",
+    "options": {
+      "A": "NCNC",
+      "B": "NPC",
+      "C": "UMBC",
+      "D": "NDP"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > The formation of political parties (NCNC, AG, NPC)"
+  },
+  {
+    "question": "True or False: The AG was officially recognized as a national party from its inception.",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Not applicable",
+      "D": "Controversial"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > The formation of political parties (NCNC, AG, NPC)"
+  },
+  {
+    "question": "The AG's support base was primarily in which region?",
+    "options": {
+      "A": "Northern Region",
+      "B": "Eastern Region",
+      "C": "Western Region",
+      "D": "Southern Region"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "colonial_era_1861_1960 > The formation of political parties (NCNC, AG, NPC"
+  },
+  {
+    "question": "Which political party was founded to promote the interests of the Northern Muslims?",
+    "options": {
+      "A": "NCNC",
+      "B": "Action Group",
+      "C": "Northern People's Congress",
+      "D": "United Nigeria Party"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "colonial_era_1861_1960 > The formation of political parties (NCNC, AG, NPC"
+  }
+]

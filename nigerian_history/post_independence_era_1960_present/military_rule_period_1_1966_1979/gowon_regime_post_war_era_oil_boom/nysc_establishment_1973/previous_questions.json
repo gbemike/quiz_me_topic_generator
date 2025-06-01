@@ -1,0 +1,38 @@
+[
+  {
+    "question": "The NYSC was initially aimed at youths from which background?",
+    "options": {
+      "A": "Rural",
+      "B": "Urban",
+      "C": "Military",
+      "D": "Educational"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "gowon_regime_post_war_era_oil_boom > nysc_establishment_1973"
+  },
+  {
+    "question": "In which city was the first NYSC orientation camp established?",
+    "options": {
+      "A": "Lagos",
+      "B": "Kaduna",
+      "C": "Enugu",
+      "D": "Port Harcourt"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "gowon_regime_post_war_era_oil_boom > nysc_establishment_1973"
+  },
+  {
+    "question": "The NYSC corps members are often referred to as what?",
+    "options": {
+      "A": "Corpers",
+      "B": "Youth ambassadors",
+      "C": "Nation builders",
+      "D": "Interns"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "gowon_regime_post_war_era_oil_boom > nysc_establishment_1973"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What was the name of the military tribunal set up by Abacha to try perceived enemies?",
+    "options": {
+      "A": "Special Military Court",
+      "B": "Constitutional Court",
+      "C": "Elections Tribunal",
+      "D": "Civilian Tribunal"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "abacha_regime_1993_1998 > authoritarianism_human_rights_abuses"
+  },
+  {
+    "question": "Which strategy did Abacha employ to legitimize his rule despite widespread dissent?",
+    "options": {
+      "A": "Open elections",
+      "B": "Public consultations",
+      "C": "Propaganda and censorship",
+      "D": "International alliances"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "abacha_regime_1993_1998 > authoritarianism_human_rights_abuses"
+  },
+  {
+    "question": "Under Abacha, many political opponents were placed in _______ without trial.",
+    "options": {
+      "A": "exile",
+      "B": "prisons",
+      "C": "parliament",
+      "D": "negotiations"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "abacha_regime_1993_1998 > authoritarianism_human_rights_abuses"
+  },
+  {
+    "question": "Fill in the blank: Opposition to Abacha\u2019s regime often resulted in _______ and torture.",
+    "options": {
+      "A": "negotiations",
+      "B": "freedom",
+      "C": "arrests",
+      "D": "celebration"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "abacha_regime_1993_1998 > authoritarianism_human_rights_abuses"
+  }
+]

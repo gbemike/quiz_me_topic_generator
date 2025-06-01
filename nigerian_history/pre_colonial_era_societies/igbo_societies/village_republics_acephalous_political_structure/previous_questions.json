@@ -1,0 +1,86 @@
+[
+  {
+    "question": "What is the primary feature that distinguishes acephalous societies from centralized states in Igbo culture?",
+    "options": {
+      "A": "Chieftaincy",
+      "B": "No formal leadership",
+      "C": "Written laws",
+      "D": "Military hierarchy"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "igbo_societies > village_republics_acephalous_political_structure"
+  },
+  {
+    "question": "Within the acephalous structure, who typically has the final say in disputes?",
+    "options": {
+      "A": "The chief",
+      "B": "The assembly of elders",
+      "C": "The youth leader",
+      "D": "The priest"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "igbo_societies > village_republics_acephalous_political_structure"
+  },
+  {
+    "question": "What do 'Umunna' groups primarily represent in Igbo villages?",
+    "options": {
+      "A": "Clan networks",
+      "B": "Economic units",
+      "C": "Religious sects",
+      "D": "Political parties"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "igbo_societies > village_republics_acephalous_political_structure"
+  },
+  {
+    "question": "The concept of 'Ekwensu' in Igbo mythology is associated with which of the following roles?",
+    "options": {
+      "A": "Peacekeeper",
+      "B": "Warrior spirit",
+      "C": "Craftsman",
+      "D": "Healer"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "igbo_societies > village_republics_acephalous_political_structure"
+  },
+  {
+    "question": "What is typically the main goal of the 'Umunna' assemblies in Igbo village republics?",
+    "options": {
+      "A": "Wealth accumulation",
+      "B": "Cultural preservation",
+      "C": "Political power",
+      "D": "Social cohesion"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "igbo_societies > village_republics_acephalous_political_structure"
+  },
+  {
+    "question": "Which of the following is a traditional Igbo approach to leadership transition?",
+    "options": {
+      "A": "Coup d'\u00e9tat",
+      "B": "Election based on age groups",
+      "C": "Selection by consensus",
+      "D": "Hereditary succession"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "igbo_societies > village_republics_acephalous_political_structure"
+  },
+  {
+    "question": "In the context of Igbo acephalous societies, what does 'Ibo' refer to?",
+    "options": {
+      "A": "Language",
+      "B": "Clan",
+      "C": "Village",
+      "D": "Tradition"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "igbo_societies > village_republics_acephalous_political_structure"
+  }
+]

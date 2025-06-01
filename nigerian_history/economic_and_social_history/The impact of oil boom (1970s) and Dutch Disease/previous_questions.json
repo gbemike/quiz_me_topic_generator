@@ -1,0 +1,74 @@
+[
+  {
+    "question": "The term 'Dutch Disease' was first used to describe the economic situation of which country?",
+    "options": {
+      "A": "Nigeria",
+      "B": "Netherlands",
+      "C": "Venezuela",
+      "D": "Saudi Arabia"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The impact of oil boom (1970s) and Dutch Disease"
+  },
+  {
+    "question": "The sudden wealth from oil led to an increase in what kind of housing in Nigerian cities?",
+    "options": {
+      "A": "Affordable housing",
+      "B": "Luxury apartments",
+      "C": "Rural houses",
+      "D": "Public housing"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The impact of oil boom (1970s) and Dutch Disease"
+  },
+  {
+    "question": "The rise of oil revenue led to increased military spending in Nigeria. What was one consequence of this?",
+    "options": {
+      "A": "Improved security",
+      "B": "Civil unrest",
+      "C": "Better infrastructure",
+      "D": "Stronger democracy"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The impact of oil boom (1970s) and Dutch Disease"
+  },
+  {
+    "question": "What economic term describes the negative impact on other sectors of the economy due to a resource boom?",
+    "options": {
+      "A": "Crowding out",
+      "B": "Economic liberalization",
+      "C": "Inflationary spiral",
+      "D": "Supply shock"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The impact of oil boom (1970s) and Dutch Disease"
+  },
+  {
+    "question": "Which cultural practice was notably impacted by the oil boom, leading to changes in traditional lifestyles?",
+    "options": {
+      "A": "Farming techniques",
+      "B": "Art forms",
+      "C": "Religious practices",
+      "D": "Fashion styles"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The impact of oil boom (1970s) and Dutch Disease"
+  },
+  {
+    "question": "In response to the oil boom, what was one governmental approach to managing oil wealth?",
+    "options": {
+      "A": "Decentralization of power",
+      "B": "Creation of sovereign wealth funds",
+      "C": "Nationalization of oil companies",
+      "D": "Increased import tariffs"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The impact of oil boom (1970s) and Dutch Disease"
+  }
+]

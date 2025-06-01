@@ -1,0 +1,110 @@
+[
+  {
+    "question": "Which region did not have a premier during the First Republic?",
+    "options": {
+      "A": "Western Region",
+      "B": "Northern Region",
+      "C": "Eastern Region",
+      "D": "South-South Region"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "first_republic_1960_1966 > political_instability_regional_rivalries"
+  },
+  {
+    "question": "What was the primary source of conflict between the Eastern and Northern regions in the First Republic?",
+    "options": {
+      "A": "Land disputes",
+      "B": "Power dynamics",
+      "C": "Trade competition",
+      "D": "Cultural differences"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "first_republic_1960_1966 > political_instability_regional_rivalries"
+  },
+  {
+    "question": "The 'Balewa' administration is often criticized for favoring which group?",
+    "options": {
+      "A": "Northerners",
+      "B": "Westerners",
+      "C": "Easterners",
+      "D": "All Nigerians equally"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "first_republic_1960_1966 > political_instability_regional_rivalries"
+  },
+  {
+    "question": "Which political party was seen as the representative of the South during the First Republic?",
+    "options": {
+      "A": "Action Group",
+      "B": "Northern People's Congress",
+      "C": "National Council of Nigeria and the Cameroons",
+      "D": "All Nigeria Peoples Party"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > political_instability_regional_rivalries"
+  },
+  {
+    "question": "What was a common grievance of the Eastern region against the Federal government?",
+    "options": {
+      "A": "Lack of representation",
+      "B": "Higher taxes",
+      "C": "Poor infrastructure",
+      "D": "Limited autonomy"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "first_republic_1960_1966 > political_instability_regional_rivalries"
+  },
+  {
+    "question": "The failure of the First Republic is often attributed to which of the following?",
+    "options": {
+      "A": "Strong leadership",
+      "B": "Coalition politics",
+      "C": "Unity among ethnic groups",
+      "D": "Foreign investment"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "first_republic_1960_1966 > political_instability_regional_rivalries"
+  },
+  {
+    "question": "What was a common regional perception of the Northern Peoples Congress during the First Republic?",
+    "options": {
+      "A": "Advocate for unity",
+      "B": "Representation of minority interests",
+      "C": "Overbearing dominance",
+      "D": "Champion of democracy"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "first_republic_1960_1966 > political_instability_regional_rivalries"
+  },
+  {
+    "question": "The Eastern Region's struggle for political recognition was often tied to which of the following?",
+    "options": {
+      "A": "Oil wealth",
+      "B": "Cultural heritage",
+      "C": "Ethnic federalism",
+      "D": "Military influence"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "first_republic_1960_1966 > political_instability_regional_rivalries"
+  },
+  {
+    "question": "The term 'politics of exclusion' during the First Republic primarily referred to which practice?",
+    "options": {
+      "A": "Inclusion of all ethnic groups",
+      "B": "Favoring certain ethnic groups over others",
+      "C": "Promoting collaboration between parties",
+      "D": "Encouragement of inter-regional dialogue"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "first_republic_1960_1966 > political_instability_regional_rivalries"
+  }
+]

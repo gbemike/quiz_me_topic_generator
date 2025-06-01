@@ -1,0 +1,194 @@
+[
+  {
+    "question": "In a hypothetical reenactment of the Nigerian Civil War, if Murtala Ramat Mohammed were to use a modern strategy game to plan his tactics, which of these games might best simulate the complexities he faced during the campaign for the Mid-Western region?",
+    "options": {
+      "A": "Age of Empires II",
+      "B": "Risk",
+      "C": "Civilization VI",
+      "D": "Command and Conquer"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian history"
+  },
+  {
+    "question": "Murtala's regime is often associated with which key initiative?",
+    "options": {
+      "A": "Operation Feeding the Nation",
+      "B": "Land Use Decree",
+      "C": "Green Revolution",
+      "D": "Economic Recovery Programme"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "civil_war > The Murtala"
+  },
+  {
+    "question": "Under Murtala's leadership, which plan aimed to revitalize the education sector?",
+    "options": {
+      "A": "Universal Primary Education Plan",
+      "B": "National Policy on Education",
+      "C": "Adult Literacy Campaign",
+      "D": "Technical Education Programme"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "civil_war > The Murtala"
+  },
+  {
+    "question": "What was a significant outcome of Murtala Mohammed's anti-corruption campaign?",
+    "options": {
+      "A": "Increased foreign investment",
+      "B": "Resignation of corrupt officials",
+      "C": "Nationalization of banks",
+      "D": "Imposition of taxes on the wealthy"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "civil_war > The Murtala"
+  },
+  {
+    "question": "Which prominent political figure was executed during Murtala's regime as part of his anti-corruption drive?",
+    "options": {
+      "A": "Olusegun Obasanjo",
+      "B": "Shehu Shagari",
+      "C": "Mohammed Aminu Kano",
+      "D": "Abdulsalami Abubakar"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "civil_war > The Murtala"
+  },
+  {
+    "question": "Murtala's government was notable for implementing what type of reforms?",
+    "options": {
+      "A": "Economic reforms",
+      "B": "Cultural reforms",
+      "C": "Military reforms",
+      "D": "Judicial reforms"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "civil_war > The Murtala"
+  },
+  {
+    "question": "Which document outlined Murtala Mohammed's vision for Nigeria's future?",
+    "options": {
+      "A": "The Green Book",
+      "B": "The Nigerian Constitution",
+      "C": "The Ten-Point Agenda",
+      "D": "The Murtala Mohammed Declaration"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "civil_war > The Murtala"
+  },
+  {
+    "question": "Murtala\u2019s government is often credited with which development in Nigeria's political history?",
+    "options": {
+      "A": "Return to civilian rule",
+      "B": "Civil war declaration",
+      "C": "International isolation",
+      "D": "Economic downfall"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "civil_war > The Murtala"
+  },
+  {
+    "question": "Murtala\u2019s leadership led to what significant change in Nigeria's military structure?",
+    "options": {
+      "A": "Increased civilian control",
+      "B": "Greater military expansion",
+      "C": "Decentralization of power",
+      "D": "Professionalization of the army"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "civil_war > The Murtala"
+  },
+  {
+    "question": "What was a major economic challenge faced during Murtala's rule?",
+    "options": {
+      "A": "Inflation",
+      "B": "Deflation",
+      "C": "Stagnation",
+      "D": "Recession"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "civil_war > The Murtala"
+  },
+  {
+    "question": "Murtala Mohammed was a key figure in which major historical movement?",
+    "options": {
+      "A": "Anti-colonialism",
+      "B": "Pan-Africanism",
+      "C": "Military rule in Nigeria",
+      "D": "Civil rights movement"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "civil_war > The Murtala"
+  },
+  {
+    "question": "Which country supported Murtala's government during the civil war?",
+    "options": {
+      "A": "United States",
+      "B": "Soviet Union",
+      "C": "United Kingdom",
+      "D": "France"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "civil_war > The Murtala"
+  },
+  {
+    "question": "Murtala Mohammed's government was part of a series of military regimes in Nigeria known as what?",
+    "options": {
+      "A": "The Nigerian Army Chronicles",
+      "B": "The Military Era",
+      "C": "The Era of Coups",
+      "D": "The Martial Governance"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "civil_war > The Murtala"
+  },
+  {
+    "question": "What was Murtala's view on foreign aid?",
+    "options": {
+      "A": "Essential for development",
+      "B": "A sign of weakness",
+      "C": "Beneficial only when controlled",
+      "D": "Unnecessary for growth"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "civil_war > The Murtala"
+  },
+  {
+    "question": "Which famous Nigerian general was an ally of Murtala Mohammed?",
+    "options": {
+      "A": "Ibrahim Babangida",
+      "B": "Muhammadu Buhari",
+      "C": "Akinyemi Ogunyemi",
+      "D": "Theophilus Danjuma"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "civil_war > The Murtala"
+  },
+  {
+    "question": "Murtala's foreign policy was generally characterized by a tilt towards which bloc?",
+    "options": {
+      "A": "Western Bloc",
+      "B": "Eastern Bloc",
+      "C": "Non-Aligned Movement",
+      "D": "Capitalist Bloc"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "civil_war > The Murtala"
+  }
+]

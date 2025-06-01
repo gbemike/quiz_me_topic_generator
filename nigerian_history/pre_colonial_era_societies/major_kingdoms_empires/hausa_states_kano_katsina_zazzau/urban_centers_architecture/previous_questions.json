@@ -1,0 +1,110 @@
+[
+  {
+    "question": "What is the traditional purpose of the Hausa 'Kofar' gate?",
+    "options": {
+      "A": "Decorative",
+      "B": "Trade",
+      "C": "Defense",
+      "D": "Housing"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "hausa_states_kano_katsina_zazzau > urban_centers_architecture"
+  },
+  {
+    "question": "In terms of urban planning, Hausa cities often had a separate area designated for ______.",
+    "options": {
+      "A": "Farming",
+      "B": "Religion",
+      "C": "Entertainment",
+      "D": "Industry"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "hausa_states_kano_katsina_zazzau > urban_centers_architecture"
+  },
+  {
+    "question": "The Zazzau kingdom is significant for its ______ architectural landmarks.",
+    "options": {
+      "A": "Modern",
+      "B": "Cultural",
+      "C": "Ruined",
+      "D": "Foreign"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "hausa_states_kano_katsina_zazzau > urban_centers_architecture"
+  },
+  {
+    "question": "In historical Hausa architecture, what was the primary function of 'Fadar' buildings?",
+    "options": {
+      "A": "Market",
+      "B": "Residential",
+      "C": "Religious",
+      "D": "Administrative"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "hausa_states_kano_katsina_zazzau > urban_centers_architecture"
+  },
+  {
+    "question": "What feature distinguishes the Katsina wall from other fortifications?",
+    "options": {
+      "A": "Height",
+      "B": "Material",
+      "C": "Decoration",
+      "D": "Length"
+    },
+    "answer": "D",
+    "difficulty": "expert",
+    "topic": "hausa_states_kano_katsina_zazzau > urban_centers_architecture"
+  },
+  {
+    "question": "What is a key feature of the Emir's palace in Zaria?",
+    "options": {
+      "A": "Glass facade",
+      "B": "Mud architecture",
+      "C": "Skyscraper",
+      "D": "Open courtyard"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "hausa_states_kano_katsina_zazzau > urban_centers_architecture"
+  },
+  {
+    "question": "What restoration project aimed at preserving Hausa architectural heritage was launched in Kano recently?",
+    "options": {
+      "A": "Kano Heritage Trust",
+      "B": "Kano Urban Renewal",
+      "C": "Kano Culture Initiative",
+      "D": "Kano Historic Preservation"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "hausa_states_kano_katsina_zazzau > urban_centers_architecture"
+  },
+  {
+    "question": "What is the significance of the 'Dutsen Dabino' hill in Zaria?",
+    "options": {
+      "A": "Historical battles",
+      "B": "Ancient sacrifices",
+      "C": "Traditional ceremonies",
+      "D": "Royal tombs"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "hausa_states_kano_katsina_zazzau > urban_centers_architecture"
+  },
+  {
+    "question": "What is the primary function of the 'Juma'a' Mosque in Kano?",
+    "options": {
+      "A": "Educational",
+      "B": "Residential",
+      "C": "Civic",
+      "D": "Religious"
+    },
+    "answer": "D",
+    "difficulty": "easy",
+    "topic": "hausa_states_kano_katsina_zazzau > urban_centers_architecture"
+  }
+]

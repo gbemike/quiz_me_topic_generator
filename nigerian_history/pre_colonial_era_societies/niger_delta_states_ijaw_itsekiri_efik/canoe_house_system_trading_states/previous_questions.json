@@ -1,0 +1,86 @@
+[
+  {
+    "question": "In which river is the Itsekiri community primarily located?",
+    "options": {
+      "A": "Niger River",
+      "B": "Benin River",
+      "C": "Cross River",
+      "D": "Forcados River"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "niger_delta_states_ijaw_itsekiri_efik > canoe_house_system_trading_states"
+  },
+  {
+    "question": "The canoe house system primarily reflects what aspect of the Ijaw culture?",
+    "options": {
+      "A": "Art",
+      "B": "Economy",
+      "C": "Religion",
+      "D": "Social structure"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "niger_delta_states_ijaw_itsekiri_efik > canoe_house_system_trading_states"
+  },
+  {
+    "question": "Which river is crucial for trade among the Delta states?",
+    "options": {
+      "A": "Niger River",
+      "B": "Benin River",
+      "C": "Cross River",
+      "D": "Imo River"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "niger_delta_states_ijaw_itsekiri_efik > canoe_house_system_trading_states"
+  },
+  {
+    "question": "What is the name of the chief deity in Efik spirituality?",
+    "options": {
+      "A": "Obong",
+      "B": "Orunmila",
+      "C": "Ogun",
+      "D": "Sango"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "niger_delta_states_ijaw_itsekiri_efik > canoe_house_system_trading_states"
+  },
+  {
+    "question": "What unique feature does the canoe house system reflect about Ijaw communal living?",
+    "options": {
+      "A": "Individualism",
+      "B": "Segregation",
+      "C": "Collective ownership",
+      "D": "Wealth disparity"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "niger_delta_states_ijaw_itsekiri_efik > canoe_house_system_trading_states"
+  },
+  {
+    "question": "The Efik people's traditional religion is closely tied to what element?",
+    "options": {
+      "A": "Fire",
+      "B": "Water",
+      "C": "Earth",
+      "D": "Air"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "niger_delta_states_ijaw_itsekiri_efik > canoe_house_system_trading_states"
+  },
+  {
+    "question": "The Ijaw traditional government is primarily organized around what structure?",
+    "options": {
+      "A": "Clans",
+      "B": "Familial units",
+      "C": "Tribes",
+      "D": "Nation-states"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "niger_delta_states_ijaw_itsekiri_efik > canoe_house_system_trading_states"
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "question": "Which ethnic group is particularly known for their vibrant market culture and strong female participation in trade?",
+    "options": {
+      "A": "Yoruba",
+      "B": "Hausa",
+      "C": "Igbo",
+      "D": "Efik"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "What is the primary product sold by female traders in the Araromi market in Ibadan?",
+    "options": {
+      "A": "Textiles",
+      "B": "Foodstuffs",
+      "C": "Electronics",
+      "D": "Furniture"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "What primary role do market women serve in their communities beyond selling goods?",
+    "options": {
+      "A": "Education",
+      "B": "Social support",
+      "C": "Healthcare",
+      "D": "Urban planning"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "Market women in Nigeria often form cooperatives to achieve what?",
+    "options": {
+      "A": "Political power",
+      "B": "Financial independence",
+      "C": "Cultural preservation",
+      "D": "Social status"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "What impact do market women have on food security in Nigeria?",
+    "options": {
+      "A": "Minimal impact",
+      "B": "Negative impact",
+      "C": "Critical impact",
+      "D": "Disruptive impact"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "Which of the following goods is NOT typically sold by market women in Nigeria?",
+    "options": {
+      "A": "Fresh produce",
+      "B": "Fabrics",
+      "C": "Electrical appliances",
+      "D": "Spices"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "What traditional role do market women play during festive seasons in Nigeria?",
+    "options": {
+      "A": "Organizing political rallies",
+      "B": "Selling traditional foods",
+      "C": "Hosting cultural events",
+      "D": "Conducting religious ceremonies"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "Market women often face competition from which group in urban areas?",
+    "options": {
+      "A": "International traders",
+      "B": "Government agencies",
+      "C": "Street vendors",
+      "D": "Retail chains"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "In traditional Nigerian markets, the practice of 'greeting' while conducting transactions serves to enhance what aspect?",
+    "options": {
+      "A": "Respect",
+      "B": "Punctuality",
+      "C": "Privacy",
+      "D": "Efficiency"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "Market women in Nigeria are often involved in which type of community service?",
+    "options": {
+      "A": "Healthcare",
+      "B": "Political advocacy",
+      "C": "Environmental clean-up",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "What economic strategy do market women use to safeguard against market fluctuations?",
+    "options": {
+      "A": "Diversification of goods",
+      "B": "Fixed pricing",
+      "C": "Government subsidies",
+      "D": "Market monopolization"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "Which characteristic defines the trading style of many Nigerian market women?",
+    "options": {
+      "A": "Aggressive pricing",
+      "B": "Negotiation and haggling",
+      "C": "Fixed pricing",
+      "D": "Online sales"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "What community resource do market women often provide aside from goods?",
+    "options": {
+      "A": "Financial loans",
+      "B": "Education",
+      "C": "Social networking",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "Which of the following is a key benefit of the market women\u2019s cooperative movement in Nigeria?",
+    "options": {
+      "A": "Increased competition",
+      "B": "Greater bargaining power",
+      "C": "Reduced costs",
+      "D": "None of the above"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "Which festival often sees an increase in market activities for women traders in Nigeria?",
+    "options": {
+      "A": "Eid-el-Fitr",
+      "B": "Easter",
+      "C": "Christmas",
+      "D": "New Yam Festival"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "Market women in Nigeria often use which form of bargaining to finalize sales?",
+    "options": {
+      "A": "Silent auction",
+      "B": "Open bidding",
+      "C": "Haggling",
+      "D": "Fixed pricing"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "The term 'Aso ebi' refers to what aspect of market women's commerce?",
+    "options": {
+      "A": "A type of food",
+      "B": "A fashion choice for events",
+      "C": "A local dialect",
+      "D": "A community service effort"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "Which of these products is less likely to be sold by market women in Nigeria?",
+    "options": {
+      "A": "Vegetables",
+      "B": "Spices",
+      "C": "Luxury cars",
+      "D": "Fish"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "Market women are critical in bridging what gap in the Nigerian economy?",
+    "options": {
+      "A": "Urban and rural divide",
+      "B": "Technology and tradition",
+      "C": "Global and local markets",
+      "D": "Food supply and demand"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "Which of the following is a key challenge faced by market women in Nigeria?",
+    "options": {
+      "A": "High literacy rates",
+      "B": "Limited access to capital",
+      "C": "Abundance of market space",
+      "D": "Surplus of goods"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "The role of market women in food distribution is essential for what aspect of Nigerian society?",
+    "options": {
+      "A": "Urbanization",
+      "B": "Food security",
+      "C": "Cultural preservation",
+      "D": "Political stability"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "Which organization is often associated with empowering market women in Nigeria?",
+    "options": {
+      "A": "Nigerian Women\u2019s Association",
+      "B": "Market Women Union",
+      "C": "Cooperative Federation of Nigeria",
+      "D": "Women's Rights Advocacy Group"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "Market women often utilize which form of transport to carry goods?",
+    "options": {
+      "A": "Bicycles",
+      "B": "Horse carts",
+      "C": "Trucks",
+      "D": "Motorcycles"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "In which market is the famous 'Oja' known for selling local produce primarily run by women?",
+    "options": {
+      "A": "Oshodi market",
+      "B": "Onitsha market",
+      "C": "Abeokuta market",
+      "D": "Enugu market"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "What traditional market practice do Nigerian women use to attract customers?",
+    "options": {
+      "A": "Loud singing",
+      "B": "Colorful displays",
+      "C": "Silent selling",
+      "D": "Free samples"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "Many Nigerian market women are known for what skill in managing their businesses?",
+    "options": {
+      "A": "Investment banking",
+      "B": "Financial literacy",
+      "C": "Social media marketing",
+      "D": "Foreign trade"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "Market women in Nigeria are often key players in promoting which aspect of local culture?",
+    "options": {
+      "A": "International trade",
+      "B": "Local cuisine",
+      "C": "Foreign investments",
+      "D": "Technology adoption"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "What is a significant impact of market women's activities on local economies in Nigeria?",
+    "options": {
+      "A": "Job creation",
+      "B": "Import dependency",
+      "C": "High inflation",
+      "D": "Urban migration"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "Which of these items is more commonly traded by market women during festive seasons?",
+    "options": {
+      "A": "Books",
+      "B": "Clothing",
+      "C": "Meat",
+      "D": "Household items"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "The women in the market often share information about resources and prices through what method?",
+    "options": {
+      "A": "Formal meetings",
+      "B": "Social media",
+      "C": "Common gossip",
+      "D": "Community newsletters"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "What is a common risk factor for market women during major festivals in Nigeria?",
+    "options": {
+      "A": "Price inflation",
+      "B": "Labor shortages",
+      "C": "Increased competition",
+      "D": "Transport delays"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "In Nigerian market culture, what is a common phrase used by market women to attract customers?",
+    "options": {
+      "A": "Come buy!",
+      "B": "No price, no sale!",
+      "C": "See as e dey hot!",
+      "D": "Best price here!"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "Market women often collaborate with farmers to ensure the availability of what?",
+    "options": {
+      "A": "High-end products",
+      "B": "Fresh produce",
+      "C": "Imported goods",
+      "D": "Canned food"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "Which practice do market women frequently use to negotiate prices?",
+    "options": {
+      "A": "Using a fixed price list",
+      "B": "Offering bulk discounts",
+      "C": "Making counter offers",
+      "D": "Fixed rate sales"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  },
+  {
+    "question": "What is a key factor that influences the pricing of goods sold by market women?",
+    "options": {
+      "A": "Branding",
+      "B": "Customer loyalty",
+      "C": "Market demand and supply",
+      "D": "Advertising costs"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The role of market women in Nigerian economy"
+  }
+]

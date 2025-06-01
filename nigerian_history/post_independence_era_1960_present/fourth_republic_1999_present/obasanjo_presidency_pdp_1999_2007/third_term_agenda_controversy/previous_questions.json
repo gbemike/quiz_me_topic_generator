@@ -1,0 +1,110 @@
+[
+  {
+    "question": "In which year did the third term agenda controversy come to a head?",
+    "options": {
+      "A": "2004",
+      "B": "2005",
+      "C": "2006",
+      "D": "2007"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > third_term_agenda_controversy"
+  },
+  {
+    "question": "Which federal agency was involved in the debates surrounding the constitutionality of the third term agenda?",
+    "options": {
+      "A": "Independent National Electoral Commission",
+      "B": "National Assembly",
+      "C": "Federal Executive Council",
+      "D": "Economic and Financial Crimes Commission"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > third_term_agenda_controversy"
+  },
+  {
+    "question": "Which prominent lawyer publicly challenged the constitutionality of the third term agenda?",
+    "options": {
+      "A": "Femi Falana",
+      "B": "Wole Soyinka",
+      "C": "Ayo Obe",
+      "D": "Mike Ozekhome"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > third_term_agenda_controversy"
+  },
+  {
+    "question": "What international body expressed concern over Obasanjo\u2019s third term agenda?",
+    "options": {
+      "A": "African Union",
+      "B": "United Nations",
+      "C": "ECOWAS",
+      "D": "NATO"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > third_term_agenda_controversy"
+  },
+  {
+    "question": "What role did civil society organizations play during the third term agenda controversy?",
+    "options": {
+      "A": "Supporters of the agenda",
+      "B": "Neutral observers",
+      "C": "Opponents and critics",
+      "D": "Political allies"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > third_term_agenda_controversy"
+  },
+  {
+    "question": "What was the primary medium through which the Nigerian public expressed their dissent against the third term agenda?",
+    "options": {
+      "A": "Television",
+      "B": "Social media",
+      "C": "Print media",
+      "D": "Radio"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > third_term_agenda_controversy"
+  },
+  {
+    "question": "What was the name of the civil society group that actively opposed the third term agenda?",
+    "options": {
+      "A": "Enough is Enough",
+      "B": "Civil Liberties Organisation",
+      "C": "Nigeria Labour Congress",
+      "D": "Save Nigeria Group"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > third_term_agenda_controversy"
+  },
+  {
+    "question": "The third term agenda was perceived as an attempt to amend the constitution in favor of whom?",
+    "options": {
+      "A": "The military",
+      "B": "Obasanjo",
+      "C": "The PDP",
+      "D": "The Senate"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > third_term_agenda_controversy"
+  },
+  {
+    "question": "How did the Nigerian judiciary respond to the third term agenda proposals?",
+    "options": {
+      "A": "Supported them",
+      "B": "Ignored them",
+      "C": "Challenged them",
+      "D": "Approved them"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "obasanjo_presidency_pdp_1999_2007 > third_term_agenda_controversy"
+  }
+]

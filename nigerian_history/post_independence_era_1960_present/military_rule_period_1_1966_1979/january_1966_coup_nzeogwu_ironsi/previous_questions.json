@@ -1,0 +1,134 @@
+[
+  {
+    "question": "Which prominent political party\u2019s leaders were eliminated during the coup?",
+    "options": {
+      "A": "Action Group",
+      "B": "National Council of Nigeria and the Cameroons",
+      "C": "Northern People's Congress",
+      "D": "National Democratic Party"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "military_rule_period_1_1966_1979 > january_1966_coup_nzeogwu_ironsi"
+  },
+  {
+    "question": "What language was predominantly used by the coup leaders during the planning stages?",
+    "options": {
+      "A": "Hausa",
+      "B": "Igbo",
+      "C": "Yoruba",
+      "D": "Pidgin English"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "military_rule_period_1_1966_1979 > january_1966_coup_nzeogwu_ironsi"
+  },
+  {
+    "question": "Which ethnic group did Major Kaduna Nzeogwu belong to?",
+    "options": {
+      "A": "Hausa",
+      "B": "Yoruba",
+      "C": "Igbo",
+      "D": "Fulani"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "military_rule_period_1_1966_1979 > january_1966_coup_nzeogwu_ironsi"
+  },
+  {
+    "question": "What was the reaction of the international community to the January 1966 coup?",
+    "options": {
+      "A": "Support for the coup",
+      "B": "Condemnation of military rule",
+      "C": "Indifference",
+      "D": "Calls for democracy"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "military_rule_period_1_1966_1979 > january_1966_coup_nzeogwu_ironsi"
+  },
+  {
+    "question": "What was one reason for the increased ethnic tensions following the coup?",
+    "options": {
+      "A": "Redistribution of wealth",
+      "B": "Political power struggles",
+      "C": "Cultural exchanges",
+      "D": "Economic collaboration"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "military_rule_period_1_1966_1979 > january_1966_coup_nzeogwu_ironsi"
+  },
+  {
+    "question": "Which event was a direct result of ethnic militancy post-coup?",
+    "options": {
+      "A": "Biafran War",
+      "B": "Economic sanctions",
+      "C": "International relations improvement",
+      "D": "Civil protests"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "military_rule_period_1_1966_1979 > january_1966_coup_nzeogwu_ironsi"
+  },
+  {
+    "question": "What was a notable feature of the coup regarding its method of execution?",
+    "options": {
+      "A": "Use of airstrikes",
+      "B": "Peaceful protests",
+      "C": "Targeted assassinations",
+      "D": "Widespread public support"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "military_rule_period_1_1966_1979 > january_1966_coup_nzeogwu_ironsi"
+  },
+  {
+    "question": "Which social group faced the most backlash after the coup?",
+    "options": {
+      "A": "Military officers",
+      "B": "Business owners",
+      "C": "Igbo population",
+      "D": "Political activists"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "military_rule_period_1_1966_1979 > january_1966_coup_nzeogwu_ironsi"
+  },
+  {
+    "question": "What significant policy was enacted under Ironsi\u2019s regime?",
+    "options": {
+      "A": "Devolution of powers",
+      "B": "Unification of Nigeria's military commands",
+      "C": "Establishment of a constitution",
+      "D": "Increased military budgets"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "military_rule_period_1_1966_1979 > january_1966_coup_nzeogwu_ironsi"
+  },
+  {
+    "question": "In which month did the coup occur?",
+    "options": {
+      "A": "January",
+      "B": "February",
+      "C": "March",
+      "D": "December"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "military_rule_period_1_1966_1979 > january_1966_coup_nzeogwu_ironsi"
+  },
+  {
+    "question": "Which ethnic group was predominantly in control of the military prior to the coup?",
+    "options": {
+      "A": "Igbo",
+      "B": "Yoruba",
+      "C": "Hausa",
+      "D": "Fulani"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "military_rule_period_1_1966_1979 > january_1966_coup_nzeogwu_ironsi"
+  }
+]

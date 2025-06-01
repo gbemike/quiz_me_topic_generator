@@ -1,0 +1,38 @@
+[
+  {
+    "question": "The establishment of which institution was a key part of the colonial government's attempt to gain control over traditional leadership?",
+    "options": {
+      "A": "Chiefs' Council",
+      "B": "Legislative Council",
+      "C": "Native Administration",
+      "D": "Royal Court"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_and_social_history > The impact of colonialism on Nigerian traditional institutions"
+  },
+  {
+    "question": "Which social institution suffered greatly due to the imposition of colonial legal systems?",
+    "options": {
+      "A": "Marriage customs",
+      "B": "Traditional dispute resolution",
+      "C": "Religious practices",
+      "D": "Cultural festivals"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The impact of colonialism on Nigerian traditional institutions"
+  },
+  {
+    "question": "The economic exploitation during colonialism resulted in the neglect of which aspect of traditional society?",
+    "options": {
+      "A": "Cultural values",
+      "B": "Health systems",
+      "C": "Education",
+      "D": "Traditional leadership"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_and_social_history > The impact of colonialism on Nigerian traditional institutions"
+  }
+]

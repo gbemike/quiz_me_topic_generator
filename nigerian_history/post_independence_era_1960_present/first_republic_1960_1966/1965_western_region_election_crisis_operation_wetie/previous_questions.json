@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Which political figure was accused of manipulating the election results in 1965?",
+    "options": {
+      "A": "Obafemi Awolowo",
+      "B": "Samuel Ladoke Akintola",
+      "C": "Nnamdi Azikiwe",
+      "D": "Ahmadu Bello"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "first_republic_1960_1966 > 1965_western_region_election_crisis_operation_wetie"
+  },
+  {
+    "question": "What role did the press play during the 1965 Western Region elections?",
+    "options": {
+      "A": "Promoted government propaganda",
+      "B": "Investigated electoral fraud",
+      "C": "Reported on riots",
+      "D": "Encouraged political debates"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > 1965_western_region_election_crisis_operation_wetie"
+  },
+  {
+    "question": "What was the consequence of the violence in the Western Region for the public?",
+    "options": {
+      "A": "Increased trust in politics",
+      "B": "Fear and displacement",
+      "C": "Economic prosperity",
+      "D": "Cultural exchange"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "first_republic_1960_1966 > 1965_western_region_election_crisis_operation_wetie"
+  },
+  {
+    "question": "What was the primary means of communication used by the Action Group to reach voters?",
+    "options": {
+      "A": "Television ads",
+      "B": "Radio broadcasts",
+      "C": "Pamphlets and rallies",
+      "D": "Social media"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > 1965_western_region_election_crisis_operation_wetie"
+  },
+  {
+    "question": "Operation Wetie was primarily a response to what event?",
+    "options": {
+      "A": "A military coup",
+      "B": "Election violence",
+      "C": "A constitutional crisis",
+      "D": "Civil unrest"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > 1965_western_region_election_crisis_operation_wetie"
+  },
+  {
+    "question": "What was the primary demand of the Action Group regarding the election results?",
+    "options": {
+      "A": "Resignation of the Governor",
+      "B": "Fresh elections",
+      "C": "Judicial review",
+      "D": "Political reform"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "first_republic_1960_1966 > 1965_western_region_election_crisis_operation_wetie"
+  },
+  {
+    "question": "What was the main outcome of the June 1965 election tribunal?",
+    "options": {
+      "A": "Election annulled",
+      "B": "Results upheld",
+      "C": "New elections scheduled",
+      "D": "Governor impeached"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "first_republic_1960_1966 > 1965_western_region_election_crisis_operation_wetie"
+  },
+  {
+    "question": "Which committee was set up to investigate the 1965 election violence?",
+    "options": {
+      "A": "Justice Udoji Commission",
+      "B": "Justice Akinola Aguda Commission",
+      "C": "Justice Oputa Commission",
+      "D": "Justice Coker Commission"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "first_republic_1960_1966 > 1965_western_region_election_crisis_operation_wetie"
+  },
+  {
+    "question": "What was one of the major accusations against the Western Region's ruling party during the elections?",
+    "options": {
+      "A": "Corruption",
+      "B": "Ethnic bias",
+      "C": "Election rigging",
+      "D": "Poor governance"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > 1965_western_region_election_crisis_operation_wetie"
+  },
+  {
+    "question": "Which law was enacted to address the violence and chaos following the 1965 elections?",
+    "options": {
+      "A": "Emergency Powers Act",
+      "B": "Public Order Act",
+      "C": "Constitution Amendment",
+      "D": "Anti-Mutiny Law"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > 1965_western_region_election_crisis_operation_wetie"
+  },
+  {
+    "question": "What was the role of traditional rulers during the 1965 elections in the Western Region?",
+    "options": {
+      "A": "Neutral mediators",
+      "B": "Active participants",
+      "C": "Election observers",
+      "D": "Political advisors"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > 1965_western_region_election_crisis_operation_wetie"
+  },
+  {
+    "question": "Which international power was closely monitoring the political situation in Nigeria during the 1965 elections?",
+    "options": {
+      "A": "United States",
+      "B": "United Kingdom",
+      "C": "Soviet Union",
+      "D": "France"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "first_republic_1960_1966 > 1965_western_region_election_crisis_operation_wetie"
+  },
+  {
+    "question": "What was the primary focus of the Action Group's campaign in the Western Region elections?",
+    "options": {
+      "A": "Economic stability",
+      "B": "Educational reforms",
+      "C": "Regional autonomy",
+      "D": "Cultural renaissance"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "first_republic_1960_1966 > 1965_western_region_election_crisis_operation_wetie"
+  },
+  {
+    "question": "What was one of the slogans used by the Action Group during the campaign?",
+    "options": {
+      "A": "Unity and Faith",
+      "B": "Forward Ever",
+      "C": "For the People",
+      "D": "Let\u2019s Build Together"
+    },
+    "answer": "C",
+    "difficulty": "easy",
+    "topic": "first_republic_1960_1966 > 1965_western_region_election_crisis_operation_wetie"
+  },
+  {
+    "question": "How many seats were contested in the Western Region House of Assembly during the 1965 elections?",
+    "options": {
+      "A": "50",
+      "B": "60",
+      "C": "75",
+      "D": "100"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "first_republic_1960_1966 > 1965_western_region_election_crisis_operation_wetie"
+  }
+]

@@ -1,0 +1,374 @@
+[
+  {
+    "question": "What was the primary purpose of introducing currency taxation in Nigeria?",
+    "options": {
+      "A": "Increase government revenue",
+      "B": "Control inflation",
+      "C": "Promote foreign investment",
+      "D": "Stabilize currency value"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "Which Nigerian government body is primarily responsible for the management of currency taxation?",
+    "options": {
+      "A": "Central Bank of Nigeria",
+      "B": "Nigerian National Petroleum Corporation",
+      "C": "Federal Inland Revenue Service",
+      "D": "Ministry of Finance"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "Fill in the blank: The introduction of currency taxation aimed to reduce __________ in the economy.",
+    "options": {
+      "A": "foreign exchange reserves",
+      "B": "black market activities",
+      "C": "government spending",
+      "D": "public debt"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "Which of the following was a major effect of currency taxation on small businesses in Nigeria?",
+    "options": {
+      "A": "Increased profits",
+      "B": "Higher operational costs",
+      "C": "Expanded market reach",
+      "D": "Reduced competition"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "How does currency taxation impact inflation levels in Nigeria?",
+    "options": {
+      "A": "Decreases inflation",
+      "B": "Increases inflation",
+      "C": "Has no effect",
+      "D": "Creates deflation"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "What was one of the initial public reactions to the introduction of currency taxation?",
+    "options": {
+      "A": "Widespread support",
+      "B": "Confusion and protests",
+      "C": "Immediate compliance",
+      "D": "Economic boom"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "Which sector was most affected by the introduction of currency taxation in Nigeria?",
+    "options": {
+      "A": "Agriculture",
+      "B": "Banking",
+      "C": "Telecommunications",
+      "D": "Manufacturing"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "What challenge does currency taxation pose for the informal economy in Nigeria?",
+    "options": {
+      "A": "Encourages formality",
+      "B": "Increases dependency on cash",
+      "C": "Reduces income inequality",
+      "D": "Limits access to loans"
+    },
+    "answer": "A",
+    "difficulty": "expert",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "Which of these is a possible consequence of high currency taxation on consumer spending?",
+    "options": {
+      "A": "Increase in savings",
+      "B": "Decrease in disposable income",
+      "C": "Boost in luxury spending",
+      "D": "Enhanced investment in stocks"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "What is one of the main benefits of currency taxation for the Nigerian government?",
+    "options": {
+      "A": "Increased foreign aid",
+      "B": "Greater tax compliance",
+      "C": "Enhanced domestic borrowing",
+      "D": "Improved trade balance"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "During which economic crisis did Nigeria heavily rely on currency taxation to stabilize its economy?",
+    "options": {
+      "A": "The Great Depression",
+      "B": "The Oil Crisis of 1973",
+      "C": "The 2008 global financial crisis",
+      "D": "The COVID-19 pandemic"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "What is the impact of currency taxation on remittances sent to Nigeria?",
+    "options": {
+      "A": "Increases remittance flow",
+      "B": "Reduces remittance flow",
+      "C": "Has no impact",
+      "D": "Encourages more formal remitting channels"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "Which of the following is an argument against currency taxation in Nigeria?",
+    "options": {
+      "A": "Promotes economic growth",
+      "B": "Disadvantages low-income earners",
+      "C": "Improves tax collection efficiency",
+      "D": "Enhances public services"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "Currency taxation can lead to which of the following effects on foreign investment?",
+    "options": {
+      "A": "Increases it",
+      "B": "Decreases it",
+      "C": "No effect",
+      "D": "Makes it more competitive"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "What is a common method used to enforce currency taxation in Nigeria?",
+    "options": {
+      "A": "Surveillance of bank transactions",
+      "B": "Random audits",
+      "C": "Public awareness campaigns",
+      "D": "Tax reporting requirements"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "What does currency taxation aim to achieve in terms of currency value?",
+    "options": {
+      "A": "Increase its value",
+      "B": "Stabilize its value",
+      "C": "Decrease its value",
+      "D": "Make it volatile"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "Which monetary policy closely aligns with currency taxation in Nigeria?",
+    "options": {
+      "A": "Interest rate adjustments",
+      "B": "Cash reserve ratios",
+      "C": "Open market operations",
+      "D": "Foreign exchange controls"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "What economic theory supports the use of currency taxation?",
+    "options": {
+      "A": "Keynesian economics",
+      "B": "Supply-side economics",
+      "C": "Monetarism",
+      "D": "Classical economics"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "The introduction of currency taxation is often justified by the need to combat __________ in Nigeria.",
+    "options": {
+      "A": "unemployment",
+      "B": "illegal trade",
+      "C": "public debt",
+      "D": "real estate inflation"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "Currency taxation can lead to increased __________ on cash transactions.",
+    "options": {
+      "A": "incentives",
+      "B": "restrictions",
+      "C": "transparency",
+      "D": "competition"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "What fiscal measure can be seen as an alternative to currency taxation for generating revenue?",
+    "options": {
+      "A": "Import tariffs",
+      "B": "Value Added Tax",
+      "C": "Income tax",
+      "D": "Excise duties"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "Which government initiative could be considered a direct response to concerns about currency taxation?",
+    "options": {
+      "A": "National Housing Scheme",
+      "B": "Subsidy Reinvestment Program",
+      "C": "Social Investment Program",
+      "D": "Economic Recovery Plan"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "What is the implication of currency taxation on digital transactions in Nigeria?",
+    "options": {
+      "A": "Promotes cash usage",
+      "B": "Reduces digital engagement",
+      "C": "Encourages e-commerce growth",
+      "D": "Increases transaction costs"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "What is one potential long-term effect of currency taxation on the Nigerian economy?",
+    "options": {
+      "A": "Reduction in government revenue",
+      "B": "Increase in corruption rates",
+      "C": "Enhanced economic stability",
+      "D": "Worsening income inequality"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "Which of the following was a major criticism of the currency taxation policy when it was first introduced?",
+    "options": {
+      "A": "It was too lenient",
+      "B": "It disproportionately affected the rich",
+      "C": "It lacked transparency",
+      "D": "It was too complicated"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "What effect does currency taxation typically have on inflation rates?",
+    "options": {
+      "A": "Drives them down",
+      "B": "Drives them up",
+      "C": "Stabilizes them",
+      "D": "Has no effect"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "The introduction of currency taxation was part of a broader strategy to manage __________ in Nigeria.",
+    "options": {
+      "A": "national security",
+      "B": "fiscal policy",
+      "C": "foreign relations",
+      "D": "public health"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "What is a possible impact of currency taxation on the use of cash in Nigeria?",
+    "options": {
+      "A": "Increases its popularity",
+      "B": "Decreases its use",
+      "C": "Has no effect",
+      "D": "Encourages savings"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "Currency taxation can be viewed as a method of regulating what aspect of the economy?",
+    "options": {
+      "A": "Interest rates",
+      "B": "Money supply",
+      "C": "Savings rates",
+      "D": "Debt levels"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "Fill in the blank: Currency taxation primarily affects __________ transactions in Nigeria.",
+    "options": {
+      "A": "Digital",
+      "B": "Cash",
+      "C": "International",
+      "D": "Barter"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  },
+  {
+    "question": "Which demographic might advocate against currency taxation due to its impact on their livelihood?",
+    "options": {
+      "A": "Entrepreneurs",
+      "B": "Civil servants",
+      "C": "Corporate executives",
+      "D": "Bankers"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "economic_policies_and_impact > introduction_of_currency_taxation"
+  }
+]

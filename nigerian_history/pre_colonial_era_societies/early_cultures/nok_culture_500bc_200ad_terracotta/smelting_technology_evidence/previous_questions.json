@@ -1,0 +1,86 @@
+[
+  {
+    "question": "What does the discovery of smelting evidence at Nok sites indicate about their society?",
+    "options": {
+      "A": "They were nomadic",
+      "B": "They had a complex society",
+      "C": "They lacked trade",
+      "D": "They only hunted"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nok_culture_500bc_200ad_terracotta > smelting_technology_evidence"
+  },
+  {
+    "question": "The smelting technology evidence from Nok culture suggests they likely had knowledge of what key element?",
+    "options": {
+      "A": "Copper",
+      "B": "Tin",
+      "C": "Iron",
+      "D": "Lead"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nok_culture_500bc_200ad_terracotta > smelting_technology_evidence"
+  },
+  {
+    "question": "What can be inferred about the economy of the Nok culture based on their smelting technology?",
+    "options": {
+      "A": "Subsistence farming only",
+      "B": "Widespread trade networks",
+      "C": "Isolation from other cultures",
+      "D": "Emphasis on animal husbandry"
+    },
+    "answer": "B",
+    "difficulty": "expert",
+    "topic": "nok_culture_500bc_200ad_terracotta > smelting_technology_evidence"
+  },
+  {
+    "question": "What type of kiln is associated with the iron smelting process in Nok culture?",
+    "options": {
+      "A": "Chamber kiln",
+      "B": "Beehive kiln",
+      "C": "Pit kiln",
+      "D": "Shaft kiln"
+    },
+    "answer": "D",
+    "difficulty": "expert",
+    "topic": "nok_culture_500bc_200ad_terracotta > smelting_technology_evidence"
+  },
+  {
+    "question": "Nok figurines are often characterized by exaggerated features. What might this represent?",
+    "options": {
+      "A": "Artistic style",
+      "B": "Historical accuracy",
+      "C": "Religious beliefs",
+      "D": "Community identity"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "nok_culture_500bc_200ad_terracotta > smelting_technology_evidence"
+  },
+  {
+    "question": "Based on archaeological findings, it is believed that Nok culture thrived near what type of geographical feature?",
+    "options": {
+      "A": "Mountains",
+      "B": "Lakes",
+      "C": "Rivers",
+      "D": "Deserts"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "nok_culture_500bc_200ad_terracotta > smelting_technology_evidence"
+  },
+  {
+    "question": "What does the extensive burial artifacts found at Nok sites indicate?",
+    "options": {
+      "A": "Focus on warfare",
+      "B": "Religious beliefs",
+      "C": "Daily life",
+      "D": "Trade relations"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nok_culture_500bc_200ad_terracotta > smelting_technology_evidence"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Which council member had the authority to declare war on behalf of the Alaafin?",
+    "options": {
+      "A": "Basorun",
+      "B": "Agbaakin",
+      "C": "Otunba",
+      "D": "Olorogun"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "oyo_empire_yoruba > political_system_alaafin_oyo_mesi"
+  },
+  {
+    "question": "The practice of __________ was a key element in the succession of the Alaafin.  ",
+    "options": {
+      "A": "Sacrifice",
+      "B": "Divination",
+      "C": "Election",
+      "D": "Hereditary rule"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "oyo_empire_yoruba > political_system_alaafin_oyo_mesi"
+  }
+]

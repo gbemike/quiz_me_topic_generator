@@ -1,0 +1,158 @@
+[
+  {
+    "question": "Which educational institution in Lagos is known for producing many Nigerian leaders?",
+    "options": {
+      "A": "University of Lagos",
+      "B": "Lagos State University",
+      "C": "Covenant University",
+      "D": "Yaba College of Technology"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "social_changes_education_urbanization > growth_of_cities_lagos_kano_ibadan_port_harcourt"
+  },
+  {
+    "question": "Which city has the highest literacy rate in Nigeria?",
+    "options": {
+      "A": "Kano",
+      "B": "Ibadan",
+      "C": "Lagos",
+      "D": "Port Harcourt"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "social_changes_education_urbanization > growth_of_cities_lagos_kano_ibadan_port_harcourt"
+  },
+  {
+    "question": "What major event in 1967 impacted the urbanization of Port Harcourt?",
+    "options": {
+      "A": "Civil War",
+      "B": "Oil Boom",
+      "C": "Independence",
+      "D": "Military Coup"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "social_changes_education_urbanization > growth_of_cities_lagos_kano_ibadan_port_harcourt"
+  },
+  {
+    "question": "What is the name of the traditional form of music originating from Ibadan?",
+    "options": {
+      "A": "Highlife",
+      "B": "Fuji",
+      "C": "JuJu",
+      "D": "Afrobeats"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "social_changes_education_urbanization > growth_of_cities_lagos_kano_ibadan_port_harcourt"
+  },
+  {
+    "question": "Which city is the origin of the famous 'Kano Solar Village' project?",
+    "options": {
+      "A": "Lagos",
+      "B": "Kano",
+      "C": "Ibadan",
+      "D": "Port Harcourt"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "social_changes_education_urbanization > growth_of_cities_lagos_kano_ibadan_port_harcourt"
+  },
+  {
+    "question": "What was the population of Lagos approximately in 2020?",
+    "options": {
+      "A": "8 million",
+      "B": "12 million",
+      "C": "15 million",
+      "D": "20 million"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "social_changes_education_urbanization > growth_of_cities_lagos_kano_ibadan_port_harcourt"
+  },
+  {
+    "question": "Which city is specifically noted for the presence of oil refineries?",
+    "options": {
+      "A": "Lagos",
+      "B": "Kano",
+      "C": "Ibadan",
+      "D": "Port Harcourt"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "social_changes_education_urbanization > growth_of_cities_lagos_kano_ibadan_port_harcourt"
+  },
+  {
+    "question": "What is the major source of revenue for Lagos state?",
+    "options": {
+      "A": "Tourism",
+      "B": "Agriculture",
+      "C": "Taxation",
+      "D": "Oil"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "social_changes_education_urbanization > growth_of_cities_lagos_kano_ibadan_port_harcourt"
+  },
+  {
+    "question": "Which city is associated with the Center for African Wetlands?",
+    "options": {
+      "A": "Kano",
+      "B": "Ibadan",
+      "C": "Port Harcourt",
+      "D": "Lagos"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "social_changes_education_urbanization > growth_of_cities_lagos_kano_ibadan_port_harcourt"
+  },
+  {
+    "question": "Which city is projected to be one of the most populous cities in the world by 2050?",
+    "options": {
+      "A": "Kano",
+      "B": "Ibadan",
+      "C": "Port Harcourt",
+      "D": "Lagos"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "social_changes_education_urbanization > growth_of_cities_lagos_kano_ibadan_port_harcourt"
+  },
+  {
+    "question": "In which city can you find the famous Sharia Courts, reflecting its Islamic influence?",
+    "options": {
+      "A": "Ibadan",
+      "B": "Lagos",
+      "C": "Port Harcourt",
+      "D": "Kano"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "social_changes_education_urbanization > growth_of_cities_lagos_kano_ibadan_port_harcourt"
+  },
+  {
+    "question": "What is the significance of Cocoa House located in Ibadan?",
+    "options": {
+      "A": "First skyscraper in Nigeria",
+      "B": "Historical palace",
+      "C": "Main government office",
+      "D": "Cultural museum"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "social_changes_education_urbanization > growth_of_cities_lagos_kano_ibadan_port_harcourt"
+  },
+  {
+    "question": "Which city is known for its bustling traditional markets like Wuse and Garki?",
+    "options": {
+      "A": "Ibadan",
+      "B": "Lagos",
+      "C": "Kano",
+      "D": "Port Harcourt"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "social_changes_education_urbanization > growth_of_cities_lagos_kano_ibadan_port_harcourt"
+  }
+]

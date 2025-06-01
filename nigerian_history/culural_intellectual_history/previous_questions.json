@@ -1,0 +1,74 @@
+[
+  {
+    "question": "The 'Gani Adams' is a prominent figure in which Nigerian cultural association?",
+    "options": {
+      "A": "Yoruba Congress",
+      "B": "Oodua Peoples Congress",
+      "C": "Niger Delta Militants",
+      "D": "Arewa Consultative Forum"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "nigerian_history > culural_intellectual_history"
+  },
+  {
+    "question": "What is the historical significance of the 'Black Heritage Festival'?",
+    "options": {
+      "A": "Promotes African culture",
+      "B": "Cultural exchange",
+      "C": "Tourism attraction",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "medium",
+    "topic": "nigerian_history > culural_intellectual_history"
+  },
+  {
+    "question": "In which Nigerian state is the Edumare festival celebrated, honoring the creator god?",
+    "options": {
+      "A": "Lagos",
+      "B": "Ekiti",
+      "C": "Osun",
+      "D": "Kwara"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "nigerian_history > culural_intellectual_history"
+  },
+  {
+    "question": "The 'Cultural Day' is celebrated annually in Nigeria to promote what?",
+    "options": {
+      "A": "Tourism",
+      "B": "Unity in diversity",
+      "C": "Agriculture",
+      "D": "Trade relations"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "nigerian_history > culural_intellectual_history"
+  },
+  {
+    "question": "What is the purpose of the 'Ikoyi Club' in Lagos?",
+    "options": {
+      "A": "Sporting activities",
+      "B": "Cultural exchange",
+      "C": "Political meetings",
+      "D": "Business networking"
+    },
+    "answer": "A",
+    "difficulty": "easy",
+    "topic": "nigerian_history > culural_intellectual_history"
+  },
+  {
+    "question": "What does the 'Sankofa' symbol represent in the context of African culture?",
+    "options": {
+      "A": "Return and get it",
+      "B": "Unity and strength",
+      "C": "Wisdom and knowledge",
+      "D": "Peace and harmony"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "nigerian_history > culural_intellectual_history"
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "question": "Which party did Muhammadu Buhari represent when he won the 2015 presidential election?",
+    "options": {
+      "A": "People's Democratic Party",
+      "B": "All Progressives Congress",
+      "C": "Social Democratic Party",
+      "D": "Labour Party"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "What significant anti-corruption body was established during Buhari's administration?",
+    "options": {
+      "A": "EFCC",
+      "B": "ICPC",
+      "C": "NFIU",
+      "D": "BPP"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "In what year did Buhari's government implement the National Housing Program?",
+    "options": {
+      "A": "2016",
+      "B": "2017",
+      "C": "2018",
+      "D": "2019"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "What was one of the key focuses of Buhari's 'Next Level' campaign in 2019?",
+    "options": {
+      "A": "Infrastructure Development",
+      "B": "Online Education",
+      "C": "Healthcare System",
+      "D": "Foreign Relations"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "During Buhari's presidency, Nigeria faced significant challenges with this militant group. What is the name of the group?",
+    "options": {
+      "A": "MEND",
+      "B": "Boko Haram",
+      "C": "IPOB",
+      "D": "NDA"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "How did Buhari\u2019s administration address the issue of power supply?",
+    "options": {
+      "A": "Increasing tariffs",
+      "B": "Privatizing power sectors",
+      "C": "Importing electricity",
+      "D": "Launching the Energizing Economies Initiative"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "What aspect of governance did Buhari emphasize during his administration?",
+    "options": {
+      "A": "Decentralization",
+      "B": "Accountability",
+      "C": "Transparency",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "In response to the recession in 2016, the Buhari administration implemented which policy to stimulate the economy?",
+    "options": {
+      "A": "Austerity Measures",
+      "B": "Economic Recovery and Growth Plan",
+      "C": "Free Trade Agreement",
+      "D": "Loan Acquisition"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "What initiative was introduced to promote agricultural productivity under Buhari's government?",
+    "options": {
+      "A": "Green Revolution",
+      "B": "Agricultural Transformation Agenda",
+      "C": "Feed Nigeria Initiative",
+      "D": "Farmers First"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "Which international organization did Buhari advocate for Nigeria\u2019s inclusion to enhance combat against corruption?",
+    "options": {
+      "A": "World Bank",
+      "B": "African Union",
+      "C": "G7",
+      "D": "United Nations"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "In 2015, what was one of the first actions Buhari took regarding the military?",
+    "options": {
+      "A": "Increase salaries",
+      "B": "Reorganize leadership",
+      "C": "Withdraw from UN missions",
+      "D": "Build new barracks"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "What was the goal of the Buhari administration's social investment program launched in 2016?",
+    "options": {
+      "A": "Reduce poverty",
+      "B": "Increase foreign investments",
+      "C": "Improve education",
+      "D": "Boost technological innovation"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "Which Nigerian musician became a prominent critic of Buhari's policies during his administration?",
+    "options": {
+      "A": "2Baba",
+      "B": "Wizkid",
+      "C": "Fela Kuti",
+      "D": "D'banj"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "In 2018, Buhari signed which major legislation to enhance anti-corruption efforts?",
+    "options": {
+      "A": "Freedom of Information Act",
+      "B": "Whistleblower Protection Bill",
+      "C": "Cybercrime Act",
+      "D": "Public Procurement Bill"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "Which Nigerian city hosted the African Union Summit during Buhari's presidency in 2016?",
+    "options": {
+      "A": "Abuja",
+      "B": "Lagos",
+      "C": "Port Harcourt",
+      "D": "Kano"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "In 2016, Buhari's administration implemented a new exchange rate policy. What was it called?",
+    "options": {
+      "A": "Floating Rate System",
+      "B": "Managed Float",
+      "C": "Fixed Rate System",
+      "D": "Currency Control Policy"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "Which indigenous group in Nigeria was notably involved in protests during Buhari's administration over marginalization?",
+    "options": {
+      "A": "Hausa",
+      "B": "Yoruba",
+      "C": "Igbo",
+      "D": "Fulani"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "What was the primary medium of Buhari's communication with the public during his campaign?",
+    "options": {
+      "A": "Television",
+      "B": "Radio",
+      "C": "Social Media",
+      "D": "Newspapers"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "During Buhari's administration, Nigeria's GDP growth was significantly affected by what global market trend?",
+    "options": {
+      "A": "Decrease in oil prices",
+      "B": "Increase in gold prices",
+      "C": "Rise in technology stocks",
+      "D": "Cryptocurrency boom"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "What major health initiative was launched under Buhari to tackle diseases like malaria?",
+    "options": {
+      "A": "National Health Insurance Scheme",
+      "B": "Presidential Health Initiative",
+      "C": "Malaria Control Program",
+      "D": "Primary Healthcare Revitalization"
+    },
+    "answer": "D",
+    "difficulty": "hard",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "In 2015, what was the status of Nigeria's power generation capacity upon Buhari's assumption of office?",
+    "options": {
+      "A": "Stable",
+      "B": "Increasing",
+      "C": "Declining",
+      "D": "Satisfactory"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "How did Buhari's administration approach the issue of Boko Haram violence?",
+    "options": {
+      "A": "Military action only",
+      "B": "Negotiation only",
+      "C": "Combination of military and negotiation",
+      "D": "Ignore the situation"
+    },
+    "answer": "C",
+    "difficulty": "hard",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "Buhari's government emphasized the need for national security through which legislative act created in 2016?",
+    "options": {
+      "A": "Terrorism Prevention Act",
+      "B": "National Security Strategy",
+      "C": "Cybersecurity Act",
+      "D": "Anti-Discrimination Act"
+    },
+    "answer": "B",
+    "difficulty": "hard",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "In 2019, Buhari was re-elected. How many total terms has he served as president by the end of that year?",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "In Buhari's view, which of the following was a major cause of Nigeria's security challenges?",
+    "options": {
+      "A": "Poor governance",
+      "B": "Ethnic diversity",
+      "C": "Economic disparity",
+      "D": "Foreign influence"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "In which year did Buhari\u2019s administration establish the Presidential Enabling Business Environment Council (PEBEC)?",
+    "options": {
+      "A": "2016",
+      "B": "2017",
+      "C": "2018",
+      "D": "2019"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "The Buhari administration's anti-corruption campaign prominently featured which social media platform?",
+    "options": {
+      "A": "Facebook",
+      "B": "Twitter",
+      "C": "Instagram",
+      "D": "LinkedIn"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "Which Nigerian state was heavily impacted by the herdsmen-farmers conflict during Buhari's presidency?",
+    "options": {
+      "A": "Kano",
+      "B": "Benue",
+      "C": "Lagos",
+      "D": "Ogun"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "Which Nigerian minister was known for his role in revamping the oil and gas sector under Buhari?",
+    "options": {
+      "A": "Diezani Alison-Madueke",
+      "B": "Timipre Sylva",
+      "C": "Ibe Kachikwu",
+      "D": "Emmanuel Ibe Kachikwu"
+    },
+    "answer": "C",
+    "difficulty": "medium",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "In 2016, which country did Buhari visit to strengthen bilateral relations and trade?",
+    "options": {
+      "A": "United States",
+      "B": "China",
+      "C": "Germany",
+      "D": "South Africa"
+    },
+    "answer": "A",
+    "difficulty": "medium",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "During Buhari's presidency, which state was notably affected by the #EndSARS protests in 2020?",
+    "options": {
+      "A": "Kano",
+      "B": "Lagos",
+      "C": "Oyo",
+      "D": "Rivers"
+    },
+    "answer": "B",
+    "difficulty": "medium",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "What was the significant result of the 2019 general elections for Buhari?",
+    "options": {
+      "A": "Failed re-election bid",
+      "B": "Re-election for a second term",
+      "C": "Increased opposition seats",
+      "D": "New political party formation"
+    },
+    "answer": "B",
+    "difficulty": "easy",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "Which prominent Nigerian leader did Buhari collaborate with to address terrorism in the region?",
+    "options": {
+      "A": "Yemi Osinbajo",
+      "B": "Goodluck Jonathan",
+      "C": "Paul Kagame",
+      "D": "Mohammed VI"
+    },
+    "answer": "C",
+    "difficulty": "expert",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  },
+  {
+    "question": "What landmark energy reform was proposed during Buhari's administration to attract investments?",
+    "options": {
+      "A": "Petroleum Industry Bill",
+      "B": "Energy Transition Plan",
+      "C": "National Power Sector Reform",
+      "D": "Renewable Energy Policy"
+    },
+    "answer": "A",
+    "difficulty": "hard",
+    "topic": "democratic_era > Muhammadu Buhari\u2019s return as a civilian president (2015)"
+  }
+]
